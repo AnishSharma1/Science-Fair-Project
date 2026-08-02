@@ -1,0 +1,7 @@
+metric,value,interpretation
+EBV_structure,1H15,Experimental DRB5*01:01--BALF5 pMHC
+MBP_structure,1BX2,Experimental DRB1*15:01--MBP pMHC
+EBV_modeled_peptide,GGVYHFVKKHVHES,Resolved residues; N-terminal Thr is not modeled
+MBP_modeled_peptide,ENPVVHFFKNIVTP,Resolved residues
+HLA_groove_CA_RMSD_A,3.706,After fitting alpha1/beta1 peptide-binding platforms
+seven_position_core_CA_RMSD_A,0.838,"After HLA-groove fit; geometric similarity, not TCR binding evidence"

@@ -1,0 +1,42 @@
+sample_id,sample_title,group,loocv_ppms_probability
+GSM5732852,"sample 1, healthy control 1",healthy_control,0.484377
+GSM5732853,"sample 2, healthy control 2",healthy_control,0.607124
+GSM5732854,"sample 3, healthy control 3",healthy_control,0.18506
+GSM5732855,"sample 4, healthy control 4",healthy_control,0.50579
+GSM5732856,"sample 5, healthy control 5",healthy_control,0.163488
+GSM5732857,"sample 6, healthy control 6",healthy_control,0.49498
+GSM5732858,"sample 7, healthy control 7",healthy_control,0.236363
+GSM5732859,"sample 8, healthy control 8",healthy_control,0.046735
+GSM5732860,"sample 9, healthy control 9",healthy_control,0.243854
+GSM5732861,"sample 10, healthy control 10",healthy_control,0.461641
+GSM5732862,"sample 11, healthy control 11",healthy_control,0.204766
+GSM5732863,"sample 12, healthy control 12",healthy_control,0.745107
+GSM5732864,"sample 13, healthy control 13",healthy_control,0.514048
+GSM5732865,"sample 14, healthy control 14",healthy_control,0.627194
+GSM5732866,"sample 15, healthy control 15",healthy_control,0.483449
+GSM5732867,"sample 16, healthy control 16",healthy_control,0.73111
+GSM5732868,"sample 17, healthy control 17",healthy_control,0.653194
+GSM5732869,"sample 18, healthy control 18",healthy_control,0.463895
+GSM5732870,"sample 19, healthy control 19",healthy_control,0.562638
+GSM5732871,"sample 20, healthy control 20",healthy_control,0.440572
+GSM5732872,"sample 21, healthy control 21",healthy_control,0.213977
+GSM5732873,"sample 22, healthy control 22",healthy_control,0.496282
+GSM5732874,"sample 23, healthy control 23",healthy_control,0.478503
+GSM5732875,"sample 24, healthy control 24",healthy_control,0.779624
+GSM5732876,"sample 25, healthy control 25",healthy_control,0.172277
+GSM5732877,"sample 26, healthy control 26",healthy_control,0.315992
+GSM5732878,"sample 27, healthy control 27",healthy_control,0.424219
+GSM5732879,"sample 28, healthy control 28",healthy_control,0.098922
+GSM5732880,"sample 29, PPMS 1",PPMS,0.79351
+GSM5732881,"sample 30, PPMS 2",PPMS,0.11769
+GSM5732882,"sample 31, PPMS 3",PPMS,0.544088
+GSM5732883,"sample 32, PPMS 4",PPMS,0.092575
+GSM5732884,"sample 33, PPMS 5",PPMS,0.816234
+GSM5732885,"sample 34, PPMS 6",PPMS,0.744451
+GSM5732886,"sample 35, PPMS 7",PPMS,0.748203
+GSM5732887,"sample 36, PPMS 8",PPMS,0.680962
+GSM5732888,"sample 37, PPMS 9",PPMS,0.01413
+GSM5732889,"sample 38, PPMS 10",PPMS,0.597389
+GSM5732890,"sample 39, PPMS 11",PPMS,0.562417
+GSM5732891,"sample 40, PPMS 12",PPMS,0.864405
+GSM5732892,"sample 41, PPMS 13",PPMS,0.440677

@@ -1,0 +1,5 @@
+ebv_candidate_id,human_candidate_id,both_rank1_pdbs_present_and_sequence_validated,next_decision,status,hla_groove_ca_rmsd_after_fit,locally_aligned_peptide_residues,aligned_positions_ebv_to_human,local_peptide_ca_rmsd_after_hla_fit
+EBV_TCELL_63843,HUMAN_MYELIN_114806,True,inspect aligned peptide poses and TCR-facing residues,PASS,0.174,6,4V:4V;5Y:5V;6H:6H;7F:7F;8V:8F;9K:9K,0.381
+EBV_TCELL_2268933,HUMAN_MYELIN_5516,True,inspect aligned peptide poses and TCR-facing residues,PASS,0.312,5,6I:6I;7Y:7Y;8N:9N;9G:10T;10W:11W,9.568
+EBV_TCELL_950,HUMAN_MYELIN_112214,True,inspect aligned peptide poses and TCR-facing residues,PASS,0.212,5,1A:8A;2E:9E;3G:10G;4L:11Q;5R:12R,18.895
+EBV_TCELL_2268934,HUMAN_MYELIN_112226,True,inspect aligned peptide poses and TCR-facing residues,PASS,0.231,5,5V:14V;6H:15H;7Y:17Y;8A:18R;9N:19N,24.291

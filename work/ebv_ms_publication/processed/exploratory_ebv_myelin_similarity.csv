@@ -1,0 +1,781 @@
+ebv_peptide,ebv_source_antigen,ebv_iedb_assay_id,human_peptide,human_source_antigen,human_iedb_epitope_id,local_score,local_matches,local_aligned_length,local_identity,alignment_fraction_of_shorter,exact_substring,interpretation
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,KVCGSNLLSICKTAEFQMTFHLFIAAFVGAAA,Myelin proteolipid protein (UniProt:P60201),117032,7,5,7,0.7143,0.35,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,LSRFSWGAEGQRPGFGYGG,Myelin basic protein (UniProt:P02686),112214,7,4,5,0.8,0.3333,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,GKGRGLSLSRFSWGAEGQRP,Myelin basic protein (UniProt:P02686),114366,7,4,5,0.8,0.3333,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,ENPVVHFFKNIVTPR,Myelin basic protein (UniProt:P02686),13572,6,4,6,0.6667,0.4,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,ENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),13573,6,4,6,0.6667,0.4,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,DENPVVHFFKNIVTPRTPP,Myelin basic protein (UniProt:P02686),111192,6,4,6,0.6667,0.4,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,VVHFFKNIVTPRTPPPSQGK,Myelin basic protein (UniProt:P02686),112393,6,4,6,0.6667,0.4,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,ENPVVHFFKNIVTP,Myelin basic protein (UniProt:P02686),114806,6,4,6,0.6667,0.4286,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,NPVVHFFKNIVTPRTPPPSQ,Myelin basic protein (UniProt:P02686),45514,6,4,6,0.6667,0.4,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,VVHFFKNIVTPRT,Myelin basic protein (UniProt:P02686),80095,6,4,6,0.6667,0.4615,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,PQDENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),114519,6,4,6,0.6667,0.4,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,DENPVVHFFKN,Myelin basic protein (UniProt:P02686),114765,6,4,6,0.6667,0.5455,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,QDENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),114925,6,4,6,0.6667,0.4,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,TQDENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),116170,6,4,6,0.6667,0.4,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,FYYTTGAVRQIFGDYKTTICG,Myelin proteolipid protein (UniProt:P60201),18488,6,4,6,0.6667,0.3,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,LYGALLLAEGFYTTGAVRQI,Myelin proteolipid protein (UniProt:P60201),40762,6,4,6,0.6667,0.3,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,GTASFFFLYGALLLAYGFYTTGAVRQIFGDYK,Myelin proteolipid protein (UniProt:P60201),116994,6,4,6,0.6667,0.3,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,LGHPDKFVGITYALTVVWLLVFACSAVPVYIY,Myelin proteolipid protein (UniProt:P60201),117035,6,4,6,0.6667,0.6,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,AVPVYIYFNTWTTCQSIAFP,Myelin proteolipid protein (UniProt:P60201),5516,5,4,6,0.6667,0.4286,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,SAVPVYIYFNTWTTCQSIAAPCKTSASIGTLC,Myelin proteolipid protein (UniProt:P60201),117076,5,4,6,0.6667,0.4286,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,YFSKNYQDYEYLINVIHAFQYVIYGTASFFFL,Myelin proteolipid protein (UniProt:P60201),117117,5,4,6,0.6667,0.4286,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,MEVGWYRPPFSRVVHLYRNGK,Myelin-oligodendrocyte glycoprotein (UniProt:Q16653),112226,5,4,6,0.6667,0.3529,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,AQGTLSKIFKLGGRDSRSGSPMARR,Myelin basic protein (UniProt:P02686),112037,5,4,7,0.5714,0.35,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,SKIFKLGGRDSRSGSPMARR,Myelin basic protein (UniProt:P02686),112319,5,4,7,0.5714,0.35,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,GTASFFFLYGALLLAYGFYTTGAVRQIFGDYK,Myelin proteolipid protein (UniProt:P60201),116994,4,4,7,0.5714,0.5,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,MAATYNFAVLKLMGRFTKF,Myelin proteolipid protein (UniProt:P60201),41007,4,4,7,0.5714,0.4667,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,MIAATYNFAVLKLMGRGTKF,Myelin proteolipid protein (UniProt:P60201),112603,4,4,7,0.5714,0.4667,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,HHPARTAHYGSLPQKSHGR,Myelin basic protein (UniProt:P02686),116995,4,4,8,0.5,0.4211,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,KVCGSNLLSICKTAEFQMTFHLFIAAFVGAAA,Myelin proteolipid protein (UniProt:P60201),117032,4,3,5,0.6,0.3571,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,LSRFSWGAEGQRPGFGYGG,Myelin basic protein (UniProt:P02686),112214,4,3,5,0.6,0.3571,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,QRPGFGYGGRASDYKSAHK,Myelin basic protein (UniProt:P02686),115641,4,3,5,0.6,0.3571,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,KVCGSNLLSICKTAEFQMTFHLFIAAFVGAAA,Myelin proteolipid protein (UniProt:P60201),117032,4,3,5,0.6,0.25,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,VDAQGTLSKIFKLGGRDSRS,Myelin basic protein (UniProt:P02686),67907,4,3,5,0.6,0.25,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,AQGTLSKIFKLGGRDSRSGSPMARR,Myelin basic protein (UniProt:P02686),112037,4,3,5,0.6,0.25,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,FKGVDAQGTLSKIFKLGGR,Myelin basic protein (UniProt:P02686),116976,4,3,5,0.6,0.2632,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,ATASTMDHARHGFLPRHRDTGIL,Myelin basic protein (UniProt:P02686),116079,4,3,5,0.6,0.25,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,KVCGSNLLSICKTAEFQMTFHLFIAAFVGAAA,Myelin proteolipid protein (UniProt:P60201),117032,4,3,5,0.6,0.25,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,YFSKNYQDYEYLINVIHAFQYVIYGTASFFFL,Myelin proteolipid protein (UniProt:P60201),117117,4,3,5,0.6,0.5,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,MEVGWYRPPFSRVVHLYRNGK,Myelin-oligodendrocyte glycoprotein (UniProt:Q16653),112226,6,3,3,1.0,0.2143,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,FYYTTGAVRQIFGDYKTTICG,Myelin proteolipid protein (UniProt:P60201),18488,6,3,3,1.0,0.2143,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,SASIGTLCADARMYGVLPWNAFFGKVCGSNLL,Myelin proteolipid protein (UniProt:P60201),117075,6,3,3,1.0,0.2143,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,SAVPVYIYFNTWTTCQSIAAPCKTSASIGTLC,Myelin proteolipid protein (UniProt:P60201),117076,6,3,3,1.0,0.2143,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,KGLSATVTGGQKGRGYRGQH,Myelin proteolipid protein (UniProt:P60201),31008,6,3,3,1.0,0.2,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,RQIFGDYKTTCGKGLSATVTGGQKGRGSRGQ,Myelin proteolipid protein (UniProt:P60201),117073,6,3,3,1.0,0.2,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,MEVGWYRPPFSRVVHLYRNGK,Myelin-oligodendrocyte glycoprotein (UniProt:Q16653),112226,6,3,3,1.0,0.15,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,AAFVGAAATLVSLLTFMIAATYNFAVLKLMGR,Myelin proteolipid protein (UniProt:P60201),116911,6,3,3,1.0,0.15,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,LGHPDKFVGITYALTVVWLLVFACSAVPVYIY,Myelin proteolipid protein (UniProt:P60201),117035,6,3,3,1.0,0.15,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,LLECCARCLVGAPFASLVATGLCFFGVALFC,Myelin proteolipid protein (UniProt:P60201),117039,6,3,3,1.0,0.3,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,LYGALLLAEGFYTTGAVRQI,Myelin proteolipid protein (UniProt:P60201),40762,6,3,3,1.0,0.2,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,GTASFFFLYGALLLAYGFYTTGAVRQIFGDYK,Myelin proteolipid protein (UniProt:P60201),116994,6,3,3,1.0,0.2,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,VFLCLQYRLRGKLRAE,Myelin-oligodendrocyte glycoprotein (UniProt:Q16653),118650,6,3,3,1.0,0.2,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,WTTCQSIAFPSKTSASIGSL,Myelin proteolipid protein (UniProt:P60201),73159,5,3,4,0.75,0.2857,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,SASIGTLCADARMYGVLPWNAFFGKVCGSNLL,Myelin proteolipid protein (UniProt:P60201),117075,5,3,4,0.75,0.2857,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,SAVPVYIYFNTWTTCQSIAAPCKTSASIGTLC,Myelin proteolipid protein (UniProt:P60201),117076,5,3,4,0.75,0.2857,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,RDTGILDSIGRFFGGDRGAP,Myelin basic protein (UniProt:P02686),114566,5,3,4,0.75,0.2857,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,ATASTMDHARHGFLPRHRDTGIL,Myelin basic protein (UniProt:P02686),116079,5,3,4,0.75,0.2857,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,GSKYLATASTMDHARHGFLPRHRDTGILDSIGRFFGGDRG,Myelin basic protein (UniProt:P02686),116993,5,3,4,0.75,0.2857,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,DTGILDSIGRF,Myelin basic protein (UniProt:P02686),119809,5,3,4,0.75,0.3636,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,ENPVVHFFKNIVTPR,Myelin basic protein (UniProt:P02686),13572,5,3,4,0.75,0.2667,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,ENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),13573,5,3,4,0.75,0.2667,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,DENPVVHFFKNIVTPRTPP,Myelin basic protein (UniProt:P02686),111192,5,3,4,0.75,0.2667,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,VVHFFKNIVTPRTPPPSQGK,Myelin basic protein (UniProt:P02686),112393,5,3,4,0.75,0.2667,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,ENPVVHFFKNIVTP,Myelin basic protein (UniProt:P02686),114806,5,3,4,0.75,0.2857,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,NPVVHFFKNIVTPRTPPPSQ,Myelin basic protein (UniProt:P02686),45514,5,3,4,0.75,0.2667,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,TGTEKLIETYFSKNYQDYEY,Myelin proteolipid protein (UniProt:P60201),63975,5,3,4,0.75,0.2667,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,VVHFFKNIVTPRT,Myelin basic protein (UniProt:P02686),80095,5,3,4,0.75,0.3077,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,TGTEKLIETYFSKNYQDYEYL,Myelin proteolipid protein (UniProt:P60201),112354,5,3,4,0.75,0.2667,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,GSGKDSHHPARTAHYGSLPQ,Myelin basic protein (UniProt:P02686),112782,5,3,4,0.75,0.2667,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,APKRGSGKDSHHAARTAHY,Myelin basic protein (UniProt:P02686),114265,5,3,4,0.75,0.2667,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,PQDENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),114519,5,3,4,0.75,0.2667,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,DENPVVHFFKN,Myelin basic protein (UniProt:P02686),114765,5,3,4,0.75,0.3636,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,QDENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),114925,5,3,4,0.75,0.2667,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,TQDENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),116170,5,3,4,0.75,0.2667,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,IGRFFGGDRGAPKRGSGKDSHHPARTAHY,Myelin basic protein (UniProt:P02686),117009,5,3,4,0.75,0.2667,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,YFSKNYQDYEYLINVIHAFQYVIYGTASFFFL,Myelin proteolipid protein (UniProt:P60201),117117,5,3,4,0.75,0.2667,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,FYYTTGAVRQIFGDYKTTICG,Myelin proteolipid protein (UniProt:P60201),18488,5,3,4,0.75,0.2667,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,LYGALLLAEGFYTTGAVRQI,Myelin proteolipid protein (UniProt:P60201),40762,5,3,4,0.75,0.2667,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,SLPQKSHGRTQDENPVVHF,Myelin basic protein (UniProt:P02686),115648,5,3,4,0.75,0.2667,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,GTASFFFLYGALLLAYGFYTTGAVRQIFGDYK,Myelin proteolipid protein (UniProt:P60201),116994,5,3,4,0.75,0.2667,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,SHGRTQDENPVVHF,Myelin basic protein (UniProt:P02686),120201,5,3,4,0.75,0.2857,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,FYYTTGAVRQIFGDYKTTICG,Myelin proteolipid protein (UniProt:P60201),18488,5,3,4,0.75,0.2,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,LYGALLLAEGFYTTGAVRQI,Myelin proteolipid protein (UniProt:P60201),40762,5,3,4,0.75,0.2,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,WTTCQSIAFPSKTSASIGSL,Myelin proteolipid protein (UniProt:P60201),73159,5,3,4,0.75,0.2,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,AVRQIFGDYKTTICGKGLSATV,Myelin proteolipid protein (UniProt:P60201),112756,5,3,4,0.75,0.2,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,GTASFFFLYGALLLAYGFYTTGAVRQIFGDYK,Myelin proteolipid protein (UniProt:P60201),116994,5,3,4,0.75,0.2,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,SASIGTLCADARMYGVLPWNAFFGKVCGSNLL,Myelin proteolipid protein (UniProt:P60201),117075,5,3,4,0.75,0.2,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,SAVPVYIYFNTWTTCQSIAAPCKTSASIGTLC,Myelin proteolipid protein (UniProt:P60201),117076,5,3,4,0.75,0.2,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,SASIGTLCADARMYGVLPWNAFFGKVCGSNLL,Myelin proteolipid protein (UniProt:P60201),117075,5,3,4,0.75,0.2,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,SAVPVYIYFNTWTTCQSIAAPCKTSASIGTLC,Myelin proteolipid protein (UniProt:P60201),117076,5,3,4,0.75,0.2,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,LYGALLLAEGFYTTGAVRQI,Myelin proteolipid protein (UniProt:P60201),40762,5,3,4,0.75,0.4,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,SASIGTLCADARMYGVLPWNAFFGKVCGSNLL,Myelin proteolipid protein (UniProt:P60201),117075,5,3,4,0.75,0.4,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,ENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),13573,5,3,4,0.75,0.2353,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,DENPVVHFFKNIVTPRTPP,Myelin basic protein (UniProt:P02686),111192,5,3,4,0.75,0.2105,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,VVHFFKNIVTPRTPPPSQGK,Myelin basic protein (UniProt:P02686),112393,5,3,4,0.75,0.2,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,NPVVHFFKNIVTPRTPPPSQ,Myelin basic protein (UniProt:P02686),45514,5,3,4,0.75,0.2,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,VVHFFKNIVTPRT,Myelin basic protein (UniProt:P02686),80095,5,3,4,0.75,0.3077,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,AVRQIFGDYKTTICGKGLSATV,Myelin proteolipid protein (UniProt:P60201),112756,5,3,4,0.75,0.2,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,PQDENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),114519,5,3,4,0.75,0.2,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,QDENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),114925,5,3,4,0.75,0.2105,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,KNIVTPRTPPPSQGKGRGL,Myelin basic protein (UniProt:P02686),115622,5,3,4,0.75,0.2105,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,TQDENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),116170,5,3,4,0.75,0.2,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,IVTPRTPPPSQGKGRG,Myelin basic protein (UniProt:P02686),119972,5,3,4,0.75,0.25,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,IVTPRTPPPSQGKGRGLS,Myelin basic protein (UniProt:P02686),119973,5,3,4,0.75,0.2222,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,GSGKDSHHPARTAHYGSLPQ,Myelin basic protein (UniProt:P02686),112782,5,3,4,0.75,0.4,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,APKRGSGKDSHHAARTAHY,Myelin basic protein (UniProt:P02686),114265,5,3,4,0.75,0.4,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,HAARTAHYGSLPQKSQGHR,Myelin basic protein (UniProt:P02686),114388,5,3,4,0.75,0.4,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,HHPARTAHYGSLPQKSHGR,Myelin basic protein (UniProt:P02686),116995,5,3,4,0.75,0.4,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,IGRFFGGDRGAPKRGSGKDSHHPARTAHY,Myelin basic protein (UniProt:P02686),117009,5,3,4,0.75,0.4,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,KGLSATVTGGQKGRGYRGQH,Myelin proteolipid protein (UniProt:P60201),31008,5,3,4,0.75,0.2667,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,LVGAPFASLVATGLCFFGVA,Myelin proteolipid protein (UniProt:P60201),40353,5,3,4,0.75,0.2667,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,AVRQIFGDYKTTICGKGLSATV,Myelin proteolipid protein (UniProt:P60201),112756,5,3,4,0.75,0.2667,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,QRPGFGYGGRASDYKSAHK,Myelin basic protein (UniProt:P02686),115641,5,3,4,0.75,0.2667,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,LLECCARCLVGAPFASLVATGLCFFGVALFC,Myelin proteolipid protein (UniProt:P60201),117039,5,3,4,0.75,0.2667,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,RQIFGDYKTTCGKGLSATVTGGQKGRGSRGQ,Myelin proteolipid protein (UniProt:P60201),117073,5,3,4,0.75,0.2667,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,ENPVVHFFKNIVTPR,Myelin basic protein (UniProt:P02686),13572,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,ENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),13573,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,DENPVVHFFKNIVTPRTPP,Myelin basic protein (UniProt:P02686),111192,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,VVHFFKNIVTPRTPPPSQGK,Myelin basic protein (UniProt:P02686),112393,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,ENPVVHFFKNIVTP,Myelin basic protein (UniProt:P02686),114806,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,AVPVYIYFNTWTTCQSIAFP,Myelin proteolipid protein (UniProt:P60201),5516,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,FYYTTGAVRQIFGDYKTTICG,Myelin proteolipid protein (UniProt:P60201),18488,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,NPVVHFFKNIVTPRTPPPSQ,Myelin basic protein (UniProt:P02686),45514,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,VVHFFKNIVTPRT,Myelin basic protein (UniProt:P02686),80095,4,2,2,1.0,0.1538,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,AQGTLSKIFKLGGRDSRSGSPMARR,Myelin basic protein (UniProt:P02686),112037,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,SKIFKLGGRDSRSGSPMARR,Myelin basic protein (UniProt:P02686),112319,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,PQDENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),114519,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,RDTGILDSIGRFFGGDRGAP,Myelin basic protein (UniProt:P02686),114566,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,QDENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),114925,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,KNIVTPRTPPPSQGKGRGL,Myelin basic protein (UniProt:P02686),115622,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,PSQGKGRGLSLSRFSWGAE,Myelin basic protein (UniProt:P02686),115636,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,ATASTMDHARHGFLPRHRDTGIL,Myelin basic protein (UniProt:P02686),116079,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,TQDENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),116170,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,GSKYLATASTMDHARHGFLPRHRDTGILDSIGRFFGGDRG,Myelin basic protein (UniProt:P02686),116993,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,LGHPDKFVGITYALTVVWLLVFACSAVPVYIY,Myelin proteolipid protein (UniProt:P60201),117035,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,YFSKNYQDYEYLINVIHAFQYVIYGTASFFFL,Myelin proteolipid protein (UniProt:P60201),117117,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,VFLCLQYRLRGKLRAE,Myelin-oligodendrocyte glycoprotein (UniProt:Q16653),118650,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,DTGILDSIGRF,Myelin basic protein (UniProt:P02686),119809,4,2,2,1.0,0.1818,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,IVTPRTPPPSQGKGRG,Myelin basic protein (UniProt:P02686),119972,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,IVTPRTPPPSQGKGRGLS,Myelin basic protein (UniProt:P02686),119973,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,ENPVVHFFKNIVTPR,Myelin basic protein (UniProt:P02686),13572,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,ENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),13573,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,DENPVVHFFKNIVTPRTPP,Myelin basic protein (UniProt:P02686),111192,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,VVHFFKNIVTPRTPPPSQGK,Myelin basic protein (UniProt:P02686),112393,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,ENPVVHFFKNIVTP,Myelin basic protein (UniProt:P02686),114806,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,KGLSATVTGGQKGRGYRGQH,Myelin proteolipid protein (UniProt:P60201),31008,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,LFCGCGHEALTGTEKLIETY,Myelin proteolipid protein (UniProt:P60201),35803,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,MAATYNFAVLKLMGRFTKF,Myelin proteolipid protein (UniProt:P60201),41007,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,NPVVHFFKNIVTPRTPPPSQ,Myelin basic protein (UniProt:P02686),45514,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,TGTEKLIETYFSKNYQDYEY,Myelin proteolipid protein (UniProt:P60201),63975,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,VDAQGTLSKIFKLGGRDSRS,Myelin basic protein (UniProt:P02686),67907,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,VVHFFKNIVTPRT,Myelin basic protein (UniProt:P02686),80095,4,2,2,1.0,0.1538,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,AQGTLSKIFKLGGRDSRSGSPMARR,Myelin basic protein (UniProt:P02686),112037,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,SKIFKLGGRDSRSGSPMARR,Myelin basic protein (UniProt:P02686),112319,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,TGTEKLIETYFSKNYQDYEYL,Myelin proteolipid protein (UniProt:P60201),112354,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,MIAATYNFAVLKLMGRGTKF,Myelin proteolipid protein (UniProt:P60201),112603,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,GSGKDSHHPARTAHYGSLPQ,Myelin basic protein (UniProt:P02686),112782,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,APKRGSGKDSHHAARTAHY,Myelin basic protein (UniProt:P02686),114265,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,PQDENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),114519,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,QDENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),114925,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,KNIVTPRTPPPSQGKGRGL,Myelin basic protein (UniProt:P02686),115622,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,TQDENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),116170,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,AAFVGAAATLVSLLTFMIAATYNFAVLKLMGR,Myelin proteolipid protein (UniProt:P60201),116911,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,FGVALFCGCEVEALTGTEKLIETYFSKNYQD,Myelin proteolipid protein (UniProt:P60201),116973,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,IGRFFGGDRGAPKRGSGKDSHHPARTAHY,Myelin basic protein (UniProt:P02686),117009,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,LGHPDKFVGITYALTVVWLLVFACSAVPVYIY,Myelin proteolipid protein (UniProt:P60201),117035,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,RQIFGDYKTTCGKGLSATVTGGQKGRGSRGQ,Myelin proteolipid protein (UniProt:P60201),117073,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,SASIGTLCADARMYGVLPWNAFFGKVCGSNLL,Myelin proteolipid protein (UniProt:P60201),117075,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,YFSKNYQDYEYLINVIHAFQYVIYGTASFFFL,Myelin proteolipid protein (UniProt:P60201),117117,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,IVTPRTPPPSQGKGRG,Myelin basic protein (UniProt:P02686),119972,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,IVTPRTPPPSQGKGRGLS,Myelin basic protein (UniProt:P02686),119973,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,AVPVYIYFNTWTTCQSIAFP,Myelin proteolipid protein (UniProt:P60201),5516,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,FYYTTGAVRQIFGDYKTTICG,Myelin proteolipid protein (UniProt:P60201),18488,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,MAATYNFAVLKLMGRFTKF,Myelin proteolipid protein (UniProt:P60201),41007,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,VDAQGTLSKIFKLGGRDSRS,Myelin basic protein (UniProt:P02686),67907,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,WTTCQSIAFPSKTSASIGSL,Myelin proteolipid protein (UniProt:P60201),73159,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,AQGTLSKIFKLGGRDSRSGSPMARR,Myelin basic protein (UniProt:P02686),112037,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,SKIFKLGGRDSRSGSPMARR,Myelin basic protein (UniProt:P02686),112319,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,MIAATYNFAVLKLMGRGTKF,Myelin proteolipid protein (UniProt:P60201),112603,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,AVRQIFGDYKTTICGKGLSATV,Myelin proteolipid protein (UniProt:P60201),112756,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,HKGFKGVDAQGTLS,Myelin basic protein (UniProt:P02686),115061,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,QRPGFGYGGRASDYKSAHK,Myelin basic protein (UniProt:P02686),115641,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,SLPQKSHGRTQDENPVVHF,Myelin basic protein (UniProt:P02686),115648,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,AAFVGAAATLVSLLTFMIAATYNFAVLKLMGR,Myelin proteolipid protein (UniProt:P60201),116911,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,ASDYKSAHKGFKGVDAQGT,Myelin basic protein (UniProt:P02686),116924,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,FKGVDAQGTLSKIFKLGGR,Myelin basic protein (UniProt:P02686),116976,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,GTASFFFLYGALLLAYGFYTTGAVRQIFGDYK,Myelin proteolipid protein (UniProt:P60201),116994,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,HHPARTAHYGSLPQKSHGR,Myelin basic protein (UniProt:P02686),116995,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,KVCGSNLLSICKTAEFQMTFHLFIAAFVGAAA,Myelin proteolipid protein (UniProt:P60201),117032,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,LGHPDKFVGITYALTVVWLLVFACSAVPVYIY,Myelin proteolipid protein (UniProt:P60201),117035,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,RQIFGDYKTTCGKGLSATVTGGQKGRGSRGQ,Myelin proteolipid protein (UniProt:P60201),117073,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,SAVPVYIYFNTWTTCQSIAAPCKTSASIGTLC,Myelin proteolipid protein (UniProt:P60201),117076,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,SHGRTQDENPVVHF,Myelin basic protein (UniProt:P02686),120201,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,AVPVYIYFNTWTTCQSIAFP,Myelin proteolipid protein (UniProt:P60201),5516,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,LFCGCGHEALTGTEKLIETY,Myelin proteolipid protein (UniProt:P60201),35803,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,LYGALLLAEGFYTTGAVRQI,Myelin proteolipid protein (UniProt:P60201),40762,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,TGTEKLIETYFSKNYQDYEY,Myelin proteolipid protein (UniProt:P60201),63975,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,VDAQGTLSKIFKLGGRDSRS,Myelin basic protein (UniProt:P02686),67907,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,WTTCQSIAFPSKTSASIGSL,Myelin proteolipid protein (UniProt:P60201),73159,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,AQGTLSKIFKLGGRDSRSGSPMARR,Myelin basic protein (UniProt:P02686),112037,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,KYLATASTMDHARHGFLPRH,Myelin basic protein (UniProt:P02686),112191,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,TGTEKLIETYFSKNYQDYEYL,Myelin proteolipid protein (UniProt:P60201),112354,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,MIAATYNFAVLKLMGRGTKF,Myelin proteolipid protein (UniProt:P60201),112603,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,GSGKDSHHPARTAHYGSLPQ,Myelin basic protein (UniProt:P02686),112782,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,HAARTAHYGSLPQKSQGHR,Myelin basic protein (UniProt:P02686),114388,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,RDTGILDSIGRFFGGDRGAP,Myelin basic protein (UniProt:P02686),114566,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,HKGFKGVDAQGTLS,Myelin basic protein (UniProt:P02686),115061,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,SLPQKSHGRTQDENPVVHF,Myelin basic protein (UniProt:P02686),115648,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,ATASTMDHARHGFLPRHRDTGIL,Myelin basic protein (UniProt:P02686),116079,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,ASDYKSAHKGFKGVDAQGT,Myelin basic protein (UniProt:P02686),116924,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,FGVALFCGCEVEALTGTEKLIETYFSKNYQD,Myelin proteolipid protein (UniProt:P60201),116973,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,FKGVDAQGTLSKIFKLGGR,Myelin basic protein (UniProt:P02686),116976,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,GSKYLATASTMDHARHGFLPRHRDTGILDSIGRFFGGDRG,Myelin basic protein (UniProt:P02686),116993,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,GTASFFFLYGALLLAYGFYTTGAVRQIFGDYK,Myelin proteolipid protein (UniProt:P60201),116994,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,HHPARTAHYGSLPQKSHGR,Myelin basic protein (UniProt:P02686),116995,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,IGRFFGGDRGAPKRGSGKDSHHPARTAHY,Myelin basic protein (UniProt:P02686),117009,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,KVCGSNLLSICKTAEFQMTFHLFIAAFVGAAA,Myelin proteolipid protein (UniProt:P60201),117032,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,LGHPDKFVGITYALTVVWLLVFACSAVPVYIY,Myelin proteolipid protein (UniProt:P60201),117035,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,LLECCARCLVGAPFASLVATGLCFFGVALFC,Myelin proteolipid protein (UniProt:P60201),117039,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,DTGILDSIGRF,Myelin basic protein (UniProt:P02686),119809,4,2,2,1.0,0.1818,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,HGSKYLATASTMDHA,Myelin basic protein (UniProt:P02686),119927,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,RHGSKYLATASTMDHARH,Myelin basic protein (UniProt:P02686),120170,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,ENPVVHFFKNIVTPR,Myelin basic protein (UniProt:P02686),13572,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,ENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),13573,4,2,2,1.0,0.1176,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,DENPVVHFFKNIVTPRTPP,Myelin basic protein (UniProt:P02686),111192,4,2,2,1.0,0.1176,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,VVHFFKNIVTPRTPPPSQGK,Myelin basic protein (UniProt:P02686),112393,4,2,2,1.0,0.1176,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,ENPVVHFFKNIVTP,Myelin basic protein (UniProt:P02686),114806,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,AVPVYIYFNTWTTCQSIAFP,Myelin proteolipid protein (UniProt:P60201),5516,4,2,2,1.0,0.1176,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,FYYTTGAVRQIFGDYKTTICG,Myelin proteolipid protein (UniProt:P60201),18488,4,2,2,1.0,0.1176,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,KGLSATVTGGQKGRGYRGQH,Myelin proteolipid protein (UniProt:P60201),31008,4,2,2,1.0,0.1176,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,LYGALLLAEGFYTTGAVRQI,Myelin proteolipid protein (UniProt:P60201),40762,4,2,2,1.0,0.1176,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,MAATYNFAVLKLMGRFTKF,Myelin proteolipid protein (UniProt:P60201),41007,4,2,2,1.0,0.1176,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,NPVVHFFKNIVTPRTPPPSQ,Myelin basic protein (UniProt:P02686),45514,4,2,2,1.0,0.1176,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,TGTEKLIETYFSKNYQDYEY,Myelin proteolipid protein (UniProt:P60201),63975,4,2,2,1.0,0.1176,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,WTTCQSIAFPSKTSASIGSL,Myelin proteolipid protein (UniProt:P60201),73159,4,2,2,1.0,0.1176,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,VVHFFKNIVTPRT,Myelin basic protein (UniProt:P02686),80095,4,2,2,1.0,0.1538,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,TGTEKLIETYFSKNYQDYEYL,Myelin proteolipid protein (UniProt:P60201),112354,4,2,2,1.0,0.1176,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,MIAATYNFAVLKLMGRGTKF,Myelin proteolipid protein (UniProt:P60201),112603,4,2,2,1.0,0.1176,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,AVRQIFGDYKTTICGKGLSATV,Myelin proteolipid protein (UniProt:P60201),112756,4,2,2,1.0,0.1176,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,GSGKDSHHPARTAHYGSLPQ,Myelin basic protein (UniProt:P02686),112782,4,2,2,1.0,0.1176,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,APKRGSGKDSHHAARTAHY,Myelin basic protein (UniProt:P02686),114265,4,2,2,1.0,0.1176,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,HAARTAHYGSLPQKSQGHR,Myelin basic protein (UniProt:P02686),114388,4,2,2,1.0,0.1176,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,PQDENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),114519,4,2,2,1.0,0.1176,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,DENPVVHFFKN,Myelin basic protein (UniProt:P02686),114765,4,2,2,1.0,0.1818,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,QDENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),114925,4,2,2,1.0,0.1176,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,KNIVTPRTPPPSQGKGRGL,Myelin basic protein (UniProt:P02686),115622,4,2,2,1.0,0.1176,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,SLPQKSHGRTQDENPVVHF,Myelin basic protein (UniProt:P02686),115648,4,2,2,1.0,0.1176,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,TQDENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),116170,4,2,2,1.0,0.1176,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,AAFVGAAATLVSLLTFMIAATYNFAVLKLMGR,Myelin proteolipid protein (UniProt:P60201),116911,4,2,2,1.0,0.1176,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,FGVALFCGCEVEALTGTEKLIETYFSKNYQD,Myelin proteolipid protein (UniProt:P60201),116973,4,2,2,1.0,0.1176,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,GTASFFFLYGALLLAYGFYTTGAVRQIFGDYK,Myelin proteolipid protein (UniProt:P60201),116994,4,2,2,1.0,0.1176,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,HHPARTAHYGSLPQKSHGR,Myelin basic protein (UniProt:P02686),116995,4,2,2,1.0,0.1176,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,IGRFFGGDRGAPKRGSGKDSHHPARTAHY,Myelin basic protein (UniProt:P02686),117009,4,2,2,1.0,0.1176,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,KGRGSRGQHQAHSLERVCHCLGCWLGHPDKFV,Myelin proteolipid protein (UniProt:P60201),117017,4,2,2,1.0,0.1176,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,KVCGSNLLSICKTAEFQMTFHLFIAAFVGAAA,Myelin proteolipid protein (UniProt:P60201),117032,4,2,2,1.0,0.1176,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,LGHPDKFVGITYALTVVWLLVFACSAVPVYIY,Myelin proteolipid protein (UniProt:P60201),117035,4,2,2,1.0,0.1176,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,RQIFGDYKTTCGKGLSATVTGGQKGRGSRGQ,Myelin proteolipid protein (UniProt:P60201),117073,4,2,2,1.0,0.1176,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,SAVPVYIYFNTWTTCQSIAAPCKTSASIGTLC,Myelin proteolipid protein (UniProt:P60201),117076,4,2,2,1.0,0.1176,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,YFSKNYQDYEYLINVIHAFQYVIYGTASFFFL,Myelin proteolipid protein (UniProt:P60201),117117,4,2,2,1.0,0.1176,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,IVTPRTPPPSQGKGRG,Myelin basic protein (UniProt:P02686),119972,4,2,2,1.0,0.125,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,IVTPRTPPPSQGKGRGLS,Myelin basic protein (UniProt:P02686),119973,4,2,2,1.0,0.1176,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,SHGRTQDENPVVHF,Myelin basic protein (UniProt:P02686),120201,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,LSRFSWGAEGQRPGFGYGG,Myelin basic protein (UniProt:P02686),112214,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,AVPVYIYFNTWTTCQSIAFP,Myelin proteolipid protein (UniProt:P60201),5516,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,LFCGCGHEALTGTEKLIETY,Myelin proteolipid protein (UniProt:P60201),35803,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,LVGAPFASLVATGLCFFGVA,Myelin proteolipid protein (UniProt:P60201),40353,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,TGTEKLIETYFSKNYQDYEY,Myelin proteolipid protein (UniProt:P60201),63975,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,VDAQGTLSKIFKLGGRDSRS,Myelin basic protein (UniProt:P02686),67907,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,AQGTLSKIFKLGGRDSRSGSPMARR,Myelin basic protein (UniProt:P02686),112037,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,MEVGWYRPPFSRVVHLYRNGK,Myelin-oligodendrocyte glycoprotein (UniProt:Q16653),112226,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,SKIFKLGGRDSRSGSPMARR,Myelin basic protein (UniProt:P02686),112319,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,TGTEKLIETYFSKNYQDYEYL,Myelin proteolipid protein (UniProt:P60201),112354,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,RDTGILDSIGRFFGGDRGAP,Myelin basic protein (UniProt:P02686),114566,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,HKGFKGVDAQGTLS,Myelin basic protein (UniProt:P02686),115061,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,QRPGFGYGGRASDYKSAHK,Myelin basic protein (UniProt:P02686),115641,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,ATASTMDHARHGFLPRHRDTGIL,Myelin basic protein (UniProt:P02686),116079,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,AAFVGAAATLVSLLTFMIAATYNFAVLKLMGR,Myelin proteolipid protein (UniProt:P60201),116911,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,ASDYKSAHKGFKGVDAQGT,Myelin basic protein (UniProt:P02686),116924,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,FGVALFCGCEVEALTGTEKLIETYFSKNYQD,Myelin proteolipid protein (UniProt:P60201),116973,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,FKGVDAQGTLSKIFKLGGR,Myelin basic protein (UniProt:P02686),116976,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,GSKYLATASTMDHARHGFLPRHRDTGILDSIGRFFGGDRG,Myelin basic protein (UniProt:P02686),116993,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,IGRFFGGDRGAPKRGSGKDSHHPARTAHY,Myelin basic protein (UniProt:P02686),117009,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,KGRGSRGQHQAHSLERVCHCLGCWLGHPDKFV,Myelin proteolipid protein (UniProt:P60201),117017,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,KVCGSNLLSICKTAEFQMTFHLFIAAFVGAAA,Myelin proteolipid protein (UniProt:P60201),117032,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,LGHPDKFVGITYALTVVWLLVFACSAVPVYIY,Myelin proteolipid protein (UniProt:P60201),117035,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,LLECCARCLVGAPFASLVATGLCFFGVALFC,Myelin proteolipid protein (UniProt:P60201),117039,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,SASIGTLCADARMYGVLPWNAFFGKVCGSNLL,Myelin proteolipid protein (UniProt:P60201),117075,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,SAVPVYIYFNTWTTCQSIAAPCKTSASIGTLC,Myelin proteolipid protein (UniProt:P60201),117076,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,DTGILDSIGRF,Myelin basic protein (UniProt:P02686),119809,4,2,2,1.0,0.1818,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,ENPVVHFFKNIVTPR,Myelin basic protein (UniProt:P02686),13572,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,ENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),13573,4,2,2,1.0,0.1176,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,DENPVVHFFKNIVTPRTPP,Myelin basic protein (UniProt:P02686),111192,4,2,2,1.0,0.1053,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,VVHFFKNIVTPRTPPPSQGK,Myelin basic protein (UniProt:P02686),112393,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,ENPVVHFFKNIVTP,Myelin basic protein (UniProt:P02686),114806,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,AVPVYIYFNTWTTCQSIAFP,Myelin proteolipid protein (UniProt:P60201),5516,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,MAATYNFAVLKLMGRFTKF,Myelin proteolipid protein (UniProt:P60201),41007,4,2,2,1.0,0.1053,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,NPVVHFFKNIVTPRTPPPSQ,Myelin basic protein (UniProt:P02686),45514,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,VVHFFKNIVTPRT,Myelin basic protein (UniProt:P02686),80095,4,2,2,1.0,0.1538,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,MEVGWYRPPFSRVVHLYRNGK,Myelin-oligodendrocyte glycoprotein (UniProt:Q16653),112226,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,MIAATYNFAVLKLMGRGTKF,Myelin proteolipid protein (UniProt:P60201),112603,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,HAARTAHYGSLPQKSQGHR,Myelin basic protein (UniProt:P02686),114388,4,2,2,1.0,0.1053,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,PQDENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),114519,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,RDTGILDSIGRFFGGDRGAP,Myelin basic protein (UniProt:P02686),114566,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,DENPVVHFFKN,Myelin basic protein (UniProt:P02686),114765,4,2,2,1.0,0.1818,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,QDENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),114925,4,2,2,1.0,0.1053,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,KNIVTPRTPPPSQGKGRGL,Myelin basic protein (UniProt:P02686),115622,4,2,2,1.0,0.1053,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,PSQGKGRGLSLSRFSWGAE,Myelin basic protein (UniProt:P02686),115636,4,2,2,1.0,0.1053,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,SLPQKSHGRTQDENPVVHF,Myelin basic protein (UniProt:P02686),115648,4,2,2,1.0,0.1053,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,ATASTMDHARHGFLPRHRDTGIL,Myelin basic protein (UniProt:P02686),116079,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,TQDENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),116170,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,AAFVGAAATLVSLLTFMIAATYNFAVLKLMGR,Myelin proteolipid protein (UniProt:P60201),116911,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,GSKYLATASTMDHARHGFLPRHRDTGILDSIGRFFGGDRG,Myelin basic protein (UniProt:P02686),116993,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,LGHPDKFVGITYALTVVWLLVFACSAVPVYIY,Myelin proteolipid protein (UniProt:P60201),117035,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,YFSKNYQDYEYLINVIHAFQYVIYGTASFFFL,Myelin proteolipid protein (UniProt:P60201),117117,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,VFLCLQYRLRGKLRAE,Myelin-oligodendrocyte glycoprotein (UniProt:Q16653),118650,4,2,2,1.0,0.125,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,DTGILDSIGRF,Myelin basic protein (UniProt:P02686),119809,4,2,2,1.0,0.1818,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,IVTPRTPPPSQGKGRG,Myelin basic protein (UniProt:P02686),119972,4,2,2,1.0,0.125,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,IVTPRTPPPSQGKGRGLS,Myelin basic protein (UniProt:P02686),119973,4,2,2,1.0,0.1111,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,SHGRTQDENPVVHF,Myelin basic protein (UniProt:P02686),120201,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,LFCGCGHEALTGTEKLIETY,Myelin proteolipid protein (UniProt:P60201),35803,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,LVGAPFASLVATGLCFFGVA,Myelin proteolipid protein (UniProt:P60201),40353,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,TGTEKLIETYFSKNYQDYEY,Myelin proteolipid protein (UniProt:P60201),63975,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,KYLATASTMDHARHGFLPRH,Myelin basic protein (UniProt:P02686),112191,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,TGTEKLIETYFSKNYQDYEYL,Myelin proteolipid protein (UniProt:P60201),112354,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,GSGKDSHHPARTAHYGSLPQ,Myelin basic protein (UniProt:P02686),112782,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,APKRGSGKDSHHAARTAHY,Myelin basic protein (UniProt:P02686),114265,4,2,2,1.0,0.1053,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,ATASTMDHARHGFLPRHRDTGIL,Myelin basic protein (UniProt:P02686),116079,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,FGVALFCGCEVEALTGTEKLIETYFSKNYQD,Myelin proteolipid protein (UniProt:P60201),116973,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,GSKYLATASTMDHARHGFLPRHRDTGILDSIGRFFGGDRG,Myelin basic protein (UniProt:P02686),116993,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,IGRFFGGDRGAPKRGSGKDSHHPARTAHY,Myelin basic protein (UniProt:P02686),117009,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,KGRGSRGQHQAHSLERVCHCLGCWLGHPDKFV,Myelin proteolipid protein (UniProt:P60201),117017,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,LLECCARCLVGAPFASLVATGLCFFGVALFC,Myelin proteolipid protein (UniProt:P60201),117039,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,VFLCLQYRLRGKLRAE,Myelin-oligodendrocyte glycoprotein (UniProt:Q16653),118650,4,2,2,1.0,0.125,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,HGSKYLATASTMDHA,Myelin basic protein (UniProt:P02686),119927,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,RHGSKYLATASTMDHARH,Myelin basic protein (UniProt:P02686),120170,4,2,2,1.0,0.1111,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,MAATYNFAVLKLMGRFTKF,Myelin proteolipid protein (UniProt:P60201),41007,4,2,2,1.0,0.2,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,QKGRGSRGQHQAHSLERVCH,Myelin proteolipid protein (UniProt:P60201),51191,4,2,2,1.0,0.2,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,MIAATYNFAVLKLMGRGTKF,Myelin proteolipid protein (UniProt:P60201),112603,4,2,2,1.0,0.2,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,AAFVGAAATLVSLLTFMIAATYNFAVLKLMGR,Myelin proteolipid protein (UniProt:P60201),116911,4,2,2,1.0,0.2,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,GTASFFFLYGALLLAYGFYTTGAVRQIFGDYK,Myelin proteolipid protein (UniProt:P60201),116994,4,2,2,1.0,0.2,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,KGRGSRGQHQAHSLERVCHCLGCWLGHPDKFV,Myelin proteolipid protein (UniProt:P60201),117017,4,2,2,1.0,0.2,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,KVCGSNLLSICKTAEFQMTFHLFIAAFVGAAA,Myelin proteolipid protein (UniProt:P60201),117032,4,2,2,1.0,0.2,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,LGHPDKFVGITYALTVVWLLVFACSAVPVYIY,Myelin proteolipid protein (UniProt:P60201),117035,4,2,2,1.0,0.2,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,VFLCLQYRLRGKLRAE,Myelin-oligodendrocyte glycoprotein (UniProt:Q16653),118650,4,2,2,1.0,0.2,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,ENPVVHFFKNIVTPR,Myelin basic protein (UniProt:P02686),13572,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,LSRFSWGAEGQRPGFGYGG,Myelin basic protein (UniProt:P02686),112214,4,2,2,1.0,0.1053,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,ENPVVHFFKNIVTP,Myelin basic protein (UniProt:P02686),114806,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,AVPVYIYFNTWTTCQSIAFP,Myelin proteolipid protein (UniProt:P60201),5516,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,KGLSATVTGGQKGRGYRGQH,Myelin proteolipid protein (UniProt:P60201),31008,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,LFCGCGHEALTGTEKLIETY,Myelin proteolipid protein (UniProt:P60201),35803,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,LVGAPFASLVATGLCFFGVA,Myelin proteolipid protein (UniProt:P60201),40353,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,MAATYNFAVLKLMGRFTKF,Myelin proteolipid protein (UniProt:P60201),41007,4,2,2,1.0,0.1053,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,QKGRGSRGQHQAHSLERVCH,Myelin proteolipid protein (UniProt:P60201),51191,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,TGTEKLIETYFSKNYQDYEY,Myelin proteolipid protein (UniProt:P60201),63975,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,KYLATASTMDHARHGFLPRH,Myelin basic protein (UniProt:P02686),112191,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,TGTEKLIETYFSKNYQDYEYL,Myelin proteolipid protein (UniProt:P60201),112354,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,MIAATYNFAVLKLMGRGTKF,Myelin proteolipid protein (UniProt:P60201),112603,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,APKRGSGKDSHHAARTAHY,Myelin basic protein (UniProt:P02686),114265,4,2,2,1.0,0.1053,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,GKGRGLSLSRFSWGAEGQRP,Myelin basic protein (UniProt:P02686),114366,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,RDTGILDSIGRFFGGDRGAP,Myelin basic protein (UniProt:P02686),114566,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,PSQGKGRGLSLSRFSWGAE,Myelin basic protein (UniProt:P02686),115636,4,2,2,1.0,0.1053,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,QRPGFGYGGRASDYKSAHK,Myelin basic protein (UniProt:P02686),115641,4,2,2,1.0,0.1053,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,AAFVGAAATLVSLLTFMIAATYNFAVLKLMGR,Myelin proteolipid protein (UniProt:P60201),116911,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,FGVALFCGCEVEALTGTEKLIETYFSKNYQD,Myelin proteolipid protein (UniProt:P60201),116973,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,GSKYLATASTMDHARHGFLPRHRDTGILDSIGRFFGGDRG,Myelin basic protein (UniProt:P02686),116993,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,IGRFFGGDRGAPKRGSGKDSHHPARTAHY,Myelin basic protein (UniProt:P02686),117009,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,KGRGSRGQHQAHSLERVCHCLGCWLGHPDKFV,Myelin proteolipid protein (UniProt:P60201),117017,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,LGHPDKFVGITYALTVVWLLVFACSAVPVYIY,Myelin proteolipid protein (UniProt:P60201),117035,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,LLECCARCLVGAPFASLVATGLCFFGVALFC,Myelin proteolipid protein (UniProt:P60201),117039,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,RQIFGDYKTTCGKGLSATVTGGQKGRGSRGQ,Myelin proteolipid protein (UniProt:P60201),117073,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,SASIGTLCADARMYGVLPWNAFFGKVCGSNLL,Myelin proteolipid protein (UniProt:P60201),117075,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,SAVPVYIYFNTWTTCQSIAAPCKTSASIGTLC,Myelin proteolipid protein (UniProt:P60201),117076,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,YFSKNYQDYEYLINVIHAFQYVIYGTASFFFL,Myelin proteolipid protein (UniProt:P60201),117117,4,2,2,1.0,0.1,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,VFLCLQYRLRGKLRAE,Myelin-oligodendrocyte glycoprotein (UniProt:Q16653),118650,4,2,2,1.0,0.125,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,DTGILDSIGRF,Myelin basic protein (UniProt:P02686),119809,4,2,2,1.0,0.1818,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,AVPVYIYFNTWTTCQSIAFP,Myelin proteolipid protein (UniProt:P60201),5516,4,2,2,1.0,0.2,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,FYYTTGAVRQIFGDYKTTICG,Myelin proteolipid protein (UniProt:P60201),18488,4,2,2,1.0,0.2,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,LVGAPFASLVATGLCFFGVA,Myelin proteolipid protein (UniProt:P60201),40353,4,2,2,1.0,0.2,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,LYGALLLAEGFYTTGAVRQI,Myelin proteolipid protein (UniProt:P60201),40762,4,2,2,1.0,0.2,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,MAATYNFAVLKLMGRFTKF,Myelin proteolipid protein (UniProt:P60201),41007,4,2,2,1.0,0.2,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,QKGRGSRGQHQAHSLERVCH,Myelin proteolipid protein (UniProt:P60201),51191,4,2,2,1.0,0.2,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,AQGTLSKIFKLGGRDSRSGSPMARR,Myelin basic protein (UniProt:P02686),112037,4,2,2,1.0,0.2,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,KYLATASTMDHARHGFLPRH,Myelin basic protein (UniProt:P02686),112191,4,2,2,1.0,0.2,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,SKIFKLGGRDSRSGSPMARR,Myelin basic protein (UniProt:P02686),112319,4,2,2,1.0,0.2,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,MIAATYNFAVLKLMGRGTKF,Myelin proteolipid protein (UniProt:P60201),112603,4,2,2,1.0,0.2,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,AVRQIFGDYKTTICGKGLSATV,Myelin proteolipid protein (UniProt:P60201),112756,4,2,2,1.0,0.2,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,ATASTMDHARHGFLPRHRDTGIL,Myelin basic protein (UniProt:P02686),116079,4,2,2,1.0,0.2,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,AAFVGAAATLVSLLTFMIAATYNFAVLKLMGR,Myelin proteolipid protein (UniProt:P60201),116911,4,2,2,1.0,0.2,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,GSKYLATASTMDHARHGFLPRHRDTGILDSIGRFFGGDRG,Myelin basic protein (UniProt:P02686),116993,4,2,2,1.0,0.2,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,GTASFFFLYGALLLAYGFYTTGAVRQIFGDYK,Myelin proteolipid protein (UniProt:P60201),116994,4,2,2,1.0,0.2,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,KGRGSRGQHQAHSLERVCHCLGCWLGHPDKFV,Myelin proteolipid protein (UniProt:P60201),117017,4,2,2,1.0,0.2,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,LLECCARCLVGAPFASLVATGLCFFGVALFC,Myelin proteolipid protein (UniProt:P60201),117039,4,2,2,1.0,0.2,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,RQIFGDYKTTCGKGLSATVTGGQKGRGSRGQ,Myelin proteolipid protein (UniProt:P60201),117073,4,2,2,1.0,0.2,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,SASIGTLCADARMYGVLPWNAFFGKVCGSNLL,Myelin proteolipid protein (UniProt:P60201),117075,4,2,2,1.0,0.2,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,SAVPVYIYFNTWTTCQSIAAPCKTSASIGTLC,Myelin proteolipid protein (UniProt:P60201),117076,4,2,2,1.0,0.2,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,VFLCLQYRLRGKLRAE,Myelin-oligodendrocyte glycoprotein (UniProt:Q16653),118650,4,2,2,1.0,0.2,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,RHGSKYLATASTMDHARH,Myelin basic protein (UniProt:P02686),120170,4,2,2,1.0,0.2,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,LFCGCGHEALTGTEKLIETY,Myelin proteolipid protein (UniProt:P60201),35803,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,QKGRGSRGQHQAHSLERVCH,Myelin proteolipid protein (UniProt:P60201),51191,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,VDAQGTLSKIFKLGGRDSRS,Myelin basic protein (UniProt:P02686),67907,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,AQGTLSKIFKLGGRDSRSGSPMARR,Myelin basic protein (UniProt:P02686),112037,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,KYLATASTMDHARHGFLPRH,Myelin basic protein (UniProt:P02686),112191,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,SKIFKLGGRDSRSGSPMARR,Myelin basic protein (UniProt:P02686),112319,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,GSGKDSHHPARTAHYGSLPQ,Myelin basic protein (UniProt:P02686),112782,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,APKRGSGKDSHHAARTAHY,Myelin basic protein (UniProt:P02686),114265,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,HAARTAHYGSLPQKSQGHR,Myelin basic protein (UniProt:P02686),114388,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,KNIVTPRTPPPSQGKGRGL,Myelin basic protein (UniProt:P02686),115622,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,PSQGKGRGLSLSRFSWGAE,Myelin basic protein (UniProt:P02686),115636,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,SLPQKSHGRTQDENPVVHF,Myelin basic protein (UniProt:P02686),115648,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,ATASTMDHARHGFLPRHRDTGIL,Myelin basic protein (UniProt:P02686),116079,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,AAFVGAAATLVSLLTFMIAATYNFAVLKLMGR,Myelin proteolipid protein (UniProt:P60201),116911,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,FGVALFCGCEVEALTGTEKLIETYFSKNYQD,Myelin proteolipid protein (UniProt:P60201),116973,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,GSKYLATASTMDHARHGFLPRHRDTGILDSIGRFFGGDRG,Myelin basic protein (UniProt:P02686),116993,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,HHPARTAHYGSLPQKSHGR,Myelin basic protein (UniProt:P02686),116995,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,IGRFFGGDRGAPKRGSGKDSHHPARTAHY,Myelin basic protein (UniProt:P02686),117009,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,KGRGSRGQHQAHSLERVCHCLGCWLGHPDKFV,Myelin proteolipid protein (UniProt:P60201),117017,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,KVCGSNLLSICKTAEFQMTFHLFIAAFVGAAA,Myelin proteolipid protein (UniProt:P60201),117032,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,LGHPDKFVGITYALTVVWLLVFACSAVPVYIY,Myelin proteolipid protein (UniProt:P60201),117035,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,SASIGTLCADARMYGVLPWNAFFGKVCGSNLL,Myelin proteolipid protein (UniProt:P60201),117075,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,HGSKYLATASTMDHA,Myelin basic protein (UniProt:P02686),119927,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,IVTPRTPPPSQGKGRGLS,Myelin basic protein (UniProt:P02686),119973,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,RHGSKYLATA,Myelin basic protein (UniProt:P02686),120169,4,2,2,1.0,0.2,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,RHGSKYLATASTMDHARH,Myelin basic protein (UniProt:P02686),120170,4,2,2,1.0,0.1333,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,SHGRTQDENPVVHF,Myelin basic protein (UniProt:P02686),120201,4,2,2,1.0,0.1429,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,KGLSATVTGGQKGRGYRGQH,Myelin proteolipid protein (UniProt:P60201),31008,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,TGTEKLIETYFSKNYQDYEY,Myelin proteolipid protein (UniProt:P60201),63975,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,VDAQGTLSKIFKLGGRDSRS,Myelin basic protein (UniProt:P02686),67907,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,KYLATASTMDHARHGFLPRH,Myelin basic protein (UniProt:P02686),112191,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,MEVGWYRPPFSRVVHLYRNGK,Myelin-oligodendrocyte glycoprotein (UniProt:Q16653),112226,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,TGTEKLIETYFSKNYQDYEYL,Myelin proteolipid protein (UniProt:P60201),112354,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,GSGKDSHHPARTAHYGSLPQ,Myelin basic protein (UniProt:P02686),112782,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,GKGRGLSLSRFSWGAEGQRP,Myelin basic protein (UniProt:P02686),114366,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,HAARTAHYGSLPQKSQGHR,Myelin basic protein (UniProt:P02686),114388,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,QRPGFGYGGRASDYKSAHK,Myelin basic protein (UniProt:P02686),115641,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,ASDYKSAHKGFKGVDAQGT,Myelin basic protein (UniProt:P02686),116924,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,FGVALFCGCEVEALTGTEKLIETYFSKNYQD,Myelin proteolipid protein (UniProt:P60201),116973,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,HHPARTAHYGSLPQKSHGR,Myelin basic protein (UniProt:P02686),116995,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,IGRFFGGDRGAPKRGSGKDSHHPARTAHY,Myelin basic protein (UniProt:P02686),117009,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,HGSKYLATASTMDHA,Myelin basic protein (UniProt:P02686),119927,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,RHGSKYLATASTMDHARH,Myelin basic protein (UniProt:P02686),120170,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,LSRFSWGAEGQRPGFGYGG,Myelin basic protein (UniProt:P02686),112214,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,FYYTTGAVRQIFGDYKTTICG,Myelin proteolipid protein (UniProt:P60201),18488,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,LYGALLLAEGFYTTGAVRQI,Myelin proteolipid protein (UniProt:P60201),40762,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,QKGRGSRGQHQAHSLERVCH,Myelin proteolipid protein (UniProt:P60201),51191,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,AVRQIFGDYKTTICGKGLSATV,Myelin proteolipid protein (UniProt:P60201),112756,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,GKGRGLSLSRFSWGAEGQRP,Myelin basic protein (UniProt:P02686),114366,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,PSQGKGRGLSLSRFSWGAE,Myelin basic protein (UniProt:P02686),115636,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,QRPGFGYGGRASDYKSAHK,Myelin basic protein (UniProt:P02686),115641,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,KGRGSRGQHQAHSLERVCHCLGCWLGHPDKFV,Myelin proteolipid protein (UniProt:P60201),117017,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,KVCGSNLLSICKTAEFQMTFHLFIAAFVGAAA,Myelin proteolipid protein (UniProt:P60201),117032,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,VFLCLQYRLRGKLRAE,Myelin-oligodendrocyte glycoprotein (UniProt:Q16653),118650,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,LSRFSWGAEGQRPGFGYGG,Myelin basic protein (UniProt:P02686),112214,3,2,3,0.6667,0.2,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,LFCGCGHEALTGTEKLIETY,Myelin proteolipid protein (UniProt:P60201),35803,3,2,3,0.6667,0.2,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,LYGALLLAEGFYTTGAVRQI,Myelin proteolipid protein (UniProt:P60201),40762,3,2,3,0.6667,0.2,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,KYLATASTMDHARHGFLPRH,Myelin basic protein (UniProt:P02686),112191,3,2,3,0.6667,0.2,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,MEVGWYRPPFSRVVHLYRNGK,Myelin-oligodendrocyte glycoprotein (UniProt:Q16653),112226,3,2,3,0.6667,0.2,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,GKGRGLSLSRFSWGAEGQRP,Myelin basic protein (UniProt:P02686),114366,3,2,3,0.6667,0.2,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,PSQGKGRGLSLSRFSWGAE,Myelin basic protein (UniProt:P02686),115636,3,2,3,0.6667,0.2,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,ATASTMDHARHGFLPRHRDTGIL,Myelin basic protein (UniProt:P02686),116079,3,2,3,0.6667,0.2,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,FGVALFCGCEVEALTGTEKLIETYFSKNYQD,Myelin proteolipid protein (UniProt:P60201),116973,3,2,3,0.6667,0.2,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,GSKYLATASTMDHARHGFLPRHRDTGILDSIGRFFGGDRG,Myelin basic protein (UniProt:P02686),116993,3,2,3,0.6667,0.2,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,ENPVVHFFKNIVTPR,Myelin basic protein (UniProt:P02686),13572,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,ENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),13573,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,DENPVVHFFKNIVTPRTPP,Myelin basic protein (UniProt:P02686),111192,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,VVHFFKNIVTPRTPPPSQGK,Myelin basic protein (UniProt:P02686),112393,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,ENPVVHFFKNIVTP,Myelin basic protein (UniProt:P02686),114806,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,KGLSATVTGGQKGRGYRGQH,Myelin proteolipid protein (UniProt:P60201),31008,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,LVGAPFASLVATGLCFFGVA,Myelin proteolipid protein (UniProt:P60201),40353,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,NPVVHFFKNIVTPRTPPPSQ,Myelin basic protein (UniProt:P02686),45514,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,VVHFFKNIVTPRT,Myelin basic protein (UniProt:P02686),80095,3,2,3,0.6667,0.2308,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,AVRQIFGDYKTTICGKGLSATV,Myelin proteolipid protein (UniProt:P60201),112756,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,GKGRGLSLSRFSWGAEGQRP,Myelin basic protein (UniProt:P02686),114366,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,PQDENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),114519,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,QDENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),114925,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,KNIVTPRTPPPSQGKGRGL,Myelin basic protein (UniProt:P02686),115622,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,TQDENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),116170,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,RQIFGDYKTTCGKGLSATVTGGQKGRGSRGQ,Myelin proteolipid protein (UniProt:P60201),117073,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,VFLCLQYRLRGKLRAE,Myelin-oligodendrocyte glycoprotein (UniProt:Q16653),118650,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,IVTPRTPPPSQGKGRG,Myelin basic protein (UniProt:P02686),119972,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,IVTPRTPPPSQGKGRGLS,Myelin basic protein (UniProt:P02686),119973,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,RHGSKYLATA,Myelin basic protein (UniProt:P02686),120169,3,2,3,0.6667,0.3,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,LFCGCGHEALTGTEKLIETY,Myelin proteolipid protein (UniProt:P60201),35803,3,2,3,0.6667,0.1765,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,LVGAPFASLVATGLCFFGVA,Myelin proteolipid protein (UniProt:P60201),40353,3,2,3,0.6667,0.1765,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,QKGRGSRGQHQAHSLERVCH,Myelin proteolipid protein (UniProt:P60201),51191,3,2,3,0.6667,0.1765,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,KYLATASTMDHARHGFLPRH,Myelin basic protein (UniProt:P02686),112191,3,2,3,0.6667,0.1765,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,ATASTMDHARHGFLPRHRDTGIL,Myelin basic protein (UniProt:P02686),116079,3,2,3,0.6667,0.1765,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,GSKYLATASTMDHARHGFLPRHRDTGILDSIGRFFGGDRG,Myelin basic protein (UniProt:P02686),116993,3,2,3,0.6667,0.1765,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,LLECCARCLVGAPFASLVATGLCFFGVALFC,Myelin proteolipid protein (UniProt:P60201),117039,3,2,3,0.6667,0.1765,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,SASIGTLCADARMYGVLPWNAFFGKVCGSNLL,Myelin proteolipid protein (UniProt:P60201),117075,3,2,3,0.6667,0.1765,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,QKGRGSRGQHQAHSLERVCH,Myelin proteolipid protein (UniProt:P60201),51191,3,2,3,0.6667,0.2,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,AVRQIFGDYKTTICGKGLSATV,Myelin proteolipid protein (UniProt:P60201),112756,3,2,3,0.6667,0.2,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,HHPARTAHYGSLPQKSHGR,Myelin basic protein (UniProt:P02686),116995,3,2,3,0.6667,0.2,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,YFSKNYQDYEYLINVIHAFQYVIYGTASFFFL,Myelin proteolipid protein (UniProt:P60201),117117,3,2,3,0.6667,0.2,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,HGSKYLATASTMDHA,Myelin basic protein (UniProt:P02686),119927,3,2,3,0.6667,0.2,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,RHGSKYLATA,Myelin basic protein (UniProt:P02686),120169,3,2,3,0.6667,0.3,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,RHGSKYLATASTMDHARH,Myelin basic protein (UniProt:P02686),120170,3,2,3,0.6667,0.2,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,KGLSATVTGGQKGRGYRGQH,Myelin proteolipid protein (UniProt:P60201),31008,3,2,3,0.6667,0.15,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,TGTEKLIETYFSKNYQDYEY,Myelin proteolipid protein (UniProt:P60201),63975,3,2,3,0.6667,0.15,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,VDAQGTLSKIFKLGGRDSRS,Myelin basic protein (UniProt:P02686),67907,3,2,3,0.6667,0.15,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,KYLATASTMDHARHGFLPRH,Myelin basic protein (UniProt:P02686),112191,3,2,3,0.6667,0.15,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,TGTEKLIETYFSKNYQDYEYL,Myelin proteolipid protein (UniProt:P60201),112354,3,2,3,0.6667,0.15,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,GSGKDSHHPARTAHYGSLPQ,Myelin basic protein (UniProt:P02686),112782,3,2,3,0.6667,0.15,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,APKRGSGKDSHHAARTAHY,Myelin basic protein (UniProt:P02686),114265,3,2,3,0.6667,0.1579,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,GKGRGLSLSRFSWGAEGQRP,Myelin basic protein (UniProt:P02686),114366,3,2,3,0.6667,0.15,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,QRPGFGYGGRASDYKSAHK,Myelin basic protein (UniProt:P02686),115641,3,2,3,0.6667,0.1579,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,ASDYKSAHKGFKGVDAQGT,Myelin basic protein (UniProt:P02686),116924,3,2,3,0.6667,0.1579,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,FGVALFCGCEVEALTGTEKLIETYFSKNYQD,Myelin proteolipid protein (UniProt:P60201),116973,3,2,3,0.6667,0.15,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,HHPARTAHYGSLPQKSHGR,Myelin basic protein (UniProt:P02686),116995,3,2,3,0.6667,0.1579,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,IGRFFGGDRGAPKRGSGKDSHHPARTAHY,Myelin basic protein (UniProt:P02686),117009,3,2,3,0.6667,0.15,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,RQIFGDYKTTCGKGLSATVTGGQKGRGSRGQ,Myelin proteolipid protein (UniProt:P60201),117073,3,2,3,0.6667,0.15,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,HGSKYLATASTMDHA,Myelin basic protein (UniProt:P02686),119927,3,2,3,0.6667,0.2,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,RHGSKYLATASTMDHARH,Myelin basic protein (UniProt:P02686),120170,3,2,3,0.6667,0.1667,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,AVPVYIYFNTWTTCQSIAFP,Myelin proteolipid protein (UniProt:P60201),5516,3,2,3,0.6667,0.15,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,FYYTTGAVRQIFGDYKTTICG,Myelin proteolipid protein (UniProt:P60201),18488,3,2,3,0.6667,0.15,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,LYGALLLAEGFYTTGAVRQI,Myelin proteolipid protein (UniProt:P60201),40762,3,2,3,0.6667,0.15,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,QKGRGSRGQHQAHSLERVCH,Myelin proteolipid protein (UniProt:P60201),51191,3,2,3,0.6667,0.15,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,WTTCQSIAFPSKTSASIGSL,Myelin proteolipid protein (UniProt:P60201),73159,3,2,3,0.6667,0.15,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,AVRQIFGDYKTTICGKGLSATV,Myelin proteolipid protein (UniProt:P60201),112756,3,2,3,0.6667,0.15,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,HAARTAHYGSLPQKSQGHR,Myelin basic protein (UniProt:P02686),114388,3,2,3,0.6667,0.1579,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,RDTGILDSIGRFFGGDRGAP,Myelin basic protein (UniProt:P02686),114566,3,2,3,0.6667,0.15,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,HKGFKGVDAQGTLS,Myelin basic protein (UniProt:P02686),115061,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,SLPQKSHGRTQDENPVVHF,Myelin basic protein (UniProt:P02686),115648,3,2,3,0.6667,0.1579,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,ASDYKSAHKGFKGVDAQGT,Myelin basic protein (UniProt:P02686),116924,3,2,3,0.6667,0.1579,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,GTASFFFLYGALLLAYGFYTTGAVRQIFGDYK,Myelin proteolipid protein (UniProt:P60201),116994,3,2,3,0.6667,0.15,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,RQIFGDYKTTCGKGLSATVTGGQKGRGSRGQ,Myelin proteolipid protein (UniProt:P60201),117073,3,2,3,0.6667,0.15,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,DTGILDSIGRF,Myelin basic protein (UniProt:P02686),119809,3,2,3,0.6667,0.2727,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,SHGRTQDENPVVHF,Myelin basic protein (UniProt:P02686),120201,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,LFCGCGHEALTGTEKLIETY,Myelin proteolipid protein (UniProt:P60201),35803,3,2,3,0.6667,0.3,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,TGTEKLIETYFSKNYQDYEY,Myelin proteolipid protein (UniProt:P60201),63975,3,2,3,0.6667,0.3,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,MEVGWYRPPFSRVVHLYRNGK,Myelin-oligodendrocyte glycoprotein (UniProt:Q16653),112226,3,2,3,0.6667,0.3,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,TGTEKLIETYFSKNYQDYEYL,Myelin proteolipid protein (UniProt:P60201),112354,3,2,3,0.6667,0.3,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,FGVALFCGCEVEALTGTEKLIETYFSKNYQD,Myelin proteolipid protein (UniProt:P60201),116973,3,2,3,0.6667,0.3,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,VDAQGTLSKIFKLGGRDSRS,Myelin basic protein (UniProt:P02686),67907,3,2,3,0.6667,0.15,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,WTTCQSIAFPSKTSASIGSL,Myelin proteolipid protein (UniProt:P60201),73159,3,2,3,0.6667,0.15,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,AQGTLSKIFKLGGRDSRSGSPMARR,Myelin basic protein (UniProt:P02686),112037,3,2,3,0.6667,0.15,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,MEVGWYRPPFSRVVHLYRNGK,Myelin-oligodendrocyte glycoprotein (UniProt:Q16653),112226,3,2,3,0.6667,0.15,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,GSGKDSHHPARTAHYGSLPQ,Myelin basic protein (UniProt:P02686),112782,3,2,3,0.6667,0.15,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,HAARTAHYGSLPQKSQGHR,Myelin basic protein (UniProt:P02686),114388,3,2,3,0.6667,0.1579,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,HKGFKGVDAQGTLS,Myelin basic protein (UniProt:P02686),115061,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,ASDYKSAHKGFKGVDAQGT,Myelin basic protein (UniProt:P02686),116924,3,2,3,0.6667,0.1579,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,FKGVDAQGTLSKIFKLGGR,Myelin basic protein (UniProt:P02686),116976,3,2,3,0.6667,0.1579,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,HHPARTAHYGSLPQKSHGR,Myelin basic protein (UniProt:P02686),116995,3,2,3,0.6667,0.1579,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,LFCGCGHEALTGTEKLIETY,Myelin proteolipid protein (UniProt:P60201),35803,3,2,3,0.6667,0.3,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,TGTEKLIETYFSKNYQDYEY,Myelin proteolipid protein (UniProt:P60201),63975,3,2,3,0.6667,0.3,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,MEVGWYRPPFSRVVHLYRNGK,Myelin-oligodendrocyte glycoprotein (UniProt:Q16653),112226,3,2,3,0.6667,0.3,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,TGTEKLIETYFSKNYQDYEYL,Myelin proteolipid protein (UniProt:P60201),112354,3,2,3,0.6667,0.3,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,RDTGILDSIGRFFGGDRGAP,Myelin basic protein (UniProt:P02686),114566,3,2,3,0.6667,0.3,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,FGVALFCGCEVEALTGTEKLIETYFSKNYQD,Myelin proteolipid protein (UniProt:P60201),116973,3,2,3,0.6667,0.3,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,MAATYNFAVLKLMGRFTKF,Myelin proteolipid protein (UniProt:P60201),41007,3,2,3,0.6667,0.2,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,TGTEKLIETYFSKNYQDYEY,Myelin proteolipid protein (UniProt:P60201),63975,3,2,3,0.6667,0.2,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,MEVGWYRPPFSRVVHLYRNGK,Myelin-oligodendrocyte glycoprotein (UniProt:Q16653),112226,3,2,3,0.6667,0.2,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,TGTEKLIETYFSKNYQDYEYL,Myelin proteolipid protein (UniProt:P60201),112354,3,2,3,0.6667,0.2,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,MIAATYNFAVLKLMGRGTKF,Myelin proteolipid protein (UniProt:P60201),112603,3,2,3,0.6667,0.2,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,RDTGILDSIGRFFGGDRGAP,Myelin basic protein (UniProt:P02686),114566,3,2,3,0.6667,0.2,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,HKGFKGVDAQGTLS,Myelin basic protein (UniProt:P02686),115061,3,2,3,0.6667,0.2143,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,ASDYKSAHKGFKGVDAQGT,Myelin basic protein (UniProt:P02686),116924,3,2,3,0.6667,0.2,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,FKGVDAQGTLSKIFKLGGR,Myelin basic protein (UniProt:P02686),116976,3,2,3,0.6667,0.2,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,SAVPVYIYFNTWTTCQSIAAPCKTSASIGTLC,Myelin proteolipid protein (UniProt:P60201),117076,3,2,3,0.6667,0.2,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,YFSKNYQDYEYLINVIHAFQYVIYGTASFFFL,Myelin proteolipid protein (UniProt:P60201),117117,3,2,3,0.6667,0.2,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,LSRFSWGAEGQRPGFGYGG,Myelin basic protein (UniProt:P02686),112214,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,LFCGCGHEALTGTEKLIETY,Myelin proteolipid protein (UniProt:P60201),35803,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,LVGAPFASLVATGLCFFGVA,Myelin proteolipid protein (UniProt:P60201),40353,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,LYGALLLAEGFYTTGAVRQI,Myelin proteolipid protein (UniProt:P60201),40762,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,MAATYNFAVLKLMGRFTKF,Myelin proteolipid protein (UniProt:P60201),41007,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,QKGRGSRGQHQAHSLERVCH,Myelin proteolipid protein (UniProt:P60201),51191,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,MIAATYNFAVLKLMGRGTKF,Myelin proteolipid protein (UniProt:P60201),112603,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,AVRQIFGDYKTTICGKGLSATV,Myelin proteolipid protein (UniProt:P60201),112756,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,APKRGSGKDSHHAARTAHY,Myelin basic protein (UniProt:P02686),114265,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,DENPVVHFFKN,Myelin basic protein (UniProt:P02686),114765,2,1,1,1.0,0.0909,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,HKGFKGVDAQGTLS,Myelin basic protein (UniProt:P02686),115061,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,SLPQKSHGRTQDENPVVHF,Myelin basic protein (UniProt:P02686),115648,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,AAFVGAAATLVSLLTFMIAATYNFAVLKLMGR,Myelin proteolipid protein (UniProt:P60201),116911,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,FKGVDAQGTLSKIFKLGGR,Myelin basic protein (UniProt:P02686),116976,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,GTASFFFLYGALLLAYGFYTTGAVRQIFGDYK,Myelin proteolipid protein (UniProt:P60201),116994,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,KGRGSRGQHQAHSLERVCHCLGCWLGHPDKFV,Myelin proteolipid protein (UniProt:P60201),117017,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,LLECCARCLVGAPFASLVATGLCFFGVALFC,Myelin proteolipid protein (UniProt:P60201),117039,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,RQIFGDYKTTCGKGLSATVTGGQKGRGSRGQ,Myelin proteolipid protein (UniProt:P60201),117073,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,RHGSKYLATA,Myelin basic protein (UniProt:P02686),120169,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+IMNILRIYYSPSIM,Triplex capsid protein 1,22930778,SHGRTQDENPVVHF,Myelin basic protein (UniProt:P02686),120201,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,LVGAPFASLVATGLCFFGVA,Myelin proteolipid protein (UniProt:P60201),40353,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,WTTCQSIAFPSKTSASIGSL,Myelin proteolipid protein (UniProt:P60201),73159,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,KYLATASTMDHARHGFLPRH,Myelin basic protein (UniProt:P02686),112191,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,HAARTAHYGSLPQKSQGHR,Myelin basic protein (UniProt:P02686),114388,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,DENPVVHFFKN,Myelin basic protein (UniProt:P02686),114765,2,1,1,1.0,0.0909,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,HKGFKGVDAQGTLS,Myelin basic protein (UniProt:P02686),115061,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,SLPQKSHGRTQDENPVVHF,Myelin basic protein (UniProt:P02686),115648,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,ASDYKSAHKGFKGVDAQGT,Myelin basic protein (UniProt:P02686),116924,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,FKGVDAQGTLSKIFKLGGR,Myelin basic protein (UniProt:P02686),116976,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,HHPARTAHYGSLPQKSHGR,Myelin basic protein (UniProt:P02686),116995,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,LLECCARCLVGAPFASLVATGLCFFGVALFC,Myelin proteolipid protein (UniProt:P60201),117039,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,HGSKYLATASTMDHA,Myelin basic protein (UniProt:P02686),119927,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,RHGSKYLATA,Myelin basic protein (UniProt:P02686),120169,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,RHGSKYLATASTMDHARH,Myelin basic protein (UniProt:P02686),120170,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+VTNILIYNGWYADS,glycoprotein BALF4,22930779,SHGRTQDENPVVHF,Myelin basic protein (UniProt:P02686),120201,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,KGLSATVTGGQKGRGYRGQH,Myelin proteolipid protein (UniProt:P60201),31008,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,LVGAPFASLVATGLCFFGVA,Myelin proteolipid protein (UniProt:P60201),40353,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,QKGRGSRGQHQAHSLERVCH,Myelin proteolipid protein (UniProt:P60201),51191,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,HAARTAHYGSLPQKSQGHR,Myelin basic protein (UniProt:P02686),114388,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,RDTGILDSIGRFFGGDRGAP,Myelin basic protein (UniProt:P02686),114566,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,KNIVTPRTPPPSQGKGRGL,Myelin basic protein (UniProt:P02686),115622,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,KGRGSRGQHQAHSLERVCHCLGCWLGHPDKFV,Myelin proteolipid protein (UniProt:P60201),117017,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,LLECCARCLVGAPFASLVATGLCFFGVALFC,Myelin proteolipid protein (UniProt:P60201),117039,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,SASIGTLCADARMYGVLPWNAFFGKVCGSNLL,Myelin proteolipid protein (UniProt:P60201),117075,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,VFLCLQYRLRGKLRAE,Myelin-oligodendrocyte glycoprotein (UniProt:Q16653),118650,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,DTGILDSIGRF,Myelin basic protein (UniProt:P02686),119809,2,1,1,1.0,0.0909,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,HGSKYLATASTMDHA,Myelin basic protein (UniProt:P02686),119927,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,IVTPRTPPPSQGKGRG,Myelin basic protein (UniProt:P02686),119972,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,IVTPRTPPPSQGKGRGLS,Myelin basic protein (UniProt:P02686),119973,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,RHGSKYLATA,Myelin basic protein (UniProt:P02686),120169,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+GNEIHVYNDYHHFKT,glycoprotein BALF4,22930780,RHGSKYLATASTMDHARH,Myelin basic protein (UniProt:P02686),120170,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,MAATYNFAVLKLMGRFTKF,Myelin proteolipid protein (UniProt:P60201),41007,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,QKGRGSRGQHQAHSLERVCH,Myelin proteolipid protein (UniProt:P60201),51191,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,MEVGWYRPPFSRVVHLYRNGK,Myelin-oligodendrocyte glycoprotein (UniProt:Q16653),112226,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,SKIFKLGGRDSRSGSPMARR,Myelin basic protein (UniProt:P02686),112319,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,APKRGSGKDSHHAARTAHY,Myelin basic protein (UniProt:P02686),114265,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,DENPVVHFFKN,Myelin basic protein (UniProt:P02686),114765,2,1,1,1.0,0.0909,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,PSQGKGRGLSLSRFSWGAE,Myelin basic protein (UniProt:P02686),115636,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,AAFVGAAATLVSLLTFMIAATYNFAVLKLMGR,Myelin proteolipid protein (UniProt:P60201),116911,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,KGRGSRGQHQAHSLERVCHCLGCWLGHPDKFV,Myelin proteolipid protein (UniProt:P60201),117017,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+EKQLFYYIGTMLPN,Envelope glycoprotein H,22930781,SHGRTQDENPVVHF,Myelin basic protein (UniProt:P02686),120201,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,LSRFSWGAEGQRPGFGYGG,Myelin basic protein (UniProt:P02686),112214,2,1,1,1.0,0.0588,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,VDAQGTLSKIFKLGGRDSRS,Myelin basic protein (UniProt:P02686),67907,2,1,1,1.0,0.0588,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,AQGTLSKIFKLGGRDSRSGSPMARR,Myelin basic protein (UniProt:P02686),112037,2,1,1,1.0,0.0588,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,SKIFKLGGRDSRSGSPMARR,Myelin basic protein (UniProt:P02686),112319,2,1,1,1.0,0.0588,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,GKGRGLSLSRFSWGAEGQRP,Myelin basic protein (UniProt:P02686),114366,2,1,1,1.0,0.0588,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,RDTGILDSIGRFFGGDRGAP,Myelin basic protein (UniProt:P02686),114566,2,1,1,1.0,0.0588,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,HKGFKGVDAQGTLS,Myelin basic protein (UniProt:P02686),115061,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,PSQGKGRGLSLSRFSWGAE,Myelin basic protein (UniProt:P02686),115636,2,1,1,1.0,0.0588,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,QRPGFGYGGRASDYKSAHK,Myelin basic protein (UniProt:P02686),115641,2,1,1,1.0,0.0588,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,ASDYKSAHKGFKGVDAQGT,Myelin basic protein (UniProt:P02686),116924,2,1,1,1.0,0.0588,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,FKGVDAQGTLSKIFKLGGR,Myelin basic protein (UniProt:P02686),116976,2,1,1,1.0,0.0588,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,VFLCLQYRLRGKLRAE,Myelin-oligodendrocyte glycoprotein (UniProt:Q16653),118650,2,1,1,1.0,0.0625,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,DTGILDSIGRF,Myelin basic protein (UniProt:P02686),119809,2,1,1,1.0,0.0909,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,HGSKYLATASTMDHA,Myelin basic protein (UniProt:P02686),119927,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,RHGSKYLATA,Myelin basic protein (UniProt:P02686),120169,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VTTFVHYANFHNYFVPN,Envelope glycoprotein H,22930782,RHGSKYLATASTMDHARH,Myelin basic protein (UniProt:P02686),120170,2,1,1,1.0,0.0588,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,WTTCQSIAFPSKTSASIGSL,Myelin proteolipid protein (UniProt:P60201),73159,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,KYLATASTMDHARHGFLPRH,Myelin basic protein (UniProt:P02686),112191,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,GSGKDSHHPARTAHYGSLPQ,Myelin basic protein (UniProt:P02686),112782,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,APKRGSGKDSHHAARTAHY,Myelin basic protein (UniProt:P02686),114265,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,GKGRGLSLSRFSWGAEGQRP,Myelin basic protein (UniProt:P02686),114366,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,HAARTAHYGSLPQKSQGHR,Myelin basic protein (UniProt:P02686),114388,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,KNIVTPRTPPPSQGKGRGL,Myelin basic protein (UniProt:P02686),115622,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,PSQGKGRGLSLSRFSWGAE,Myelin basic protein (UniProt:P02686),115636,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,VFLCLQYRLRGKLRAE,Myelin-oligodendrocyte glycoprotein (UniProt:Q16653),118650,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,IVTPRTPPPSQGKGRG,Myelin basic protein (UniProt:P02686),119972,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+TGGVYHFVKKHVHES,DNA polymerase,1686220,IVTPRTPPPSQGKGRGLS,Myelin basic protein (UniProt:P02686),119973,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,LSRFSWGAEGQRPGFGYGG,Myelin basic protein (UniProt:P02686),112214,2,1,1,1.0,0.0526,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,LFCGCGHEALTGTEKLIETY,Myelin proteolipid protein (UniProt:P60201),35803,2,1,1,1.0,0.05,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,LVGAPFASLVATGLCFFGVA,Myelin proteolipid protein (UniProt:P60201),40353,2,1,1,1.0,0.05,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,QKGRGSRGQHQAHSLERVCH,Myelin proteolipid protein (UniProt:P60201),51191,2,1,1,1.0,0.05,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,HKGFKGVDAQGTLS,Myelin basic protein (UniProt:P02686),115061,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,FKGVDAQGTLSKIFKLGGR,Myelin basic protein (UniProt:P02686),116976,2,1,1,1.0,0.0526,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,KGRGSRGQHQAHSLERVCHCLGCWLGHPDKFV,Myelin proteolipid protein (UniProt:P60201),117017,2,1,1,1.0,0.05,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,LLECCARCLVGAPFASLVATGLCFFGVALFC,Myelin proteolipid protein (UniProt:P60201),117039,2,1,1,1.0,0.05,False,exploratory sequence resemblance only
+NILRIYYSPSIMHRYAVVQP,Triplex capsid protein 1,17836726,RHGSKYLATA,Myelin basic protein (UniProt:P02686),120169,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,ENPVVHFFKNIVTPR,Myelin basic protein (UniProt:P02686),13572,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,ENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),13573,2,1,1,1.0,0.0588,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,DENPVVHFFKNIVTPRTPP,Myelin basic protein (UniProt:P02686),111192,2,1,1,1.0,0.0526,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,LSRFSWGAEGQRPGFGYGG,Myelin basic protein (UniProt:P02686),112214,2,1,1,1.0,0.0526,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,VVHFFKNIVTPRTPPPSQGK,Myelin basic protein (UniProt:P02686),112393,2,1,1,1.0,0.05,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,ENPVVHFFKNIVTP,Myelin basic protein (UniProt:P02686),114806,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,KGLSATVTGGQKGRGYRGQH,Myelin proteolipid protein (UniProt:P60201),31008,2,1,1,1.0,0.05,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,MAATYNFAVLKLMGRFTKF,Myelin proteolipid protein (UniProt:P60201),41007,2,1,1,1.0,0.0526,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,NPVVHFFKNIVTPRTPPPSQ,Myelin basic protein (UniProt:P02686),45514,2,1,1,1.0,0.05,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,VVHFFKNIVTPRT,Myelin basic protein (UniProt:P02686),80095,2,1,1,1.0,0.0769,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,SKIFKLGGRDSRSGSPMARR,Myelin basic protein (UniProt:P02686),112319,2,1,1,1.0,0.05,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,MIAATYNFAVLKLMGRGTKF,Myelin proteolipid protein (UniProt:P60201),112603,2,1,1,1.0,0.05,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,GKGRGLSLSRFSWGAEGQRP,Myelin basic protein (UniProt:P02686),114366,2,1,1,1.0,0.05,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,PQDENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),114519,2,1,1,1.0,0.05,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,DENPVVHFFKN,Myelin basic protein (UniProt:P02686),114765,2,1,1,1.0,0.0909,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,QDENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),114925,2,1,1,1.0,0.0526,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,KNIVTPRTPPPSQGKGRGL,Myelin basic protein (UniProt:P02686),115622,2,1,1,1.0,0.0526,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,PSQGKGRGLSLSRFSWGAE,Myelin basic protein (UniProt:P02686),115636,2,1,1,1.0,0.0526,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,QRPGFGYGGRASDYKSAHK,Myelin basic protein (UniProt:P02686),115641,2,1,1,1.0,0.0526,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,TQDENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),116170,2,1,1,1.0,0.05,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,YFSKNYQDYEYLINVIHAFQYVIYGTASFFFL,Myelin proteolipid protein (UniProt:P60201),117117,2,1,1,1.0,0.05,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,IVTPRTPPPSQGKGRG,Myelin basic protein (UniProt:P02686),119972,2,1,1,1.0,0.0625,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,IVTPRTPPPSQGKGRGLS,Myelin basic protein (UniProt:P02686),119973,2,1,1,1.0,0.0556,False,exploratory sequence resemblance only
+FIEFVGWLCKKDHTHIREWF,Epstein-Barr nuclear antigen 4,1693659,RHGSKYLATA,Myelin basic protein (UniProt:P02686),120169,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,ENPVVHFFKNIVTPR,Myelin basic protein (UniProt:P02686),13572,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,ENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),13573,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,DENPVVHFFKNIVTPRTPP,Myelin basic protein (UniProt:P02686),111192,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,LSRFSWGAEGQRPGFGYGG,Myelin basic protein (UniProt:P02686),112214,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,VVHFFKNIVTPRTPPPSQGK,Myelin basic protein (UniProt:P02686),112393,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,ENPVVHFFKNIVTP,Myelin basic protein (UniProt:P02686),114806,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,AVPVYIYFNTWTTCQSIAFP,Myelin proteolipid protein (UniProt:P60201),5516,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,FYYTTGAVRQIFGDYKTTICG,Myelin proteolipid protein (UniProt:P60201),18488,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,KGLSATVTGGQKGRGYRGQH,Myelin proteolipid protein (UniProt:P60201),31008,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,LVGAPFASLVATGLCFFGVA,Myelin proteolipid protein (UniProt:P60201),40353,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,NPVVHFFKNIVTPRTPPPSQ,Myelin basic protein (UniProt:P02686),45514,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,VDAQGTLSKIFKLGGRDSRS,Myelin basic protein (UniProt:P02686),67907,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,WTTCQSIAFPSKTSASIGSL,Myelin proteolipid protein (UniProt:P60201),73159,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,VVHFFKNIVTPRT,Myelin basic protein (UniProt:P02686),80095,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,AQGTLSKIFKLGGRDSRSGSPMARR,Myelin basic protein (UniProt:P02686),112037,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,KYLATASTMDHARHGFLPRH,Myelin basic protein (UniProt:P02686),112191,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,SKIFKLGGRDSRSGSPMARR,Myelin basic protein (UniProt:P02686),112319,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,AVRQIFGDYKTTICGKGLSATV,Myelin proteolipid protein (UniProt:P60201),112756,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,GSGKDSHHPARTAHYGSLPQ,Myelin basic protein (UniProt:P02686),112782,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,APKRGSGKDSHHAARTAHY,Myelin basic protein (UniProt:P02686),114265,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,GKGRGLSLSRFSWGAEGQRP,Myelin basic protein (UniProt:P02686),114366,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,HAARTAHYGSLPQKSQGHR,Myelin basic protein (UniProt:P02686),114388,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,PQDENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),114519,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,RDTGILDSIGRFFGGDRGAP,Myelin basic protein (UniProt:P02686),114566,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,DENPVVHFFKN,Myelin basic protein (UniProt:P02686),114765,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,QDENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),114925,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,HKGFKGVDAQGTLS,Myelin basic protein (UniProt:P02686),115061,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,KNIVTPRTPPPSQGKGRGL,Myelin basic protein (UniProt:P02686),115622,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,PSQGKGRGLSLSRFSWGAE,Myelin basic protein (UniProt:P02686),115636,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,QRPGFGYGGRASDYKSAHK,Myelin basic protein (UniProt:P02686),115641,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,SLPQKSHGRTQDENPVVHF,Myelin basic protein (UniProt:P02686),115648,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,ATASTMDHARHGFLPRHRDTGIL,Myelin basic protein (UniProt:P02686),116079,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,TQDENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),116170,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,ASDYKSAHKGFKGVDAQGT,Myelin basic protein (UniProt:P02686),116924,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,FKGVDAQGTLSKIFKLGGR,Myelin basic protein (UniProt:P02686),116976,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,GSKYLATASTMDHARHGFLPRHRDTGILDSIGRFFGGDRG,Myelin basic protein (UniProt:P02686),116993,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,HHPARTAHYGSLPQKSHGR,Myelin basic protein (UniProt:P02686),116995,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,IGRFFGGDRGAPKRGSGKDSHHPARTAHY,Myelin basic protein (UniProt:P02686),117009,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,RQIFGDYKTTCGKGLSATVTGGQKGRGSRGQ,Myelin proteolipid protein (UniProt:P60201),117073,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,SAVPVYIYFNTWTTCQSIAAPCKTSASIGTLC,Myelin proteolipid protein (UniProt:P60201),117076,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,YFSKNYQDYEYLINVIHAFQYVIYGTASFFFL,Myelin proteolipid protein (UniProt:P60201),117117,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,DTGILDSIGRF,Myelin basic protein (UniProt:P02686),119809,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,HGSKYLATASTMDHA,Myelin basic protein (UniProt:P02686),119927,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,IVTPRTPPPSQGKGRG,Myelin basic protein (UniProt:P02686),119972,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,IVTPRTPPPSQGKGRGLS,Myelin basic protein (UniProt:P02686),119973,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,RHGSKYLATA,Myelin basic protein (UniProt:P02686),120169,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,RHGSKYLATASTMDHARH,Myelin basic protein (UniProt:P02686),120170,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+VLRYHVLLEE,Apoptosis regulator BHRF1,12578859,SHGRTQDENPVVHF,Myelin basic protein (UniProt:P02686),120201,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,SKIFKLGGRDSRSGSPMARR,Myelin basic protein (UniProt:P02686),112319,2,1,1,1.0,0.05,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,DENPVVHFFKN,Myelin basic protein (UniProt:P02686),114765,2,1,1,1.0,0.0909,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,SLPQKSHGRTQDENPVVHF,Myelin basic protein (UniProt:P02686),115648,2,1,1,1.0,0.0526,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,HGSKYLATASTMDHA,Myelin basic protein (UniProt:P02686),119927,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,RHGSKYLATA,Myelin basic protein (UniProt:P02686),120169,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,RHGSKYLATASTMDHARH,Myelin basic protein (UniProt:P02686),120170,2,1,1,1.0,0.0556,False,exploratory sequence resemblance only
+LDLDFGQLTPHTKAVYQPRG,Envelope glycoprotein GP350,17861157,SHGRTQDENPVVHF,Myelin basic protein (UniProt:P02686),120201,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,ENPVVHFFKNIVTPR,Myelin basic protein (UniProt:P02686),13572,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,ENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),13573,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,DENPVVHFFKNIVTPRTPP,Myelin basic protein (UniProt:P02686),111192,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,LSRFSWGAEGQRPGFGYGG,Myelin basic protein (UniProt:P02686),112214,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,VVHFFKNIVTPRTPPPSQGK,Myelin basic protein (UniProt:P02686),112393,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,ENPVVHFFKNIVTP,Myelin basic protein (UniProt:P02686),114806,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,KGLSATVTGGQKGRGYRGQH,Myelin proteolipid protein (UniProt:P60201),31008,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,NPVVHFFKNIVTPRTPPPSQ,Myelin basic protein (UniProt:P02686),45514,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,VDAQGTLSKIFKLGGRDSRS,Myelin basic protein (UniProt:P02686),67907,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,WTTCQSIAFPSKTSASIGSL,Myelin proteolipid protein (UniProt:P60201),73159,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,VVHFFKNIVTPRT,Myelin basic protein (UniProt:P02686),80095,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,GKGRGLSLSRFSWGAEGQRP,Myelin basic protein (UniProt:P02686),114366,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,PQDENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),114519,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,DENPVVHFFKN,Myelin basic protein (UniProt:P02686),114765,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,QDENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),114925,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,HKGFKGVDAQGTLS,Myelin basic protein (UniProt:P02686),115061,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,KNIVTPRTPPPSQGKGRGL,Myelin basic protein (UniProt:P02686),115622,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,PSQGKGRGLSLSRFSWGAE,Myelin basic protein (UniProt:P02686),115636,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,QRPGFGYGGRASDYKSAHK,Myelin basic protein (UniProt:P02686),115641,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,SLPQKSHGRTQDENPVVHF,Myelin basic protein (UniProt:P02686),115648,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,TQDENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),116170,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,ASDYKSAHKGFKGVDAQGT,Myelin basic protein (UniProt:P02686),116924,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,FKGVDAQGTLSKIFKLGGR,Myelin basic protein (UniProt:P02686),116976,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,KVCGSNLLSICKTAEFQMTFHLFIAAFVGAAA,Myelin proteolipid protein (UniProt:P60201),117032,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,DTGILDSIGRF,Myelin basic protein (UniProt:P02686),119809,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,HGSKYLATASTMDHA,Myelin basic protein (UniProt:P02686),119927,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,IVTPRTPPPSQGKGRG,Myelin basic protein (UniProt:P02686),119972,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,IVTPRTPPPSQGKGRGLS,Myelin basic protein (UniProt:P02686),119973,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,RHGSKYLATA,Myelin basic protein (UniProt:P02686),120169,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+FARQAVWLRE,Large tegument protein deneddylase,12578842,SHGRTQDENPVVHF,Myelin basic protein (UniProt:P02686),120201,2,1,1,1.0,0.1,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,ENPVVHFFKNIVTPR,Myelin basic protein (UniProt:P02686),13572,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,ENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),13573,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,DENPVVHFFKNIVTPRTPP,Myelin basic protein (UniProt:P02686),111192,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,VVHFFKNIVTPRTPPPSQGK,Myelin basic protein (UniProt:P02686),112393,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,ENPVVHFFKNIVTP,Myelin basic protein (UniProt:P02686),114806,2,1,1,1.0,0.0714,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,AVPVYIYFNTWTTCQSIAFP,Myelin proteolipid protein (UniProt:P60201),5516,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,FYYTTGAVRQIFGDYKTTICG,Myelin proteolipid protein (UniProt:P60201),18488,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,NPVVHFFKNIVTPRTPPPSQ,Myelin basic protein (UniProt:P02686),45514,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,WTTCQSIAFPSKTSASIGSL,Myelin proteolipid protein (UniProt:P60201),73159,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,VVHFFKNIVTPRT,Myelin basic protein (UniProt:P02686),80095,2,1,1,1.0,0.0769,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,PQDENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),114519,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,DENPVVHFFKN,Myelin basic protein (UniProt:P02686),114765,2,1,1,1.0,0.0909,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,QDENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),114925,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,TQDENPVVHFFKNIVTPRTP,Myelin basic protein (UniProt:P02686),116170,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,DTGILDSIGRF,Myelin basic protein (UniProt:P02686),119809,2,1,1,1.0,0.0909,False,exploratory sequence resemblance only
+AEGLRALLARSHVER,EBNA-1,12579318,IVTPRTPPPSQGKGRG,Myelin basic protein (UniProt:P02686),119972,2,1,1,1.0,0.0667,False,exploratory sequence resemblance only

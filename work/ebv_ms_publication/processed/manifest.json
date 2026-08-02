@@ -1,0 +1,34 @@
+{
+  "project": "EBV-MS molecular mimicry rebuild",
+  "scope": "MHC-II / HLA-DRB1*15:01 primary analysis",
+  "retrieved_date": "2026-08-01",
+  "iedb_workbook": "/Users/anishsharma/Library/Mobile Documents/com~apple~CloudDocs/Downloads/Review Later/Unsorted Files/downloads/IEDB data.xlsx",
+  "iedb_api_base": "https://query-api.iedb.org",
+  "legacy_code": "/Users/anishsharma/Documents/New project/molecular_mimicry_pipeline_v3_fixed.py",
+  "legacy_code_sha256": "2076c9555bad3a5bb6e38ae8b214e690033c15c6824f665735508e31b8cb649b",
+  "source_tables": [
+    "human_epitope_metadata.json",
+    "mhc_ebv_drb1501.json",
+    "rcsb_search_drb1501.json",
+    "tcell_ebv_drb1501.json",
+    "tcell_human_drb1501.json"
+  ],
+  "derived_tables": [
+    "ebv_length_matched_negative_controls.csv",
+    "ebv_peptide_5mer_summary.csv",
+    "ebv_physicochemical_pairwise.csv",
+    "ebv_physicochemical_summary.csv",
+    "exploratory_ebv_myelin_similarity.csv",
+    "exploratory_top25_similarity.csv",
+    "human_drb1501_mhc_ii_iedb.csv",
+    "human_drb1501_mhc_ii_iedb_enriched.csv",
+    "human_epitope_accession_map.csv",
+    "mhc_ebv_drb1501.csv",
+    "pmhc_candidate_manifest.csv",
+    "pmhc_structure_qa.csv",
+    "pmhc_structure_qa_summary.csv",
+    "tcell_ebv_drb1501.csv",
+    "tcell_human_drb1501.csv"
+  ],
+  "status": "rebuild in progress; no publication claims authorized"
+}
