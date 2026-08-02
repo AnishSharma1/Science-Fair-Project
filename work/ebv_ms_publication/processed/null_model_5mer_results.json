@@ -1,0 +1,29 @@
+{
+  "seed": 20260801,
+  "permutations": 10000,
+  "n_ebv_positive_peptides": 12,
+  "n_human_coordinate_validated_myelin_peptides": 53,
+  "metric": "maximum fraction of EBV contiguous 5-mers shared with any human myelin peptide",
+  "observed_mean_max_5mer_overlap": 0.0,
+  "empirical_p_value": 1.0,
+  "null_mean": 0.00023189636752136752,
+  "null_95_percent_interval": [
+    0.0,
+    0.005208333333333333
+  ],
+  "per_peptide_observed_max_5mer_overlap": {
+    "IMNILRIYYSPSIM": 0.0,
+    "VTNILIYNGWYADS": 0.0,
+    "GNEIHVYNDYHHFKT": 0.0,
+    "EKQLFYYIGTMLPN": 0.0,
+    "VTTFVHYANFHNYFVPN": 0.0,
+    "TGGVYHFVKKHVHES": 0.0,
+    "NILRIYYSPSIMHRYAVVQP": 0.0,
+    "FIEFVGWLCKKDHTHIREWF": 0.0,
+    "VLRYHVLLEE": 0.0,
+    "LDLDFGQLTPHTKAVYQPRG": 0.0,
+    "FARQAVWLRE": 0.0,
+    "AEGLRALLARSHVER": 0.0
+  },
+  "interpretation": "sequence-resemblance screen only; not evidence of pathogenic molecular mimicry"
+}

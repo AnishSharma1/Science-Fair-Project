@@ -1,0 +1,4 @@
+condition,n_models,median_peptide_plddt,median_tcr_plddt,median_hla_fit_rmsd_angstrom,median_tcr_alpha_fit_rmsd_angstrom,median_tcr_beta_fit_rmsd_angstrom,median_tcr_peptide_contacts,median_tcr_peptide_clashes,interpretation
+positive_control,5,39.58,87.3,0.577,10.227,18.04,30.0,3.0,Ensemble comparison only. The positive control must recover the experimental TCR orientation before relative contacts can support a structural hypothesis.
+ebv_hypothesis,5,60.92,86.84,0.589,11.227,18.751,28.0,0.0,Ensemble comparison only. The positive control must recover the experimental TCR orientation before relative contacts can support a structural hypothesis.
+negative_control,5,73.57,85.85,0.58,10.726,16.431,25.0,2.0,Ensemble comparison only. The positive control must recover the experimental TCR orientation before relative contacts can support a structural hypothesis.

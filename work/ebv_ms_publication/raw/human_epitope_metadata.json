@@ -1,0 +1,4319 @@
+[
+  {
+    "structure_id": 5516,
+    "structure_descriptions": [
+      "AVPVYIYFNTWTTCQSIAFP"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAA60117.1",
+        "name": "proteolipid protein",
+        "iri": "GENPEPT:AAA60117.1",
+        "starting_position": 171,
+        "ending_position": 190,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P60201.2",
+        "name": "Myelin proteolipid protein",
+        "iri": "UNIPROT:P60201.2",
+        "starting_position": 171,
+        "ending_position": 190,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 10460,
+    "structure_descriptions": [
+      "DTQFVRFDSDAASQR"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "1HLA_A",
+        "name": "Chain A, Structure Of The Human Class I Histocompatibility Antigen, Hla-A2",
+        "iri": "GENPEPT:1HLA_A",
+        "starting_position": 30,
+        "ending_position": 44,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "24797067",
+        "name": "HLA class I histocompatibility antigen, A alpha chain A*03:01:01:01 precursor [Homo sapiens]",
+        "iri": "GENPEPT:24797067",
+        "starting_position": 54,
+        "ending_position": 68,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAO20853.1",
+        "name": "MHC class I antigen",
+        "iri": "GENPEPT:AAO20853.1",
+        "starting_position": 30,
+        "ending_position": 44,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "ACO87714.1",
+        "name": "MHC class I antigen, partial",
+        "iri": "GENPEPT:ACO87714.1",
+        "starting_position": 29,
+        "ending_position": 43,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AEJ87324.1",
+        "name": "truncated MHC class I antigen",
+        "iri": "GENPEPT:AEJ87324.1",
+        "starting_position": 29,
+        "ending_position": 43,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AFD61656.2",
+        "name": "MHC class I antigen, partial",
+        "iri": "GENPEPT:AFD61656.2",
+        "starting_position": 29,
+        "ending_position": 43,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "CAL15397.1",
+        "name": "MHC class I antigen",
+        "iri": "GENPEPT:CAL15397.1",
+        "starting_position": 54,
+        "ending_position": 68,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "NP_002107.3",
+        "name": "HLA class I histocompatibility antigen, A-1 alpha chain precursor",
+        "iri": "GENPEPT:NP_002107.3",
+        "starting_position": 54,
+        "ending_position": 68,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P01892.1",
+        "name": "HLA class I histocompatibility antigen, A-2 alpha chain precursor",
+        "iri": "GENPEPT:P01892.1",
+        "starting_position": 54,
+        "ending_position": 68,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P04439.2",
+        "name": "HLA class I histocompatibility antigen, A alpha chain",
+        "iri": "UNIPROT:P04439.2",
+        "starting_position": 54,
+        "ending_position": 68,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P04439-2.1",
+        "name": "Isoform 2 of HLA class I histocompatibility antigen, A alpha chain",
+        "iri": "UNIPROT:P04439-2.1",
+        "starting_position": 54,
+        "ending_position": 68,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "Q9TQ84.1",
+        "name": "MHC class I antigen",
+        "iri": "UNIPROT:Q9TQ84.1",
+        "starting_position": 10,
+        "ending_position": 24,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "SBQ79416.1",
+        "name": "MHC class I antigen, partial",
+        "iri": "GENPEPT:SBQ79416.1",
+        "starting_position": 29,
+        "ending_position": 43,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "SFV91242.1",
+        "name": "MHC class I antigen, partial",
+        "iri": "GENPEPT:SFV91242.1",
+        "starting_position": 29,
+        "ending_position": 43,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 10461,
+    "structure_descriptions": [
+      "DTQFVRFDSDAASQRMEP"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "24797067",
+        "name": "HLA class I histocompatibility antigen, A alpha chain A*03:01:01:01 precursor [Homo sapiens]",
+        "iri": "GENPEPT:24797067",
+        "starting_position": 54,
+        "ending_position": 71,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AFD61656.2",
+        "name": "MHC class I antigen, partial",
+        "iri": "GENPEPT:AFD61656.2",
+        "starting_position": 29,
+        "ending_position": 46,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "CAL15397.1",
+        "name": "MHC class I antigen",
+        "iri": "GENPEPT:CAL15397.1",
+        "starting_position": 54,
+        "ending_position": 71,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "NP_002107.3",
+        "name": "HLA class I histocompatibility antigen, A-1 alpha chain precursor",
+        "iri": "GENPEPT:NP_002107.3",
+        "starting_position": 54,
+        "ending_position": 71,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P01892.1",
+        "name": "HLA class I histocompatibility antigen, A-2 alpha chain precursor",
+        "iri": "GENPEPT:P01892.1",
+        "starting_position": 54,
+        "ending_position": 71,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P04439.2",
+        "name": "HLA class I histocompatibility antigen, A alpha chain",
+        "iri": "UNIPROT:P04439.2",
+        "starting_position": 54,
+        "ending_position": 71,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P16188.2",
+        "name": "HLA class I histocompatibility antigen, A-30 alpha chain",
+        "iri": "GENPEPT:P16188.2",
+        "starting_position": 54,
+        "ending_position": 71,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "Q9TQ84.1",
+        "name": "MHC class I antigen",
+        "iri": "UNIPROT:Q9TQ84.1",
+        "starting_position": 10,
+        "ending_position": 27,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "SBQ79416.1",
+        "name": "MHC class I antigen, partial",
+        "iri": "GENPEPT:SBQ79416.1",
+        "starting_position": 29,
+        "ending_position": 46,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "SFV91242.1",
+        "name": "MHC class I antigen, partial",
+        "iri": "GENPEPT:SFV91242.1",
+        "starting_position": 29,
+        "ending_position": 46,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 13572,
+    "structure_descriptions": [
+      "ENPVVHFFKNIVTPR"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAA59562.1",
+        "name": "myelin basic protein",
+        "iri": "GENPEPT:AAA59562.1",
+        "starting_position": 84,
+        "ending_position": 98,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAH08749.2",
+        "name": "MBP protein",
+        "iri": "GENPEPT:AAH08749.2",
+        "starting_position": 93,
+        "ending_position": 107,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAH08749.3",
+        "name": "MBP protein",
+        "iri": "GENPEPT:AAH08749.3",
+        "starting_position": 84,
+        "ending_position": 98,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "ABI54132.1",
+        "name": "myelin basic protein",
+        "iri": "GENPEPT:ABI54132.1",
+        "starting_position": 107,
+        "ending_position": 121,
+        "source_organism_name": "Mus musculus (mouse)",
+        "source_organism_iri": "NCBITaxon:10090"
+      },
+      {
+        "accession": "CAG38771.1",
+        "name": "MBP",
+        "iri": "GENPEPT:CAG38771.1",
+        "starting_position": 84,
+        "ending_position": 98,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "EAW66596.1",
+        "name": "myelin basic protein, isoform CRA_e",
+        "iri": "GENPEPT:EAW66596.1",
+        "starting_position": 218,
+        "ending_position": 232,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P02686.3",
+        "name": "Myelin basic protein",
+        "iri": "UNIPROT:P02686.3",
+        "starting_position": 217,
+        "ending_position": 231,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P02687.1",
+        "name": "Myelin basic protein",
+        "iri": "GENPEPT:P02687.1",
+        "starting_position": 82,
+        "ending_position": 96,
+        "source_organism_name": "Bos taurus (bovine)",
+        "source_organism_iri": "NCBITaxon:9913"
+      },
+      {
+        "accession": "P04370.2",
+        "name": "Myelin basic protein",
+        "iri": "GENPEPT:P04370.2",
+        "starting_position": 214,
+        "ending_position": 228,
+        "source_organism_name": "Mus musculus (mouse)",
+        "source_organism_iri": "NCBITaxon:10090"
+      }
+    ]
+  },
+  {
+    "structure_id": 13573,
+    "structure_descriptions": [
+      "ENPVVHFFKNIVTPRTP"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAA59562.1",
+        "name": "myelin basic protein",
+        "iri": "GENPEPT:AAA59562.1",
+        "starting_position": 84,
+        "ending_position": 100,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAH08749.2",
+        "name": "MBP protein",
+        "iri": "GENPEPT:AAH08749.2",
+        "starting_position": 93,
+        "ending_position": 109,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAH08749.3",
+        "name": "MBP protein",
+        "iri": "GENPEPT:AAH08749.3",
+        "starting_position": 84,
+        "ending_position": 100,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "CAA10806.1",
+        "name": "myelin basic protein",
+        "iri": "GENPEPT:CAA10806.1",
+        "starting_position": 81,
+        "ending_position": 97,
+        "source_organism_name": "Rattus norvegicus (brown rat)",
+        "source_organism_iri": "NCBITaxon:10116"
+      },
+      {
+        "accession": "P02686.3",
+        "name": "Myelin basic protein",
+        "iri": "UNIPROT:P02686.3",
+        "starting_position": 217,
+        "ending_position": 233,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P02687.1",
+        "name": "Myelin basic protein",
+        "iri": "GENPEPT:P02687.1",
+        "starting_position": 82,
+        "ending_position": 98,
+        "source_organism_name": "Bos taurus (bovine)",
+        "source_organism_iri": "NCBITaxon:9913"
+      }
+    ]
+  },
+  {
+    "structure_id": 16970,
+    "structure_descriptions": [
+      "FLWGPRALV"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "P43357.1",
+        "name": "Melanoma-associated antigen 3",
+        "iri": "UNIPROT:P43357.1",
+        "starting_position": 271,
+        "ending_position": 279,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P43365.2",
+        "name": "Melanoma-associated antigen 12",
+        "iri": "UNIPROT:P43365.2",
+        "starting_position": 271,
+        "ending_position": 279,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 18488,
+    "structure_descriptions": [
+      "FYYTTGAVRQIFGDYKTTICG"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "SRC279977",
+        "name": "Myelin proteolipid protein",
+        "iri": "ONTIE:0002578",
+        "starting_position": null,
+        "ending_position": null,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 31008,
+    "structure_descriptions": [
+      "KGLSATVTGGQKGRGYRGQH"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "SRC279977",
+        "name": "Myelin proteolipid protein",
+        "iri": "ONTIE:0002578",
+        "starting_position": null,
+        "ending_position": null,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 34554,
+    "structure_descriptions": [
+      "KYPENFFLL"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "3EGG_A",
+        "name": "Chain A, Crystal Structure Of A Complex Between Protein Phosphatase 1 Alpha (Pp1) And The Pp1 Binding And Pdz Domains Of Spinophilin",
+        "iri": "GENPEPT:3EGG_A",
+        "starting_position": 112,
+        "ending_position": 120,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "4506003",
+        "name": "serine/threonine-protein phosphatase PP1-alpha catalytic subunit isoform 1 [Homo sapiens]",
+        "iri": "GENPEPT:4506003",
+        "starting_position": 113,
+        "ending_position": 121,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAV38549.1",
+        "name": "protein phosphatase 1, catalytic subunit, beta isoform",
+        "iri": "GENPEPT:AAV38549.1",
+        "starting_position": 112,
+        "ending_position": 120,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "BAG64675.1",
+        "name": "unnamed protein product",
+        "iri": "GENPEPT:BAG64675.1",
+        "starting_position": 84,
+        "ending_position": 92,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "F8W0W8.1",
+        "name": "Serine/threonine-protein phosphatase",
+        "iri": "UNIPROT:F8W0W8.1",
+        "starting_position": 122,
+        "ending_position": 130,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "NP_002699.1",
+        "name": "serine/threonine-protein phosphatase PP1-alpha catalytic subunit isoform 1",
+        "iri": "GENPEPT:NP_002699.1",
+        "starting_position": 113,
+        "ending_position": 121,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "NP_996756.1",
+        "name": "serine/threonine-protein phosphatase PP1-alpha catalytic subunit isoform 2",
+        "iri": "GENPEPT:NP_996756.1",
+        "starting_position": 69,
+        "ending_position": 77,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P36873.1",
+        "name": "Serine/threonine-protein phosphatase PP1-gamma catalytic subunit",
+        "iri": "UNIPROT:P36873.1",
+        "starting_position": 113,
+        "ending_position": 121,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P36873-2.1",
+        "name": "Isoform 2 of Serine/threonine-protein phosphatase PP1-gamma catalytic subunit",
+        "iri": "UNIPROT:P36873-2.1",
+        "starting_position": 113,
+        "ending_position": 121,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P62136.1",
+        "name": "Serine/threonine-protein phosphatase PP1-alpha catalytic subunit",
+        "iri": "UNIPROT:P62136.1",
+        "starting_position": 113,
+        "ending_position": 121,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P62140.3",
+        "name": "Serine/threonine-protein phosphatase PP1-beta catalytic subunit",
+        "iri": "UNIPROT:P62140.3",
+        "starting_position": 112,
+        "ending_position": 120,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 35803,
+    "structure_descriptions": [
+      "LFCGCGHEALTGTEKLIETY"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAA60117.1",
+        "name": "proteolipid protein",
+        "iri": "GENPEPT:AAA60117.1",
+        "starting_position": 31,
+        "ending_position": 50,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P60201.2",
+        "name": "Myelin proteolipid protein",
+        "iri": "UNIPROT:P60201.2",
+        "starting_position": 31,
+        "ending_position": 50,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 40353,
+    "structure_descriptions": [
+      "LVGAPFASLVATGLCFFGVA"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAA60117.1",
+        "name": "proteolipid protein",
+        "iri": "GENPEPT:AAA60117.1",
+        "starting_position": 11,
+        "ending_position": 30,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P60201.2",
+        "name": "Myelin proteolipid protein",
+        "iri": "UNIPROT:P60201.2",
+        "starting_position": 11,
+        "ending_position": 30,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 40762,
+    "structure_descriptions": [
+      "LYGALLLAEGFYTTGAVRQI"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAA60117.1",
+        "name": "proteolipid protein",
+        "iri": "GENPEPT:AAA60117.1",
+        "starting_position": 81,
+        "ending_position": 100,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P60201.2",
+        "name": "Myelin proteolipid protein",
+        "iri": "UNIPROT:P60201.2",
+        "starting_position": 81,
+        "ending_position": 100,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 41007,
+    "structure_descriptions": [
+      "MAATYNFAVLKLMGRFTKF"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "SRC279977",
+        "name": "Myelin proteolipid protein",
+        "iri": "ONTIE:0002578",
+        "starting_position": null,
+        "ending_position": null,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 45514,
+    "structure_descriptions": [
+      "NPVVHFFKNIVTPRTPPPSQ"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAA59562.1",
+        "name": "myelin basic protein",
+        "iri": "GENPEPT:AAA59562.1",
+        "starting_position": 85,
+        "ending_position": 104,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAA59564.1",
+        "name": "myelin basic protein",
+        "iri": "GENPEPT:AAA59564.1",
+        "starting_position": 111,
+        "ending_position": 130,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAB59711.1",
+        "name": "myelin basic protein",
+        "iri": "GENPEPT:AAB59711.1",
+        "starting_position": 108,
+        "ending_position": 127,
+        "source_organism_name": "Mus musculus (mouse)",
+        "source_organism_iri": "NCBITaxon:10090"
+      },
+      {
+        "accession": "CAG38771.1",
+        "name": "MBP",
+        "iri": "GENPEPT:CAG38771.1",
+        "starting_position": 85,
+        "ending_position": 104,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P02686.3",
+        "name": "Myelin basic protein",
+        "iri": "UNIPROT:P02686.3",
+        "starting_position": 218,
+        "ending_position": 237,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P04370.2",
+        "name": "Myelin basic protein",
+        "iri": "GENPEPT:P04370.2",
+        "starting_position": 215,
+        "ending_position": 234,
+        "source_organism_name": "Mus musculus (mouse)",
+        "source_organism_iri": "NCBITaxon:10090"
+      }
+    ]
+  },
+  {
+    "structure_id": 51191,
+    "structure_descriptions": [
+      "QKGRGSRGQHQAHSLERVCH"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAA59565.1",
+        "name": "myelin proteolipid protein",
+        "iri": "GENPEPT:AAA59565.1",
+        "starting_position": 121,
+        "ending_position": 140,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P60201.2",
+        "name": "Myelin proteolipid protein",
+        "iri": "UNIPROT:P60201.2",
+        "starting_position": 121,
+        "ending_position": 140,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 58547,
+    "structure_descriptions": [
+      "SIIGRLLEV"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "13994195",
+        "name": "serine/threonine-protein phosphatase PP1-alpha catalytic subunit [Mus musculus]",
+        "iri": "GENPEPT:13994195",
+        "starting_position": 11,
+        "ending_position": 19,
+        "source_organism_name": "Mus musculus (mouse)",
+        "source_organism_iri": "NCBITaxon:10090"
+      },
+      {
+        "accession": "3E7A_A",
+        "name": "Chain A, Crystal Structure Of Protein Phosphatase-1 Bound To The Natural Toxin Nodularin-r",
+        "iri": "GENPEPT:3E7A_A",
+        "starting_position": 10,
+        "ending_position": 18,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "3EGG_A",
+        "name": "Chain A, Crystal Structure Of A Complex Between Protein Phosphatase 1 Alpha (Pp1) And The Pp1 Binding And Pdz Domains Of Spinophilin",
+        "iri": "GENPEPT:3EGG_A",
+        "starting_position": 10,
+        "ending_position": 18,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "4506003",
+        "name": "serine/threonine-protein phosphatase PP1-alpha catalytic subunit isoform 1 [Homo sapiens]",
+        "iri": "GENPEPT:4506003",
+        "starting_position": 11,
+        "ending_position": 19,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAL38045.1",
+        "name": "protein phosphatase type 1 alpha catalytic subunit",
+        "iri": "GENPEPT:AAL38045.1",
+        "starting_position": 11,
+        "ending_position": 19,
+        "source_organism_name": "Canis lupus familiaris (dogs)",
+        "source_organism_iri": "NCBITaxon:9615"
+      },
+      {
+        "accession": "AAP35275.1",
+        "name": "protein phosphatase 1, catalytic subunit, alpha isoform",
+        "iri": "GENPEPT:AAP35275.1",
+        "starting_position": 11,
+        "ending_position": 19,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "NP_002699.1",
+        "name": "serine/threonine-protein phosphatase PP1-alpha catalytic subunit isoform 1",
+        "iri": "GENPEPT:NP_002699.1",
+        "starting_position": 11,
+        "ending_position": 19,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P62136.1",
+        "name": "Serine/threonine-protein phosphatase PP1-alpha catalytic subunit",
+        "iri": "UNIPROT:P62136.1",
+        "starting_position": 11,
+        "ending_position": 19,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P62137.1",
+        "name": "Serine/threonine-protein phosphatase PP1-alpha catalytic subunit",
+        "iri": "UNIPROT:P62137.1",
+        "starting_position": 11,
+        "ending_position": 19,
+        "source_organism_name": "Mus musculus C57BL/6",
+        "source_organism_iri": "ONTIE:0000062"
+      },
+      {
+        "accession": "Q8WMS6.1",
+        "name": "Serine/threonine-protein phosphatase PP1-alpha catalytic subunit",
+        "iri": "GENPEPT:Q8WMS6.1",
+        "starting_position": 11,
+        "ending_position": 19,
+        "source_organism_name": "Canis lupus familiaris (dogs)",
+        "source_organism_iri": "NCBITaxon:9615"
+      }
+    ]
+  },
+  {
+    "structure_id": 63975,
+    "structure_descriptions": [
+      "TGTEKLIETYFSKNYQDYEY"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAA60117.1",
+        "name": "proteolipid protein",
+        "iri": "GENPEPT:AAA60117.1",
+        "starting_position": 41,
+        "ending_position": 60,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "CAA30184.1",
+        "name": "proteolipid protein",
+        "iri": "GENPEPT:CAA30184.1",
+        "starting_position": 41,
+        "ending_position": 60,
+        "source_organism_name": "Mus musculus (mouse)",
+        "source_organism_iri": "NCBITaxon:10090"
+      },
+      {
+        "accession": "P60201.2",
+        "name": "Myelin proteolipid protein",
+        "iri": "UNIPROT:P60201.2",
+        "starting_position": 41,
+        "ending_position": 60,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 65787,
+    "structure_descriptions": [
+      "TPTLVEVSRNLGKVG"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "A0A0C4DGB6.1",
+        "name": "Albumin",
+        "iri": "UNIPROT:A0A0C4DGB6.1",
+        "starting_position": 444,
+        "ending_position": 458,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAX63425.1",
+        "name": "serum albumin",
+        "iri": "GENPEPT:AAX63425.1",
+        "starting_position": 444,
+        "ending_position": 458,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P02768.2",
+        "name": "Albumin",
+        "iri": "UNIPROT:P02768.2",
+        "starting_position": 444,
+        "ending_position": 458,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P02768-2.1",
+        "name": "Isoform 2 of Albumin",
+        "iri": "UNIPROT:P02768-2.1",
+        "starting_position": 252,
+        "ending_position": 266,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "SRC248339",
+        "name": "unknown protein eluted from human MHC allele",
+        "iri": "ONTIE:0002162",
+        "starting_position": null,
+        "ending_position": null,
+        "source_organism_name": "Unidentified",
+        "source_organism_iri": "NCBITaxon:32644"
+      }
+    ]
+  },
+  {
+    "structure_id": 67907,
+    "structure_descriptions": [
+      "VDAQGTLSKIFKLGGRDSRS"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAA59562.1",
+        "name": "myelin basic protein",
+        "iri": "GENPEPT:AAA59562.1",
+        "starting_position": 145,
+        "ending_position": 164,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAA59564.1",
+        "name": "myelin basic protein",
+        "iri": "GENPEPT:AAA59564.1",
+        "starting_position": 171,
+        "ending_position": 190,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P02686.3",
+        "name": "Myelin basic protein",
+        "iri": "UNIPROT:P02686.3",
+        "starting_position": 278,
+        "ending_position": 297,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 73159,
+    "structure_descriptions": [
+      "WTTCQSIAFPSKTSASIGSL"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAA60117.1",
+        "name": "proteolipid protein",
+        "iri": "GENPEPT:AAA60117.1",
+        "starting_position": 181,
+        "ending_position": 200,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "CAA30184.1",
+        "name": "proteolipid protein",
+        "iri": "GENPEPT:CAA30184.1",
+        "starting_position": 181,
+        "ending_position": 200,
+        "source_organism_name": "Mus musculus (mouse)",
+        "source_organism_iri": "NCBITaxon:10090"
+      },
+      {
+        "accession": "P60201.2",
+        "name": "Myelin proteolipid protein",
+        "iri": "UNIPROT:P60201.2",
+        "starting_position": 181,
+        "ending_position": 200,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 74794,
+    "structure_descriptions": [
+      "YLLPAIVHI"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "1406327A",
+        "name": "growth regulated nuclear 68 protein",
+        "iri": "GENPEPT:1406327A",
+        "starting_position": 128,
+        "ending_position": 136,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "1592565",
+        "name": "DEAD-box protein p72 [Homo sapiens]",
+        "iri": "GENPEPT:1592565",
+        "starting_position": 146,
+        "ending_position": 154,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "226021",
+        "name": "growth regulated nuclear 68 protein",
+        "iri": "GENPEPT:226021",
+        "starting_position": 128,
+        "ending_position": 136,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "3FE2_A",
+        "name": "Chain A, Human Dead-Box Rna Helicase Ddx5 (P68), Conserved Domain I In Complex With Adp",
+        "iri": "GENPEPT:3FE2_A",
+        "starting_position": 83,
+        "ending_position": 91,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "A0A3S5ZPN3.1",
+        "name": "DEAD box protein 5",
+        "iri": "UNIPROT:A0A3S5ZPN3.1",
+        "starting_position": 144,
+        "ending_position": 152,
+        "source_organism_name": "Gallus gallus (chicken)",
+        "source_organism_iri": "NCBITaxon:9031"
+      },
+      {
+        "accession": "BAG64169.1",
+        "name": "unnamed protein product",
+        "iri": "GENPEPT:BAG64169.1",
+        "starting_position": 138,
+        "ending_position": 146,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "BAG70196.1",
+        "name": "ATP-dependent RNA helicase DDX5",
+        "iri": "GENPEPT:BAG70196.1",
+        "starting_position": 148,
+        "ending_position": 156,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "CAA09408.1",
+        "name": "p68 RNA helicase",
+        "iri": "GENPEPT:CAA09408.1",
+        "starting_position": 96,
+        "ending_position": 104,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "NP_001091974.1",
+        "name": "probable ATP-dependent RNA helicase DDX17 isoform 3",
+        "iri": "GENPEPT:NP_001091974.1",
+        "starting_position": 225,
+        "ending_position": 233,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "NP_001307526.1",
+        "name": "probable ATP-dependent RNA helicase DDX5 isoform b",
+        "iri": "GENPEPT:NP_001307526.1",
+        "starting_position": 148,
+        "ending_position": 156,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "NP_004387.1",
+        "name": "probable ATP-dependent RNA helicase DDX5",
+        "iri": "GENPEPT:NP_004387.1",
+        "starting_position": 148,
+        "ending_position": 156,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P17844.1",
+        "name": "Probable ATP-dependent RNA helicase DDX5",
+        "iri": "UNIPROT:P17844.1",
+        "starting_position": 148,
+        "ending_position": 156,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "Q501J6.1",
+        "name": "Probable ATP-dependent RNA helicase DDX17",
+        "iri": "UNIPROT:Q501J6.1",
+        "starting_position": 146,
+        "ending_position": 154,
+        "source_organism_name": "Mus musculus C57BL/6",
+        "source_organism_iri": "ONTIE:0000062"
+      },
+      {
+        "accession": "Q92841.1",
+        "name": "Probable ATP-dependent RNA helicase DDX17",
+        "iri": "GENPEPT:Q92841.1",
+        "starting_position": 146,
+        "ending_position": 154,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "Q92841.2",
+        "name": "Probable ATP-dependent RNA helicase DDX17",
+        "iri": "UNIPROT:Q92841.2",
+        "starting_position": 225,
+        "ending_position": 233,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "XP_031795754.1",
+        "name": "probable ATP-dependent RNA helicase DDX17 [Sarcophilus harrisii]",
+        "iri": "GENPEPT:XP_031795754.1",
+        "starting_position": 146,
+        "ending_position": 154,
+        "source_organism_name": "Sarcophilus harrisii (Tasmanian devil)",
+        "source_organism_iri": "NCBITaxon:9305"
+      }
+    ]
+  },
+  {
+    "structure_id": 79901,
+    "structure_descriptions": [
+      "LEEFGRFASFEAQG"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "1335101",
+        "name": "HLA-DR alpha heavy chain [Homo sapiens]",
+        "iri": "GENPEPT:1335101",
+        "starting_position": 45,
+        "ending_position": 58,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "3L6F_A",
+        "name": "Chain A, Structure Of Mhc Class Ii Molecule Hla-Dr1 Complexed With Phosphopeptide Mart-1",
+        "iri": "GENPEPT:3L6F_A",
+        "starting_position": 45,
+        "ending_position": 58,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "52426774",
+        "name": "HLA class II histocompatibility antigen, DR alpha chain precursor [Homo sapiens]",
+        "iri": "GENPEPT:52426774",
+        "starting_position": 70,
+        "ending_position": 83,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAA36301.1",
+        "name": "hla-dr antigen heavy chain (aa 3 at 60), partial",
+        "iri": "GENPEPT:AAA36301.1",
+        "starting_position": 40,
+        "ending_position": 53,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "ARB08440.1",
+        "name": "HLA-DRA [Homo sapiens]",
+        "iri": "GENPEPT:ARB08440.1",
+        "starting_position": 70,
+        "ending_position": 83,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "BAG35943.1",
+        "name": "unnamed protein product",
+        "iri": "GENPEPT:BAG35943.1",
+        "starting_position": 70,
+        "ending_position": 83,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "CAA23782.1",
+        "name": "histocompatibility antigen HLA-DR",
+        "iri": "GENPEPT:CAA23782.1",
+        "starting_position": 39,
+        "ending_position": 52,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "NP_061984.2",
+        "name": "HLA class II histocompatibility antigen, DR alpha chain precursor",
+        "iri": "GENPEPT:NP_061984.2",
+        "starting_position": 70,
+        "ending_position": 83,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P01903.1",
+        "name": "HLA class II histocompatibility antigen, DR alpha chain precursor",
+        "iri": "GENPEPT:P01903.1",
+        "starting_position": 70,
+        "ending_position": 83,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P01903.2",
+        "name": "HLA class II histocompatibility antigen, DR alpha chain",
+        "iri": "UNIPROT:P01903.2",
+        "starting_position": 70,
+        "ending_position": 83,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 80095,
+    "structure_descriptions": [
+      "VVHFFKNIVTPRT"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAA59562.1",
+        "name": "myelin basic protein",
+        "iri": "GENPEPT:AAA59562.1",
+        "starting_position": 87,
+        "ending_position": 99,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAH08749.3",
+        "name": "MBP protein",
+        "iri": "GENPEPT:AAH08749.3",
+        "starting_position": 87,
+        "ending_position": 99,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P02687.1",
+        "name": "Myelin basic protein",
+        "iri": "GENPEPT:P02687.1",
+        "starting_position": 85,
+        "ending_position": 97,
+        "source_organism_name": "Bos taurus (bovine)",
+        "source_organism_iri": "NCBITaxon:9913"
+      },
+      {
+        "accession": "P06906.1",
+        "name": "Myelin basic protein",
+        "iri": "GENPEPT:P06906.1",
+        "starting_position": 86,
+        "ending_position": 98,
+        "source_organism_name": "Pan troglodytes (chimpanzee)",
+        "source_organism_iri": "NCBITaxon:9598"
+      }
+    ]
+  },
+  {
+    "structure_id": 108324,
+    "structure_descriptions": [
+      "DTQFVRFDSDAASPR"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "17986001",
+        "name": "major histocompatibility complex, class I, B precursor [Homo sapiens]",
+        "iri": "GENPEPT:17986001",
+        "starting_position": 54,
+        "ending_position": 68,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "ACI62420.1",
+        "name": "MHC class I antigen, partial",
+        "iri": "GENPEPT:ACI62420.1",
+        "starting_position": 29,
+        "ending_position": 43,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "ACN81265.1",
+        "name": "MHC class I antigen, partial",
+        "iri": "GENPEPT:ACN81265.1",
+        "starting_position": 29,
+        "ending_position": 43,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "ACU27304.1",
+        "name": "MHC class I antigen",
+        "iri": "GENPEPT:ACU27304.1",
+        "starting_position": 29,
+        "ending_position": 43,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AJP61152.1",
+        "name": "major histocompatability complex B antigen",
+        "iri": "GENPEPT:AJP61152.1",
+        "starting_position": 54,
+        "ending_position": 68,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "ANP21647.1",
+        "name": "MHC class I antigen, partial",
+        "iri": "GENPEPT:ANP21647.1",
+        "starting_position": 29,
+        "ending_position": 43,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "BAA06604.1",
+        "name": "HLA-C antigen",
+        "iri": "GENPEPT:BAA06604.1",
+        "starting_position": 54,
+        "ending_position": 68,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "CAC34573.1",
+        "name": "human leukocyte antigen B",
+        "iri": "GENPEPT:CAC34573.1",
+        "starting_position": 54,
+        "ending_position": 68,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P01889.3",
+        "name": "HLA class I histocompatibility antigen, B alpha chain",
+        "iri": "UNIPROT:P01889.3",
+        "starting_position": 54,
+        "ending_position": 68,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P04222.2",
+        "name": "HLA class I histocompatibility antigen, Cw-3 alpha chain precursor",
+        "iri": "GENPEPT:P04222.2",
+        "starting_position": 54,
+        "ending_position": 68,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P10321.3",
+        "name": "HLA class I histocompatibility antigen, C alpha chain",
+        "iri": "UNIPROT:P10321.3",
+        "starting_position": 54,
+        "ending_position": 68,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P30490.1",
+        "name": "HLA class I histocompatibility antigen, B-52 alpha chain",
+        "iri": "GENPEPT:P30490.1",
+        "starting_position": 54,
+        "ending_position": 68,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "Q29960.1",
+        "name": "HLA class I histocompatibility antigen, Cw-16 alpha chain",
+        "iri": "GENPEPT:Q29960.1",
+        "starting_position": 54,
+        "ending_position": 68,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "Q95365.1",
+        "name": "HLA class I histocompatibility antigen, B-38 alpha chain",
+        "iri": "GENPEPT:Q95365.1",
+        "starting_position": 54,
+        "ending_position": 68,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "SIT52294.1",
+        "name": "MHC class I antigen",
+        "iri": "GENPEPT:SIT52294.1",
+        "starting_position": 54,
+        "ending_position": 68,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "XP_011512859.1",
+        "name": "PREDICTED: major histocompatibility complex, class I, B isoform X1 [Homo sapiens]",
+        "iri": "GENPEPT:XP_011512859.1",
+        "starting_position": 54,
+        "ending_position": 68,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 108677,
+    "structure_descriptions": [
+      "VDDTQFVRFDSDAASPR"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "1464478444",
+        "name": "MHC class I antigen [Homo sapiens]",
+        "iri": "GENPEPT:1464478444",
+        "starting_position": 52,
+        "ending_position": 68,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "17986001",
+        "name": "major histocompatibility complex, class I, B precursor [Homo sapiens]",
+        "iri": "GENPEPT:17986001",
+        "starting_position": 52,
+        "ending_position": 68,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAC16245.1",
+        "name": "MHC class I HLA-Cw",
+        "iri": "GENPEPT:AAC16245.1",
+        "starting_position": 27,
+        "ending_position": 43,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "ADB25036.1",
+        "name": "MHC class I antigen, partial",
+        "iri": "GENPEPT:ADB25036.1",
+        "starting_position": 27,
+        "ending_position": 43,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "ADC29454.1",
+        "name": "MHC class I antigen",
+        "iri": "GENPEPT:ADC29454.1",
+        "starting_position": 27,
+        "ending_position": 43,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "ADE73637.1",
+        "name": "MHC class I antigen, partial",
+        "iri": "GENPEPT:ADE73637.1",
+        "starting_position": 27,
+        "ending_position": 43,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AJP61152.1",
+        "name": "major histocompatability complex B antigen",
+        "iri": "GENPEPT:AJP61152.1",
+        "starting_position": 52,
+        "ending_position": 68,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "ANP21647.1",
+        "name": "MHC class I antigen, partial",
+        "iri": "GENPEPT:ANP21647.1",
+        "starting_position": 27,
+        "ending_position": 43,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "BAA06604.1",
+        "name": "HLA-C antigen",
+        "iri": "GENPEPT:BAA06604.1",
+        "starting_position": 52,
+        "ending_position": 68,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "CAC34573.1",
+        "name": "human leukocyte antigen B",
+        "iri": "GENPEPT:CAC34573.1",
+        "starting_position": 52,
+        "ending_position": 68,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "NP_005505.2",
+        "name": "major histocompatibility complex, class I, B precursor",
+        "iri": "GENPEPT:NP_005505.2",
+        "starting_position": 52,
+        "ending_position": 68,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "O19617.1",
+        "name": "Major histocompatibility complex, class I, C",
+        "iri": "UNIPROT:O19617.1",
+        "starting_position": 52,
+        "ending_position": 68,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P01889.3",
+        "name": "HLA class I histocompatibility antigen, B alpha chain",
+        "iri": "UNIPROT:P01889.3",
+        "starting_position": 52,
+        "ending_position": 68,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P10321.3",
+        "name": "HLA class I histocompatibility antigen, C alpha chain",
+        "iri": "UNIPROT:P10321.3",
+        "starting_position": 52,
+        "ending_position": 68,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P30480.1",
+        "name": "HLA class I histocompatibility antigen, B-42 alpha chain",
+        "iri": "GENPEPT:P30480.1",
+        "starting_position": 52,
+        "ending_position": 68,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P30486.1",
+        "name": "HLA class I histocompatibility antigen, B-48 alpha chain",
+        "iri": "GENPEPT:P30486.1",
+        "starting_position": 52,
+        "ending_position": 68,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P30490.1",
+        "name": "HLA class I histocompatibility antigen, B-52 alpha chain",
+        "iri": "GENPEPT:P30490.1",
+        "starting_position": 52,
+        "ending_position": 68,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P30499.1",
+        "name": "HLA class I histocompatibility antigen, Cw-1 alpha chain precursor",
+        "iri": "GENPEPT:P30499.1",
+        "starting_position": 52,
+        "ending_position": 68,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "Q29960.1",
+        "name": "HLA class I histocompatibility antigen, Cw-16 alpha chain",
+        "iri": "GENPEPT:Q29960.1",
+        "starting_position": 52,
+        "ending_position": 68,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "Q95HC2.2",
+        "name": "HLA-C protein",
+        "iri": "UNIPROT:Q95HC2.2",
+        "starting_position": 51,
+        "ending_position": 67,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "SIT52294.1",
+        "name": "MHC class I antigen",
+        "iri": "GENPEPT:SIT52294.1",
+        "starting_position": 52,
+        "ending_position": 68,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 111192,
+    "structure_descriptions": [
+      "DENPVVHFFKNIVTPRTPP"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAA59562.1",
+        "name": "myelin basic protein",
+        "iri": "GENPEPT:AAA59562.1",
+        "starting_position": 83,
+        "ending_position": 101,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAC41944.1",
+        "name": "myelin basic protein",
+        "iri": "GENPEPT:AAC41944.1",
+        "starting_position": 109,
+        "ending_position": 127,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAH08749.2",
+        "name": "MBP protein",
+        "iri": "GENPEPT:AAH08749.2",
+        "starting_position": 92,
+        "ending_position": 110,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAH08749.3",
+        "name": "MBP protein",
+        "iri": "GENPEPT:AAH08749.3",
+        "starting_position": 83,
+        "ending_position": 101,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P02686.3",
+        "name": "Myelin basic protein",
+        "iri": "UNIPROT:P02686.3",
+        "starting_position": 216,
+        "ending_position": 234,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 112037,
+    "structure_descriptions": [
+      "AQGTLSKIFKLGGRDSRSGSPMARR"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "1162922",
+        "name": "myelin basic protein [Homo sapiens]",
+        "iri": "GENPEPT:1162922",
+        "starting_position": 173,
+        "ending_position": 197,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAC41944.1",
+        "name": "myelin basic protein",
+        "iri": "GENPEPT:AAC41944.1",
+        "starting_position": 173,
+        "ending_position": 197,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAH08749.2",
+        "name": "MBP protein",
+        "iri": "GENPEPT:AAH08749.2",
+        "starting_position": 156,
+        "ending_position": 180,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAH08749.3",
+        "name": "MBP protein",
+        "iri": "GENPEPT:AAH08749.3",
+        "starting_position": 147,
+        "ending_position": 171,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "E9PJ72.1",
+        "name": "Myelin basic protein",
+        "iri": "UNIPROT:E9PJ72.1",
+        "starting_position": 125,
+        "ending_position": 149,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P02686.3",
+        "name": "Myelin basic protein",
+        "iri": "UNIPROT:P02686.3",
+        "starting_position": 280,
+        "ending_position": 304,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P02686-3.1",
+        "name": "Isoform 3 of Myelin basic protein",
+        "iri": "UNIPROT:P02686-3.1",
+        "starting_position": 173,
+        "ending_position": 197,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 112191,
+    "structure_descriptions": [
+      "KYLATASTMDHARHGFLPRH"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "1370473525",
+        "name": "myelin basic protein isoform X2 [Homo sapiens]",
+        "iri": "GENPEPT:1370473525",
+        "starting_position": 14,
+        "ending_position": 33,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAA59560.1",
+        "name": "myelin basic protein, partial [Homo sapiens]",
+        "iri": "GENPEPT:AAA59560.1",
+        "starting_position": 14,
+        "ending_position": 33,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAH08749.2",
+        "name": "MBP protein",
+        "iri": "GENPEPT:AAH08749.2",
+        "starting_position": 23,
+        "ending_position": 42,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAH08749.3",
+        "name": "MBP protein",
+        "iri": "GENPEPT:AAH08749.3",
+        "starting_position": 14,
+        "ending_position": 33,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "ABI54132.1",
+        "name": "myelin basic protein",
+        "iri": "GENPEPT:ABI54132.1",
+        "starting_position": 12,
+        "ending_position": 31,
+        "source_organism_name": "Mus musculus (mouse)",
+        "source_organism_iri": "NCBITaxon:10090"
+      },
+      {
+        "accession": "E9PKX9.1",
+        "name": "Myelin basic protein",
+        "iri": "UNIPROT:E9PKX9.1",
+        "starting_position": 14,
+        "ending_position": 33,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P02686.3",
+        "name": "Myelin basic protein",
+        "iri": "UNIPROT:P02686.3",
+        "starting_position": 147,
+        "ending_position": 166,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 112214,
+    "structure_descriptions": [
+      "LSRFSWGAEGQRPGFGYGG"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "1162922",
+        "name": "myelin basic protein [Homo sapiens]",
+        "iri": "GENPEPT:1162922",
+        "starting_position": 138,
+        "ending_position": 156,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAA59562.1",
+        "name": "myelin basic protein",
+        "iri": "GENPEPT:AAA59562.1",
+        "starting_position": 112,
+        "ending_position": 130,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAC41944.1",
+        "name": "myelin basic protein",
+        "iri": "GENPEPT:AAC41944.1",
+        "starting_position": 138,
+        "ending_position": 156,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAH08749.2",
+        "name": "MBP protein",
+        "iri": "GENPEPT:AAH08749.2",
+        "starting_position": 121,
+        "ending_position": 139,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAH08749.3",
+        "name": "MBP protein",
+        "iri": "GENPEPT:AAH08749.3",
+        "starting_position": 112,
+        "ending_position": 130,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "E9PJ72.1",
+        "name": "Myelin basic protein",
+        "iri": "UNIPROT:E9PJ72.1",
+        "starting_position": 90,
+        "ending_position": 108,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 112226,
+    "structure_descriptions": [
+      "MEVGWYRPPFSRVVHLYRNGK"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "1177816",
+        "name": "myelin/oligodendrocyte glycoprotein alpha 3 isoform [Homo sapiens]",
+        "iri": "GENPEPT:1177816",
+        "starting_position": 64,
+        "ending_position": 84,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAB08089.1",
+        "name": "myelin/oligodendrocyte glycoprotein-25.6kD precursor",
+        "iri": "GENPEPT:AAB08089.1",
+        "starting_position": 35,
+        "ending_position": 55,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAH35938.1",
+        "name": "MOG protein [Homo sapiens]",
+        "iri": "GENPEPT:AAH35938.1",
+        "starting_position": 64,
+        "ending_position": 84,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "CAB89274.1",
+        "name": "myelin oligodendrocyte glycoprotein",
+        "iri": "GENPEPT:CAB89274.1",
+        "starting_position": 34,
+        "ending_position": 54,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "CAQ06612.1",
+        "name": "myelin oligodendrocyte glycoprotein",
+        "iri": "GENPEPT:CAQ06612.1",
+        "starting_position": 64,
+        "ending_position": 84,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "CAQ06619.1",
+        "name": "myelin oligodendrocyte glycoprotein",
+        "iri": "GENPEPT:CAQ06619.1",
+        "starting_position": 62,
+        "ending_position": 82,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "Q16653.1",
+        "name": "Myelin-oligodendrocyte glycoprotein precursor",
+        "iri": "GENPEPT:Q16653.1",
+        "starting_position": 64,
+        "ending_position": 84,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "Q16653.2",
+        "name": "Myelin-oligodendrocyte glycoprotein",
+        "iri": "UNIPROT:Q16653.2",
+        "starting_position": 64,
+        "ending_position": 84,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 112319,
+    "structure_descriptions": [
+      "SKIFKLGGRDSRSGSPMARR"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAA59562.1",
+        "name": "myelin basic protein",
+        "iri": "GENPEPT:AAA59562.1",
+        "starting_position": 152,
+        "ending_position": 171,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAC41944.1",
+        "name": "myelin basic protein",
+        "iri": "GENPEPT:AAC41944.1",
+        "starting_position": 178,
+        "ending_position": 197,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAH08749.2",
+        "name": "MBP protein",
+        "iri": "GENPEPT:AAH08749.2",
+        "starting_position": 161,
+        "ending_position": 180,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAH08749.3",
+        "name": "MBP protein",
+        "iri": "GENPEPT:AAH08749.3",
+        "starting_position": 152,
+        "ending_position": 171,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P02686.3",
+        "name": "Myelin basic protein",
+        "iri": "UNIPROT:P02686.3",
+        "starting_position": 285,
+        "ending_position": 304,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P25188.1",
+        "name": "Myelin basic protein",
+        "iri": "GENPEPT:P25188.1",
+        "starting_position": 148,
+        "ending_position": 167,
+        "source_organism_name": "Cavia porcellus (guinea pig)",
+        "source_organism_iri": "NCBITaxon:10141"
+      }
+    ]
+  },
+  {
+    "structure_id": 112354,
+    "structure_descriptions": [
+      "TGTEKLIETYFSKNYQDYEYL"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAA59565.1",
+        "name": "myelin proteolipid protein",
+        "iri": "GENPEPT:AAA59565.1",
+        "starting_position": 41,
+        "ending_position": 61,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAA60117.1",
+        "name": "proteolipid protein",
+        "iri": "GENPEPT:AAA60117.1",
+        "starting_position": 41,
+        "ending_position": 61,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAA60350.1",
+        "name": "proteolipid protein",
+        "iri": "GENPEPT:AAA60350.1",
+        "starting_position": 41,
+        "ending_position": 61,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P60201.2",
+        "name": "Myelin proteolipid protein",
+        "iri": "UNIPROT:P60201.2",
+        "starting_position": 41,
+        "ending_position": 61,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 112393,
+    "structure_descriptions": [
+      "VVHFFKNIVTPRTPPPSQGK"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAA39496.1",
+        "name": "18.5 kd myelin basic protein",
+        "iri": "GENPEPT:AAA39496.1",
+        "starting_position": 84,
+        "ending_position": 103,
+        "source_organism_name": "Mus musculus (mouse)",
+        "source_organism_iri": "NCBITaxon:10090"
+      },
+      {
+        "accession": "AAA59562.1",
+        "name": "myelin basic protein",
+        "iri": "GENPEPT:AAA59562.1",
+        "starting_position": 87,
+        "ending_position": 106,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAH08749.3",
+        "name": "MBP protein",
+        "iri": "GENPEPT:AAH08749.3",
+        "starting_position": 87,
+        "ending_position": 106,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "CAA10806.1",
+        "name": "myelin basic protein",
+        "iri": "GENPEPT:CAA10806.1",
+        "starting_position": 84,
+        "ending_position": 103,
+        "source_organism_name": "Rattus norvegicus (brown rat)",
+        "source_organism_iri": "NCBITaxon:10116"
+      },
+      {
+        "accession": "P04370.2",
+        "name": "Myelin basic protein",
+        "iri": "GENPEPT:P04370.2",
+        "starting_position": 217,
+        "ending_position": 236,
+        "source_organism_name": "Mus musculus (mouse)",
+        "source_organism_iri": "NCBITaxon:10090"
+      }
+    ]
+  },
+  {
+    "structure_id": 112603,
+    "structure_descriptions": [
+      "MIAATYNFAVLKLMGRGTKF"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAA59565.1",
+        "name": "myelin proteolipid protein",
+        "iri": "GENPEPT:AAA59565.1",
+        "starting_position": 258,
+        "ending_position": 277,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P04116.3",
+        "name": "Myelin proteolipid protein",
+        "iri": "GENPEPT:P04116.3",
+        "starting_position": 258,
+        "ending_position": 277,
+        "source_organism_name": "Bos taurus (bovine)",
+        "source_organism_iri": "NCBITaxon:9913"
+      },
+      {
+        "accession": "P60201.2",
+        "name": "Myelin proteolipid protein",
+        "iri": "UNIPROT:P60201.2",
+        "starting_position": 258,
+        "ending_position": 277,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 112756,
+    "structure_descriptions": [
+      "AVRQIFGDYKTTICGKGLSATV"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAA59565.1",
+        "name": "myelin proteolipid protein",
+        "iri": "GENPEPT:AAA59565.1",
+        "starting_position": 96,
+        "ending_position": 117,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAA60117.1",
+        "name": "proteolipid protein",
+        "iri": "GENPEPT:AAA60117.1",
+        "starting_position": 96,
+        "ending_position": 117,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P60201.2",
+        "name": "Myelin proteolipid protein",
+        "iri": "UNIPROT:P60201.2",
+        "starting_position": 96,
+        "ending_position": 117,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 112782,
+    "structure_descriptions": [
+      "GSGKDSHHPARTAHYGSLPQ"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAA59562.1",
+        "name": "myelin basic protein",
+        "iri": "GENPEPT:AAA59562.1",
+        "starting_position": 56,
+        "ending_position": 75,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAH08749.3",
+        "name": "MBP protein",
+        "iri": "GENPEPT:AAH08749.3",
+        "starting_position": 56,
+        "ending_position": 75,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P02686.3",
+        "name": "Myelin basic protein",
+        "iri": "UNIPROT:P02686.3",
+        "starting_position": 189,
+        "ending_position": 208,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 114265,
+    "structure_descriptions": [
+      "APKRGSGKDSHHAARTAHY"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "SRC279945",
+        "name": "Myelin basic protein",
+        "iri": "ONTIE:0002546",
+        "starting_position": null,
+        "ending_position": null,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 114366,
+    "structure_descriptions": [
+      "GKGRGLSLSRFSWGAEGQRP"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAA59564.1",
+        "name": "myelin basic protein",
+        "iri": "GENPEPT:AAA59564.1",
+        "starting_position": 131,
+        "ending_position": 150,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P02686.3",
+        "name": "Myelin basic protein",
+        "iri": "UNIPROT:P02686.3",
+        "starting_position": 238,
+        "ending_position": 257,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 114388,
+    "structure_descriptions": [
+      "HAARTAHYGSLPQKSQGHR"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "SRC279945",
+        "name": "Myelin basic protein",
+        "iri": "ONTIE:0002546",
+        "starting_position": null,
+        "ending_position": null,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 114519,
+    "structure_descriptions": [
+      "PQDENPVVHFFKNIVTPRTP"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "SRC279945",
+        "name": "Myelin basic protein",
+        "iri": "ONTIE:0002546",
+        "starting_position": null,
+        "ending_position": null,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 114566,
+    "structure_descriptions": [
+      "RDTGILDSIGRFFGGDRGAP"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "P02686.3",
+        "name": "Myelin basic protein",
+        "iri": "UNIPROT:P02686.3",
+        "starting_position": 167,
+        "ending_position": 186,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 114765,
+    "structure_descriptions": [
+      "DENPVVHFFKN"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAA59562.1",
+        "name": "myelin basic protein",
+        "iri": "GENPEPT:AAA59562.1",
+        "starting_position": 83,
+        "ending_position": 93,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAH08749.2",
+        "name": "MBP protein",
+        "iri": "GENPEPT:AAH08749.2",
+        "starting_position": 92,
+        "ending_position": 102,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P02686.3",
+        "name": "Myelin basic protein",
+        "iri": "UNIPROT:P02686.3",
+        "starting_position": 216,
+        "ending_position": 226,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 114806,
+    "structure_descriptions": [
+      "ENPVVHFFKNIVTP"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAA59562.1",
+        "name": "myelin basic protein",
+        "iri": "GENPEPT:AAA59562.1",
+        "starting_position": 84,
+        "ending_position": 97,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAH08749.3",
+        "name": "MBP protein",
+        "iri": "GENPEPT:AAH08749.3",
+        "starting_position": 84,
+        "ending_position": 97,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "CAG38771.1",
+        "name": "MBP",
+        "iri": "GENPEPT:CAG38771.1",
+        "starting_position": 84,
+        "ending_position": 97,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P02686.3",
+        "name": "Myelin basic protein",
+        "iri": "UNIPROT:P02686.3",
+        "starting_position": 217,
+        "ending_position": 230,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 114925,
+    "structure_descriptions": [
+      "QDENPVVHFFKNIVTPRTP"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAA59562.1",
+        "name": "myelin basic protein",
+        "iri": "GENPEPT:AAA59562.1",
+        "starting_position": 82,
+        "ending_position": 100,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAH08749.3",
+        "name": "MBP protein",
+        "iri": "GENPEPT:AAH08749.3",
+        "starting_position": 82,
+        "ending_position": 100,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 115061,
+    "structure_descriptions": [
+      "HKGFKGVDAQGTLS"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAH08749.3",
+        "name": "MBP protein",
+        "iri": "GENPEPT:AAH08749.3",
+        "starting_position": 139,
+        "ending_position": 152,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "CAG38771.1",
+        "name": "MBP",
+        "iri": "GENPEPT:CAG38771.1",
+        "starting_position": 128,
+        "ending_position": 141,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P02686.3",
+        "name": "Myelin basic protein",
+        "iri": "UNIPROT:P02686.3",
+        "starting_position": 272,
+        "ending_position": 285,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 115622,
+    "structure_descriptions": [
+      "KNIVTPRTPPPSQGKGRGL"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAH08749.3",
+        "name": "MBP protein",
+        "iri": "GENPEPT:AAH08749.3",
+        "starting_position": 92,
+        "ending_position": 110,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P02686.3",
+        "name": "Myelin basic protein",
+        "iri": "UNIPROT:P02686.3",
+        "starting_position": 225,
+        "ending_position": 243,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P02686-3.1",
+        "name": "Isoform 3 of Myelin basic protein",
+        "iri": "UNIPROT:P02686-3.1",
+        "starting_position": 118,
+        "ending_position": 136,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 115636,
+    "structure_descriptions": [
+      "PSQGKGRGLSLSRFSWGAE"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAH08749.3",
+        "name": "MBP protein",
+        "iri": "GENPEPT:AAH08749.3",
+        "starting_position": 102,
+        "ending_position": 120,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 115641,
+    "structure_descriptions": [
+      "QRPGFGYGGRASDYKSAHK"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAH08749.3",
+        "name": "MBP protein",
+        "iri": "GENPEPT:AAH08749.3",
+        "starting_position": 122,
+        "ending_position": 140,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 115648,
+    "structure_descriptions": [
+      "SLPQKSHGRTQDENPVVHF"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAH08749.3",
+        "name": "MBP protein",
+        "iri": "GENPEPT:AAH08749.3",
+        "starting_position": 72,
+        "ending_position": 90,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P02686.3",
+        "name": "Myelin basic protein",
+        "iri": "UNIPROT:P02686.3",
+        "starting_position": 205,
+        "ending_position": 223,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 115891,
+    "structure_descriptions": [
+      "PKSGHDTVSWYQQALGQG"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAB63910.1",
+        "name": "TCRBV5S2",
+        "iri": "GENPEPT:AAB63910.1",
+        "starting_position": 44,
+        "ending_position": 61,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 116079,
+    "structure_descriptions": [
+      "ATASTMDHARHGFLPRHRDTGIL"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAH08749.3",
+        "name": "MBP protein",
+        "iri": "GENPEPT:AAH08749.3",
+        "starting_position": 17,
+        "ending_position": 39,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 116170,
+    "structure_descriptions": [
+      "TQDENPVVHFFKNIVTPRTP"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAH08749.3",
+        "name": "MBP protein",
+        "iri": "GENPEPT:AAH08749.3",
+        "starting_position": 81,
+        "ending_position": 100,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 116911,
+    "structure_descriptions": [
+      "AAFVGAAATLVSLLTFMIAATYNFAVLKLMGR"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAA59565.1",
+        "name": "myelin proteolipid protein",
+        "iri": "GENPEPT:AAA59565.1",
+        "starting_position": 242,
+        "ending_position": 273,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 116924,
+    "structure_descriptions": [
+      "ASDYKSAHKGFKGVDAQGT"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAH08749.3",
+        "name": "MBP protein",
+        "iri": "GENPEPT:AAH08749.3",
+        "starting_position": 132,
+        "ending_position": 150,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 116973,
+    "structure_descriptions": [
+      "FGVALFCGCEVEALTGTEKLIETYFSKNYQD"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "SRC279977",
+        "name": "Myelin proteolipid protein",
+        "iri": "ONTIE:0002578",
+        "starting_position": null,
+        "ending_position": null,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 116976,
+    "structure_descriptions": [
+      "FKGVDAQGTLSKIFKLGGR"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAH08749.3",
+        "name": "MBP protein",
+        "iri": "GENPEPT:AAH08749.3",
+        "starting_position": 142,
+        "ending_position": 160,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 116993,
+    "structure_descriptions": [
+      "GSKYLATASTMDHARHGFLPRHRDTGILDSIGRFFGGDRG"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAH08749.3",
+        "name": "MBP protein",
+        "iri": "GENPEPT:AAH08749.3",
+        "starting_position": 12,
+        "ending_position": 51,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 116994,
+    "structure_descriptions": [
+      "GTASFFFLYGALLLAYGFYTTGAVRQIFGDYK"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "SRC279977",
+        "name": "Myelin proteolipid protein",
+        "iri": "ONTIE:0002578",
+        "starting_position": null,
+        "ending_position": null,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 116995,
+    "structure_descriptions": [
+      "HHPARTAHYGSLPQKSHGR"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAH08749.3",
+        "name": "MBP protein",
+        "iri": "GENPEPT:AAH08749.3",
+        "starting_position": 62,
+        "ending_position": 80,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 117009,
+    "structure_descriptions": [
+      "IGRFFGGDRGAPKRGSGKDSHHPARTAHY"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAH08749.3",
+        "name": "MBP protein",
+        "iri": "GENPEPT:AAH08749.3",
+        "starting_position": 42,
+        "ending_position": 70,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 117017,
+    "structure_descriptions": [
+      "KGRGSRGQHQAHSLERVCHCLGCWLGHPDKFV"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "SRC279977",
+        "name": "Myelin proteolipid protein",
+        "iri": "ONTIE:0002578",
+        "starting_position": null,
+        "ending_position": null,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 117032,
+    "structure_descriptions": [
+      "KVCGSNLLSICKTAEFQMTFHLFIAAFVGAAA"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAA59565.1",
+        "name": "myelin proteolipid protein",
+        "iri": "GENPEPT:AAA59565.1",
+        "starting_position": 218,
+        "ending_position": 249,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 117035,
+    "structure_descriptions": [
+      "LGHPDKFVGITYALTVVWLLVFACSAVPVYIY"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAA59565.1",
+        "name": "myelin proteolipid protein",
+        "iri": "GENPEPT:AAA59565.1",
+        "starting_position": 146,
+        "ending_position": 177,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 117039,
+    "structure_descriptions": [
+      "LLECCARCLVGAPFASLVATGLCFFGVALFC"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAA59565.1",
+        "name": "myelin proteolipid protein",
+        "iri": "GENPEPT:AAA59565.1",
+        "starting_position": 3,
+        "ending_position": 33,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 117073,
+    "structure_descriptions": [
+      "RQIFGDYKTTCGKGLSATVTGGQKGRGSRGQ"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "SRC279977",
+        "name": "Myelin proteolipid protein",
+        "iri": "ONTIE:0002578",
+        "starting_position": null,
+        "ending_position": null,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 117075,
+    "structure_descriptions": [
+      "SASIGTLCADARMYGVLPWNAFFGKVCGSNLL"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "SRC279977",
+        "name": "Myelin proteolipid protein",
+        "iri": "ONTIE:0002578",
+        "starting_position": null,
+        "ending_position": null,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 117076,
+    "structure_descriptions": [
+      "SAVPVYIYFNTWTTCQSIAAPCKTSASIGTLC"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "SRC279977",
+        "name": "Myelin proteolipid protein",
+        "iri": "ONTIE:0002578",
+        "starting_position": null,
+        "ending_position": null,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 117117,
+    "structure_descriptions": [
+      "YFSKNYQDYEYLINVIHAFQYVIYGTASFFFL"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAA59565.1",
+        "name": "myelin proteolipid protein",
+        "iri": "GENPEPT:AAA59565.1",
+        "starting_position": 50,
+        "ending_position": 81,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 118550,
+    "structure_descriptions": [
+      "PEPAKSAPAPKKGSKKAV"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "NP_001091448.2",
+        "name": "H2b histone family, member A",
+        "iri": "GENPEPT:NP_001091448.2",
+        "starting_position": 2,
+        "ending_position": 19,
+        "source_organism_name": "Mus musculus (mouse)",
+        "source_organism_iri": "NCBITaxon:10090"
+      },
+      {
+        "accession": "NP_003509.1",
+        "name": "histone H2B type 1-C/E/F/G/I",
+        "iri": "GENPEPT:NP_003509.1",
+        "starting_position": 2,
+        "ending_position": 19,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "O60814.3",
+        "name": "Histone H2B type 1-K",
+        "iri": "UNIPROT:O60814.3",
+        "starting_position": 2,
+        "ending_position": 19,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P57053.2",
+        "name": "Histone H2B type F-S",
+        "iri": "UNIPROT:P57053.2",
+        "starting_position": 2,
+        "ending_position": 19,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P62807.4",
+        "name": "Histone H2B type 1-C/E/F/G/I",
+        "iri": "UNIPROT:P62807.4",
+        "starting_position": 2,
+        "ending_position": 19,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 118650,
+    "structure_descriptions": [
+      "VFLCLQYRLRGKLRAE"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAB08089.1",
+        "name": "myelin/oligodendrocyte glycoprotein-25.6kD precursor",
+        "iri": "GENPEPT:AAB08089.1",
+        "starting_position": 145,
+        "ending_position": 160,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "CAB89274.1",
+        "name": "myelin oligodendrocyte glycoprotein",
+        "iri": "GENPEPT:CAB89274.1",
+        "starting_position": 144,
+        "ending_position": 159,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 119732,
+    "structure_descriptions": [
+      "AAHLPAEFTPAVHASLDKF"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "P69905.2",
+        "name": "Hemoglobin subunit alpha",
+        "iri": "UNIPROT:P69905.2",
+        "starting_position": 111,
+        "ending_position": 129,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "SAI82135.1",
+        "name": "TPA: globin C1",
+        "iri": "GENPEPT:SAI82135.1",
+        "starting_position": 146,
+        "ending_position": 164,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 119777,
+    "structure_descriptions": [
+      "AVILPPLSPYFK"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "4758772",
+        "name": "NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 3 [Homo sapiens]",
+        "iri": "GENPEPT:4758772",
+        "starting_position": 29,
+        "ending_position": 40,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "NP_004533.1",
+        "name": "NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 3",
+        "iri": "GENPEPT:NP_004533.1",
+        "starting_position": 29,
+        "ending_position": 40,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "O95167.1",
+        "name": "NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 3",
+        "iri": "UNIPROT:O95167.1",
+        "starting_position": 29,
+        "ending_position": 40,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "Q6FGG4.1",
+        "name": "NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 3",
+        "iri": "UNIPROT:Q6FGG4.1",
+        "starting_position": 29,
+        "ending_position": 40,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 119780,
+    "structure_descriptions": [
+      "AVVDKAAEAGGAEEQYG"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "P46821.1",
+        "name": "Microtubule-associated protein 1B",
+        "iri": "GENPEPT:P46821.1",
+        "starting_position": 1047,
+        "ending_position": 1063,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P46821.2",
+        "name": "Microtubule-associated protein 1B",
+        "iri": "UNIPROT:P46821.2",
+        "starting_position": 1047,
+        "ending_position": 1063,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 119791,
+    "structure_descriptions": [
+      "DESGPSIVHR"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "A5A3E0.2",
+        "name": "POTE ankyrin domain family member F",
+        "iri": "UNIPROT:A5A3E0.2",
+        "starting_position": 1063,
+        "ending_position": 1072,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAH16045.1",
+        "name": "actin, beta",
+        "iri": "GENPEPT:AAH16045.1",
+        "starting_position": 363,
+        "ending_position": 372,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "ABP57734.1",
+        "name": "POTE-2 alpha-actin",
+        "iri": "GENPEPT:ABP57734.1",
+        "starting_position": 1063,
+        "ending_position": 1072,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P60709.1",
+        "name": "Actin, cytoplasmic 1",
+        "iri": "UNIPROT:P60709.1",
+        "starting_position": 363,
+        "ending_position": 372,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P63261.1",
+        "name": "Actin, cytoplasmic 2",
+        "iri": "UNIPROT:P63261.1",
+        "starting_position": 363,
+        "ending_position": 372,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "Q6S8J3.3",
+        "name": "POTE ankyrin domain family member E",
+        "iri": "UNIPROT:Q6S8J3.3",
+        "starting_position": 1063,
+        "ending_position": 1072,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 119797,
+    "structure_descriptions": [
+      "DGVIKVFNDMKVRK"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "5031635",
+        "name": "cofilin-1 [Homo sapiens]",
+        "iri": "GENPEPT:5031635",
+        "starting_position": 9,
+        "ending_position": 22,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "NP_005498.1",
+        "name": "cofilin-1",
+        "iri": "GENPEPT:NP_005498.1",
+        "starting_position": 9,
+        "ending_position": 22,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P23528.3",
+        "name": "Cofilin-1",
+        "iri": "UNIPROT:P23528.3",
+        "starting_position": 9,
+        "ending_position": 22,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "Q5E9F7.3",
+        "name": "Cofilin-1",
+        "iri": "UNIPROT:Q5E9F7.3",
+        "starting_position": 9,
+        "ending_position": 22,
+        "source_organism_name": "Bos taurus (bovine)",
+        "source_organism_iri": "NCBITaxon:9913"
+      },
+      {
+        "accession": "Q5E9F7.3",
+        "name": "Cofilin-1",
+        "iri": "UNIPROT:Q5E9F7.3",
+        "starting_position": 9,
+        "ending_position": 22,
+        "source_organism_name": "Bos taurus Hereford-Angus",
+        "source_organism_iri": "ONTIE:0000113"
+      }
+    ]
+  },
+  {
+    "structure_id": 119809,
+    "structure_descriptions": [
+      "DTGILDSIGRF"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAC41944.1",
+        "name": "myelin basic protein",
+        "iri": "GENPEPT:AAC41944.1",
+        "starting_position": 35,
+        "ending_position": 45,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "J3KT34.1",
+        "name": "Myelin basic protein",
+        "iri": "UNIPROT:J3KT34.1",
+        "starting_position": 33,
+        "ending_position": 43,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P02686.3",
+        "name": "Myelin basic protein",
+        "iri": "UNIPROT:P02686.3",
+        "starting_position": 168,
+        "ending_position": 178,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P04370.2",
+        "name": "Myelin basic protein",
+        "iri": "GENPEPT:P04370.2",
+        "starting_position": 166,
+        "ending_position": 176,
+        "source_organism_name": "Mus musculus (mouse)",
+        "source_organism_iri": "NCBITaxon:10090"
+      },
+      {
+        "accession": "XP_024306956.1",
+        "name": "myelin basic protein isoform X2 [Homo sapiens]",
+        "iri": "GENPEPT:XP_024306956.1",
+        "starting_position": 35,
+        "ending_position": 45,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 119817,
+    "structure_descriptions": [
+      "DVGVYRAVTPQGRPD"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "150418002",
+        "name": "HLA class II histocompatibility antigen, DQ beta 1 chain isoform 1 precursor [Homo sapiens]",
+        "iri": "GENPEPT:150418002",
+        "starting_position": 75,
+        "ending_position": 89,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "A2AAZ0.1",
+        "name": "Major histocompatibility complex, class II, DQ beta 1",
+        "iri": "UNIPROT:A2AAZ0.1",
+        "starting_position": 75,
+        "ending_position": 89,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAC41971.1",
+        "name": "MHC class II HLA-DQ-beta-1",
+        "iri": "GENPEPT:AAC41971.1",
+        "starting_position": 43,
+        "ending_position": 57,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "ALS87482.1",
+        "name": "MHC class II antigen, partial",
+        "iri": "GENPEPT:ALS87482.1",
+        "starting_position": 38,
+        "ending_position": 52,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "E9PIB1.1",
+        "name": "Major histocompatibility complex, class II, DQ beta 1",
+        "iri": "UNIPROT:E9PIB1.1",
+        "starting_position": 75,
+        "ending_position": 89,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "NP_001230890.1",
+        "name": "HLA class II histocompatibility antigen, DQ beta 1 chain isoform 2 precursor",
+        "iri": "GENPEPT:NP_001230890.1",
+        "starting_position": 75,
+        "ending_position": 89,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "NP_002114.3",
+        "name": "HLA class II histocompatibility antigen, DQ beta 1 chain isoform 1 precursor [Homo sapiens]",
+        "iri": "GENPEPT:NP_002114.3",
+        "starting_position": 75,
+        "ending_position": 89,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P03992.2",
+        "name": "HLA class II histocompatibility antigen, DQB1*0602 beta chain precursor",
+        "iri": "GENPEPT:P03992.2",
+        "starting_position": 75,
+        "ending_position": 89,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "Q5SU54.1",
+        "name": "MHC class II antigen",
+        "iri": "UNIPROT:Q5SU54.1",
+        "starting_position": 75,
+        "ending_position": 89,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "Q9TNT9.1",
+        "name": "HLA-DQB106new1 protein",
+        "iri": "UNIPROT:Q9TNT9.1",
+        "starting_position": 38,
+        "ending_position": 52,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 119866,
+    "structure_descriptions": [
+      "FLSFPTTKTYFPHF"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "P01966.2",
+        "name": "Hemoglobin subunit alpha",
+        "iri": "UNIPROT:P01966.2",
+        "starting_position": 34,
+        "ending_position": 47,
+        "source_organism_name": "Bos taurus Hereford-Angus",
+        "source_organism_iri": "ONTIE:0000113"
+      },
+      {
+        "accession": "P69905.2",
+        "name": "Hemoglobin subunit alpha",
+        "iri": "UNIPROT:P69905.2",
+        "starting_position": 34,
+        "ending_position": 47,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "SAI82135.1",
+        "name": "TPA: globin C1",
+        "iri": "GENPEPT:SAI82135.1",
+        "starting_position": 69,
+        "ending_position": 82,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 119878,
+    "structure_descriptions": [
+      "FSQFGPIERA"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "CAA34747.1",
+        "name": "myoblast antigen 24.1D5",
+        "iri": "GENPEPT:CAA34747.1",
+        "starting_position": 80,
+        "ending_position": 89,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "NP_005057.1",
+        "name": "splicing factor, proline- and glutamine-rich",
+        "iri": "GENPEPT:NP_005057.1",
+        "starting_position": 391,
+        "ending_position": 400,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P23246.2",
+        "name": "Splicing factor, proline- and glutamine-rich",
+        "iri": "UNIPROT:P23246.2",
+        "starting_position": 391,
+        "ending_position": 400,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "XP_005629463.1",
+        "name": "PREDICTED: splicing factor, proline- and glutamine-rich",
+        "iri": "GENPEPT:XP_005629463.1",
+        "starting_position": 343,
+        "ending_position": 352,
+        "source_organism_name": "Canis lupus familiaris (dogs)",
+        "source_organism_iri": "NCBITaxon:9615"
+      },
+      {
+        "accession": "XP_031817967.1",
+        "name": "splicing factor, proline- and glutamine-rich isoform X2 [Sarcophilus harrisii]",
+        "iri": "GENPEPT:XP_031817967.1",
+        "starting_position": 384,
+        "ending_position": 393,
+        "source_organism_name": "Sarcophilus harrisii (Tasmanian devil)",
+        "source_organism_iri": "NCBITaxon:9305"
+      }
+    ]
+  },
+  {
+    "structure_id": 119879,
+    "structure_descriptions": [
+      "FSVATVQTTW"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "Q6IFR1.1",
+        "name": "Olfactory receptor",
+        "iri": "UNIPROT:Q6IFR1.1",
+        "starting_position": 163,
+        "ending_position": 172,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 119885,
+    "structure_descriptions": [
+      "FVNDIFERI"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "4504263",
+        "name": "histone H2B type 1-M [Homo sapiens]",
+        "iri": "GENPEPT:4504263",
+        "starting_position": 66,
+        "ending_position": 74,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAA63192.1",
+        "name": "histone H2B.1",
+        "iri": "GENPEPT:AAA63192.1",
+        "starting_position": 41,
+        "ending_position": 49,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAI06900.1",
+        "name": "HIST1H2BC protein, partial",
+        "iri": "GENPEPT:AAI06900.1",
+        "starting_position": 65,
+        "ending_position": 73,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "EAX03082.1",
+        "name": "histone 1, H2bj, isoform CRA_b",
+        "iri": "GENPEPT:EAX03082.1",
+        "starting_position": 66,
+        "ending_position": 74,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "NP_001154806.1",
+        "name": "histone cluster 2, H2bf isoform b",
+        "iri": "GENPEPT:NP_001154806.1",
+        "starting_position": 66,
+        "ending_position": 74,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "NP_003512.1",
+        "name": "histone H2B type 1-M",
+        "iri": "GENPEPT:NP_003512.1",
+        "starting_position": 66,
+        "ending_position": 74,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "NP_003519.1",
+        "name": "histone H2B type 2-E",
+        "iri": "GENPEPT:NP_003519.1",
+        "starting_position": 66,
+        "ending_position": 74,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "NP_066406.1",
+        "name": "histone H2B type 1-B",
+        "iri": "GENPEPT:NP_066406.1",
+        "starting_position": 66,
+        "ending_position": 74,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "O60814.3",
+        "name": "Histone H2B type 1-K",
+        "iri": "UNIPROT:O60814.3",
+        "starting_position": 66,
+        "ending_position": 74,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P06899.3",
+        "name": "Histone H2B type 1-J",
+        "iri": "UNIPROT:P06899.3",
+        "starting_position": 66,
+        "ending_position": 74,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P23527.3",
+        "name": "Histone H2B type 1-O",
+        "iri": "UNIPROT:P23527.3",
+        "starting_position": 66,
+        "ending_position": 74,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P33778.2",
+        "name": "Histone H2B type 1-B",
+        "iri": "UNIPROT:P33778.2",
+        "starting_position": 66,
+        "ending_position": 74,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P57053.2",
+        "name": "Histone H2B type F-S",
+        "iri": "UNIPROT:P57053.2",
+        "starting_position": 66,
+        "ending_position": 74,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P58876.2",
+        "name": "Histone H2B type 1-D",
+        "iri": "UNIPROT:P58876.2",
+        "starting_position": 66,
+        "ending_position": 74,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P62807.4",
+        "name": "Histone H2B type 1-C/E/F/G/I",
+        "iri": "UNIPROT:P62807.4",
+        "starting_position": 66,
+        "ending_position": 74,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "Q16778.3",
+        "name": "Histone H2B type 2-E",
+        "iri": "UNIPROT:Q16778.3",
+        "starting_position": 66,
+        "ending_position": 74,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "Q99879.3",
+        "name": "Histone H2B type 1-M",
+        "iri": "UNIPROT:Q99879.3",
+        "starting_position": 66,
+        "ending_position": 74,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "U3KQK0.1",
+        "name": "Histone H2B",
+        "iri": "UNIPROT:U3KQK0.1",
+        "starting_position": 66,
+        "ending_position": 74,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "XP_003640345.1",
+        "name": "PREDICTED: histone H2B type 1-like, partial",
+        "iri": "GENPEPT:XP_003640345.1",
+        "starting_position": 66,
+        "ending_position": 74,
+        "source_organism_name": "Canis lupus familiaris (dogs)",
+        "source_organism_iri": "NCBITaxon:9615"
+      }
+    ]
+  },
+  {
+    "structure_id": 119901,
+    "structure_descriptions": [
+      "GKVNVDEVGGEALGRL"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "BAV25189.2",
+        "name": "beta globin, partial",
+        "iri": "GENPEPT:BAV25189.2",
+        "starting_position": 17,
+        "ending_position": 32,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "O95408.1",
+        "name": "Beta globin",
+        "iri": "UNIPROT:O95408.1",
+        "starting_position": 17,
+        "ending_position": 32,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P68871.2",
+        "name": "Hemoglobin subunit beta",
+        "iri": "UNIPROT:P68871.2",
+        "starting_position": 17,
+        "ending_position": 32,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 119902,
+    "structure_descriptions": [
+      "GKVNVDEVGGEALGRLL"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "O95408.1",
+        "name": "Beta globin",
+        "iri": "UNIPROT:O95408.1",
+        "starting_position": 17,
+        "ending_position": 33,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P68871.2",
+        "name": "Hemoglobin subunit beta",
+        "iri": "UNIPROT:P68871.2",
+        "starting_position": 17,
+        "ending_position": 33,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 119909,
+    "structure_descriptions": [
+      "GNRIAQWQSFQLEG"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAT02228.1",
+        "name": "alpha 2 macroglobulin",
+        "iri": "UNIPROT:AAT02228.1",
+        "starting_position": 197,
+        "ending_position": 210,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "NP_001334352.1",
+        "name": "alpha-2-macroglobulin isoform a precursor [Homo sapiens]",
+        "iri": "GENPEPT:NP_001334352.1",
+        "starting_position": 172,
+        "ending_position": 185,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "NP_001334354.1",
+        "name": "alpha-2-macroglobulin isoform c",
+        "iri": "GENPEPT:NP_001334354.1",
+        "starting_position": 22,
+        "ending_position": 35,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P01023.1",
+        "name": "Alpha-2-macroglobulin",
+        "iri": "GENPEPT:P01023.1",
+        "starting_position": 172,
+        "ending_position": 185,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P01023.2",
+        "name": "Alpha-2-macroglobulin",
+        "iri": "GENPEPT:P01023.2",
+        "starting_position": 172,
+        "ending_position": 185,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P01023.3",
+        "name": "Alpha-2-macroglobulin",
+        "iri": "UNIPROT:P01023.3",
+        "starting_position": 172,
+        "ending_position": 185,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 119921,
+    "structure_descriptions": [
+      "GWSSHPPPSPCREQEIR"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "EAW90170.1",
+        "name": "SUMO1/sentrin/SMT3 specific peptidase 3, isoform CRA_a",
+        "iri": "GENPEPT:EAW90170.1",
+        "starting_position": 582,
+        "ending_position": 598,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 119927,
+    "structure_descriptions": [
+      "HGSKYLATASTMDHA"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "P02686.3",
+        "name": "Myelin basic protein",
+        "iri": "UNIPROT:P02686.3",
+        "starting_position": 144,
+        "ending_position": 158,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 119944,
+    "structure_descriptions": [
+      "IIEETKVEDEK"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "P07197.3",
+        "name": "Neurofilament medium polypeptide",
+        "iri": "UNIPROT:P07197.3",
+        "starting_position": 456,
+        "ending_position": 466,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 119963,
+    "structure_descriptions": [
+      "ISWYDNEFGYSNRVVDL"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "1276317824",
+        "name": "glyceraldehyde-3-phosphate dehydrogenase isoform 4 [Homo sapiens]",
+        "iri": "GENPEPT:1276317824",
+        "starting_position": 293,
+        "ending_position": 309,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "4WNI_O",
+        "name": "Chain O, Crystal Structure Of The T229k Mutant Of Human Gapdh At 2.3 Angstroems Resolution",
+        "iri": "GENPEPT:4WNI_O",
+        "starting_position": 311,
+        "ending_position": 327,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "NP_001243728.1",
+        "name": "glyceraldehyde-3-phosphate dehydrogenase isoform 2",
+        "iri": "GENPEPT:NP_001243728.1",
+        "starting_position": 269,
+        "ending_position": 285,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "NP_002037.2",
+        "name": "glyceraldehyde-3-phosphate dehydrogenase",
+        "iri": "GENPEPT:NP_002037.2",
+        "starting_position": 311,
+        "ending_position": 327,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P04406-2.1",
+        "name": "Isoform 2 of Glyceraldehyde-3-phosphate dehydrogenase",
+        "iri": "UNIPROT:P04406-2.1",
+        "starting_position": 269,
+        "ending_position": 285,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P04406.3",
+        "name": "Glyceraldehyde-3-phosphate dehydrogenase",
+        "iri": "UNIPROT:P04406.3",
+        "starting_position": 311,
+        "ending_position": 327,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P10096.4",
+        "name": "Glyceraldehyde-3-phosphate dehydrogenase",
+        "iri": "UNIPROT:P10096.4",
+        "starting_position": 309,
+        "ending_position": 325,
+        "source_organism_name": "Bos taurus (bovine)",
+        "source_organism_iri": "NCBITaxon:9913"
+      },
+      {
+        "accession": "P10096.4",
+        "name": "Glyceraldehyde-3-phosphate dehydrogenase",
+        "iri": "UNIPROT:P10096.4",
+        "starting_position": 309,
+        "ending_position": 325,
+        "source_organism_name": "Bos taurus Hereford-Angus",
+        "source_organism_iri": "ONTIE:0000113"
+      }
+    ]
+  },
+  {
+    "structure_id": 119972,
+    "structure_descriptions": [
+      "IVTPRTPPPSQGKGRG"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "P02686.3",
+        "name": "Myelin basic protein",
+        "iri": "UNIPROT:P02686.3",
+        "starting_position": 227,
+        "ending_position": 242,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 119973,
+    "structure_descriptions": [
+      "IVTPRTPPPSQGKGRGLS"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "P02686.3",
+        "name": "Myelin basic protein",
+        "iri": "UNIPROT:P02686.3",
+        "starting_position": 227,
+        "ending_position": 244,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 119975,
+    "structure_descriptions": [
+      "IVVYPVHGFMY"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "SRC280062",
+        "name": "Low-density lipoprotein receptor",
+        "iri": "ONTIE:0002662",
+        "starting_position": null,
+        "ending_position": null,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 120012,
+    "structure_descriptions": [
+      "KVYNEAGVTFT"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAA52524.1",
+        "name": "glutamate dehydrogenase",
+        "iri": "GENPEPT:AAA52524.1",
+        "starting_position": 248,
+        "ending_position": 258,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P00367.2",
+        "name": "Glutamate dehydrogenase 1, mitochondrial",
+        "iri": "UNIPROT:P00367.2",
+        "starting_position": 548,
+        "ending_position": 558,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P26443.1",
+        "name": "Glutamate dehydrogenase 1, mitochondrial",
+        "iri": "UNIPROT:P26443.1",
+        "starting_position": 548,
+        "ending_position": 558,
+        "source_organism_name": "Mus musculus (mouse)",
+        "source_organism_iri": "NCBITaxon:10090"
+      }
+    ]
+  },
+  {
+    "structure_id": 120016,
+    "structure_descriptions": [
+      "LASVSTVLTSKY"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "1CH4_A",
+        "name": "Chain A, Module-Substituted Chimera Hemoglobin Beta-Alpha (F133v)",
+        "iri": "GENPEPT:1CH4_A",
+        "starting_position": 134,
+        "ending_position": 145,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "28549",
+        "name": "alpha globin [Homo sapiens]",
+        "iri": "GENPEPT:28549",
+        "starting_position": 116,
+        "ending_position": 127,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "AAL32371.1",
+        "name": "alpha globin 1 [Mus musculus]",
+        "iri": "GENPEPT:AAL32371.1",
+        "starting_position": 130,
+        "ending_position": 141,
+        "source_organism_name": "Mus musculus (mouse)",
+        "source_organism_iri": "NCBITaxon:10090"
+      },
+      {
+        "accession": "AHA12102.1",
+        "name": "mutant hemoglobin alpha 2 globin chain, partial [Homo sapiens]",
+        "iri": "GENPEPT:AHA12102.1",
+        "starting_position": 30,
+        "ending_position": 41,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "G3V1N2.1",
+        "name": "Hemoglobin subunit alpha 2",
+        "iri": "UNIPROT:G3V1N2.1",
+        "starting_position": 98,
+        "ending_position": 109,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P01942.2",
+        "name": "Hemoglobin subunit alpha",
+        "iri": "UNIPROT:P01942.2",
+        "starting_position": 130,
+        "ending_position": 141,
+        "source_organism_name": "Mus musculus C57BL/6",
+        "source_organism_iri": "ONTIE:0000062"
+      },
+      {
+        "accession": "P69905.2",
+        "name": "Hemoglobin subunit alpha",
+        "iri": "UNIPROT:P69905.2",
+        "starting_position": 130,
+        "ending_position": 141,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "SAI82135.1",
+        "name": "TPA: globin C1",
+        "iri": "GENPEPT:SAI82135.1",
+        "starting_position": 165,
+        "ending_position": 176,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 120023,
+    "structure_descriptions": [
+      "LERIQIQEAAKKKPG"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAQ89280.1",
+        "name": "SPOCK2",
+        "iri": "GENPEPT:AAQ89280.1",
+        "starting_position": 317,
+        "ending_position": 331,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "Q92563.1",
+        "name": "Testican-2",
+        "iri": "UNIPROT:Q92563.1",
+        "starting_position": 317,
+        "ending_position": 331,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 120080,
+    "structure_descriptions": [
+      "LNTILPDARDPAFK"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "AAF66141.1",
+        "name": "lysosomal-associated membrane glycoprotein-1, partial",
+        "iri": "GENPEPT:AAF66141.1",
+        "starting_position": 245,
+        "ending_position": 258,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "BAG63075.1",
+        "name": "unnamed protein product",
+        "iri": "GENPEPT:BAG63075.1",
+        "starting_position": 253,
+        "ending_position": 266,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "NP_005552.3",
+        "name": "lysosome-associated membrane glycoprotein 1 precursor",
+        "iri": "GENPEPT:NP_005552.3",
+        "starting_position": 306,
+        "ending_position": 319,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P11279-2.1",
+        "name": "Isoform 2 of Lysosome-associated membrane glycoprotein 1",
+        "iri": "UNIPROT:P11279-2.1",
+        "starting_position": 253,
+        "ending_position": 266,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P11279.3",
+        "name": "Lysosome-associated membrane glycoprotein 1",
+        "iri": "UNIPROT:P11279.3",
+        "starting_position": 306,
+        "ending_position": 319,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 120087,
+    "structure_descriptions": [
+      "LSFPTTKTYFPHF"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "P01966.2",
+        "name": "Hemoglobin subunit alpha",
+        "iri": "UNIPROT:P01966.2",
+        "starting_position": 35,
+        "ending_position": 47,
+        "source_organism_name": "Bos taurus Hereford-Angus",
+        "source_organism_iri": "ONTIE:0000113"
+      },
+      {
+        "accession": "P69905.2",
+        "name": "Hemoglobin subunit alpha",
+        "iri": "UNIPROT:P69905.2",
+        "starting_position": 35,
+        "ending_position": 47,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "SAI82135.1",
+        "name": "TPA: globin C1",
+        "iri": "GENPEPT:SAI82135.1",
+        "starting_position": 70,
+        "ending_position": 82,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 120112,
+    "structure_descriptions": [
+      "NQELRADGTVNQIEG"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "4502163",
+        "name": "apolipoprotein D precursor [Homo sapiens]",
+        "iri": "GENPEPT:4502163",
+        "starting_position": 78,
+        "ending_position": 92,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "NP_001638.1",
+        "name": "apolipoprotein D precursor",
+        "iri": "GENPEPT:NP_001638.1",
+        "starting_position": 78,
+        "ending_position": 92,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P05090.1",
+        "name": "Apolipoprotein D",
+        "iri": "UNIPROT:P05090.1",
+        "starting_position": 78,
+        "ending_position": 92,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 120139,
+    "structure_descriptions": [
+      "PVDLSKWSGPLSL"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "NP_002558.1",
+        "name": "phosphatidylethanolamine-binding protein 1 preproprotein",
+        "iri": "GENPEPT:NP_002558.1",
+        "starting_position": 2,
+        "ending_position": 14,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "P13696.2",
+        "name": "Phosphatidylethanolamine-binding protein 1",
+        "iri": "UNIPROT:P13696.2",
+        "starting_position": 2,
+        "ending_position": 14,
+        "source_organism_name": "Bos taurus (bovine)",
+        "source_organism_iri": "NCBITaxon:9913"
+      },
+      {
+        "accession": "P30086.3",
+        "name": "Phosphatidylethanolamine-binding protein 1",
+        "iri": "UNIPROT:P30086.3",
+        "starting_position": 2,
+        "ending_position": 14,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 120165,
+    "structure_descriptions": [
+      "RAIEQLAMM"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "SRC280264",
+        "name": "Baculoviral IAP repeat-containing protein 5",
+        "iri": "ONTIE:0002861",
+        "starting_position": null,
+        "ending_position": null,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 120169,
+    "structure_descriptions": [
+      "RHGSKYLATA"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "P02686.3",
+        "name": "Myelin basic protein",
+        "iri": "UNIPROT:P02686.3",
+        "starting_position": 143,
+        "ending_position": 152,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 120170,
+    "structure_descriptions": [
+      "RHGSKYLATASTMDHARH"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "P02686.3",
+        "name": "Myelin basic protein",
+        "iri": "UNIPROT:P02686.3",
+        "starting_position": 143,
+        "ending_position": 160,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  },
+  {
+    "structure_id": 120201,
+    "structure_descriptions": [
+      "SHGRTQDENPVVHF"
+    ],
+    "curated_source_antigens": [
+      {
+        "accession": "P02686.3",
+        "name": "Myelin basic protein",
+        "iri": "UNIPROT:P02686.3",
+        "starting_position": 210,
+        "ending_position": 223,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      },
+      {
+        "accession": "XP_024306956.1",
+        "name": "myelin basic protein isoform X2 [Homo sapiens]",
+        "iri": "GENPEPT:XP_024306956.1",
+        "starting_position": 103,
+        "ending_position": 116,
+        "source_organism_name": "Homo sapiens (human)",
+        "source_organism_iri": "NCBITaxon:9606"
+      }
+    ]
+  }
+]

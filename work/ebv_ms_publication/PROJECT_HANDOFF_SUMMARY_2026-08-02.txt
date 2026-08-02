@@ -1,0 +1,597 @@
+EBV-MS MOLECULAR MIMICRY PROJECT HANDOFF SUMMARY
+Generated: 2026-08-02
+Project folder: /Users/anishsharma/Documents/Codex/2026-08-01/i-al/work/ebv_ms_publication
+
+PURPOSE OF THIS FILE
+This is a detailed portable summary of the EBV-MS project so it can be pasted into a new chat conversation or shared with a mentor. It summarizes what was done, what was corrected, what the current defensible scientific claim is, which files matter, what results were generated, what should not be claimed, and what the next steps are.
+
+SHORT VERSION
+This project was rebuilt from a messy earlier EBV-MS molecular mimicry analysis into a reproducible computational immunology workflow. The final direction is not "we proved EBV causes MS" and not "we discovered BALF5-MBP mimicry." The strongest defensible claim is:
+
+    We built an auditable HLA-DR15-focused computational workflow that uses experimentally established EBV-myelin pMHC molecular mimicry as a positive-control anchor, validates modeled pMHC inputs, ranks EBV-CNS candidate pairs by local pMHC structural and physicochemical similarity, and explicitly rejects uncalibrated TCR ternary predictions as evidence of receptor recognition.
+
+The project is currently strong for science fair presentation and potentially publishable as a student-accessible computational/immunoinformatics paper, especially if reviewed by an adult scientific mentor. It is not yet a high-impact immunology mechanism paper because it lacks direct wet-lab TCR binding, activation, or patient validation.
+
+
+PROJECT BACKGROUND
+The biological theme is the connection between Epstein-Barr virus (EBV), HLA-DR15, and multiple sclerosis (MS). EBV infection and the HLA-DR15 haplotype are both major MS risk factors. The project focuses on whether EBV peptides and CNS/myelin peptides may produce similar peptide-MHC surfaces that could plausibly contribute to molecular mimicry.
+
+The project originally included MHC-I, generic docking, and some simulated or weakly validated outputs. During the rebuild, the scope was narrowed primarily to HLA class II, especially HLA-DRB1*15:01 / DR15 biology, because MS risk and CD4 T-cell antigen presentation are the more relevant pathway for this project.
+
+Important conceptual pivot:
+- MHC-II / CD4 T-cell antigen presentation is now the primary pathway.
+- MHC-I and antibody-related analyses are optional future branches, not central current evidence.
+- The current paper should be framed as computational prioritization, not direct proof of pathogenic mimicry.
+
+
+MAJOR CORRECTIONS MADE
+1. The BALF5-MBP system was corrected.
+   Earlier logic risk: treating BALF5-MBP as if it were a new discovery or a same-allele DRB1*15:01 result.
+
+   Correct version:
+   - EBV BALF5(627-641): TGGVYHFVKKHVHES
+   - Presented by HLA-DRB5*01:01, also called DR2a
+   - Experimental pMHC structure: PDB 1H15
+   - Human MBP(85-99): ENPVVHFFKNIVTPR
+   - Presented by HLA-DRB1*15:01, also called DR2b
+   - Experimental pMHC structure: PDB 1BX2
+   - Both are part of the known Hy.2E11 cross-reactive system from prior literature.
+
+   The correct interpretation is allele-pair switching across the DR15 haplotype, not same-allele DRB1*15:01 mimicry.
+
+2. The HLA-A*02:02 / DRB*15:02 label issue was clarified.
+   These labels were controls, not literal high-risk human alleles being claimed as central disease alleles. The main analysis moved away from those confusing legacy labels.
+
+3. Legacy "human myelin" labels were corrected conceptually.
+   Some sequences had been labeled as human myelin/CNS too loosely. The rebuild requires each peptide to retain provenance: organism, source antigen, accession, IEDB ID, HLA restriction, evidence type, and source URL where possible.
+
+4. Simulated or hallucinated outputs were quarantined.
+   The rebuilt publication workspace states that no simulated values, legacy labels, or unvalidated structural scores should be used as publication inputs.
+
+5. TCR docking/ternary modeling was downgraded.
+   The project tested whether ColabFold could model five-chain TCR-pMHC complexes using the known Ob.1A12 positive control. It failed the orientation benchmark, so the ternary results are not used as binding evidence.
+
+
+CURRENT CENTRAL CLAIM
+Allowed claim:
+    This is a calibrated computational prioritization workflow for EBV-CNS pMHC mimicry candidates in HLA-DR15, anchored to known experimental positive controls.
+
+Not allowed:
+- We proved EBV causes MS.
+- We discovered BALF5-MBP mimicry.
+- We proved TCR binding.
+- We proved T-cell activation.
+- We proved patient pathogenicity.
+- We proved a clinical mechanism from modeling alone.
+- We proved all EBV-MS mechanisms are captured by the pMHC surface metric.
+
+
+PROJECT STRUCTURE
+Main project folder:
+    /Users/anishsharma/Documents/Codex/2026-08-01/i-al/work/ebv_ms_publication
+
+Important folders:
+    docs/
+        Planning, manuscript skeleton, strategy, scope, statistical plan, quality reports.
+
+    src/
+        Scripts used to build datasets, QA structures, rank candidates, run validation benchmarks, analyze GEO data, run PyTorch classifier, and make figures.
+
+    processed/
+        Derived tables, cleaned inputs, validation outputs, figures, and summaries.
+
+    raw/
+        Raw input data, including GEO and RCSB/template files.
+
+    legacy_archive/
+        Older material retained but not used directly as publication evidence.
+
+
+CORE FILES TO KNOW
+1. Project README
+    README.md
+    Describes the rebuilt scope: HLA-DRB1*15:01 / MHC-II first, legacy material quarantined.
+
+2. Publication strategy
+    docs/publication_strategy.md
+    Defines the working title, central thesis, paper structure, figure plan, and submission path.
+
+3. Manuscript skeleton
+    docs/manuscript_skeleton.md
+    Contains draft abstract, results scaffolding, discussion scaffolding, and methods checklist.
+
+4. Claim matrix
+    processed/publication_claim_matrix.csv
+    This is one of the most important files. It lists every allowed claim, evidence class, allowed wording, prohibited overclaims, key artifacts, and next actions.
+
+5. Evidence ledger
+    processed/publication_evidence_ledger.md
+    Tracks evidence status and claim boundaries.
+
+6. Benchmark/control registry
+    processed/benchmark_control_registry.csv
+    Lists positive controls, negative controls, failed controls, external context controls, and future required controls.
+
+7. pMHC shortlist
+    processed/fullscreen_tier1_ebv_myelin_shortlist.csv
+    Contains 32 scored EBV-myelin/CNS candidate pairs after the corrected aligned-residue gate.
+
+8. pMHC ColabFold manifest
+    processed/pmhc_colabfold_manifest.csv
+    Contains 86 modeled pMHC candidates plus header line. This is the main modeled pMHC input set.
+
+9. pMHC peptide QA
+    processed/colabfold_pmhc_peptide_qa.csv
+    Contains 86 QA-checked pMHC model rows plus header line. Publication claim: the rebuilt 86 rank-1 pMHC structures passed peptide sequence and chain-layout QA.
+
+10. External validation panel
+    processed/external_validation_panel.csv
+    Defines literature-positive candidates overlaid onto the ranked pMHC shortlist.
+
+11. External validation benchmark
+    processed/external_validation_benchmark/external_validation_rank_recovery_summary.csv
+    Summarizes rank-recovery permutation tests.
+
+
+FIGURES CREATED
+Figure 1:
+    processed/experimental_positive_control/figure_1_experimental_positive_control_300dpi.png
+    processed/experimental_positive_control/figure_1_experimental_positive_control.pdf
+
+    Purpose:
+    Shows experimental BALF5-MBP pMHC positive-control equivalence using PDB 1H15 and 1BX2.
+
+Figure 2:
+    processed/publication_figures/figure_2_pmhc_screen_shortlist_300dpi.png
+    processed/publication_figures/figure_2_pmhc_screen_shortlist.pdf
+
+    Purpose:
+    Shows corrected pMHC candidate-priority ranking.
+
+Figure 3:
+    processed/publication_figures/figure_3_claim_ladder_300dpi.png
+    processed/publication_figures/figure_3_claim_ladder.pdf
+
+    Purpose:
+    Shows evidence ladder / claim boundary: context -> pMHC anchor -> computational prioritization -> direct TCR/activation validation still missing.
+
+Figure 4:
+    processed/publication_figures/figure_4_gse190847_pytorch_expression_300dpi.png
+    processed/publication_figures/figure_4_gse190847_pytorch_expression.pdf
+
+    Purpose:
+    Shows PyTorch expression classifier / transcriptomic context using GSE190847. This may be main Figure 4 or supplementary depending on final paper strategy.
+
+Figure 5:
+    processed/publication_figures/figure_5_external_validation_overlay_300dpi.png
+    processed/publication_figures/figure_5_external_validation_overlay.pdf
+
+    Purpose:
+    Shows external validation overlay: classic BALF5-MBP positives are enriched near the top of the pMHC shortlist, but newer EBV gB/gH positives are not broadly enriched.
+
+
+RESULT 1: EXPERIMENTAL POSITIVE-CONTROL CALIBRATION
+Files:
+    processed/experimental_positive_control/RESULTS_DRAFT.md
+    processed/experimental_positive_control/experimental_core_position_distances.csv
+    processed/experimental_positive_control/experimental_drb2_positive_control_metrics.csv
+    processed/experimental_positive_control/figure_1_experimental_positive_control_300dpi.png
+
+What was done:
+The project used known experimental structures as the anchor:
+- PDB 1H15: EBV BALF5 peptide on HLA-DRB5*01:01
+- PDB 1BX2: MBP peptide on HLA-DRB1*15:01
+
+After fitting the HLA peptide-binding platforms, the seven-position BALF5/MBP peptide core had a C-alpha RMSD of 0.838 A.
+
+Interpretation:
+This supports that the known BALF5-MBP system is a strong structural positive control for the pMHC comparison metric.
+
+Critical caveat:
+This does not independently measure Hy.2E11 affinity, T-cell activation, or patient cross-reactivity. Those biological functions come from prior experimental literature, not from this computational reanalysis.
+
+
+RESULT 2: 86 pMHC MODEL SET AND QA
+Files:
+    processed/pmhc_colabfold_manifest.csv
+    processed/pmhc_colabfold_inputs.fasta
+    processed/colabfold_pmhc_peptide_qa.csv
+    processed/colabfold_pmhc_peptide_residue_qa.csv
+    src/build_colabfold_inputs.py
+    src/qa_pmhc_structures.py
+    src/triage_colabfold_pmhc.py
+
+What was done:
+The project generated a batch FASTA for pMHC modeling. The user ran ColabFold externally in Colab Pro and later downloaded/uploaded rank-1 PDB files. The final rank-1 pMHC set contains 86 modeled candidates.
+
+The QA gate checked:
+- Expected peptide sequence is present in the PDB.
+- Chain layout is compatible with DRA-like chain, DRB-like chain, and peptide chain.
+- Peptide chain identity and residue-level contacts are traceable.
+- Legacy malformed or ambiguous structures are not used as publication evidence.
+
+Important note:
+Some older QA notes summarize legacy buckets such as "legacy ambiguous complex" or "missing alpha chain." Those describe older/quarantined material. The rebuilt 86-model pMHC set is the current publication input.
+
+
+RESULT 3: CORRECTED pMHC CANDIDATE PRIORITIZATION SCREEN
+Files:
+    processed/fullscreen_tier1_ebv_myelin_shortlist.csv
+    processed/colabfold_tier1_ebv_myelin_geometry_matrix.csv
+    processed/physicochemical_similarity_results.json
+    src/rank_full_pmhc_screen.py
+    src/biochemical_similarity.py
+    src/run_null_model.py
+    src/make_pmhc_screen_figure.R
+
+What was done:
+The screen compared Tier-1 EBV T-cell peptides against myelin/CNS candidates using:
+- local peptide geometry after HLA-groove normalization
+- physicochemical similarity
+- peptide model confidence / QA filters
+- aligned-residue gates
+
+The final scored shortlist has 32 candidate pairs plus header line.
+
+Top examples from the shortlist:
+1. EBV_TCELL_63843 vs HUMAN_MYELIN_80095
+   - locally aligned residues: 6
+   - property similarity: 0.8431
+   - local peptide CA RMSD after HLA fit: 0.332
+   - review priority heuristic: 0.65387
+
+2. EBV_TCELL_63843 vs HUMAN_MYELIN_13572
+   - locally aligned residues: 6
+   - property similarity: 0.8431
+   - local peptide CA RMSD after HLA fit: 0.370
+   - review priority heuristic: 0.64892
+
+3. EBV_TCELL_63843 vs HUMAN_MYELIN_114806
+   - locally aligned residues: 6
+   - property similarity: 0.8431
+   - local peptide CA RMSD after HLA fit: 0.381
+   - review priority heuristic: 0.647494
+
+Interpretation:
+The corrected screen prioritizes BALF5-family / MBP-family comparisons as computational hypotheses.
+
+Critical caveat:
+The output is a hypothesis-ranking metric only. It is not evidence of TCR cross-reactivity, T-cell activation, affinity, patient pathogenicity, or causality.
+
+
+RESULT 4: Ob.1A12 TERNARY TCR-pMHC TEST FAILED CALIBRATION
+Files:
+    processed/ob1a12_ternary_evaluation/FINAL_CONCLUSION.md
+    processed/ob1a12_ternary_evaluation/README.md
+    processed/ob1a12_ternary_evaluation/ob1a12_ternary_all_ranks.csv
+    processed/ob1a12_ternary_evaluation/ob1a12_ternary_comparison.csv
+    processed/ob1a12_ternary_evaluation/ob1a12_ternary_ensemble_summary.csv
+    src/evaluate_ob1a12_ternary_models.py
+    src/evaluate_ob1a12_ternary_ensemble.py
+
+Background:
+The user modeled five-chain ternary complexes including:
+- TCR alpha chain
+- TCR beta chain
+- HLA-DRA
+- HLA-DRB
+- peptide
+
+The positive control was Ob.1A12 TCR bound to DRB1*15:01-MBP, with experimental structure PDB 1YMM.
+
+What passed:
+- HLA component fit the experimental 1YMM HLA scaffold closely.
+- TCR chains themselves were confidently folded.
+- Global ColabFold scores looked superficially strong.
+
+What failed:
+The model did not recover the known experimental TCR orientation for the positive control:
+- median HLA-aligned TCR alpha RMSD: 10.227 A
+- median HLA-aligned TCR beta RMSD: 18.040 A
+
+Also, rank agreement was poor and ipTM/contact counts were not selective. In five-chain complexes, ipTM includes stable HLA alpha-beta interface confidence and is not a peptide-specific TCR binding score.
+
+Decision:
+The Ob.1A12 ternary ColabFold screen is inconclusive. It should not be reported as positive docking evidence.
+
+Allowed statement:
+    The EBV BALF5 and MBP peptide pair remains a structurally and evidence-prioritized molecular-mimicry hypothesis, but this ColabFold ternary screen was not calibrated to infer Ob.1A12 cross-recognition.
+
+Future requirement:
+A new TCR-level claim requires either:
+- complete Hy.2E11 alpha/beta sequence and a calibrated receptor benchmark
+- restrained/template-guided docking anchored to known structures
+- experimental validation such as pMHC tetramer, binding assay, or T-cell activation assay
+
+
+RESULT 5: GEO / TRANSCRIPTOMIC CONTEXT
+Files:
+    raw/geo/GSE190847_series_matrix.txt.gz
+    processed/geo_gse190847/gse190847_antigen_presentation_module.csv
+    processed/geo_gse190847/gse190847_antigen_presentation_genes.csv
+    src/analyze_gse190847_antigen_presentation.py
+
+Important correction:
+GSE190847 is RMA log2 microarray B-cell expression data, not RNA-seq. It should be described as transcriptomic expression context or microarray expression context, not RNA-seq.
+
+What was analyzed:
+GSE190847 peripheral B-cell expression data:
+- healthy controls: n = 28
+- untreated PPMS: n = 13
+
+Seven-gene HLA-II/APC panel:
+- HLA-DRA
+- HLA-DRB1
+- CD74
+- CIITA
+- HLA-DMA
+- HLA-DMB
+- CTSS
+
+Module result:
+- healthy mean z: 0.0
+- PPMS mean z: 0.0226
+- PPMS minus healthy z: 0.0226
+- raw p: 0.9077
+
+Interpretation:
+The antigen-presentation module was not significantly different. This is contextual negative evidence only.
+
+Critical caveat:
+GSE190847 does not measure EBV infection, pMHC presentation, TCR binding, T-cell activation, or molecular mimicry.
+
+
+RESULT 6: PYTORCH EXPRESSION CLASSIFIER
+Files:
+    processed/geo_gse190847/pytorch_expression_classifier/README.md
+    processed/geo_gse190847/pytorch_expression_classifier/gse190847_pytorch_classifier_metrics.csv
+    processed/geo_gse190847/pytorch_expression_classifier/gse190847_pytorch_loocv_predictions.csv
+    processed/publication_figures/figure_4_gse190847_pytorch_expression_300dpi.png
+    processed/publication_figures/figure_4_gse190847_pytorch_expression.pdf
+    src/analyze_gse190847_pytorch_expression_classifier.py
+    src/make_gse190847_pytorch_figure.R
+
+What was done:
+A bounded PyTorch logistic linear probe was trained using only the pre-registered seven-gene HLA-II/APC panel. Leave-one-out cross-validation was used.
+
+Results:
+- healthy controls: n = 28
+- untreated PPMS: n = 13
+- features: HLA-DRA, HLA-DRB1, CD74, CIITA, HLA-DMA, HLA-DMB, CTSS
+- epochs: 350
+- permutations: 100
+- LOOCV AUC: 0.662
+- accuracy at 0.5: 0.683
+- balanced accuracy at 0.5: 0.685
+- sensitivity at 0.5: 0.692
+- specificity at 0.5: 0.679
+- empirical p(AUC >= observed): 0.089
+
+Interpretation:
+Suggestive but not definitive group signal. Useful as transcriptomic context, not as validation of EBV/pMHC/TCR biology.
+
+Critical caveat:
+Do not claim this classifier proves EBV infection, antigen presentation, molecular mimicry, MS causality, or TCR recognition.
+
+
+RESULT 7: EXTERNAL VALIDATION BENCHMARK
+Files:
+    processed/external_validation_panel.csv
+    processed/external_validation_benchmark/external_validation_pair_annotations.csv
+    processed/external_validation_benchmark/external_validation_rank_recovery_summary.csv
+    processed/external_validation_benchmark/README.md
+    processed/publication_figures/figure_5_external_validation_overlay_300dpi.png
+    processed/publication_figures/figure_5_external_validation_overlay.pdf
+    src/run_external_validation_benchmark.py
+    src/make_external_validation_figure.R
+
+What was done:
+Independently reported EBV/MS-positive candidates were overlaid onto the predeclared 32-pair pMHC shortlist.
+
+Validation groups:
+1. Classic BALF5-MBP structural positives
+2. Any external overlay
+3. Strict newer-literature overlay, including EBV gB/gH positives and newer immunopeptidome context
+
+Results:
+- classic_BALF5_MBP_pair_recovery:
+  - universe: 32 scored pairs
+  - positive pairs: 10
+  - observed mean rank: 7.1
+  - top-10 positives: 8
+  - empirical top-10 p = 0.0001
+
+- any_external_overlay:
+  - universe: 32 scored pairs
+  - positive pairs: 16
+  - observed mean rank: 11
+  - top-10 positives: 10
+  - empirical top-10 p = 0.0003
+
+- strict_new_literature_overlay:
+  - universe: 32 scored pairs
+  - positive pairs: 5
+  - observed mean rank: 18.2
+  - top-10 positives: 2
+  - empirical top-10 p = 0.5036
+
+Interpretation:
+This is a strong central result. The pMHC priority metric recovers the classic BALF5-MBP structural mimicry layer, but it does not broadly recover newer EBV gB/gH antigen-presentation positives. This means the metric is specific to a structural-mimicry style signal, not a universal EBV-MS mechanism detector.
+
+This helps the paper because it provides both validation and scope limitation.
+
+Critical caveat:
+The external validation overlay is still a rank-recovery benchmark. It does not test TCR binding, activation, affinity, or patient mechanism.
+
+
+KEY LITERATURE / SOURCE ANCHORS
+Important source links:
+- PDB 1H15, EBV BALF5 pMHC:
+  https://www.rcsb.org/structure/1H15
+
+- PDB 1BX2, MBP pMHC:
+  https://www.rcsb.org/structure/1BX2
+
+- PDB 1YMM, Ob.1A12 TCR + DRB1*15:01-MBP:
+  https://www.rcsb.org/structure/1YMM
+
+- PNAS commentary / Drosu 2024 context on DRB1*15:01 EBV gB/gH CD4 T-cell positives:
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC11626193/
+
+- Wang et al. Cell 2026 context, EBV infection and HLA-DR15 jointly drive MS by myelin peptide presentation:
+  https://iris.univr.it/handle/11562/1186787?mode=complete
+
+- GSE190847 GEO page:
+  https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE190847
+
+
+CLAIM MATRIX SUMMARY
+The claim matrix currently has these major claim categories:
+
+C01:
+EBV infection and HLA-DR15 are major converging MS risk factors. Use as introduction context only.
+
+C02:
+Recent evidence supports EBV-driven changes in DR15 immunopeptidome and myelin peptide presentation. Cite as external mechanistic support, not as reanalyzed data unless actually processed.
+
+C03:
+BALF5-MBP is an established DR15 molecular-mimicry positive control involving DR2a/DR2b allele-pair switching.
+
+C04:
+Experimental 1H15 and 1BX2 pMHC structures show close peptide-core geometric equivalence after HLA-groove superposition.
+
+C05:
+The rebuilt 86 rank-1 pMHC models passed peptide sequence and three-chain layout QA.
+
+C06:
+The corrected pMHC screen prioritizes BALF5-family EBV candidates against MBP/myelin candidates by local peptide geometry and physicochemical similarity.
+
+C07:
+Ob.1A12 five-chain ternary ColabFold failed calibration and is not used as evidence of TCR recognition.
+
+C08:
+GSE190847 B-cell expression analysis did not show significant HLA-II/APC module difference after correction.
+
+C08B:
+PyTorch linear probe shows suggestive but not definitive PPMS vs healthy-control signal from a seven-gene HLA-II/APC panel.
+
+C08C:
+External validation overlay strongly recovers classic BALF5-MBP positives but not newer EBV gB/gH positives.
+
+C09:
+Complete Hy.2E11 alpha/beta sequences were not available from checked public primary sources, so no inferred Hy.2E11 ternary model should be treated as evidence.
+
+C10:
+The project is a reproducible prioritization workflow, not standalone proof of molecular mimicry in patients.
+
+
+WHAT MAKES THIS PROJECT STRONG
+1. It corrects a major biological mechanism instead of hiding it.
+   The DRB5*01:01 vs DRB1*15:01 allele-pair switch is now explicitly handled.
+
+2. It uses real experimental anchors.
+   PDB 1H15 and 1BX2 anchor the positive-control pMHC comparison.
+
+3. It is reproducible and auditable.
+   The workflow keeps peptide IDs, source antigens, HLA restriction, evidence type, and file provenance.
+
+4. It rejects overclaiming.
+   Failed Ob.1A12 ternary calibration is included as a rigor point instead of being ignored.
+
+5. It has a meaningful external validation benchmark.
+   The screen recovers classic BALF5-MBP positives significantly, while showing limits for newer antigen-presentation positives.
+
+6. It has presentation-friendly figures.
+   Five publication-style figures were generated.
+
+
+WHAT MAKES THIS PROJECT LIMITED
+1. No wet-lab validation.
+   There is no tetramer staining, binding assay, activation assay, or patient-derived TCR validation.
+
+2. No complete Hy.2E11 TCR sequence.
+   The full alpha/beta sequences were not found in checked public primary sources.
+
+3. ColabFold ternary modeling was not calibrated.
+   The model failed to recover the known Ob.1A12 orientation.
+
+4. GSE190847 is contextual only.
+   It is microarray expression data and does not directly measure EBV infection or pMHC presentation.
+
+5. Professional-journal publication may require mentor support.
+   The project is strong for science fair and possibly student journal/preprint, but immunology journals will expect stronger experimental validation.
+
+
+PUBLICATION / PRESENTATION STRATEGY
+Best framing:
+    "Calibrated computational prioritization of EBV-CNS molecular mimicry candidates in the HLA-DR15 antigen-presentation pathway"
+
+Best venue direction:
+1. Science fair / ISEF presentation: high potential.
+2. Student-accessible peer-reviewed journal such as Journal of Emerging Investigators: realistic if manuscript is clean.
+3. Preprint: possible, but should be mentor-reviewed first.
+4. Professional computational biology or immunoinformatics journal: possible later, but harder and likely needs senior scientific mentor/coauthor.
+5. High-impact immunology journal: not realistic without experimental validation.
+
+Manuscript should be written as:
+- Computational biology / immunoinformatics methods paper
+- Reproducible prioritization framework
+- Strong limitations section
+- Clear distinction between experimental anchors, computational ranking, and unproven biological mechanism
+
+Do not write it as:
+- Clinical mechanism proof
+- New discovery of BALF5-MBP
+- TCR binding/docking proof
+- AI-discovered cure/biomarker paper
+
+
+RECOMMENDED NEXT STEPS
+1. Finish a full manuscript draft from docs/manuscript_skeleton.md.
+2. Decide whether Figure 4, the PyTorch expression classifier, stays in the main paper or moves to supplement.
+3. Add a reproducibility appendix listing every input file, script, and output table.
+4. Clean the GitHub repo so a reviewer can rerun the core analyses.
+5. Build a supplementary data package:
+   - pMHC manifest
+   - QA table
+   - shortlist
+   - external validation annotations
+   - claim matrix
+   - benchmark summary
+6. Ask a mentor to review:
+   - claim boundaries
+   - immunology accuracy
+   - authorship/acknowledgment issues
+   - journal target
+7. If pursuing a stronger follow-up:
+   - locate full Hy.2E11 alpha/beta sequences if possible
+   - run calibrated/template-guided TCR-pMHC modeling
+   - or partner with a lab for pMHC/TCR binding or activation assays
+8. Prepare science fair presentation:
+   - Figure 1: experimental anchor
+   - Figure 2: candidate ranking
+   - Figure 3: claim ladder
+   - Figure 5: external validation benchmark
+   - Figure 4 as optional context/supplement depending on time
+
+
+AUTHORS / MENTORSHIP NOTE
+Isa Rodriguez was previously a major mentor/helper on the EBV-MS project, but has been unresponsive recently. Before journal submission, authorship and acknowledgments should be handled carefully:
+- If Isa made substantial intellectual or technical contributions, she may need to approve coauthorship before submission.
+- If she contributed but does not meet authorship criteria or cannot participate, she may be acknowledged instead.
+- A new mentor should review the manuscript before submission, especially because the project is immunology-heavy and the author is a high-school student.
+
+
+ONE-PARAGRAPH SUMMARY FOR A NEW CHAT
+I am a high-school junior working on an EBV-MS molecular mimicry computational immunology project aimed at science fair/possible publication. The project was rebuilt into a reproducible HLA-DR15-focused pMHC prioritization workflow. The key correction is that the known BALF5-MBP mimicry system is not a new discovery and not same-allele DRB1*15:01; EBV BALF5(627-641) is presented by HLA-DRB5*01:01 (PDB 1H15) and MBP(85-99) is presented by HLA-DRB1*15:01 (PDB 1BX2), both in the DR15 haplotype. Experimental pMHC core equivalence after HLA-groove fitting was 0.838 A C-alpha RMSD. I modeled 86 rank-1 pMHC candidates, QA-checked peptide/chain layout, and ranked 32 EBV-myelin/CNS candidate pairs using local peptide geometry and physicochemical similarity. The screen prioritizes BALF5-family/MBP-family pairs. A five-chain Ob.1A12 TCR-pMHC ColabFold test failed calibration against PDB 1YMM, so ternary docking scores are rejected as TCR-recognition evidence. GSE190847 microarray B-cell expression context was added; the HLA-II/APC module was not significant, while a bounded PyTorch seven-gene linear probe had LOOCV AUC 0.662 and permutation p=0.089, so it is context only. External validation overlay showed strong recovery of classic BALF5-MBP positives (8/10 in top 10, p=0.0001) but not newer EBV gB/gH positives (2/5 in top 10, p=0.504), meaning the metric recovers structural mimicry signals but not all EBV-MS mechanisms. The project should be framed as a calibrated computational prioritization workflow, not proof of EBV causality, TCR binding, activation, or patient mechanism.
+
+
+BEST PROMPT TO PASTE INTO A NEW CHAT
+Please help me continue this EBV-MS molecular mimicry project. I am a high-school junior aiming for science fair/possible publication. Use this as the current state:
+
+[Paste this entire handoff summary.]
+
+Your job is to preserve strict claim boundaries, avoid hallucinations, and help convert the project into a publication-ready manuscript and presentation. Do not claim TCR binding, T-cell activation, patient mechanism, or EBV causality unless supported by direct evidence. Treat the project as a calibrated computational HLA-DR15 pMHC prioritization workflow anchored to known BALF5-MBP positive controls.
+
+
+END OF HANDOFF SUMMARY

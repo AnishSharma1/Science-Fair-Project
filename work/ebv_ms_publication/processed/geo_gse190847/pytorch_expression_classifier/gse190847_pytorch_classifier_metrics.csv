@@ -1,0 +1,2 @@
+analysis,healthy_n,ppms_n,features,epochs,permutations,empirical_auc_p_ge_observed,interpretation,auc,accuracy_at_0.5,balanced_accuracy_at_0.5,sensitivity_at_0.5,specificity_at_0.5,mean_ppms_probability,mean_control_probability
+seven_gene_hla_ii_apc_panel_pytorch_logistic_loocv,28,13,HLA-DRA;HLA-DRB1;CD74;CIITA;HLA-DMA;HLA-DMB;CTSS,350,100,0.0891089108910891,"Transcriptomic context only; not EBV, pMHC, TCR, activation, or disease-mechanism evidence.",0.662088,0.682927,0.68544,0.692308,0.678571,0.539748,0.422685

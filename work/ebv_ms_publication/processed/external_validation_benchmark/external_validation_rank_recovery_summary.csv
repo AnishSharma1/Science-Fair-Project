@@ -1,0 +1,4 @@
+test,scored_pair_universe_n,positive_pair_count,observed_mean_priority_score,empirical_p_mean_score_ge_observed,observed_mean_rank,empirical_p_mean_rank_le_observed,observed_top10_positive_count,top10_size,empirical_p_top10_count_ge_observed,interpretation
+classic_BALF5_MBP_pair_recovery,32,10,0.259574,0.005099490050994901,7.1,9.999000099990002e-05,8,10,9.999000099990002e-05,"Rank-recovery benchmark only; does not test TCR binding, activation, affinity, or patient pathogenicity."
+any_external_overlay,32,16,0.201991,9.999000099990002e-05,11,0.00019998000199980003,10,10,0.00029997000299970003,"Rank-recovery benchmark only; does not test TCR binding, activation, affinity, or patient pathogenicity."
+strict_new_literature_overlay,32,5,0.110735,0.47525247475252475,18.2,0.6733326667333267,2,10,0.5036496350364964,"Rank-recovery benchmark only; does not test TCR binding, activation, affinity, or patient pathogenicity."

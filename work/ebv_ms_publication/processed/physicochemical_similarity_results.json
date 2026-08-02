@@ -1,0 +1,18 @@
+{
+  "metric": "maximum local-alignment physicochemical similarity across aligned residues",
+  "descriptor_components": [
+    "normalized Kyte-Doolittle hydropathy",
+    "charge compatibility",
+    "aromatic compatibility",
+    "coarse size compatibility"
+  ],
+  "n_positive_unique_ebv": 12,
+  "n_negative_unique_ebv": 7,
+  "n_coordinate_validated_myelin_targets": 53,
+  "n_coordinate_validated_human_background_targets": 35,
+  "observed_positive_minus_negative_mean": -0.03987857142857143,
+  "label_permutation_p_value": 0.6967303269673033,
+  "permutations": 10000,
+  "seed": 20260801,
+  "interpretation": "exploratory physicochemical resemblance only; not evidence of mimicry or pathogenicity"
+}

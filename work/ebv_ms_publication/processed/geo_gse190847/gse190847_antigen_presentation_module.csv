@@ -1,0 +1,2 @@
+module,genes,healthy_n,ppms_n,healthy_mean_z,ppms_mean_z,ppms_minus_healthy_z,raw_p_normal_approximation,interpretation
+HLA-II_antigen_presentation,HLA-DRA;HLA-DRB1;CD74;CIITA;HLA-DMA;HLA-DMB;CTSS,28,13,0.0,0.0226,0.0226,0.907678805439355,Peripheral blood B-cell expression context only; not antigen presentation or EBV evidence.

@@ -1,0 +1,24 @@
+{
+  "query_id" : "fb105803-d37b-4d89-9072-25a44362096a",
+  "result_type" : "entry",
+  "total_count" : 6,
+  "result_set" : [ {
+    "identifier" : "5V4M",
+    "score" : 1.0
+  }, {
+    "identifier" : "5JLZ",
+    "score" : 0.9962518894051985
+  }, {
+    "identifier" : "8EUQ",
+    "score" : 0.9017141428518246
+  }, {
+    "identifier" : "8TBP",
+    "score" : 0.8848544820564068
+  }, {
+    "identifier" : "5NI9",
+    "score" : 0.7446752163850842
+  }, {
+    "identifier" : "5NIG",
+    "score" : 0.7446752163850842
+  } ]
+}

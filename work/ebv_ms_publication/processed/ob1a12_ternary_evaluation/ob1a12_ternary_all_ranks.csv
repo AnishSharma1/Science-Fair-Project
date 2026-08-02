@@ -1,0 +1,16 @@
+condition,rank,pdb,peptide_mean_plddt,tcr_mean_plddt,hla_fit_to_1ymm_ca_rmsd_angstrom,tcr_alpha_fit_to_1ymm_ca_rmsd_angstrom,tcr_beta_fit_to_1ymm_ca_rmsd_angstrom,positive_control_peptide_fit_to_1ymm_ca_rmsd_angstrom,tcr_peptide_heavy_atom_contacts_le_4_5A,tcr_peptide_heavy_atom_clashes_le_2_0A
+positive_control,1,/Users/anishsharma/Library/Mobile Documents/com~apple~CloudDocs/Downloads/TCR PDBs/positive_control/(001) positive_mbp_85_98_rank_001.pdb,81.79,87.78,0.577,10.227,18.142,0.535,45,4
+positive_control,2,/Users/anishsharma/Library/Mobile Documents/com~apple~CloudDocs/Downloads/TCR PDBs/positive_control/(002) positive_mbp_85_98_rank_002.pdb,46.46,88.41,0.621,9.363,14.769,24.666,30,1
+positive_control,3,/Users/anishsharma/Library/Mobile Documents/com~apple~CloudDocs/Downloads/TCR PDBs/positive_control/(003) positive_mbp_85_98_rank_003.pdb,39.58,86.65,0.566,10.067,17.486,24.492,25,3
+positive_control,4,/Users/anishsharma/Library/Mobile Documents/com~apple~CloudDocs/Downloads/TCR PDBs/positive_control/(004) positive_mbp_85_98_rank_004.pdb,34.61,87.3,0.615,10.937,18.907,24.614,20,0
+positive_control,5,/Users/anishsharma/Library/Mobile Documents/com~apple~CloudDocs/Downloads/TCR PDBs/positive_control/(005) positive_mbp_85_98_rank_005.pdb,24.19,87.17,0.536,10.373,18.04,14.01,35,9
+ebv_hypothesis,1,/Users/anishsharma/Library/Mobile Documents/com~apple~CloudDocs/Downloads/TCR PDBs/Test_Hypothesis/(001) test_rank_001.pdb,68.13,87.89,0.589,10.051,18.182,,38,5
+ebv_hypothesis,2,/Users/anishsharma/Library/Mobile Documents/com~apple~CloudDocs/Downloads/TCR PDBs/Test_Hypothesis/(002) test_rank_002.pdb,35.52,87.36,0.639,11.227,19.23,,32,0
+ebv_hypothesis,3,/Users/anishsharma/Library/Mobile Documents/com~apple~CloudDocs/Downloads/TCR PDBs/Test_Hypothesis/(003) test_rank_003.pdb,60.92,86.84,0.593,12.998,18.751,,24,0
+ebv_hypothesis,4,/Users/anishsharma/Library/Mobile Documents/com~apple~CloudDocs/Downloads/TCR PDBs/Test_Hypothesis/(004) test_rank_004.pdb,61.03,86.55,0.55,10.842,17.098,,28,0
+ebv_hypothesis,5,/Users/anishsharma/Library/Mobile Documents/com~apple~CloudDocs/Downloads/TCR PDBs/Test_Hypothesis/(005) test_rank_005.pdb,46.29,85.49,0.579,12.543,19.447,,27,0
+negative_control,1,/Users/anishsharma/Library/Mobile Documents/com~apple~CloudDocs/Downloads/TCR PDBs/Negative_control/(001) negative_rank001.pdb,81.32,85.54,0.594,10.827,27.949,,39,1
+negative_control,2,/Users/anishsharma/Library/Mobile Documents/com~apple~CloudDocs/Downloads/TCR PDBs/Negative_control/(002) negative_rank_002.pdb,71.3,84.72,0.58,10.533,16.66,,25,4
+negative_control,3,/Users/anishsharma/Library/Mobile Documents/com~apple~CloudDocs/Downloads/TCR PDBs/Negative_control/(003) negative_rank003.pdb,77.14,85.85,0.6,10.599,16.24,,33,2
+negative_control,4,/Users/anishsharma/Library/Mobile Documents/com~apple~CloudDocs/Downloads/TCR PDBs/Negative_control/(004) negative_rank_004.pdb,73.57,86.67,0.577,10.726,16.216,,25,2
+negative_control,5,/Users/anishsharma/Library/Mobile Documents/com~apple~CloudDocs/Downloads/TCR PDBs/Negative_control/(005) negative_rank_005.pdb,68.51,86.79,0.567,10.903,16.431,,23,4
