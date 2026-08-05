@@ -1,0 +1,341 @@
+{
+  "contact_cutoff_A": 4.5,
+  "summaries": {
+    "HY_MBP_DRB1": {
+      "models": 5,
+      "mean_tcr_peptide_contacts": 21.2,
+      "stable_tcr_residues": [
+        "A93S",
+        "A94G",
+        "A95G",
+        "A96S",
+        "A97Y",
+        "B96W",
+        "B98S",
+        "B103Y"
+      ],
+      "stable_peptide_residues": [
+        "P4V",
+        "P7F",
+        "P9K",
+        "P10N",
+        "P12V"
+      ],
+      "stable_contact_pairs": [
+        "A96S-P9K",
+        "A97Y-P7F",
+        "A97Y-P9K"
+      ],
+      "tcr_contact_frequency": {
+        "A30N": 2,
+        "A92D": 4,
+        "A93S": 5,
+        "A94G": 5,
+        "A95G": 5,
+        "A96S": 5,
+        "A97Y": 5,
+        "B28Q": 4,
+        "B30T": 1,
+        "B96W": 5,
+        "B98S": 5,
+        "B99G": 4,
+        "B100Q": 1,
+        "B103Y": 5,
+        "B105Y": 4
+      }
+    },
+    "HY_BALF5_FULL15": {
+      "models": 5,
+      "mean_tcr_peptide_contacts": 26.2,
+      "stable_tcr_residues": [
+        "A92D",
+        "A93S",
+        "A94G",
+        "A95G",
+        "A96S",
+        "A97Y",
+        "B28Q",
+        "B30T",
+        "B73L",
+        "B96W",
+        "B97P",
+        "B103Y",
+        "B105Y"
+      ],
+      "stable_peptide_residues": [
+        "P5Y",
+        "P6H",
+        "P7F",
+        "P8V",
+        "P9K",
+        "P10K",
+        "P11H",
+        "P12V"
+      ],
+      "stable_contact_pairs": [
+        "A92D-P9K",
+        "A93S-P6H",
+        "A94G-P6H",
+        "A94G-P7F",
+        "A95G-P5Y",
+        "A95G-P6H",
+        "A95G-P7F",
+        "A96S-P7F",
+        "A96S-P9K",
+        "A97Y-P7F",
+        "A97Y-P8V",
+        "A97Y-P9K",
+        "A97Y-P10K",
+        "B28Q-P12V",
+        "B30T-P10K",
+        "B30T-P11H",
+        "B73L-P12V",
+        "B96W-P9K",
+        "B96W-P10K",
+        "B96W-P11H",
+        "B97P-P11H",
+        "B103Y-P9K",
+        "B103Y-P11H",
+        "B105Y-P9K"
+      ],
+      "tcr_contact_frequency": {
+        "A28S": 1,
+        "A30N": 2,
+        "A92D": 5,
+        "A93S": 5,
+        "A94G": 5,
+        "A95G": 5,
+        "A96S": 5,
+        "A97Y": 5,
+        "B28Q": 5,
+        "B30T": 5,
+        "B73L": 5,
+        "B96W": 5,
+        "B97P": 5,
+        "B100Q": 1,
+        "B101G": 1,
+        "B102T": 1,
+        "B103Y": 5,
+        "B105Y": 5
+      }
+    },
+    "HY_BALF5_CORE14": {
+      "models": 5,
+      "mean_tcr_peptide_contacts": 24.6,
+      "stable_tcr_residues": [
+        "A92D",
+        "A93S",
+        "A94G",
+        "A95G",
+        "A96S",
+        "A97Y",
+        "B28Q",
+        "B30T",
+        "B73L",
+        "B96W",
+        "B97P",
+        "B103Y",
+        "B105Y"
+      ],
+      "stable_peptide_residues": [
+        "P4Y",
+        "P5H",
+        "P6F",
+        "P7V",
+        "P8K",
+        "P9K",
+        "P10H",
+        "P11V"
+      ],
+      "stable_contact_pairs": [
+        "A92D-P8K",
+        "A93S-P5H",
+        "A94G-P5H",
+        "A94G-P6F",
+        "A95G-P4Y",
+        "A95G-P5H",
+        "A95G-P6F",
+        "A96S-P6F",
+        "A96S-P8K",
+        "A97Y-P6F",
+        "A97Y-P7V",
+        "A97Y-P8K",
+        "A97Y-P9K",
+        "B28Q-P11V",
+        "B30T-P9K",
+        "B30T-P10H",
+        "B73L-P11V",
+        "B96W-P8K",
+        "B96W-P9K",
+        "B97P-P10H",
+        "B103Y-P8K",
+        "B105Y-P8K"
+      ],
+      "tcr_contact_frequency": {
+        "A30N": 2,
+        "A92D": 5,
+        "A93S": 5,
+        "A94G": 5,
+        "A95G": 5,
+        "A96S": 5,
+        "A97Y": 5,
+        "B28Q": 5,
+        "B30T": 5,
+        "B73L": 5,
+        "B96W": 5,
+        "B97P": 5,
+        "B100Q": 1,
+        "B101G": 1,
+        "B102T": 1,
+        "B103Y": 5,
+        "B105Y": 5
+      }
+    },
+    "DECOY_01_HY_MBP_DRB5": {
+      "models": 5,
+      "mean_tcr_peptide_contacts": 23.2,
+      "stable_tcr_residues": [
+        "A29I",
+        "A30N",
+        "A93S",
+        "A94G",
+        "A95G",
+        "A97Y",
+        "B28Q",
+        "B30T",
+        "B96W"
+      ],
+      "stable_peptide_residues": [
+        "P4F",
+        "P5K",
+        "P6N",
+        "P7I",
+        "P8V"
+      ],
+      "stable_contact_pairs": [
+        "A94G-P5K",
+        "A95G-P4F",
+        "A95G-P5K",
+        "A97Y-P6N",
+        "A97Y-P7I",
+        "B30T-P8V"
+      ],
+      "tcr_contact_frequency": {
+        "A28S": 4,
+        "A29I": 5,
+        "A30N": 5,
+        "A93S": 5,
+        "A94G": 5,
+        "A95G": 5,
+        "A97Y": 5,
+        "B27S": 1,
+        "B28Q": 5,
+        "B29V": 4,
+        "B30T": 5,
+        "B31M": 2,
+        "B96W": 5,
+        "B97P": 1,
+        "B98S": 2,
+        "B99G": 2,
+        "B100Q": 2,
+        "B101G": 1,
+        "B103Y": 1
+      }
+    },
+    "DECOY_02_HY_ENGA_DRB1": {
+      "models": 5,
+      "mean_tcr_peptide_contacts": 25.2,
+      "stable_tcr_residues": [
+        "A93S",
+        "A94G",
+        "A95G",
+        "A97Y",
+        "B96W",
+        "B98S",
+        "B99G"
+      ],
+      "stable_peptide_residues": [
+        "P3F",
+        "P5R",
+        "P6V",
+        "P7H",
+        "P8F",
+        "P10S",
+        "P11A"
+      ],
+      "stable_contact_pairs": [
+        "A97Y-P8F",
+        "B96W-P8F"
+      ],
+      "tcr_contact_frequency": {
+        "A28S": 3,
+        "A29I": 2,
+        "A30N": 3,
+        "A31N": 2,
+        "A33Q": 2,
+        "A51S": 1,
+        "A92D": 3,
+        "A93S": 5,
+        "A94G": 5,
+        "A95G": 5,
+        "A96S": 3,
+        "A97Y": 5,
+        "B30T": 1,
+        "B31M": 1,
+        "B96W": 5,
+        "B97P": 1,
+        "B98S": 5,
+        "B99G": 5,
+        "B100Q": 1,
+        "B101G": 3,
+        "B102T": 1,
+        "B103Y": 4,
+        "B105Y": 3
+      }
+    }
+  },
+  "Hy_comparisons": {
+    "HY_MBP_DRB1__HY_BALF5_FULL15": {
+      "shared_stable_TCR_residues": [
+        "A93S",
+        "A94G",
+        "A95G",
+        "A96S",
+        "A97Y",
+        "B103Y",
+        "B96W"
+      ],
+      "Jaccard": 0.5
+    },
+    "HY_MBP_DRB1__HY_BALF5_CORE14": {
+      "shared_stable_TCR_residues": [
+        "A93S",
+        "A94G",
+        "A95G",
+        "A96S",
+        "A97Y",
+        "B103Y",
+        "B96W"
+      ],
+      "Jaccard": 0.5
+    },
+    "HY_BALF5_FULL15__HY_BALF5_CORE14": {
+      "shared_stable_TCR_residues": [
+        "A92D",
+        "A93S",
+        "A94G",
+        "A95G",
+        "A96S",
+        "A97Y",
+        "B103Y",
+        "B105Y",
+        "B28Q",
+        "B30T",
+        "B73L",
+        "B96W",
+        "B97P"
+      ],
+      "Jaccard": 1.0
+    }
+  }
+}

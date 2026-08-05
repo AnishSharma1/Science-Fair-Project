@@ -1,0 +1,19 @@
+condition	category	completed_seeds	missing_seeds	mean_best_ranking	mean_best_iptm	mean_tcr_pmhc_pair_iptm	mean_tcr_peptide_pair_iptm	mean_peptide_mhc_pair_iptm
+PMHC_MBP_DRB1	pMHC control	5	0	0.934	0.890			0.663
+PMHC_BALF5_FULL15	pMHC control	5	0	0.950	0.926			0.736
+PMHC_BALF5_CORE14	pMHC control	5	0	0.950	0.930			0.784
+PMHC_MBP_DRB5	pMHC control	5	0	0.958	0.934			0.763
+PMHC_ENGA_2WBJ	pMHC control	5	0	0.936	0.878			0.498
+CAL_1YMM	ternary calibration	5	0	0.736	0.694	0.461	0.379	0.517
+CAL_1ZGL	ternary calibration	5	0	0.764	0.734	0.523	0.497	0.628
+CAL_2WBJ	ternary calibration	5	0	0.772	0.720	0.490	0.379	0.481
+HY_MBP_DRB1	Hy.2E11 positive	5	0	0.874	0.836	0.632	0.486	0.668
+HY_BALF5_FULL15	Hy.2E11 positive	5	0	0.926	0.904	0.801	0.756	0.858
+HY_BALF5_CORE14	Hy.2E11 positive	5	0	0.936	0.914	0.825	0.794	0.888
+DECOY_01_HY_MBP_DRB5	decoy / unknown	5	0	0.884	0.862	0.680	0.547	0.737
+DECOY_02_HY_ENGA_DRB1	decoy / unknown	5	0	0.872	0.832	0.572	0.281	0.470
+DECOY_03_OB_BALF5	decoy / unknown	5	0	0.712	0.680	0.432	0.383	0.555
+DECOY_04_OB_MBP_DRB5	decoy / unknown	5	0	0.726	0.700	0.452	0.402	0.534
+DECOY_05_3A6_MBP_DRB1	decoy / unknown	5	0	0.802	0.768	0.559	0.477	0.579
+DECOY_06_3A6_BALF5	decoy / unknown	5	0	0.744	0.716	0.498	0.460	0.649
+DECOY_07_3A6_ENGA	decoy / unknown	5	0	0.758	0.718	0.458	0.321	0.421

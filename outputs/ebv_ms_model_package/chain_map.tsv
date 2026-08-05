@@ -1,0 +1,16 @@
+run_id	pdb	role	PDB_chain_or_entity	prediction_input_rule	comparison_target
+CAL_1YMM	1YMM	TCR_alpha	Chain D	Use deposited chain sequence	Chain D
+CAL_1YMM	1YMM	TCR_beta	Chain E	Use deposited chain sequence	Chain E
+CAL_1YMM	1YMM	MHC_alpha	Chain A	Use deposited chain sequence	Chain A
+CAL_1YMM	1YMM	MHC_beta	Chain B	Use deposited chain sequence	Chain B
+CAL_1YMM	1YMM	peptide	Chain C	Use ENPVVHFFKNIVTPR; omit terminal GGSGGGGG linker	MBP residues only
+CAL_1ZGL	1ZGL	TCR_alpha	Entity 4; auth M/Q/S/U	Use deposited chain sequence	Mapped alpha chain
+CAL_1ZGL	1ZGL	TCR_beta	Entity 5; auth P/R/T/V	Use deposited chain sequence including N-terminal GGGGG construct residues	Mapped beta chain
+CAL_1ZGL	1ZGL	MHC_alpha	Entity 1; auth D/G/J	Use deposited chain sequence	Mapped MHC-alpha chain
+CAL_1ZGL	1ZGL	MHC_beta	Entity 2; auth E/H/K	Use deposited chain sequence	Mapped MHC-beta chain
+CAL_1ZGL	1ZGL	peptide	Entity 3; auth F/I/L	Use VHFFKNIVTPRTP; omit terminal GG	MBP residues only
+CAL_2WBJ	2WBJ	TCR_alpha	Entity 3; chains C/G	Use deposited chain after leading cloning methionine only if strict construct recovery is needed	Mapped alpha chain
+CAL_2WBJ	2WBJ	TCR_beta	Entity 4; chains D/H	Begin at AVVSQHPS; remove peptide-fusion prefix MDFARVHFISALHGSGGGSGGGGG	Mapped beta chain
+CAL_2WBJ	2WBJ	MHC_alpha	Entity 1; chains A/E	Use deposited chain sequence	Mapped MHC-alpha chain
+CAL_2WBJ	2WBJ	MHC_beta	Entity 2; chains B/F	Use deposited chain sequence	Mapped MHC-beta chain
+CAL_2WBJ	2WBJ	peptide	N-terminal TCR-beta fusion	Use MDFARVHFISALHG as a separate peptide	Peptide only; exclude fusion linker

@@ -1,0 +1,19 @@
+job_name	category	interpretation
+PMHC_MBP_DRB1	pMHC control	pMHC geometry against 1BX2
+PMHC_BALF5_FULL15	pMHC control	Biological 15-mer
+PMHC_BALF5_CORE14	pMHC control	Direct 1H15 deposited-core comparison
+PMHC_MBP_DRB5	pMHC control	pMHC geometry against 1ZGL
+PMHC_ENGA_2WBJ	pMHC control	Strict deposited 2WBJ peptide condition
+CAL_1YMM	ternary calibration	Experimental OB.1A12/MBP/DRB1 reference
+CAL_1ZGL	ternary calibration	Experimental 3A6/MBP/DRB5 reference
+CAL_2WBJ	ternary calibration	Experimental OB.1A12/ENGA/DRB1 reference; fusion linker removed
+HY_MBP_DRB1	functional positive	Hy.2E11 self pMHC
+HY_BALF5_FULL15	functional positive	Hy.2E11 biological EBV 15-mer
+HY_BALF5_CORE14	structural sensitivity	Hy.2E11 1H15 deposited-core condition
+DECOY_01_	decoy / unknown	Selectivity stress test only; not a functional negative
+DECOY_02_	decoy / unknown	Selectivity stress test only; not a functional negative
+DECOY_03_	decoy / unknown	Selectivity stress test only; not a functional negative
+DECOY_04_	decoy / unknown	Selectivity stress test only; not a functional negative
+DECOY_05_	decoy / unknown	Selectivity stress test only; not a functional negative
+DECOY_06_	decoy / unknown	Selectivity stress test only; not a functional negative
+DECOY_07_	decoy / unknown	Selectivity stress test only; not a functional negative

@@ -1,0 +1,3522 @@
+[
+  {
+    "name": "PMHC_MBP_DRB1_S101",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTE",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSK",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "ENPVVHFFKNIVTPR",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "PMHC_MBP_DRB1_S202",
+    "modelSeeds": [
+      202
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTE",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSK",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "ENPVVHFFKNIVTPR",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "PMHC_MBP_DRB1_S303",
+    "modelSeeds": [
+      303
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTE",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSK",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "ENPVVHFFKNIVTPR",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "PMHC_MBP_DRB1_S404",
+    "modelSeeds": [
+      404
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTE",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSK",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "ENPVVHFFKNIVTPR",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "PMHC_MBP_DRB1_S505",
+    "modelSeeds": [
+      505
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTE",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSK",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "ENPVVHFFKNIVTPR",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "PMHC_BALF5_FULL15_S101",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "TGGVYHFVKKHVHES",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "PMHC_BALF5_FULL15_S202",
+    "modelSeeds": [
+      202
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "TGGVYHFVKKHVHES",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "PMHC_BALF5_FULL15_S303",
+    "modelSeeds": [
+      303
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "TGGVYHFVKKHVHES",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "PMHC_BALF5_FULL15_S404",
+    "modelSeeds": [
+      404
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "TGGVYHFVKKHVHES",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "PMHC_BALF5_FULL15_S505",
+    "modelSeeds": [
+      505
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "TGGVYHFVKKHVHES",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "PMHC_BALF5_CORE14_S101",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GGVYHFVKKHVHES",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "PMHC_BALF5_CORE14_S202",
+    "modelSeeds": [
+      202
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GGVYHFVKKHVHES",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "PMHC_BALF5_CORE14_S303",
+    "modelSeeds": [
+      303
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GGVYHFVKKHVHES",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "PMHC_BALF5_CORE14_S404",
+    "modelSeeds": [
+      404
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GGVYHFVKKHVHES",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "PMHC_BALF5_CORE14_S505",
+    "modelSeeds": [
+      505
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GGVYHFVKKHVHES",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "PMHC_MBP_DRB5_S101",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRAQS",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "VHFFKNIVTPRTP",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "PMHC_MBP_DRB5_S202",
+    "modelSeeds": [
+      202
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRAQS",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "VHFFKNIVTPRTP",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "PMHC_MBP_DRB5_S303",
+    "modelSeeds": [
+      303
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRAQS",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "VHFFKNIVTPRTP",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "PMHC_MBP_DRB5_S404",
+    "modelSeeds": [
+      404
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRAQS",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "VHFFKNIVTPRTP",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "PMHC_MBP_DRB5_S505",
+    "modelSeeds": [
+      505
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRAQS",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "VHFFKNIVTPRTP",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "PMHC_ENGA_2WBJ_S101",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTENVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSKVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MDFARVHFISALHG",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "PMHC_ENGA_2WBJ_S202",
+    "modelSeeds": [
+      202
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTENVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSKVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MDFARVHFISALHG",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "PMHC_ENGA_2WBJ_S303",
+    "modelSeeds": [
+      303
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTENVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSKVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MDFARVHFISALHG",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "PMHC_ENGA_2WBJ_S404",
+    "modelSeeds": [
+      404
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTENVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSKVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MDFARVHFISALHG",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "PMHC_ENGA_2WBJ_S505",
+    "modelSeeds": [
+      505
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTENVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSKVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MDFARVHFISALHG",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "CAL_1YMM_S101",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDTTSGTYKYIFGTGTRLKVLANIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPESSC",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GAVVSQHPSWVISKSGTSVKIECRSLDFQATTMFWYRQFPKQSLMLMATSNEGSKATYEQGVEKDKFLINHASLTLSTLTVTSAHPEDSSFYICSARDLTSGANNEQFFGPGTRLTVLEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRADC",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTE",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSK",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "ENPVVHFFKNIVTPR",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "CAL_1YMM_S202",
+    "modelSeeds": [
+      202
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDTTSGTYKYIFGTGTRLKVLANIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPESSC",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GAVVSQHPSWVISKSGTSVKIECRSLDFQATTMFWYRQFPKQSLMLMATSNEGSKATYEQGVEKDKFLINHASLTLSTLTVTSAHPEDSSFYICSARDLTSGANNEQFFGPGTRLTVLEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRADC",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTE",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSK",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "ENPVVHFFKNIVTPR",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "CAL_1YMM_S303",
+    "modelSeeds": [
+      303
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDTTSGTYKYIFGTGTRLKVLANIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPESSC",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GAVVSQHPSWVISKSGTSVKIECRSLDFQATTMFWYRQFPKQSLMLMATSNEGSKATYEQGVEKDKFLINHASLTLSTLTVTSAHPEDSSFYICSARDLTSGANNEQFFGPGTRLTVLEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRADC",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTE",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSK",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "ENPVVHFFKNIVTPR",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "CAL_1YMM_S404",
+    "modelSeeds": [
+      404
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDTTSGTYKYIFGTGTRLKVLANIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPESSC",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GAVVSQHPSWVISKSGTSVKIECRSLDFQATTMFWYRQFPKQSLMLMATSNEGSKATYEQGVEKDKFLINHASLTLSTLTVTSAHPEDSSFYICSARDLTSGANNEQFFGPGTRLTVLEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRADC",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTE",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSK",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "ENPVVHFFKNIVTPR",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "CAL_1YMM_S505",
+    "modelSeeds": [
+      505
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDTTSGTYKYIFGTGTRLKVLANIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPESSC",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GAVVSQHPSWVISKSGTSVKIECRSLDFQATTMFWYRQFPKQSLMLMATSNEGSKATYEQGVEKDKFLINHASLTLSTLTVTSAHPEDSSFYICSARDLTSGANNEQFFGPGTRLTVLEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRADC",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTE",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSK",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "ENPVVHFFKNIVTPR",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "CAL_1ZGL_S101",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "GDSVTQMEGPVTLSEEAFLTINCTYTATGYPSLFWYVQYPGEGLQLLLKATKADDKGSNKGFEATYRKETTSFHLEKGSVQVSDSAVYFCALSGGDSSYKLIFGSGTRLLVRPDIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPESSCA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GGGGGVTQTPRYLIKTRGQQVTLSCSPISGHRSVSWYQQTPGQGLQFLFEYFNETQRNKGNFPGRFSGRQFSNSRSEMNVSTLELGDSALYLCASSLADRVNTEAFFGQGTRLTVVEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRADCAA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRAQS",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "VHFFKNIVTPRTP",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "CAL_1ZGL_S202",
+    "modelSeeds": [
+      202
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "GDSVTQMEGPVTLSEEAFLTINCTYTATGYPSLFWYVQYPGEGLQLLLKATKADDKGSNKGFEATYRKETTSFHLEKGSVQVSDSAVYFCALSGGDSSYKLIFGSGTRLLVRPDIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPESSCA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GGGGGVTQTPRYLIKTRGQQVTLSCSPISGHRSVSWYQQTPGQGLQFLFEYFNETQRNKGNFPGRFSGRQFSNSRSEMNVSTLELGDSALYLCASSLADRVNTEAFFGQGTRLTVVEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRADCAA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRAQS",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "VHFFKNIVTPRTP",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "CAL_1ZGL_S303",
+    "modelSeeds": [
+      303
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "GDSVTQMEGPVTLSEEAFLTINCTYTATGYPSLFWYVQYPGEGLQLLLKATKADDKGSNKGFEATYRKETTSFHLEKGSVQVSDSAVYFCALSGGDSSYKLIFGSGTRLLVRPDIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPESSCA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GGGGGVTQTPRYLIKTRGQQVTLSCSPISGHRSVSWYQQTPGQGLQFLFEYFNETQRNKGNFPGRFSGRQFSNSRSEMNVSTLELGDSALYLCASSLADRVNTEAFFGQGTRLTVVEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRADCAA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRAQS",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "VHFFKNIVTPRTP",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "CAL_1ZGL_S404",
+    "modelSeeds": [
+      404
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "GDSVTQMEGPVTLSEEAFLTINCTYTATGYPSLFWYVQYPGEGLQLLLKATKADDKGSNKGFEATYRKETTSFHLEKGSVQVSDSAVYFCALSGGDSSYKLIFGSGTRLLVRPDIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPESSCA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GGGGGVTQTPRYLIKTRGQQVTLSCSPISGHRSVSWYQQTPGQGLQFLFEYFNETQRNKGNFPGRFSGRQFSNSRSEMNVSTLELGDSALYLCASSLADRVNTEAFFGQGTRLTVVEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRADCAA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRAQS",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "VHFFKNIVTPRTP",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "CAL_1ZGL_S505",
+    "modelSeeds": [
+      505
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "GDSVTQMEGPVTLSEEAFLTINCTYTATGYPSLFWYVQYPGEGLQLLLKATKADDKGSNKGFEATYRKETTSFHLEKGSVQVSDSAVYFCALSGGDSSYKLIFGSGTRLLVRPDIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPESSCA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GGGGGVTQTPRYLIKTRGQQVTLSCSPISGHRSVSWYQQTPGQGLQFLFEYFNETQRNKGNFPGRFSGRQFSNSRSEMNVSTLELGDSALYLCASSLADRVNTEAFFGQGTRLTVVEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRADCAA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRAQS",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "VHFFKNIVTPRTP",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "CAL_2WBJ_S101",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "QQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDTTSGTYKYIFGTGTRLKVLPNIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPENDGGGCKLEHHHHHH",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "AVVSQHPSWVISKSGTSVKIECRSLDFQATTMFWYRQFPKQSLMLMATSNEGSKATYEQGVEKDKFLINHASLTLSTLTVTSAHPEDSSFYICSARDLTSGANNEQFFGPGTRLTVTEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRSRQDRGGGCD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTENVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSKVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MDFARVHFISALHG",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "CAL_2WBJ_S202",
+    "modelSeeds": [
+      202
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "QQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDTTSGTYKYIFGTGTRLKVLPNIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPENDGGGCKLEHHHHHH",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "AVVSQHPSWVISKSGTSVKIECRSLDFQATTMFWYRQFPKQSLMLMATSNEGSKATYEQGVEKDKFLINHASLTLSTLTVTSAHPEDSSFYICSARDLTSGANNEQFFGPGTRLTVTEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRSRQDRGGGCD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTENVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSKVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MDFARVHFISALHG",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "CAL_2WBJ_S303",
+    "modelSeeds": [
+      303
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "QQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDTTSGTYKYIFGTGTRLKVLPNIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPENDGGGCKLEHHHHHH",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "AVVSQHPSWVISKSGTSVKIECRSLDFQATTMFWYRQFPKQSLMLMATSNEGSKATYEQGVEKDKFLINHASLTLSTLTVTSAHPEDSSFYICSARDLTSGANNEQFFGPGTRLTVTEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRSRQDRGGGCD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTENVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSKVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MDFARVHFISALHG",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "CAL_2WBJ_S404",
+    "modelSeeds": [
+      404
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "QQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDTTSGTYKYIFGTGTRLKVLPNIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPENDGGGCKLEHHHHHH",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "AVVSQHPSWVISKSGTSVKIECRSLDFQATTMFWYRQFPKQSLMLMATSNEGSKATYEQGVEKDKFLINHASLTLSTLTVTSAHPEDSSFYICSARDLTSGANNEQFFGPGTRLTVTEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRSRQDRGGGCD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTENVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSKVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MDFARVHFISALHG",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "CAL_2WBJ_S505",
+    "modelSeeds": [
+      505
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "QQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDTTSGTYKYIFGTGTRLKVLPNIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPENDGGGCKLEHHHHHH",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "AVVSQHPSWVISKSGTSVKIECRSLDFQATTMFWYRQFPKQSLMLMATSNEGSKATYEQGVEKDKFLINHASLTLSTLTVTSAHPEDSSFYICSARDLTSGANNEQFFGPGTRLTVTEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRSRQDRGGGCD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTENVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSKVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MDFARVHFISALHG",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "HY_MBP_DRB1_S101",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDSGGSYIPTFGRGTSLIVHPY",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SAVISQKPSRDICQRGTSLTIQCQVDSQVTMIFWYRQQPGQSLTLIATANQGSEATYESGFVIDKFPISRPNLTFSTLTVSNMSPEDSSIYLCSAWPSGQGTYGYTFGSGTRLTVV",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTE",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSK",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "ENPVVHFFKNIVTPR",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "HY_MBP_DRB1_S202",
+    "modelSeeds": [
+      202
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDSGGSYIPTFGRGTSLIVHPY",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SAVISQKPSRDICQRGTSLTIQCQVDSQVTMIFWYRQQPGQSLTLIATANQGSEATYESGFVIDKFPISRPNLTFSTLTVSNMSPEDSSIYLCSAWPSGQGTYGYTFGSGTRLTVV",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTE",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSK",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "ENPVVHFFKNIVTPR",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "HY_MBP_DRB1_S303",
+    "modelSeeds": [
+      303
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDSGGSYIPTFGRGTSLIVHPY",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SAVISQKPSRDICQRGTSLTIQCQVDSQVTMIFWYRQQPGQSLTLIATANQGSEATYESGFVIDKFPISRPNLTFSTLTVSNMSPEDSSIYLCSAWPSGQGTYGYTFGSGTRLTVV",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTE",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSK",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "ENPVVHFFKNIVTPR",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "HY_MBP_DRB1_S404",
+    "modelSeeds": [
+      404
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDSGGSYIPTFGRGTSLIVHPY",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SAVISQKPSRDICQRGTSLTIQCQVDSQVTMIFWYRQQPGQSLTLIATANQGSEATYESGFVIDKFPISRPNLTFSTLTVSNMSPEDSSIYLCSAWPSGQGTYGYTFGSGTRLTVV",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTE",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSK",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "ENPVVHFFKNIVTPR",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "HY_MBP_DRB1_S505",
+    "modelSeeds": [
+      505
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDSGGSYIPTFGRGTSLIVHPY",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SAVISQKPSRDICQRGTSLTIQCQVDSQVTMIFWYRQQPGQSLTLIATANQGSEATYESGFVIDKFPISRPNLTFSTLTVSNMSPEDSSIYLCSAWPSGQGTYGYTFGSGTRLTVV",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTE",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSK",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "ENPVVHFFKNIVTPR",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "HY_BALF5_FULL15_S101",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDSGGSYIPTFGRGTSLIVHPY",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SAVISQKPSRDICQRGTSLTIQCQVDSQVTMIFWYRQQPGQSLTLIATANQGSEATYESGFVIDKFPISRPNLTFSTLTVSNMSPEDSSIYLCSAWPSGQGTYGYTFGSGTRLTVV",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "TGGVYHFVKKHVHES",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "HY_BALF5_FULL15_S202",
+    "modelSeeds": [
+      202
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDSGGSYIPTFGRGTSLIVHPY",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SAVISQKPSRDICQRGTSLTIQCQVDSQVTMIFWYRQQPGQSLTLIATANQGSEATYESGFVIDKFPISRPNLTFSTLTVSNMSPEDSSIYLCSAWPSGQGTYGYTFGSGTRLTVV",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "TGGVYHFVKKHVHES",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "HY_BALF5_FULL15_S303",
+    "modelSeeds": [
+      303
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDSGGSYIPTFGRGTSLIVHPY",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SAVISQKPSRDICQRGTSLTIQCQVDSQVTMIFWYRQQPGQSLTLIATANQGSEATYESGFVIDKFPISRPNLTFSTLTVSNMSPEDSSIYLCSAWPSGQGTYGYTFGSGTRLTVV",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "TGGVYHFVKKHVHES",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "HY_BALF5_FULL15_S404",
+    "modelSeeds": [
+      404
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDSGGSYIPTFGRGTSLIVHPY",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SAVISQKPSRDICQRGTSLTIQCQVDSQVTMIFWYRQQPGQSLTLIATANQGSEATYESGFVIDKFPISRPNLTFSTLTVSNMSPEDSSIYLCSAWPSGQGTYGYTFGSGTRLTVV",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "TGGVYHFVKKHVHES",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "HY_BALF5_FULL15_S505",
+    "modelSeeds": [
+      505
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDSGGSYIPTFGRGTSLIVHPY",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SAVISQKPSRDICQRGTSLTIQCQVDSQVTMIFWYRQQPGQSLTLIATANQGSEATYESGFVIDKFPISRPNLTFSTLTVSNMSPEDSSIYLCSAWPSGQGTYGYTFGSGTRLTVV",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "TGGVYHFVKKHVHES",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "HY_BALF5_CORE14_S101",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDSGGSYIPTFGRGTSLIVHPY",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SAVISQKPSRDICQRGTSLTIQCQVDSQVTMIFWYRQQPGQSLTLIATANQGSEATYESGFVIDKFPISRPNLTFSTLTVSNMSPEDSSIYLCSAWPSGQGTYGYTFGSGTRLTVV",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GGVYHFVKKHVHES",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "HY_BALF5_CORE14_S202",
+    "modelSeeds": [
+      202
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDSGGSYIPTFGRGTSLIVHPY",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SAVISQKPSRDICQRGTSLTIQCQVDSQVTMIFWYRQQPGQSLTLIATANQGSEATYESGFVIDKFPISRPNLTFSTLTVSNMSPEDSSIYLCSAWPSGQGTYGYTFGSGTRLTVV",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GGVYHFVKKHVHES",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "HY_BALF5_CORE14_S303",
+    "modelSeeds": [
+      303
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDSGGSYIPTFGRGTSLIVHPY",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SAVISQKPSRDICQRGTSLTIQCQVDSQVTMIFWYRQQPGQSLTLIATANQGSEATYESGFVIDKFPISRPNLTFSTLTVSNMSPEDSSIYLCSAWPSGQGTYGYTFGSGTRLTVV",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GGVYHFVKKHVHES",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "HY_BALF5_CORE14_S404",
+    "modelSeeds": [
+      404
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDSGGSYIPTFGRGTSLIVHPY",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SAVISQKPSRDICQRGTSLTIQCQVDSQVTMIFWYRQQPGQSLTLIATANQGSEATYESGFVIDKFPISRPNLTFSTLTVSNMSPEDSSIYLCSAWPSGQGTYGYTFGSGTRLTVV",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GGVYHFVKKHVHES",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "HY_BALF5_CORE14_S505",
+    "modelSeeds": [
+      505
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDSGGSYIPTFGRGTSLIVHPY",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SAVISQKPSRDICQRGTSLTIQCQVDSQVTMIFWYRQQPGQSLTLIATANQGSEATYESGFVIDKFPISRPNLTFSTLTVSNMSPEDSSIYLCSAWPSGQGTYGYTFGSGTRLTVV",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GGVYHFVKKHVHES",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "DECOY_01_HY_MBP_DRB5_S101",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDSGGSYIPTFGRGTSLIVHPY",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SAVISQKPSRDICQRGTSLTIQCQVDSQVTMIFWYRQQPGQSLTLIATANQGSEATYESGFVIDKFPISRPNLTFSTLTVSNMSPEDSSIYLCSAWPSGQGTYGYTFGSGTRLTVV",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRAQS",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "VHFFKNIVTPRTP",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "DECOY_01_HY_MBP_DRB5_S202",
+    "modelSeeds": [
+      202
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDSGGSYIPTFGRGTSLIVHPY",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SAVISQKPSRDICQRGTSLTIQCQVDSQVTMIFWYRQQPGQSLTLIATANQGSEATYESGFVIDKFPISRPNLTFSTLTVSNMSPEDSSIYLCSAWPSGQGTYGYTFGSGTRLTVV",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRAQS",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "VHFFKNIVTPRTP",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "DECOY_01_HY_MBP_DRB5_S303",
+    "modelSeeds": [
+      303
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDSGGSYIPTFGRGTSLIVHPY",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SAVISQKPSRDICQRGTSLTIQCQVDSQVTMIFWYRQQPGQSLTLIATANQGSEATYESGFVIDKFPISRPNLTFSTLTVSNMSPEDSSIYLCSAWPSGQGTYGYTFGSGTRLTVV",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRAQS",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "VHFFKNIVTPRTP",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "DECOY_01_HY_MBP_DRB5_S404",
+    "modelSeeds": [
+      404
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDSGGSYIPTFGRGTSLIVHPY",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SAVISQKPSRDICQRGTSLTIQCQVDSQVTMIFWYRQQPGQSLTLIATANQGSEATYESGFVIDKFPISRPNLTFSTLTVSNMSPEDSSIYLCSAWPSGQGTYGYTFGSGTRLTVV",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRAQS",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "VHFFKNIVTPRTP",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "DECOY_01_HY_MBP_DRB5_S505",
+    "modelSeeds": [
+      505
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDSGGSYIPTFGRGTSLIVHPY",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SAVISQKPSRDICQRGTSLTIQCQVDSQVTMIFWYRQQPGQSLTLIATANQGSEATYESGFVIDKFPISRPNLTFSTLTVSNMSPEDSSIYLCSAWPSGQGTYGYTFGSGTRLTVV",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRAQS",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "VHFFKNIVTPRTP",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "DECOY_02_HY_ENGA_DRB1_S101",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDSGGSYIPTFGRGTSLIVHPY",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SAVISQKPSRDICQRGTSLTIQCQVDSQVTMIFWYRQQPGQSLTLIATANQGSEATYESGFVIDKFPISRPNLTFSTLTVSNMSPEDSSIYLCSAWPSGQGTYGYTFGSGTRLTVV",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTENVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSKVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MDFARVHFISALHG",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "DECOY_02_HY_ENGA_DRB1_S202",
+    "modelSeeds": [
+      202
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDSGGSYIPTFGRGTSLIVHPY",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SAVISQKPSRDICQRGTSLTIQCQVDSQVTMIFWYRQQPGQSLTLIATANQGSEATYESGFVIDKFPISRPNLTFSTLTVSNMSPEDSSIYLCSAWPSGQGTYGYTFGSGTRLTVV",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTENVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSKVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MDFARVHFISALHG",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "DECOY_02_HY_ENGA_DRB1_S303",
+    "modelSeeds": [
+      303
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDSGGSYIPTFGRGTSLIVHPY",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SAVISQKPSRDICQRGTSLTIQCQVDSQVTMIFWYRQQPGQSLTLIATANQGSEATYESGFVIDKFPISRPNLTFSTLTVSNMSPEDSSIYLCSAWPSGQGTYGYTFGSGTRLTVV",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTENVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSKVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MDFARVHFISALHG",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "DECOY_02_HY_ENGA_DRB1_S404",
+    "modelSeeds": [
+      404
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDSGGSYIPTFGRGTSLIVHPY",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SAVISQKPSRDICQRGTSLTIQCQVDSQVTMIFWYRQQPGQSLTLIATANQGSEATYESGFVIDKFPISRPNLTFSTLTVSNMSPEDSSIYLCSAWPSGQGTYGYTFGSGTRLTVV",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTENVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSKVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MDFARVHFISALHG",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "DECOY_02_HY_ENGA_DRB1_S505",
+    "modelSeeds": [
+      505
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDSGGSYIPTFGRGTSLIVHPY",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SAVISQKPSRDICQRGTSLTIQCQVDSQVTMIFWYRQQPGQSLTLIATANQGSEATYESGFVIDKFPISRPNLTFSTLTVSNMSPEDSSIYLCSAWPSGQGTYGYTFGSGTRLTVV",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTENVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSKVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MDFARVHFISALHG",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "DECOY_03_OB_BALF5_S101",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDTTSGTYKYIFGTGTRLKVLANIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPESSC",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GAVVSQHPSWVISKSGTSVKIECRSLDFQATTMFWYRQFPKQSLMLMATSNEGSKATYEQGVEKDKFLINHASLTLSTLTVTSAHPEDSSFYICSARDLTSGANNEQFFGPGTRLTVLEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRADC",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "TGGVYHFVKKHVHES",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "DECOY_03_OB_BALF5_S202",
+    "modelSeeds": [
+      202
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDTTSGTYKYIFGTGTRLKVLANIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPESSC",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GAVVSQHPSWVISKSGTSVKIECRSLDFQATTMFWYRQFPKQSLMLMATSNEGSKATYEQGVEKDKFLINHASLTLSTLTVTSAHPEDSSFYICSARDLTSGANNEQFFGPGTRLTVLEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRADC",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "TGGVYHFVKKHVHES",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "DECOY_03_OB_BALF5_S303",
+    "modelSeeds": [
+      303
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDTTSGTYKYIFGTGTRLKVLANIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPESSC",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GAVVSQHPSWVISKSGTSVKIECRSLDFQATTMFWYRQFPKQSLMLMATSNEGSKATYEQGVEKDKFLINHASLTLSTLTVTSAHPEDSSFYICSARDLTSGANNEQFFGPGTRLTVLEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRADC",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "TGGVYHFVKKHVHES",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "DECOY_03_OB_BALF5_S404",
+    "modelSeeds": [
+      404
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDTTSGTYKYIFGTGTRLKVLANIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPESSC",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GAVVSQHPSWVISKSGTSVKIECRSLDFQATTMFWYRQFPKQSLMLMATSNEGSKATYEQGVEKDKFLINHASLTLSTLTVTSAHPEDSSFYICSARDLTSGANNEQFFGPGTRLTVLEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRADC",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "TGGVYHFVKKHVHES",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "DECOY_03_OB_BALF5_S505",
+    "modelSeeds": [
+      505
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDTTSGTYKYIFGTGTRLKVLANIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPESSC",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GAVVSQHPSWVISKSGTSVKIECRSLDFQATTMFWYRQFPKQSLMLMATSNEGSKATYEQGVEKDKFLINHASLTLSTLTVTSAHPEDSSFYICSARDLTSGANNEQFFGPGTRLTVLEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRADC",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "TGGVYHFVKKHVHES",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "DECOY_04_OB_MBP_DRB5_S101",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDTTSGTYKYIFGTGTRLKVLANIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPESSC",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GAVVSQHPSWVISKSGTSVKIECRSLDFQATTMFWYRQFPKQSLMLMATSNEGSKATYEQGVEKDKFLINHASLTLSTLTVTSAHPEDSSFYICSARDLTSGANNEQFFGPGTRLTVLEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRADC",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRAQS",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "VHFFKNIVTPRTP",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "DECOY_04_OB_MBP_DRB5_S202",
+    "modelSeeds": [
+      202
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDTTSGTYKYIFGTGTRLKVLANIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPESSC",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GAVVSQHPSWVISKSGTSVKIECRSLDFQATTMFWYRQFPKQSLMLMATSNEGSKATYEQGVEKDKFLINHASLTLSTLTVTSAHPEDSSFYICSARDLTSGANNEQFFGPGTRLTVLEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRADC",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRAQS",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "VHFFKNIVTPRTP",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "DECOY_04_OB_MBP_DRB5_S303",
+    "modelSeeds": [
+      303
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDTTSGTYKYIFGTGTRLKVLANIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPESSC",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GAVVSQHPSWVISKSGTSVKIECRSLDFQATTMFWYRQFPKQSLMLMATSNEGSKATYEQGVEKDKFLINHASLTLSTLTVTSAHPEDSSFYICSARDLTSGANNEQFFGPGTRLTVLEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRADC",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRAQS",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "VHFFKNIVTPRTP",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "DECOY_04_OB_MBP_DRB5_S404",
+    "modelSeeds": [
+      404
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDTTSGTYKYIFGTGTRLKVLANIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPESSC",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GAVVSQHPSWVISKSGTSVKIECRSLDFQATTMFWYRQFPKQSLMLMATSNEGSKATYEQGVEKDKFLINHASLTLSTLTVTSAHPEDSSFYICSARDLTSGANNEQFFGPGTRLTVLEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRADC",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRAQS",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "VHFFKNIVTPRTP",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "DECOY_04_OB_MBP_DRB5_S505",
+    "modelSeeds": [
+      505
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATDTTSGTYKYIFGTGTRLKVLANIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPESSC",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GAVVSQHPSWVISKSGTSVKIECRSLDFQATTMFWYRQFPKQSLMLMATSNEGSKATYEQGVEKDKFLINHASLTLSTLTVTSAHPEDSSFYICSARDLTSGANNEQFFGPGTRLTVLEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRADC",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRAQS",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "VHFFKNIVTPRTP",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "DECOY_05_3A6_MBP_DRB1_S101",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "GDSVTQMEGPVTLSEEAFLTINCTYTATGYPSLFWYVQYPGEGLQLLLKATKADDKGSNKGFEATYRKETTSFHLEKGSVQVSDSAVYFCALSGGDSSYKLIFGSGTRLLVRPDIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPESSCA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GGGGGVTQTPRYLIKTRGQQVTLSCSPISGHRSVSWYQQTPGQGLQFLFEYFNETQRNKGNFPGRFSGRQFSNSRSEMNVSTLELGDSALYLCASSLADRVNTEAFFGQGTRLTVVEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRADCAA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTE",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSK",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "ENPVVHFFKNIVTPR",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "DECOY_05_3A6_MBP_DRB1_S202",
+    "modelSeeds": [
+      202
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "GDSVTQMEGPVTLSEEAFLTINCTYTATGYPSLFWYVQYPGEGLQLLLKATKADDKGSNKGFEATYRKETTSFHLEKGSVQVSDSAVYFCALSGGDSSYKLIFGSGTRLLVRPDIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPESSCA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GGGGGVTQTPRYLIKTRGQQVTLSCSPISGHRSVSWYQQTPGQGLQFLFEYFNETQRNKGNFPGRFSGRQFSNSRSEMNVSTLELGDSALYLCASSLADRVNTEAFFGQGTRLTVVEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRADCAA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTE",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSK",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "ENPVVHFFKNIVTPR",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "DECOY_05_3A6_MBP_DRB1_S303",
+    "modelSeeds": [
+      303
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "GDSVTQMEGPVTLSEEAFLTINCTYTATGYPSLFWYVQYPGEGLQLLLKATKADDKGSNKGFEATYRKETTSFHLEKGSVQVSDSAVYFCALSGGDSSYKLIFGSGTRLLVRPDIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPESSCA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GGGGGVTQTPRYLIKTRGQQVTLSCSPISGHRSVSWYQQTPGQGLQFLFEYFNETQRNKGNFPGRFSGRQFSNSRSEMNVSTLELGDSALYLCASSLADRVNTEAFFGQGTRLTVVEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRADCAA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTE",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSK",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "ENPVVHFFKNIVTPR",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "DECOY_05_3A6_MBP_DRB1_S404",
+    "modelSeeds": [
+      404
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "GDSVTQMEGPVTLSEEAFLTINCTYTATGYPSLFWYVQYPGEGLQLLLKATKADDKGSNKGFEATYRKETTSFHLEKGSVQVSDSAVYFCALSGGDSSYKLIFGSGTRLLVRPDIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPESSCA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GGGGGVTQTPRYLIKTRGQQVTLSCSPISGHRSVSWYQQTPGQGLQFLFEYFNETQRNKGNFPGRFSGRQFSNSRSEMNVSTLELGDSALYLCASSLADRVNTEAFFGQGTRLTVVEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRADCAA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTE",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSK",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "ENPVVHFFKNIVTPR",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "DECOY_05_3A6_MBP_DRB1_S505",
+    "modelSeeds": [
+      505
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "GDSVTQMEGPVTLSEEAFLTINCTYTATGYPSLFWYVQYPGEGLQLLLKATKADDKGSNKGFEATYRKETTSFHLEKGSVQVSDSAVYFCALSGGDSSYKLIFGSGTRLLVRPDIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPESSCA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GGGGGVTQTPRYLIKTRGQQVTLSCSPISGHRSVSWYQQTPGQGLQFLFEYFNETQRNKGNFPGRFSGRQFSNSRSEMNVSTLELGDSALYLCASSLADRVNTEAFFGQGTRLTVVEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRADCAA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTE",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSK",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "ENPVVHFFKNIVTPR",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "DECOY_06_3A6_BALF5_S101",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "GDSVTQMEGPVTLSEEAFLTINCTYTATGYPSLFWYVQYPGEGLQLLLKATKADDKGSNKGFEATYRKETTSFHLEKGSVQVSDSAVYFCALSGGDSSYKLIFGSGTRLLVRPDIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPESSCA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GGGGGVTQTPRYLIKTRGQQVTLSCSPISGHRSVSWYQQTPGQGLQFLFEYFNETQRNKGNFPGRFSGRQFSNSRSEMNVSTLELGDSALYLCASSLADRVNTEAFFGQGTRLTVVEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRADCAA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "TGGVYHFVKKHVHES",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "DECOY_06_3A6_BALF5_S202",
+    "modelSeeds": [
+      202
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "GDSVTQMEGPVTLSEEAFLTINCTYTATGYPSLFWYVQYPGEGLQLLLKATKADDKGSNKGFEATYRKETTSFHLEKGSVQVSDSAVYFCALSGGDSSYKLIFGSGTRLLVRPDIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPESSCA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GGGGGVTQTPRYLIKTRGQQVTLSCSPISGHRSVSWYQQTPGQGLQFLFEYFNETQRNKGNFPGRFSGRQFSNSRSEMNVSTLELGDSALYLCASSLADRVNTEAFFGQGTRLTVVEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRADCAA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "TGGVYHFVKKHVHES",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "DECOY_06_3A6_BALF5_S303",
+    "modelSeeds": [
+      303
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "GDSVTQMEGPVTLSEEAFLTINCTYTATGYPSLFWYVQYPGEGLQLLLKATKADDKGSNKGFEATYRKETTSFHLEKGSVQVSDSAVYFCALSGGDSSYKLIFGSGTRLLVRPDIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPESSCA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GGGGGVTQTPRYLIKTRGQQVTLSCSPISGHRSVSWYQQTPGQGLQFLFEYFNETQRNKGNFPGRFSGRQFSNSRSEMNVSTLELGDSALYLCASSLADRVNTEAFFGQGTRLTVVEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRADCAA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "TGGVYHFVKKHVHES",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "DECOY_06_3A6_BALF5_S404",
+    "modelSeeds": [
+      404
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "GDSVTQMEGPVTLSEEAFLTINCTYTATGYPSLFWYVQYPGEGLQLLLKATKADDKGSNKGFEATYRKETTSFHLEKGSVQVSDSAVYFCALSGGDSSYKLIFGSGTRLLVRPDIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPESSCA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GGGGGVTQTPRYLIKTRGQQVTLSCSPISGHRSVSWYQQTPGQGLQFLFEYFNETQRNKGNFPGRFSGRQFSNSRSEMNVSTLELGDSALYLCASSLADRVNTEAFFGQGTRLTVVEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRADCAA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "TGGVYHFVKKHVHES",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "DECOY_06_3A6_BALF5_S505",
+    "modelSeeds": [
+      505
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "GDSVTQMEGPVTLSEEAFLTINCTYTATGYPSLFWYVQYPGEGLQLLLKATKADDKGSNKGFEATYRKETTSFHLEKGSVQVSDSAVYFCALSGGDSSYKLIFGSGTRLLVRPDIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPESSCA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GGGGGVTQTPRYLIKTRGQQVTLSCSPISGHRSVSWYQQTPGQGLQFLFEYFNETQRNKGNFPGRFSGRQFSNSRSEMNVSTLELGDSALYLCASSLADRVNTEAFFGQGTRLTVVEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRADCAA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "TGGVYHFVKKHVHES",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "DECOY_07_3A6_ENGA_S101",
+    "modelSeeds": [
+      101
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "GDSVTQMEGPVTLSEEAFLTINCTYTATGYPSLFWYVQYPGEGLQLLLKATKADDKGSNKGFEATYRKETTSFHLEKGSVQVSDSAVYFCALSGGDSSYKLIFGSGTRLLVRPDIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPESSCA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GGGGGVTQTPRYLIKTRGQQVTLSCSPISGHRSVSWYQQTPGQGLQFLFEYFNETQRNKGNFPGRFSGRQFSNSRSEMNVSTLELGDSALYLCASSLADRVNTEAFFGQGTRLTVVEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRADCAA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTENVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSKVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MDFARVHFISALHG",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "DECOY_07_3A6_ENGA_S202",
+    "modelSeeds": [
+      202
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "GDSVTQMEGPVTLSEEAFLTINCTYTATGYPSLFWYVQYPGEGLQLLLKATKADDKGSNKGFEATYRKETTSFHLEKGSVQVSDSAVYFCALSGGDSSYKLIFGSGTRLLVRPDIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPESSCA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GGGGGVTQTPRYLIKTRGQQVTLSCSPISGHRSVSWYQQTPGQGLQFLFEYFNETQRNKGNFPGRFSGRQFSNSRSEMNVSTLELGDSALYLCASSLADRVNTEAFFGQGTRLTVVEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRADCAA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTENVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSKVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MDFARVHFISALHG",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "DECOY_07_3A6_ENGA_S303",
+    "modelSeeds": [
+      303
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "GDSVTQMEGPVTLSEEAFLTINCTYTATGYPSLFWYVQYPGEGLQLLLKATKADDKGSNKGFEATYRKETTSFHLEKGSVQVSDSAVYFCALSGGDSSYKLIFGSGTRLLVRPDIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPESSCA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GGGGGVTQTPRYLIKTRGQQVTLSCSPISGHRSVSWYQQTPGQGLQFLFEYFNETQRNKGNFPGRFSGRQFSNSRSEMNVSTLELGDSALYLCASSLADRVNTEAFFGQGTRLTVVEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRADCAA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTENVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSKVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MDFARVHFISALHG",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "DECOY_07_3A6_ENGA_S404",
+    "modelSeeds": [
+      404
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "GDSVTQMEGPVTLSEEAFLTINCTYTATGYPSLFWYVQYPGEGLQLLLKATKADDKGSNKGFEATYRKETTSFHLEKGSVQVSDSAVYFCALSGGDSSYKLIFGSGTRLLVRPDIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPESSCA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GGGGGVTQTPRYLIKTRGQQVTLSCSPISGHRSVSWYQQTPGQGLQFLFEYFNETQRNKGNFPGRFSGRQFSNSRSEMNVSTLELGDSALYLCASSLADRVNTEAFFGQGTRLTVVEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRADCAA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTENVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSKVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MDFARVHFISALHG",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "DECOY_07_3A6_ENGA_S505",
+    "modelSeeds": [
+      505
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "GDSVTQMEGPVTLSEEAFLTINCTYTATGYPSLFWYVQYPGEGLQLLLKATKADDKGSNKGFEATYRKETTSFHLEKGSVQVSDSAVYFCALSGGDSSYKLIFGSGTRLLVRPDIQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPESSCA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GGGGGVTQTPRYLIKTRGQQVTLSCSPISGHRSVSWYQQTPGQGLQFLFEYFNETQRNKGNFPGRFSGRQFSNSRSEMNVSTLELGDSALYLCASSLADRVNTEAFFGQGTRLTVVEDLKNVFPPEVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYSLSSRLRVSATFWQNPRNHFRCQVQFYGLSENDEWTQDRAKPVTQIVSAEAWGRADCAA",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IKEEHVIIQAEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMTKRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFDAPSPLPETTENVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GDTRPRFLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEQARAAVDTYCRHNYGVVESFTVQRRVQPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFLNGQEEKAGMVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSKVD",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MDFARVHFISALHG",
+          "count": 1,
+          "useStructureTemplate": false
+        }
+      }
+    ]
+  }
+]

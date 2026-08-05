@@ -1,0 +1,8 @@
+submission	role	peptide_submitted	MHC	direct_reference_PDB_to_exclude	interpretation
+01_CAL_1YMM	calibration	ENPVVHFFKNIVTPR	DRB1*15:01	1YMM	Known OB.1A12–MBP–DRB1 structure; exclude 1YMM in Advanced options.
+02_CAL_1ZGL	calibration	VHFFKNIVTPR	DRB5*01:01	1ZGL	Known 3A6–MBP–DRB5 structure; 11-mer V-HFFKNIVTP-R; exclude 1ZGL in Advanced options.
+03_CAL_2WBJ	calibration	DFARVHFISAL	DRB1*15:01	2WBJ	Known OB.1A12–ENGA–DRB1 structure; 11-mer D-FARVHFISA-L centered on the deposited 14-mer; exclude 2WBJ in Advanced options.
+04_HY_MBP_DRB1	Hy.2E11 test	VHFFKNIVTPR	DRB1*15:01	1YMM	Hy.2E11 functional positive, MBP 11-mer V-HFFKNIVTP-R / DRB1*15:01; exclude 1YMM, 1ZGL, 2WBJ, and 1H15.
+05_HY_BALF5_FULL15	Hy.2E11 test	GVYHFVKKHVH	DRB5*01:01	1H15	Hy.2E11 functional positive, BALF5 11-mer G-VYHFVKKHV-H / DRB5*01:01; exclude 1H15, 1YMM, 1ZGL, and 2WBJ.
+06_HY_BALF5_CORE14	Hy.2E11 test	GVYHFVKKHVH	DRB5*01:01	1H15	Hy.2E11 structural-sensitivity condition, same BALF5 11-mer G-VYHFVKKHV-H / DRB5*01:01; exclude 1H15, 1YMM, 1ZGL, and 2WBJ.
+03b_CAL_2WBJ_CANONICAL_OB	Canonical-OB calibration	DFARVHFISAL	DRB1*15:01	2WBJ	Uses the unmodified OB.1A12 variable domains from 1YMM instead of the 2WBJ peptide-linker fusion construct; retains 2WBJ DRB1 and 11-mer D-FARVHFISA-L. Exclude 2WBJ in Advanced options.

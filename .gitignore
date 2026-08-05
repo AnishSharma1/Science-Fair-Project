@@ -1,0 +1,9 @@
+.DS_Store
+.manifest_build/
+__pycache__/
+node_modules/
+
+# Local inspection and test artifacts
+outputs/**/.DS_Store
+outputs/**/test.xlsx
+outputs/**/test.xlsx.inspect.ndjson

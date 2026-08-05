@@ -1,0 +1,86 @@
+{
+    "ranked_0": {
+        "model_confidence": 0.7706615285020264,
+        "plddt": 88.9165391012458,
+        "ptm": 0.8090163846518557,
+        "iptm": 0.7610728,
+        "tcr-pmhc_iptm": 0.6927639935093226,
+        "cdr3a_plddt": 77.06985657979426,
+        "cdr3b_plddt": 73.08385956078244,
+        "IpLDDT": "72.61"
+    },
+    "ranked_1": {
+        "model_confidence": 0.7675857444324752,
+        "plddt": 88.9286493888093,
+        "ptm": 0.8043534257603978,
+        "iptm": 0.7583938,
+        "tcr-pmhc_iptm": 0.6884463628834963,
+        "cdr3a_plddt": 77.13822988117711,
+        "cdr3b_plddt": 75.55991261465508,
+        "IpLDDT": "74.25"
+    },
+    "ranked_2": {
+        "model_confidence": 0.7605154625689745,
+        "plddt": 88.6263599053866,
+        "ptm": 0.8042214473663568,
+        "iptm": 0.74958897,
+        "tcr-pmhc_iptm": 0.6926745146944033,
+        "cdr3a_plddt": 75.91176955665698,
+        "cdr3b_plddt": 73.29280732807361,
+        "IpLDDT": "72.90"
+    },
+    "ranked_3": {
+        "model_confidence": 0.7054841419937968,
+        "plddt": 89.1031271677641,
+        "ptm": 0.7659213050617576,
+        "iptm": 0.69037485,
+        "tcr-pmhc_iptm": 0.5901892799298446,
+        "cdr3a_plddt": 77.86243989935332,
+        "cdr3b_plddt": 73.17539482785945,
+        "IpLDDT": "72.31"
+    },
+    "ranked_4": {
+        "model_confidence": 0.5081942377027974,
+        "plddt": 85.3786534308254,
+        "ptm": 0.6047746228859349,
+        "iptm": 0.48404914,
+        "tcr-pmhc_iptm": 0.24309990799401732,
+        "cdr3a_plddt": 75.77392339021965,
+        "cdr3b_plddt": 66.83337683426707,
+        "IpLDDT": "68.56"
+    },
+    "tcra_tmplts": [
+        "6ovn_A",
+        "6dfx_G",
+        "4mji_D",
+        "4en3_A"
+    ],
+    "tcrb_tmplts": [
+        "4dzb_B",
+        "3o4l_E",
+        "3mfg_B",
+        "4ozi_F"
+    ],
+    "pmhc_tmplts": [
+        "6r0e",
+        "1fyt",
+        "4y19",
+        "6cql"
+    ],
+    "angles": {
+        "docking_angle": {
+            "ranked_1.pdb": "NA",
+            "ranked_0.pdb": "NA",
+            "ranked_3.pdb": "NA",
+            "ranked_4.pdb": "NA",
+            "ranked_2.pdb": "NA"
+        },
+        "incident_angle": {
+            "ranked_1.pdb": "NA",
+            "ranked_0.pdb": "NA",
+            "ranked_3.pdb": "NA",
+            "ranked_4.pdb": "NA",
+            "ranked_2.pdb": "NA"
+        }
+    }
+}
