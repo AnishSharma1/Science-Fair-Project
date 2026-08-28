@@ -1,0 +1,154 @@
+{
+  "binding_percentile_eligibility_maximum": 20,
+  "binding_percentile_used_in_rank": false,
+  "claim_boundary": "N3 panels provide descriptive, HLA-specific computational ranking context only; they are not evidence of presentation, TCR recognition, activation, specificity, cross-reactivity, molecular mimicry, MS mechanism, probability, or false-discovery rate.",
+  "comparator_order": [
+    "peptide_length_difference_asc",
+    "binding_percentile_difference_asc",
+    "seeded_hash_asc",
+    "candidate_id_asc"
+  ],
+  "comparator_target_exclusion_scope": "current_panel_target_arms_plus_confirmed_control_ligands",
+  "comparators_per_arm": 5,
+  "discovery_unlock_allowed": false,
+  "frozen_before_control_geometry_read": true,
+  "frozen_panel_input": {
+    "bytes": 48491,
+    "relative_path": "processed/tcell_library_v2_2026-08-22/frozen_v2_80_peptide_panel.csv",
+    "sha256": "265832ac651874d9fcd2184b41c1906615953e6e4f2b48a8bd4c1b2a373128f2"
+  },
+  "frozen_targets": [
+    {
+      "allele": "HLA-DRB1*03:01",
+      "ebv_core": "IVRQSRGDR",
+      "lane": "sequence",
+      "pair_id": "HLA-DRB1*03:01|EBV_IEDB_73663fe4c7bb|SELF_IEDB_842d700c6a24",
+      "self_core": "LLKDAIGEG",
+      "target_id": "HY03_SEQ_01"
+    },
+    {
+      "allele": "HLA-DRB1*03:01",
+      "ebv_core": "VTLTSYWRR",
+      "lane": "sequence",
+      "pair_id": "HLA-DRB1*03:01|EBV_IEDB_156b80230e03|SELF_CANON_CRYAB_0001_0015",
+      "self_core": "IAIHHPWIR",
+      "target_id": "HY03_SEQ_02"
+    },
+    {
+      "allele": "HLA-DRB1*03:01",
+      "ebv_core": "IWMCMTVRH",
+      "lane": "register",
+      "pair_id": "HLA-DRB1*03:01|EBV_IEDB_2fbac9820d7d|SELF_CANON_TALDO1_0108_0122",
+      "self_core": "LSFDKDAMV",
+      "target_id": "HY03_REG_01"
+    },
+    {
+      "allele": "HLA-DRB1*08:01",
+      "ebv_core": "LRALLARSH",
+      "lane": "sequence",
+      "pair_id": "HLA-DRB1*08:01|EBV_IEDB_ce143ad82ead|SELF_CANON_ANO2_0079_0093",
+      "self_core": "LEARLSRMH",
+      "target_id": "HY08_SEQ_01"
+    },
+    {
+      "allele": "HLA-DRB1*08:01",
+      "ebv_core": "VRRRVLVQQ",
+      "lane": "sequence",
+      "pair_id": "HLA-DRB1*08:01|EBV_IEDB_91869932d81f|SELF_IEDB_96777e34f994",
+      "self_core": "FSRVVHLYR",
+      "target_id": "HY08_SEQ_02"
+    },
+    {
+      "allele": "HLA-DRB1*08:01",
+      "ebv_core": "LRALLARSH",
+      "lane": "register",
+      "pair_id": "HLA-DRB1*08:01|EBV_IEDB_ce143ad82ead|SELF_CANON_CNP_0272_0286",
+      "self_core": "YSKAFTLTI",
+      "target_id": "HY08_REG_01"
+    },
+    {
+      "allele": "HLA-DRB1*13:03",
+      "ebv_core": "WMCMTVRHR",
+      "lane": "sequence",
+      "pair_id": "HLA-DRB1*13:03|EBV_IEDB_2fbac9820d7d|SELF_IEDB_18eebcfe8ed0",
+      "self_core": "IICYNWLHR",
+      "target_id": "HY13_SEQ_01"
+    },
+    {
+      "allele": "HLA-DRB1*13:03",
+      "ebv_core": "YHFVKKHVH",
+      "lane": "sequence",
+      "pair_id": "HLA-DRB1*13:03|EBV_IEDB_35bb9c18fac4|SELF_CANON_TALDO1_0108_0122",
+      "self_core": "LSFDKDAMV",
+      "target_id": "HY13_SEQ_02"
+    },
+    {
+      "allele": "HLA-DRB1*13:03",
+      "ebv_core": "LRALLARSH",
+      "lane": "register",
+      "pair_id": "HLA-DRB1*13:03|EBV_IEDB_ce143ad82ead|SELF_CANON_CNP_0272_0286",
+      "self_core": "YSKAFTLTI",
+      "target_id": "HY13_REG_01"
+    },
+    {
+      "allele": "HLA-DRB1*15:01",
+      "ebv_core": "ILIYNGWYA",
+      "lane": "sequence",
+      "pair_id": "HLA-DRB1*15:01|EBV_IEDB_bce490b86fd9|SELF_CANON_CRYAB_0001_0015",
+      "self_core": "IAIHHPWIR",
+      "target_id": "HY15_SEQ_01"
+    },
+    {
+      "allele": "HLA-DRB1*15:01",
+      "ebv_core": "VYHFVKKHV",
+      "lane": "sequence",
+      "pair_id": "HLA-DRB1*15:01|EBV_IEDB_35bb9c18fac4|SELF_CANON_TALDO1_0216_0230",
+      "self_core": "IYNYYKKFS",
+      "target_id": "HY15_SEQ_02"
+    },
+    {
+      "allele": "HLA-DRB1*15:01",
+      "ebv_core": "VTLTSYWRR",
+      "lane": "register",
+      "pair_id": "HLA-DRB1*15:01|EBV_IEDB_156b80230e03|SELF_CANON_MAG_0408_0422",
+      "self_core": "VLLLESHCA",
+      "target_id": "HY15_REG_01"
+    }
+  ],
+  "global_frozen_target_arm_exclusion_feasible": false,
+  "n3_pairs_per_panel": 25,
+  "n3_specificity_role": "unknown_recognition_not_a_specificity_negative",
+  "panel_pair_count": 26,
+  "protocol_resolution_reason": "Global frozen-target-arm exclusion leaves fewer than five eligible unique self arms; the current target arms and confirmed-control ligands remain excluded, while any other high-yield arm is explicitly labeled as unknown-recognition N3 overlap.",
+  "protocol_version": "HIGH_YIELD_CONTROL_VALIDATION_2026-08-28",
+  "ranking_order": [
+    "tcr_facing_blosum62_desc",
+    "tcr_face_physicochemical_mismatch_asc",
+    "tcr_facing_sequence_identity_desc",
+    "panel_local_surface_percentile_asc_when_register_robust",
+    "pair_id_asc"
+  ],
+  "seed": 271828,
+  "specificity_claim_allowed": false,
+  "surface_features": [
+    "sidechain_exposure_mismatch_fraction_q75",
+    "exposure_weighted_centroid_rmsd_A_q75",
+    "exposure_weighted_orientation_rmsd_A_q75",
+    "exposed_distance_matrix_rmsd_A_q75",
+    "exposure_weighted_chemistry_mismatch_q75",
+    "exposure_weighted_backbone_rmsd_A_q75"
+  ],
+  "target_count": 12,
+  "targets_per_hla": 3,
+  "v3_input": {
+    "bytes": 13307518,
+    "relative_path": "processed/literature_grounded_hla2_rankings_v3_2026-08-27/v3_all_hla_ranked_pairs.csv",
+    "sha256": "81edff48283ef2f82ab42cb47aa4ed298037040fd9520a11c198745e6577e616"
+  },
+  "v3_manifest": {
+    "bytes": 3504,
+    "relative_path": "processed/literature_grounded_hla2_rankings_v3_2026-08-27/analysis_manifest.json",
+    "sha256": "9cdee450a3a47e9d5bc72047ae4cfca21e5ad31381c26ea883bfda3777032893"
+  },
+  "weights_frozen": false
+}

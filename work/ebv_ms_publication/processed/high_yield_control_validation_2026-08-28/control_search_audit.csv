@@ -1,0 +1,6 @@
+primary_record_checked,reason,result,search_scope
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9022012/,"Proinsulin clones provide exact-allele functional data but not a same-TCR distinct-source, paired-structure system.",no_new_strict_system,HLA-DRB1*03:01
+https://tcr3d.ibbr.umd.edu/class2,"No exact-allele human multiligand system met all peptide, register, functional, and paired-structure fields.",no_new_strict_system,HLA-DRB1*08:01
+https://doi.org/10.1038/s41467-025-66992-2,The inspected KSHV TCRs were not DRB1*13:03 cross-source systems; the paper explicitly reports lack of recognition for DRB1*13:03 in the relevant allotype test.,no_new_strict_system,HLA-DRB1*13:03
+https://pubmed.ncbi.nlm.nih.gov/27129138/,Tree-nut allergen cross-reactivity lacks locked exact registers and paired ternary structures.,functional_lead_only,HLA-DRB1*15:01
+https://doi.org/10.1016/j.jbc.2024.107612,A2.13 and ET650-4 are strong multiligand DQ8 systems but fail the frozen distinct-source requirement.,structure_resolved_leads_not_admitted,HLA-DQ family diversity

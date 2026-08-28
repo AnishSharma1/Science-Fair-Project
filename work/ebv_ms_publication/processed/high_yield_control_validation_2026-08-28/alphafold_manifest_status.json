@@ -1,0 +1,13 @@
+{
+  "discovery_candidate_models_reused": true,
+  "maximum_jobs_per_batch": 30,
+  "model_seeds_if_admitted": [
+    271828,
+    314159
+  ],
+  "new_strict_system_count": 0,
+  "prepared_not_submitted": false,
+  "reason": "Only newly verified strict controls are eligible for new AlphaFold modeling.",
+  "status": "not_created_no_new_strict_systems",
+  "submission_status": "not_submitted"
+}

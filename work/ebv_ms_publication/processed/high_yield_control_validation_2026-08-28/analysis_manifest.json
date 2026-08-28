@@ -1,0 +1,23 @@
+{
+  "claim_boundary": "N3 panels provide descriptive, HLA-specific computational ranking context only; they are not evidence of presentation, TCR recognition, activation, specificity, cross-reactivity, molecular mimicry, MS mechanism, probability, or false-discovery rate.",
+  "discovery_unlock_allowed": false,
+  "existing_v1_v2_v3_outputs_modified": false,
+  "n3_row_count": 300,
+  "new_alphafold_job_count": 0,
+  "new_strict_control_count": 0,
+  "package": "high_yield_control_validation_2026-08-28",
+  "panel_count": 12,
+  "panel_row_count": 312,
+  "specificity_claim_allowed": false,
+  "status": "complete_additive_n3_ranking_context",
+  "supportive_rank_context_count": 8,
+  "target_count": 12,
+  "target_row_count": 12,
+  "targets_per_hla": {
+    "HLA-DRB1*03:01": 3,
+    "HLA-DRB1*08:01": 3,
+    "HLA-DRB1*13:03": 3,
+    "HLA-DRB1*15:01": 3
+  },
+  "weights_frozen": false
+}

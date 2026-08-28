@@ -1,0 +1,8 @@
+{
+  "claim_boundary": "Ranking performance and N3 comparisons are not specificity evidence.",
+  "discovery_unlock_allowed": false,
+  "explicit_n1_n2_count": 0,
+  "n3_excluded_from_specificity": true,
+  "specificity_claim_allowed": false,
+  "status": "not_evaluable_no_explicit_n1_n2"
+}
