@@ -1,0 +1,25 @@
+pair_id,shortlist_rank,ebv_job_directory,human_job_directory,cross_sample_comparison_count,core_p1_p9_ca_rmsd_A_median,core_p1_p9_ca_rmsd_A_min,core_p1_p9_ca_rmsd_A_max,candidate_exposed_ca_rmsd_A_median,candidate_exposed_ca_rmsd_A_min,candidate_exposed_ca_rmsd_A_max,interpretation
+EBV_TCELL_149795::HUMAN_MYELIN_116079,31,ebv_tcell_149795,human_myelin_116079,25,15.11,2.458,27.679,13.289,2.258,27.778,Seed/job sensitivity only; model samples are not independent biological replicates.
+EBV_TCELL_149795::HUMAN_MYELIN_116079,31,ebv_tcell_149795_2,human_myelin_116079,25,15.35,5.148,27.933,13.848,5.303,27.911,Seed/job sensitivity only; model samples are not independent biological replicates.
+EBV_TCELL_149795::HUMAN_MYELIN_117032,23,ebv_tcell_149795,human_myelin_117032,25,9.742,0.565,15.972,9.683,0.53,14.083,Seed/job sensitivity only; model samples are not independent biological replicates.
+EBV_TCELL_149795::HUMAN_MYELIN_117032,23,ebv_tcell_149795,human_myelin_117032_2,25,12.327,2.458,23.912,12.285,1.953,22.79,Seed/job sensitivity only; model samples are not independent biological replicates.
+EBV_TCELL_149795::HUMAN_MYELIN_117032,23,ebv_tcell_149795_2,human_myelin_117032,25,16.371,9.918,17.312,14.659,9.686,15.576,Seed/job sensitivity only; model samples are not independent biological replicates.
+EBV_TCELL_149795::HUMAN_MYELIN_117032,23,ebv_tcell_149795_2,human_myelin_117032_2,25,16.607,1.826,28.233,15.355,2.099,27.372,Seed/job sensitivity only; model samples are not independent biological replicates.
+EBV_TCELL_149795::HUMAN_MYELIN_40762,26,ebv_tcell_149795,human_myelin_40762,25,17.931,4.47,27.309,17.907,3.991,27.38,Seed/job sensitivity only; model samples are not independent biological replicates.
+EBV_TCELL_149795::HUMAN_MYELIN_40762,26,ebv_tcell_149795_2,human_myelin_40762,25,18.062,6.741,27.517,17.193,6.893,27.468,Seed/job sensitivity only; model samples are not independent biological replicates.
+EBV_TCELL_1862913::HUMAN_MYELIN_112037,27,ebv_tcell_1862913,human_myelin_112037,25,6.476,2.67,18.921,6.458,2.033,17.617,Seed/job sensitivity only; model samples are not independent biological replicates.
+EBV_TCELL_1862913::HUMAN_MYELIN_112319,12,ebv_tcell_1862913,human_myelin_112319,25,6.915,1.881,18.399,6.841,1.303,17.048,Seed/job sensitivity only; model samples are not independent biological replicates.
+EBV_TCELL_1862913::HUMAN_MYELIN_117032,22,ebv_tcell_1862913,human_myelin_117032,25,10.143,9.446,16.129,10.005,9.48,14.378,Seed/job sensitivity only; model samples are not independent biological replicates.
+EBV_TCELL_1862913::HUMAN_MYELIN_117032,22,ebv_tcell_1862913,human_myelin_117032_2,25,20.757,3.692,27.841,20.86,3.728,27.635,Seed/job sensitivity only; model samples are not independent biological replicates.
+EBV_TCELL_2268741::HUMAN_MYELIN_117032,28,ebv_tcell_2268741,human_myelin_117032,25,0.587,0.494,0.645,0.465,0.388,0.505,Seed/job sensitivity only; model samples are not independent biological replicates.
+EBV_TCELL_2268741::HUMAN_MYELIN_117032,28,ebv_tcell_2268741,human_myelin_117032_2,25,12.341,2.447,17.931,12.328,1.911,17.931,Seed/job sensitivity only; model samples are not independent biological replicates.
+EBV_TCELL_2268741::HUMAN_MYELIN_117032,28,ebv_tcell_2268741_2,human_myelin_117032,25,0.587,0.494,0.645,0.465,0.388,0.505,Seed/job sensitivity only; model samples are not independent biological replicates.
+EBV_TCELL_2268741::HUMAN_MYELIN_117032,28,ebv_tcell_2268741_2,human_myelin_117032_2,25,12.341,2.447,17.931,12.328,1.911,17.931,Seed/job sensitivity only; model samples are not independent biological replicates.
+EBV_TCELL_950::HUMAN_MYELIN_112214,24,ebv_tcell_950,human_myelin_112214,25,0.919,0.822,1.058,0.821,0.683,1.066,Seed/job sensitivity only; model samples are not independent biological replicates.
+EBV_TCELL_950::HUMAN_MYELIN_112214,24,ebv_tcell_950,human_myelin_112214_2,25,0.394,0.332,0.451,0.427,0.341,0.498,Seed/job sensitivity only; model samples are not independent biological replicates.
+EBV_TCELL_950::HUMAN_MYELIN_112214,24,ebv_tcell_950_2,human_myelin_112214,25,0.972,0.869,16.065,0.864,0.726,14.222,Seed/job sensitivity only; model samples are not independent biological replicates.
+EBV_TCELL_950::HUMAN_MYELIN_112214,24,ebv_tcell_950_2,human_myelin_112214_2,25,0.419,0.316,16.017,0.46,0.35,14.238,Seed/job sensitivity only; model samples are not independent biological replicates.
+EBV_TCELL_950::HUMAN_MYELIN_114366,32,ebv_tcell_950,human_myelin_114366,25,5.48,5.163,7.466,5.57,5.148,7.332,Seed/job sensitivity only; model samples are not independent biological replicates.
+EBV_TCELL_950::HUMAN_MYELIN_114366,32,ebv_tcell_950,human_myelin_114366_2,25,5.48,5.163,7.466,5.57,5.148,7.332,Seed/job sensitivity only; model samples are not independent biological replicates.
+EBV_TCELL_950::HUMAN_MYELIN_114366,32,ebv_tcell_950_2,human_myelin_114366,25,6.612,5.097,18.063,6.669,5.06,16.332,Seed/job sensitivity only; model samples are not independent biological replicates.
+EBV_TCELL_950::HUMAN_MYELIN_114366,32,ebv_tcell_950_2,human_myelin_114366_2,25,6.612,5.097,18.063,6.669,5.06,16.332,Seed/job sensitivity only; model samples are not independent biological replicates.

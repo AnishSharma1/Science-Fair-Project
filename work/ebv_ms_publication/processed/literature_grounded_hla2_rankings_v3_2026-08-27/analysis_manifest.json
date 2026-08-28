@@ -1,0 +1,67 @@
+{
+  "cache_is_acceleration_only_not_an_analysis_output": true,
+  "candidate_selection_count": 4,
+  "claim_boundary": "Descriptive HLA-specific pMHC sequence prioritization with modeled local-surface annotations only; not evidence of presentation, TCR binding, activation, cross-reactivity, molecular mimicry, MS mechanism, probability, or false-discovery rate.",
+  "combined_drb1501_pair_count": 2043,
+  "combined_surface_complete_count": 1913,
+  "discovery_unlock_allowed": false,
+  "existing_packages_modified": false,
+  "input_records": [
+    {
+      "bytes": 5379111,
+      "path": "/Users/anishsharma/Library/Mobile Documents/com~apple~CloudDocs/ebv_ms_publication/processed/tcell_library_v2_same_register_hla_rankings_2026-08-27/all_hla_ranked_pairs.csv",
+      "role": "frozen_v2_sequence_universe",
+      "sha256": "e9ef1562ee87b626ad235920bb12d747063042162d9a80988d77c9bd831410f1"
+    },
+    {
+      "bytes": 1582791,
+      "path": "/Users/anishsharma/Library/Mobile Documents/com~apple~CloudDocs/ebv_ms_publication/processed/drb1501_combined_same_register_rankings_2026-08-27/combined_ranked_pairs.csv",
+      "role": "frozen_combined_drb1501_universe",
+      "sha256": "9fea479c6165aad7f2dcbb32cc88af7d441e9c073a8e1a8ca1fee6a70fb481b8"
+    },
+    {
+      "bytes": 1798064,
+      "path": "/Users/anishsharma/Library/Mobile Documents/com~apple~CloudDocs/ebv_ms_publication/processed/tcell_library_v2_model_analysis_2026-08-25/qc/model_sample_qc.csv",
+      "role": "v2_model_inventory",
+      "sha256": "5a074e294db25f30ef3d839fb6de3ddead005f2737ef42f6d16eac8c709b35b8"
+    },
+    {
+      "bytes": 99416,
+      "path": "/Users/anishsharma/Library/Mobile Documents/com~apple~CloudDocs/ebv_ms_publication/processed/tcell_library_v2_2026-08-22/allele_register_predictions_320.csv",
+      "role": "v2_register_registry",
+      "sha256": "b459eaf498bb6b89e2d0d8804542d1f2f80015abc9d772dedbf2feedc08dc1be"
+    },
+    {
+      "bytes": 415024,
+      "path": "/Users/anishsharma/Library/Mobile Documents/com~apple~CloudDocs/ebv_ms_publication/processed/complete_model_pipeline_audit_2026-08-15/canonical_af3_sample_metrics.csv",
+      "role": "legacy_model_inventory",
+      "sha256": "2777cf7ab1653bfc094b1c9f8f66eceffa6824cc3c8d706463b9bb52f6a5ab31"
+    },
+    {
+      "bytes": 141648,
+      "path": "/Users/anishsharma/Library/Mobile Documents/com~apple~CloudDocs/ebv_ms_publication/processed/hla2_positive_control_benchmark_v2_results_2026-08-26/benchmark/af3_pair_feature_matrix.csv",
+      "role": "development_control_features",
+      "sha256": "2ab83acd67a7a3f23534e16c9306e9b0e58892eee901529003affa89f2fbcfb4"
+    },
+    {
+      "bytes": 10760,
+      "path": "/Users/anishsharma/Library/Mobile Documents/com~apple~CloudDocs/ebv_ms_publication/processed/hla2_positive_control_benchmark_v2_results_2026-08-26/benchmark/method_rank_long.csv",
+      "role": "development_control_method_ranks",
+      "sha256": "861dd2aaf81d7f3bcdc83e12a6ae6f020b569c45625cbdc0ed1cad48f1dfc72b"
+    }
+  ],
+  "package": "literature_grounded_hla2_rankings_v3",
+  "read_through_surface_cache": "/Users/anishsharma/Library/Mobile Documents/com~apple~CloudDocs/ebv_ms_publication/processed/.cache/literature_grounded_hla2_v3_surface",
+  "register_uncertain_surface_tie_break_abstention": true,
+  "status": "complete_additive_descriptive_ranking",
+  "v2_evidence_tier_counts": {
+    "A": 0,
+    "B": 0,
+    "C": 4,
+    "D": 0,
+    "E": 677,
+    "M": 5719
+  },
+  "v2_pair_count": 6400,
+  "v2_surface_complete_count": 6360
+}

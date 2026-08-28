@@ -1,0 +1,2 @@
+primary_endpoint,target_count,evaluable_target_count,independent_evaluable_system_count,global_inference_status,global_p_value,interpretation
+same_register_property_similarity,349,0,0,insufficient_independent_systems,,Within-set ranks are descriptive only. No pooled p-value is calculated because targets may share evidence systems and strict decoy feasibility is limited.

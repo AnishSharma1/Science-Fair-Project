@@ -1,0 +1,15 @@
+{
+  "analysis_version": "EBV_MS_HLA2_HELD_OUT_CONTROLS_RESULTS_V1",
+  "claim_boundary": "Computational pMHC geometry prioritization only; not evidence of presentation, TCR binding, activation, cross-reactivity, molecular mimicry, or MS mechanism.",
+  "discovery_reranking_allowed": false,
+  "frozen_control_package": "/Users/anishsharma/Library/Mobile Documents/com~apple~CloudDocs/ebv_ms_publication/processed/hla2_positive_control_benchmark_2026-08-25",
+  "output_directory": "/Users/anishsharma/Library/Mobile Documents/com~apple~CloudDocs/ebv_ms_publication/processed/hla2_positive_control_benchmark_results_2026-08-26",
+  "overall_trust_status": "not_evaluable",
+  "selected_endpoint": "candidate_composite",
+  "selected_result_roots": [
+    "/Users/anishsharma/Library/Mobile Documents/com~apple~CloudDocs/Downloads/folds_2026_08_26_23_09",
+    "/Users/anishsharma/Library/Mobile Documents/com~apple~CloudDocs/Downloads/folds_2026_08_26_23_12"
+  ],
+  "submission_state_transition": "prepared_not_submitted_to_downloaded_results_analyzed",
+  "weights_frozen": false
+}

@@ -1,0 +1,5 @@
+doi,eligibility,evidence_summary,functional_evidence_for_both_arms,independent_system_weight,primary_source,same_paired_tcr_or_clone,system_id,tcr_id
+10.1038/ni835,strict,Same human clone recognizes DRB5-BALF5 and DRB1-MBP; both pMHC structures resolved.,True,1,PMID:12244309,True,SYS_BALF5_MBP_HY2E11,Hy.2E11
+10.1016/j.immuni.2009.01.009,strict,Same human TCR recognizes DR15-MBP and processed bacterial EngA; both ternary structures resolved.,True,1,PMID:19303388,True,SYS_ENGA_MBP_OB1A12,Ob.1A12
+10.1038/ncomms3623,strict,"Same human TCR recognizes DQ1-MBP, HSV UL15, and Pseudomonas PMM; all three ternary structures resolved.",True,1,Nature Communications 4:2623,True,SYS_MICROBIAL_MBP_HY1B11,Hy.1B11
+10.1016/j.cell.2025.12.032,prospective,"Human cross-reactive clone evidence, but exact paired peptides, registers, and structures are unresolved.",True,0,PMID:41534529,True,PROSPECTIVE_EBNA1_ANO2_2026,study clone set

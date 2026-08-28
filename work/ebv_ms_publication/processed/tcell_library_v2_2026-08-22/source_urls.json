@@ -1,0 +1,14 @@
+{
+  "iedb_ebv_human_positive_mhcii": "https://query-api.iedb.org/tcell_search?limit=10000&qualitative_measure=like.Positive%2A&mhc_class=eq.II&host_organism_iri=eq.NCBITaxon%3A9606&source_organism_iri_search=cs.%7BNCBITaxon%3A10376%7D",
+  "iedb_self_ANO2": "https://query-api.iedb.org/tcell_search?limit=10000&qualitative_measure=like.Positive%2A&mhc_class=eq.II&parent_source_antigen_iri_search=cs.%7BUNIPROT%3AQ9NQ90%7D",
+  "iedb_self_CLDN11": "https://query-api.iedb.org/tcell_search?limit=10000&qualitative_measure=like.Positive%2A&mhc_class=eq.II&parent_source_antigen_iri_search=cs.%7BUNIPROT%3AO75508%7D",
+  "iedb_self_CNP": "https://query-api.iedb.org/tcell_search?limit=10000&qualitative_measure=like.Positive%2A&mhc_class=eq.II&parent_source_antigen_iri_search=cs.%7BUNIPROT%3AP09543%7D",
+  "iedb_self_CNTN2": "https://query-api.iedb.org/tcell_search?limit=10000&qualitative_measure=like.Positive%2A&mhc_class=eq.II&parent_source_antigen_iri_search=cs.%7BUNIPROT%3AQ02246%7D",
+  "iedb_self_CRYAB": "https://query-api.iedb.org/tcell_search?limit=10000&qualitative_measure=like.Positive%2A&mhc_class=eq.II&parent_source_antigen_iri_search=cs.%7BUNIPROT%3AP02511%7D",
+  "iedb_self_MAG": "https://query-api.iedb.org/tcell_search?limit=10000&qualitative_measure=like.Positive%2A&mhc_class=eq.II&parent_source_antigen_iri_search=cs.%7BUNIPROT%3AP20916%7D",
+  "iedb_self_MBP": "https://query-api.iedb.org/tcell_search?limit=10000&qualitative_measure=like.Positive%2A&mhc_class=eq.II&parent_source_antigen_iri_search=cs.%7BUNIPROT%3AP02686%7D",
+  "iedb_self_MOBP": "https://query-api.iedb.org/tcell_search?limit=10000&qualitative_measure=like.Positive%2A&mhc_class=eq.II&parent_source_antigen_iri_search=cs.%7BUNIPROT%3AQ13875%7D",
+  "iedb_self_MOG": "https://query-api.iedb.org/tcell_search?limit=10000&qualitative_measure=like.Positive%2A&mhc_class=eq.II&parent_source_antigen_iri_search=cs.%7BUNIPROT%3AQ16653%7D",
+  "iedb_self_PLP1": "https://query-api.iedb.org/tcell_search?limit=10000&qualitative_measure=like.Positive%2A&mhc_class=eq.II&parent_source_antigen_iri_search=cs.%7BUNIPROT%3AP60201%7D",
+  "iedb_self_TALDO1": "https://query-api.iedb.org/tcell_search?limit=10000&qualitative_measure=like.Positive%2A&mhc_class=eq.II&parent_source_antigen_iri_search=cs.%7BUNIPROT%3AP37837%7D"
+}

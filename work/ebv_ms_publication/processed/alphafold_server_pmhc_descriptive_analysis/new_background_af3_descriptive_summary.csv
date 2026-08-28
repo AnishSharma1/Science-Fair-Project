@@ -1,0 +1,10 @@
+candidate_id,peptide,source_antigen,iedb_predicted_binding_rank_bin,iedb_predicted_core,selected_model_iptm,selected_model_peptide_mean_plddt,within_job_peptide_pose_rmsd_median_A,interpretation
+HUMAN_BACKGROUND_108324,DTQFVRFDSDAASPR,"HLA class I histocompatibility antigen, B alpha chain (UniProt:P01889)",weak,FVRFDSDAA,0.94,82.89,0.37,Descriptive pMHC context only; not a decoy decision or biological ranking.
+HUMAN_BACKGROUND_108677,VDDTQFVRFDSDAASPR,"HLA class I histocompatibility antigen, B alpha chain (UniProt:P01889)",weak,FVRFDSDAA,0.94,80.85,0.454,Descriptive pMHC context only; not a decoy decision or biological ranking.
+HUMAN_BACKGROUND_119777,AVILPPLSPYFK,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 3 (UniProt:O95167),weak,ILPPLSPYF,0.94,54.46,0.569,Descriptive pMHC context only; not a decoy decision or biological ranking.
+HUMAN_BACKGROUND_119797,DGVIKVFNDMKVRK,Cofilin-1 (UniProt:P23528),strong,IKVFNDMKV,0.94,76.75,0.42,Descriptive pMHC context only; not a decoy decision or biological ranking.
+HUMAN_BACKGROUND_119901,GKVNVDEVGGEALGRL,Hemoglobin subunit beta (UniProt:P68871),weak,VDEVGGEAL,0.91,36.97,6.85,Descriptive pMHC context only; not a decoy decision or biological ranking.
+HUMAN_BACKGROUND_119921,GWSSHPPPSPCREQEIR,Sentrin-specific protease 3 (UniProt:Q9H4L4),weak,PSPCREQEI,0.91,53.79,6.443,Descriptive pMHC context only; not a decoy decision or biological ranking.
+HUMAN_BACKGROUND_119944,IIEETKVEDEK,Neurofilament medium polypeptide (UniProt:P07197),weak,IEETKVEDE,0.93,49.02,2.13,Descriptive pMHC context only; not a decoy decision or biological ranking.
+HUMAN_BACKGROUND_120087,LSFPTTKTYFPHF,Hemoglobin subunit alpha (UniProt:P69905),weak,TTKTYFPHF,0.92,35.69,10.164,Descriptive pMHC context only; not a decoy decision or biological ranking.
+HUMAN_BACKGROUND_120112,NQELRADGTVNQIEG,Apolipoprotein D (UniProt:P05090),weak,LRADGTVNQ,0.92,48.19,1.905,Descriptive pMHC context only; not a decoy decision or biological ranking.

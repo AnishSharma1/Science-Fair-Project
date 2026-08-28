@@ -1,0 +1,75 @@
+# Control-calibrated HLA-specific results
+
+The four HLA alleles are ranked independently. There is no cross-allele consensus rank in this package.
+
+Formal control seed: **104759**; gold-positive median: **0.495705 A**; 25-decoy median: **6.581933 A**.
+
+## HLA-DRB1*15:01
+
+Evaluable pairs: **1560**.
+
+| Rank | EBV peptide | Self peptide | EBV protein | Self protein | RMSD (A) | Control index |
+|---:|---|---|---|---|---:|---:|
+| 1 | QQFLRLLGATYVLRV | TLTEELAEYAEIRVK | BNRF1 | MAG | 0.259 | 1.039 |
+| 2 | QHYREVAAAKSSE | ENPVVHFFKNIVTP | BZLF1 | MBP | 0.278 | 1.036 |
+| 3 | AEGLRALLARSHVER | TLTEELAEYAEIRVK | EBNA1 | MAG | 0.292 | 1.034 |
+| 4 | QQFLRLLGATYVLRV | GKWLGHPDKFVG | BNRF1 | PLP1 | 0.342 | 1.025 |
+| 5 | VTNILIYNGWYADS | TLTEELAEYAEIRVK | BALF4_gB | MAG | 0.342 | 1.025 |
+| 6 | QQFLRLLGATYVLRV | ENPVVHFFKNIVTP | BNRF1 | MBP | 0.346 | 1.025 |
+| 7 | QHYREVAAAKSSE | ENPVVHFFKNIVTPR | BZLF1 | MBP | 0.372 | 1.020 |
+| 8 | VTNILIYNGWYADS | ENPVVHFFKNIVTP | BALF4_gB | MBP | 0.376 | 1.020 |
+| 9 | ENPYHARRGIKEHVI | TLTEELAEYAEIRVK | EBNA3C | MAG | 0.377 | 1.020 |
+| 10 | QQFLRLLGATYVLRV | EPVSLEARLSRMHFH | BNRF1 | ANO2 | 0.378 | 1.019 |
+
+## HLA-DRB1*13:03
+
+Evaluable pairs: **1600**.
+
+| Rank | EBV peptide | Self peptide | EBV protein | Self protein | RMSD (A) | Control index |
+|---:|---|---|---|---|---:|---:|
+| 1 | LTAYHVSTAPTGSWF | PVVHFFKNIVTPRTP | BZLF1 | MBP | 0.329 | 1.027 |
+| 2 | MANYIVRQSRGDRGL | MNRGFSRKSHTFLPK | EBNA2 | CNP | 0.347 | 1.024 |
+| 3 | IMNILRIYYSPSIM | MNRGFSRKSHTFLPK | BFRF3 | CNP | 0.351 | 1.024 |
+| 4 | LTAYHVSTAPTGSWF | NTWTTCQSIAFPSK | BZLF1 | PLP1 | 0.375 | 1.020 |
+| 5 | DNEIFLTKKMTEVCQ | KTTICGKGLSATVT | BALF4_gB | PLP1 | 0.387 | 1.018 |
+| 6 | PPSIDPADLDESWD | GKWLGHPDKFVG | EBNA2 | PLP1 | 0.392 | 1.017 |
+| 7 | EKQLFYYIGTMLPN | KTTICGKGLSATVT | BXLF2_gH | PLP1 | 0.394 | 1.017 |
+| 8 | EKQLFYYIGTMLPN | SVEFAPVLLLESHCA | BXLF2_gH | MAG | 0.401 | 1.016 |
+| 9 | PYYVVDLSVRGM | KTTICGKGLSATVT | BHRF1 | PLP1 | 0.402 | 1.015 |
+| 10 | ILCFVMAARQRLQDI | KTTICGKGLSATVT | EBNA3C | PLP1 | 0.402 | 1.015 |
+
+## HLA-DRB1*03:01
+
+Evaluable pairs: **1600**.
+
+| Rank | EBV peptide | Self peptide | EBV protein | Self protein | RMSD (A) | Control index |
+|---:|---|---|---|---|---:|---:|
+| 1 | PPSIDPADLDESWD | TAGSSSPTHAKSAHV | EBNA2 | CLDN11 | 0.299 | 1.032 |
+| 2 | ILCFVMAARQRLQDI | PVVHFFKNIVTPRTP | EBNA3C | MBP | 0.304 | 1.032 |
+| 3 | ILCFVMAARQRLQDI | ENPVVHFFKNIVTPRTP | EBNA3C | MBP | 0.308 | 1.031 |
+| 4 | VKLTMEYDDKVSKSH | PVVHFFKNIVTPRTP | BMRF1 | MBP | 0.310 | 1.030 |
+| 5 | VKLTMEYDDKVSKSH | ENPVVHFFKNIVTPRTP | BMRF1 | MBP | 0.332 | 1.027 |
+| 6 | VKLTMEYDDKVSKSH | TAGSSSPTHAKSAHV | BMRF1 | CLDN11 | 0.353 | 1.023 |
+| 7 | PPSIDPADLDESWD | PVVHFFKNIVTPRTP | EBNA2 | MBP | 0.367 | 1.021 |
+| 8 | PPSIDPADLDESWD | ENPVVHFFKNIVTPRTP | EBNA2 | MBP | 0.383 | 1.019 |
+| 9 | MANYIVRQSRGDRGL | MDIAIHHPWIRRPFF | EBNA2 | CRYAB | 0.406 | 1.015 |
+| 10 | LVPRTQSVPARDY | MDIAIHHPWIRRPFF | BALF2 | CRYAB | 0.423 | 1.012 |
+
+## HLA-DRB1*08:01
+
+Evaluable pairs: **1600**.
+
+| Rank | EBV peptide | Self peptide | EBV protein | Self protein | RMSD (A) | Control index |
+|---:|---|---|---|---|---:|---:|
+| 1 | ILCFVMAARQRLQDI | SVEFAPVLLLESHCA | EBNA3C | MAG | 0.268 | 1.037 |
+| 2 | ILCFVMAARQRLQDI | EPVSLEARLSRMHFH | EBNA3C | ANO2 | 0.281 | 1.035 |
+| 3 | DNEIFLTKKMTEVCQ | EMADQYQYQVVLVEP | BALF4_gB | CNP | 0.313 | 1.030 |
+| 4 | MARFIAQLLLLASCV | SVEFAPVLLLESHCA | BARF1 | MAG | 0.316 | 1.029 |
+| 5 | ILCFVMAARQRLQDI | EMADQYQYQVVLVEP | EBNA3C | CNP | 0.340 | 1.026 |
+| 6 | ENPYHARRGIKEHVI | SVEFAPVLLLESHCA | EBNA3C | MAG | 0.352 | 1.024 |
+| 7 | MARFIAQLLLLASCV | EMADQYQYQVVLVEP | BARF1 | CNP | 0.381 | 1.019 |
+| 8 | LTAYHVSTAPTGSWF | PVVHFFKNIVTPRTP | BZLF1 | MBP | 0.390 | 1.017 |
+| 9 | IMNILRIYYSPSIM | PVVHFFKNIVTPRTP | BFRF3 | MBP | 0.401 | 1.016 |
+| 10 | LTAYHVSTAPTGSWF | SVEFAPVLLLESHCA | BZLF1 | MAG | 0.402 | 1.015 |
+
+> Computational pMHC geometry prioritization only; control-reference metrics are not probabilities and do not establish presentation, TCR binding, activation, cross-reactivity, molecular mimicry, or MS disease mechanism.

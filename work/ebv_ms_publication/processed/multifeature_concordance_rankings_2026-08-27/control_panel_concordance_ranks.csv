@@ -1,0 +1,9 @@
+system_id,positive_pair_id,panel_seed,comparison_count,positive_concordance_rank,positive_display_rank,positive_worst_family_percentile,positive_balanced_multifeature_percentile,positive_sequence_family_percentile,positive_structure_family_percentile,positive_blosum62_feature_rank,positive_exposed_rmsd_feature_rank,capture_at_3,audit_role
+SYS_BALF5_MBP_HY2E11,PAIR_HY2E11_BALF5_MBP,271828,26,1,1,0.0,0.0,0.0,0.0,1,1,True,retrospective_exploratory_only
+SYS_BALF5_MBP_HY2E11,PAIR_HY2E11_BALF5_MBP,314159,26,1,1,0.0,0.0,0.0,0.0,1,1,True,retrospective_exploratory_only
+SYS_ENGA_MBP_OB1A12,PAIR_OB1A12_ENGA_MBP,271828,26,2,2,0.22,0.12,0.02,0.22,1,7,True,retrospective_exploratory_only
+SYS_ENGA_MBP_OB1A12,PAIR_OB1A12_ENGA_MBP,314159,26,1,1,0.06,0.04,0.02,0.06,1,4,True,retrospective_exploratory_only
+SYS_MICROBIAL_MBP_HY1B11,PAIR_HY1B11_PMM_MBP,271828,26,8,8,0.52,0.26,0.0,0.52,1,14,False,retrospective_exploratory_only
+SYS_MICROBIAL_MBP_HY1B11,PAIR_HY1B11_PMM_MBP,314159,26,5,5,0.48,0.24,0.0,0.48,1,13,False,retrospective_exploratory_only
+SYS_MICROBIAL_MBP_HY1B11,PAIR_HY1B11_UL15_MBP,271828,26,9,9,0.6,0.303333333333,0.006666666667,0.6,1,15,False,retrospective_exploratory_only
+SYS_MICROBIAL_MBP_HY1B11,PAIR_HY1B11_UL15_MBP,314159,26,2,2,0.2,0.103333333333,0.006666666667,0.2,1,6,True,retrospective_exploratory_only

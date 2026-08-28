@@ -1,0 +1,4 @@
+freeze_block_reason,held_out_system_id,training_system_ids,weight_anchor_ca_rmsd_A,weight_exposed_ca_rmsd_A,weight_exposed_sidechain_vector_rmsd_A,weight_tcr_face_physicochemical_mismatch,weights_frozen
+formal_trust_gate_not_passed,SYS_BALF5_MBP_HY2E11,SYS_ENGA_MBP_OB1A12;SYS_MICROBIAL_MBP_HY1B11,0.0,0.0,0.0,1.0,False
+formal_trust_gate_not_passed,SYS_ENGA_MBP_OB1A12,SYS_BALF5_MBP_HY2E11;SYS_MICROBIAL_MBP_HY1B11,0.0,0.0,0.0,1.0,False
+formal_trust_gate_not_passed,SYS_MICROBIAL_MBP_HY1B11,SYS_BALF5_MBP_HY2E11;SYS_ENGA_MBP_OB1A12,0.0,0.5,0.0,0.5,False

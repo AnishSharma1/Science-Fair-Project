@@ -1,0 +1,4 @@
+full_structural_weight,full_weight_anchor_ca_rmsd_A,full_weight_exposed_ca_rmsd_A,full_weight_exposed_sidechain_vector_rmsd_A,full_weight_tcr_face_physicochemical_mismatch,held_out_system_id,selected_nonstructural_baseline,structural_only_weight_anchor_ca_rmsd_A,structural_only_weight_exposed_ca_rmsd_A,structural_only_weight_exposed_sidechain_vector_rmsd_A,training_system_ids,weights_frozen
+0.0,0.0,0.0,0.0,1.0,SYS_BALF5_MBP_HY2E11,tcr_facing_blosum62,1.0,0.0,0.0,SYS_ENGA_MBP_OB1A12;SYS_MICROBIAL_MBP_HY1B11,False
+0.0,0.0,0.0,0.0,1.0,SYS_ENGA_MBP_OB1A12,physicochemical_only,0.0,1.0,0.0,SYS_BALF5_MBP_HY2E11;SYS_MICROBIAL_MBP_HY1B11,False
+1.0,1.0,0.0,0.0,0.0,SYS_MICROBIAL_MBP_HY1B11,tcr_facing_blosum62,1.0,0.0,0.0,SYS_BALF5_MBP_HY2E11;SYS_ENGA_MBP_OB1A12,False

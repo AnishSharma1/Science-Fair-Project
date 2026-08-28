@@ -1,0 +1,21 @@
+{
+  "analysis_version": "EBV_MS_TCELL_V2_SAME_REGISTER_HLA_RANKINGS_2026-08-27",
+  "binding_percentile_used_in_ranking": false,
+  "claim_boundary": "Descriptive same-register pMHC sequence prioritization only; not evidence of presentation, TCR binding, activation, cross-reactivity, molecular mimicry, MS mechanism, probability, or false-discovery rate.",
+  "control_support_status": "supportive_provisional",
+  "cross_allele_consensus_used": false,
+  "definitive_status": "blocked_registry_size",
+  "definitive_validation_complete": false,
+  "discovery_unlock_allowed": false,
+  "exploratory_hla_specific_ranking_emitted": true,
+  "geometry_used_in_ranking": false,
+  "minimum_systems_for_definitive_validation": 6,
+  "selected_method_all_control_panels_capture_at_3": true,
+  "selected_method_system_capture_at_3_count": 3,
+  "selected_method_system_weighted_mrr": 1.0,
+  "selected_method_worst_system_rank": 1,
+  "selected_primary_method": "tcr_facing_blosum62",
+  "selection_scope": "held_out_control_systems_only_before_discovery_read",
+  "strict_independent_system_count": 3,
+  "weights_frozen": false
+}

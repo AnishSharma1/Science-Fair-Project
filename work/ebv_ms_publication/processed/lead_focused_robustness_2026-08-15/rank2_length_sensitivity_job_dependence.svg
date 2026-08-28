@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="620" viewBox="0 0 960 620" role="img" aria-labelledby="title desc">
+<title id="title">Rank 2 target-job dependence</title>
+<desc id="desc">Supplemental length-sensitivity-only comparison of target-human job medians, three control medians, and a technical bootstrap interval.</desc>
+<style>
+text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #172B4D; }
+.banner { fill: #FFF3CD; stroke: #FFAB00; } .banner-text { font-size: 14px; font-weight: 700; fill: #7A4F01; }
+.title { font-size: 25px; font-weight: 700; } .subtitle { font-size: 15px; fill: #42526E; }
+.label { font-size: 12px; } .value { font-size: 13px; font-weight: 600; } .axis { font-size: 12px; fill: #5E6C84; }
+.guide { stroke: #C1C7D0; stroke-width: 1; } .grid { stroke: #DFE1E6; stroke-width: 1; }
+.callout { fill: #F4F5F7; stroke: #B3BAC5; } .callout-title { font-size: 14px; font-weight: 700; } .callout-text { font-size: 13px; }
+</style>
+<rect width="960" height="620" fill="#FFFFFF"/>
+<rect x="48" y="24" width="864" height="34" rx="6" class="banner"/>
+<text x="480" y="46" text-anchor="middle" class="banner-text">Supplemental / length-sensitivity-only</text>
+<text x="48" y="94" class="title">Rank 2 target-job dependence</text>
+<text x="48" y="120" class="subtitle">The 32-aa target is not given the evidentiary weight of rank 1.</text>
+<line x1="250.0" y1="150" x2="250.0" y2="430" class="grid"/><text x="250.0" y="455" text-anchor="middle" class="axis">0.00</text><line x1="400.0" y1="150" x2="400.0" y2="430" class="grid"/><text x="400.0" y="455" text-anchor="middle" class="axis">5.38</text><line x1="550.0" y1="150" x2="550.0" y2="430" class="grid"/><text x="550.0" y="455" text-anchor="middle" class="axis">10.76</text><line x1="700.0" y1="150" x2="700.0" y2="430" class="grid"/><text x="700.0" y="455" text-anchor="middle" class="axis">16.13</text><line x1="850.0" y1="150" x2="850.0" y2="430" class="grid"/><text x="850.0" y="455" text-anchor="middle" class="axis">21.51</text>
+<g><title>HUMAN_MYELIN_117032|seed-179807928|sig-e2e8bb38a67a3c46</title><text x="235" y="190" text-anchor="end" class="label">Target human job 1</text><line x1="250" y1="185" x2="850" y2="185" class="guide"/><circle cx="263.0" cy="185" r="8" fill="#0072B2"/><text x="277.0" y="190" class="value">0.46 A</text></g><g><title>HUMAN_MYELIN_117032|seed-27|sig-2f9a0e012ee11aa4</title><text x="235" y="242" text-anchor="end" class="label">Target human job 2</text><line x1="250" y1="237" x2="850" y2="237" class="guide"/><circle cx="593.9" cy="237" r="8" fill="#0072B2"/><text x="607.9" y="242" class="value">12.33 A</text></g><g><title>HUMAN_BACKGROUND_141561</title><text x="235" y="294" text-anchor="end" class="label">Control 141561</text><line x1="250" y1="289" x2="850" y2="289" class="guide"/><circle cx="512.9" cy="289" r="8" fill="#D55E00"/><text x="526.9" y="294" class="value">9.42 A</text></g><g><title>HUMAN_BACKGROUND_2258889</title><text x="235" y="346" text-anchor="end" class="label">Control 2258889</text><line x1="250" y1="341" x2="850" y2="341" class="guide"/><circle cx="771.7" cy="341" r="8" fill="#D55E00"/><text x="785.7" y="346" class="value">18.71 A</text></g><g><title>HUMAN_BACKGROUND_423369</title><text x="235" y="398" text-anchor="end" class="label">Control 423369</text><line x1="250" y1="393" x2="850" y2="393" class="guide"/><circle cx="639.8" cy="393" r="8" fill="#D55E00"/><text x="653.8" y="398" class="value">13.97 A</text></g>
+<text x="550" y="482" text-anchor="middle" class="axis">Exposed-position RMSD (A)</text>
+<rect x="48" y="510" width="410" height="78" rx="8" class="callout"/>
+<text x="64" y="536" class="callout-title">Technical-stability interval (not a p-value)</text>
+<text x="64" y="564" class="callout-text">-0.52 to 16.88 A</text>
+<rect x="474" y="510" width="438" height="78" rx="8" class="callout"/>
+<text x="490" y="536" class="callout-title">Interpretation boundary</text>
+<text x="490" y="564" class="callout-text">Technical job dependence; no biological replication or p-value.</text>
+</svg>

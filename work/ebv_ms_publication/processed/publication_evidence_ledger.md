@@ -43,6 +43,43 @@ see `experimental_positive_control/HY2E11_SEQUENCE_AUDIT.md`.
   positive control has 36 contacts and no TCR clashes.  The EBV scaffold has
   six peptide--HLA overlaps, so it is not a final docked model.
 
+## Dated lead-focused structural-control audit (2026-08-15)
+
+The frozen discovery ranking was retained and the two leads were analyzed in
+separate layers; they were not pooled, averaged, or assigned equal evidentiary
+weight. See
+`lead_focused_robustness_2026-08-15/LEAD_FOCUSED_FINDINGS.md`,
+`lead_focused_robustness_2026-08-15/control_rank_and_leave_one_out.csv`,
+`lead_focused_robustness_2026-08-15/technical_bootstrap_summary.csv`,
+`lead_focused_robustness_2026-08-15/job_pair_stability.csv`, and
+`lead_focused_robustness_2026-08-15/pose_cluster_membership.csv`.
+
+- **Rank 1, primary strict-control lead:**
+  `EBV_TCELL_950::HUMAN_MYELIN_112214` is the only strict-control lead
+  (`consistent_positive`). Its target median was 0.643 A versus an
+  equal-weight strict-background median of 7.964 A (background-minus-target
+  delta 7.321 A); leave-one-control-out deltas ranged from 5.261 to 10.086 A.
+  The exploratory target rank was 1 of 4 (empirical tail fraction 0.25), and
+  the 10,000-iteration technical-stability interval was 1.620 to 12.759 A.
+  Pose/job consistency: all four target job-pair medians were below the
+  equal-weight background median (0.427--0.864 A), and the largest pose
+  cluster contained 23 models from 7 jobs.
+- **Rank 2, supplemental length sensitivity:**
+  `EBV_TCELL_2268741::HUMAN_MYELIN_117032` is
+  `length_sensitivity_only__mixed_positive`, not a second primary lead. Its
+  deliberate length-sensitivity layer had a target median of 6.396 A, an
+  equal-weight background median of 13.975 A, and a delta of 7.578 A;
+  leave-one-control-out deltas ranged from 5.303 to 9.944 A. Its exploratory
+  tail fraction was 0.25, but target job-pair medians ranged from 0.465 to
+  12.328 A and its technical-stability interval crossed zero (-0.517 to
+  16.880 A), so it remains sensitivity-only.
+
+These empirical tail fractions are exploratory ranks, not p-values. The
+bootstrap intervals quantify technical stability across saved AlphaFold
+jobs/models only, not biological replication. This audit is descriptive pMHC
+geometry and does not establish peptide presentation, TCR binding, activation,
+cross-reactivity, molecular mimicry, or an MS mechanism.
+
 ## Claims that must not be made
 
 - A ColabFold pMHC or ternary model does not demonstrate TCR binding.

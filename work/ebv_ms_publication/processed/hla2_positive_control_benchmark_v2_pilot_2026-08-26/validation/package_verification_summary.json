@@ -1,0 +1,47 @@
+{
+  "all_job_names_unique": true,
+  "all_jobs_prepared_not_submitted": true,
+  "batch_sizes": [
+    30,
+    30,
+    12
+  ],
+  "benchmark_version": "EBV_MS_HLA2_BENCHMARK_V2_PILOT",
+  "claim_boundary": "Descriptive computational pMHC prioritization only; not evidence of presentation, TCR binding, activation, cross-reactivity, molecular mimicry, MS mechanism, probability, or false-discovery rate.",
+  "comparator_registry_validation": {
+    "comparator_row_count": 40,
+    "comparison_pair_count": 4,
+    "unique_comparator_count": 25
+  },
+  "comparator_row_count": 40,
+  "comparators_per_pair_arm": 5,
+  "comparison_row_count": 208,
+  "cross_allele_consensus_created": false,
+  "discovery_files_read": false,
+  "discovery_files_written": false,
+  "discovery_unlock_allowed": false,
+  "frozen_pdb_oracle_pairing_count": 20,
+  "job_count": 72,
+  "job_package_validation": {
+    "batch_sizes": [
+      30,
+      30,
+      12
+    ],
+    "chain_order": [
+      "mhc_alpha",
+      "mhc_beta",
+      "peptide"
+    ],
+    "job_count": 72,
+    "jobs_sha256": "f4b078309ba7fb40d79252dc717cae39c16208592682b273ab5a74ede4f0b665",
+    "manifest_row_count": 72,
+    "submission_state": "prepared_not_submitted",
+    "unique_job_name_count": 72
+  },
+  "pair_decoys_per_panel": 25,
+  "positive_pair_count": 4,
+  "strict_system_count": 3,
+  "unique_pmhc_count": 36,
+  "weights_frozen": false
+}

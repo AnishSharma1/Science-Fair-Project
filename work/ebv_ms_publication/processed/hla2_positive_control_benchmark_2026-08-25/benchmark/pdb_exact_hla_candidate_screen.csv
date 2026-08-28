@@ -1,0 +1,15 @@
+core_peptide,oracle_pool_status,pdb_id,peptide,receptor_bound,resolution_A,selection_reason,snapshot_date,tcr3d_mhc_label
+VVHFFKNIVTP,selected,1BX2,ENPVVHFFKNIVTPR,False,2.6,declared positive or unique exact-HLA ligand selected before geometry,2026-08-26,HLA-DR2b
+FKNIVTPRT,selected,1FV1,NPVVHFFKNIVTPRTPPPSQ,False,1.9,declared positive or unique exact-HLA ligand selected before geometry,2026-08-26,HLA-DR2a
+VYHFVKKHV,selected,1H15,GGVYHFVKKHVHES,False,3.1,declared positive or unique exact-HLA ligand selected before geometry,2026-08-26,HLA-DR2a
+FKNIVTPRT,excluded,1HQR,VHFFKNIVTPRTP,False,3.2,incomplete exact nine-residue peptide core in coordinates,2026-08-26,HLA-DR2a
+VHFFKNIVT,selected,1YMM,ENPVVHFFKNIVTP,True,3.5,declared positive or unique exact-HLA ligand selected before geometry,2026-08-26,HLA-DR2b
+FKNIVTPRT,excluded,1ZGL,VHFFKNIVTPRTPGG,True,2.8,technical pMHC duplicate; 1FV1 selected by better resolution before geometry,2026-08-26,HLA-DR2a
+VHFISALHG,selected,2WBJ,DFARVHFISALHGSGG,True,3.0,declared positive or unique exact-HLA ligand selected before geometry,2026-08-26,HLA-DR2b
+VHFFKNIVT,selected,3PL6,MKENPVVHFFKNIVTPRGGS,True,2.55,declared positive or unique exact-HLA ligand selected before geometry,2026-08-26,HLA-DQ1
+MLFAKDVVS,selected,4GRL,RLLMLFAKDVVSRN,True,2.86,declared positive or unique exact-HLA ligand selected before geometry,2026-08-26,HLA-DQ1
+LVHFVRDFA,selected,4MAY,QLVHFVRDFAQL,True,2.2,declared positive or unique exact-HLA ligand selected before geometry,2026-08-26,HLA-DQ1
+ISLWKGFSF,selected,5V4M,GWISLWKGFSFG,False,2.1,declared positive or unique exact-HLA ligand selected before geometry,2026-08-26,HLA-DR15
+YKTLRAEQA,selected,6CPO,RFYKTLRAEQASQ,False,2.4,declared positive or unique exact-HLA ligand selected before geometry,2026-08-26,HLA-DR15
+YKTLRAEQA,excluded,6CQQ,RFYKTLRAEQASQ,True,2.8,technical pMHC duplicate; 6CPO selected by better resolution before geometry,2026-08-26,HLA-DR15
+MRMATPLLM,excluded,8VSP,PVSKMRMATPLLMQ,False,3.12,HLA-DQ1 shorthand but alpha/beta sequences do not match DQA1*01:02/DQB1*05:02,2026-08-26,HLA-DQ1

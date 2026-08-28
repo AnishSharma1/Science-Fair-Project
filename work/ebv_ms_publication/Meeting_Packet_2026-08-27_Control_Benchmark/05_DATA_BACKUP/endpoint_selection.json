@@ -1,0 +1,9 @@
+{
+  "candidate_composite_worst_rank": 3,
+  "frozen_exposed_ca_worst_rank": 9,
+  "selected_endpoint": "candidate_composite",
+  "selection_rule": "Use candidate composite only for strict improvement in worst held-out rank; otherwise retain frozen exposed-CA.",
+  "selection_status": "complete_comparison",
+  "strict_worst_rank_improvement": true,
+  "weights_frozen": false
+}

@@ -1,0 +1,87 @@
+{
+  "analysis_version": "EBV_MS_MULTIFEATURE_CONCORDANCE_2026-08-27",
+  "anchor_positions": [
+    "P1",
+    "P4",
+    "P6",
+    "P9"
+  ],
+  "binding_percentile_used": false,
+  "claim_boundary": "Descriptive same-register pMHC sequence-structure concordance prioritization only; not evidence of presentation, TCR binding, activation, cross-reactivity, molecular mimicry, MS mechanism, probability, or false-discovery rate.",
+  "combined_drb1501_input_pair_count": 2043,
+  "combined_drb1501_missing_structure_pair_count": 130,
+  "combined_drb1501_rank_1_pair_id": "HLA-DRB1*15:01|EBV_IEDB_99c3ed160286|SELF_CANON_MAG_0612_0626",
+  "combined_drb1501_ranked_pair_count": 1913,
+  "combined_source_membership_counts": {
+    "legacy_only": 353,
+    "v2_and_legacy_exact_duplicate": 16,
+    "v2_only": 1544
+  },
+  "control_audit": {
+    "all_panels_capture_at_3": false,
+    "all_systems_capture_at_3": false,
+    "analysis": "five_feature_sequence_structure_concordance",
+    "claim_boundary": "Descriptive same-register pMHC sequence-structure concordance prioritization only; not evidence of presentation, TCR binding, activation, cross-reactivity, molecular mimicry, MS mechanism, probability, or false-discovery rate.",
+    "control_boundary": "Retrospective exploratory audit on the three existing positive-control systems; it does not freeze weights, satisfy the six-system definitive gate, or unlock discovery.",
+    "discovery_unlock_allowed": false,
+    "independent_system_count": 3,
+    "panel_capture_at_3_count": 5,
+    "panel_count": 8,
+    "system_worst_ranks": {
+      "SYS_BALF5_MBP_HY2E11": 1,
+      "SYS_ENGA_MBP_OB1A12": 2,
+      "SYS_MICROBIAL_MBP_HY1B11": 9
+    },
+    "validation_status": "retrospective_exploratory_not_definitive",
+    "weights_frozen": false
+  },
+  "control_audit_role": "retrospective_exploratory_only",
+  "cross_allele_consensus_used": false,
+  "discovery_unlock_allowed": false,
+  "feature_directions": {
+    "exposed_ca_rmsd_A_median": "lower_is_better",
+    "full_core_ca_rmsd_A_median": "lower_is_better",
+    "tcr_face_physicochemical_mismatch": "lower_is_better",
+    "tcr_facing_blosum62_similarity": "higher_is_better",
+    "tcr_facing_sequence_identity": "higher_is_better"
+  },
+  "feature_normalization": "average_tie_rank_percentile_within_evaluable_universe",
+  "full_core_rmsd_definition": "P1-P9_peptide_CA_RMSD_after_HLA_groove_alignment",
+  "input_sha256": {
+    "combined_drb1501_rmsd_rankings": "78faa71299edd13edd6bcdb1b5a57dca64b1d2b228f316fac9626a6f230e5f65",
+    "combined_drb1501_sequence_rankings": "9fea479c6165aad7f2dcbb32cc88af7d441e9c073a8e1a8ca1fee6a70fb481b8",
+    "positive_control_feature_matrix": "2ab83acd67a7a3f23534e16c9306e9b0e58892eee901529003affa89f2fbcfb4",
+    "v2_rmsd_rankings": "bb929ce0ce24b17fae868a377a2eb32d064e51157e2c0862be4d5b1c2b26602c",
+    "v2_sequence_rankings": "e9ef1562ee87b626ad235920bb12d747063042162d9a80988d77c9bd831410f1"
+  },
+  "missing_structure_imputed": false,
+  "primary_objective": "minimize_max_sequence_family_and_structure_family_percentile",
+  "rank_1_pair_by_hla": {
+    "HLA-DRB1*03:01": "HLA-DRB1*03:01|EBV_IEDB_6cbbb1951647|SELF_CANON_CLDN11_0193_0207",
+    "HLA-DRB1*08:01": "HLA-DRB1*08:01|EBV_IEDB_113a17cddf78|SELF_CANON_MAG_0408_0422",
+    "HLA-DRB1*13:03": "HLA-DRB1*13:03|EBV_IEDB_113a17cddf78|SELF_CANON_MAG_0408_0422",
+    "HLA-DRB1*15:01": "HLA-DRB1*15:01|EBV_IEDB_99c3ed160286|SELF_CANON_MAG_0612_0626"
+  },
+  "rank_scope": "within_each_HLA_or_declared_DRB1501_universe_only",
+  "secondary_objective": "minimize_equal_mean_of_sequence_and_structure_family_percentiles",
+  "sequence_family": "equal_mean_of_blosum62_physicochemical_and_identity_percentiles",
+  "structure_family": "equal_mean_of_exposed_register_and_full_core_rmsd_percentiles",
+  "tcr_facing_positions": [
+    "P2",
+    "P3",
+    "P5",
+    "P7",
+    "P8"
+  ],
+  "v2_input_pair_count": 6400,
+  "v2_missing_structure_pair_count": 40,
+  "v2_ranked_by_hla": {
+    "HLA-DRB1*03:01": 1600,
+    "HLA-DRB1*08:01": 1600,
+    "HLA-DRB1*13:03": 1600,
+    "HLA-DRB1*15:01": 1560
+  },
+  "v2_ranked_pair_count": 6360,
+  "weights_frozen": false,
+  "whole_source_protein_rmsd_available": false
+}

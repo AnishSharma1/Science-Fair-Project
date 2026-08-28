@@ -1,0 +1,842 @@
+[
+  {
+    "dialect": "alphafoldserver",
+    "modelSeeds": [
+      104729
+    ],
+    "name": "ebvms_hla2_control_hy1b11_mbp_s104729",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EDIVADHVASCGVNLYQFYGPSGQYTHEFDGDEQFYVDLERKETAWRWPEFSKFGGFDPQGALRNMAVAKHNLNIMIKRYNSTAATNEVPEVTVFSKSPVTLGQPNTLICLVDNIFPPVVNITWLSNGQSVTEGVSETSFLSKSDHSFFKISYLTFLPSADEIYDCKVEHWGLDQPLLKHWEPEIPAPMSELTE"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EGRDSPEDFVYQFKGLCYFTNGTERVRGVTRHIYNREEYVRFDSDVGVYRAVTPQGRPVAEYWNSQKEVLEGARASVDRVCRHNYEVAYRGILQRRVEPTVTISPSRTEALNHHNLLICSVTDFYPSQIKVRWFRNDQEETAGVVSTPLIRNGDWTFQILVMLEMTPQRGDVYTCHVEHPSLQSPITVEWRAQSESAQSKVD"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "ENPVVHFFKNIVTPR"
+        }
+      }
+    ],
+    "version": 1
+  },
+  {
+    "dialect": "alphafoldserver",
+    "modelSeeds": [
+      104759
+    ],
+    "name": "ebvms_hla2_control_hy1b11_mbp_s104759",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EDIVADHVASCGVNLYQFYGPSGQYTHEFDGDEQFYVDLERKETAWRWPEFSKFGGFDPQGALRNMAVAKHNLNIMIKRYNSTAATNEVPEVTVFSKSPVTLGQPNTLICLVDNIFPPVVNITWLSNGQSVTEGVSETSFLSKSDHSFFKISYLTFLPSADEIYDCKVEHWGLDQPLLKHWEPEIPAPMSELTE"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EGRDSPEDFVYQFKGLCYFTNGTERVRGVTRHIYNREEYVRFDSDVGVYRAVTPQGRPVAEYWNSQKEVLEGARASVDRVCRHNYEVAYRGILQRRVEPTVTISPSRTEALNHHNLLICSVTDFYPSQIKVRWFRNDQEETAGVVSTPLIRNGDWTFQILVMLEMTPQRGDVYTCHVEHPSLQSPITVEWRAQSESAQSKVD"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "ENPVVHFFKNIVTPR"
+        }
+      }
+    ],
+    "version": 1
+  },
+  {
+    "dialect": "alphafoldserver",
+    "modelSeeds": [
+      104729
+    ],
+    "name": "ebvms_hla2_control_hy1b11_pmm_s104729",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EDIVADHVASCGVNLYQFYGPSGQYTHEFDGDEQFYVDLERKETAWRWPEFSKFGGFDPQGALRNMAVAKHNLNIMIKRYNSTAATNEVPEVTVFSKSPVTLGQPNTLICLVDNIFPPVVNITWLSNGQSVTEGVSETSFLSKSDHSFFKISYLTFLPSADEIYDCKVEHWGLDQPLLKHWEPEIPAPMSELTE"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EGRDSPEDFVYQFKGLCYFTNGTERVRGVTRHIYNREEYVRFDSDVGVYRAVTPQGRPVAEYWNSQKEVLEGARASVDRVCRHNYEVAYRGILQRRVEPTVTISPSRTEALNHHNLLICSVTDFYPSQIKVRWFRNDQEETAGVVSTPLIRNGDWTFQILVMLEMTPQRGDVYTCHVEHPSLQSPITVEWRAQSESAQSKVD"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "RLLMLFAKDVVSRN"
+        }
+      }
+    ],
+    "version": 1
+  },
+  {
+    "dialect": "alphafoldserver",
+    "modelSeeds": [
+      104759
+    ],
+    "name": "ebvms_hla2_control_hy1b11_pmm_s104759",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EDIVADHVASCGVNLYQFYGPSGQYTHEFDGDEQFYVDLERKETAWRWPEFSKFGGFDPQGALRNMAVAKHNLNIMIKRYNSTAATNEVPEVTVFSKSPVTLGQPNTLICLVDNIFPPVVNITWLSNGQSVTEGVSETSFLSKSDHSFFKISYLTFLPSADEIYDCKVEHWGLDQPLLKHWEPEIPAPMSELTE"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EGRDSPEDFVYQFKGLCYFTNGTERVRGVTRHIYNREEYVRFDSDVGVYRAVTPQGRPVAEYWNSQKEVLEGARASVDRVCRHNYEVAYRGILQRRVEPTVTISPSRTEALNHHNLLICSVTDFYPSQIKVRWFRNDQEETAGVVSTPLIRNGDWTFQILVMLEMTPQRGDVYTCHVEHPSLQSPITVEWRAQSESAQSKVD"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "RLLMLFAKDVVSRN"
+        }
+      }
+    ],
+    "version": 1
+  },
+  {
+    "dialect": "alphafoldserver",
+    "modelSeeds": [
+      104729
+    ],
+    "name": "ebvms_hla2_control_hy1b11_ul15_s104729",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EDIVADHVASCGVNLYQFYGPSGQYTHEFDGDEQFYVDLERKETAWRWPEFSKFGGFDPQGALRNMAVAKHNLNIMIKRYNSTAATNEVPEVTVFSKSPVTLGQPNTLICLVDNIFPPVVNITWLSNGQSVTEGVSETSFLSKSDHSFFKISYLTFLPSADEIYDCKVEHWGLDQPLLKHWEPEIPAPMSELTE"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EGRDSPEDFVYQFKGLCYFTNGTERVRGVTRHIYNREEYVRFDSDVGVYRAVTPQGRPVAEYWNSQKEVLEGARASVDRVCRHNYEVAYRGILQRRVEPTVTISPSRTEALNHHNLLICSVTDFYPSQIKVRWFRNDQEETAGVVSTPLIRNGDWTFQILVMLEMTPQRGDVYTCHVEHPSLQSPITVEWRAQSESAQSKVD"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "QLVHFVRDFAQL"
+        }
+      }
+    ],
+    "version": 1
+  },
+  {
+    "dialect": "alphafoldserver",
+    "modelSeeds": [
+      104759
+    ],
+    "name": "ebvms_hla2_control_hy1b11_ul15_s104759",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EDIVADHVASCGVNLYQFYGPSGQYTHEFDGDEQFYVDLERKETAWRWPEFSKFGGFDPQGALRNMAVAKHNLNIMIKRYNSTAATNEVPEVTVFSKSPVTLGQPNTLICLVDNIFPPVVNITWLSNGQSVTEGVSETSFLSKSDHSFFKISYLTFLPSADEIYDCKVEHWGLDQPLLKHWEPEIPAPMSELTE"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EGRDSPEDFVYQFKGLCYFTNGTERVRGVTRHIYNREEYVRFDSDVGVYRAVTPQGRPVAEYWNSQKEVLEGARASVDRVCRHNYEVAYRGILQRRVEPTVTISPSRTEALNHHNLLICSVTDFYPSQIKVRWFRNDQEETAGVVSTPLIRNGDWTFQILVMLEMTPQRGDVYTCHVEHPSLQSPITVEWRAQSESAQSKVD"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "QLVHFVRDFAQL"
+        }
+      }
+    ],
+    "version": 1
+  },
+  {
+    "dialect": "alphafoldserver",
+    "modelSeeds": [
+      104729
+    ],
+    "name": "ebvms_hla2_control_hy1_dq1_ebv_iedb_0e2190f44775_s104729",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EDIVADHVASCGVNLYQFYGPSGQYTHEFDGDEQFYVDLERKETAWRWPEFSKFGGFDPQGALRNMAVAKHNLNIMIKRYNSTAATNEVPEVTVFSKSPVTLGQPNTLICLVDNIFPPVVNITWLSNGQSVTEGVSETSFLSKSDHSFFKISYLTFLPSADEIYDCKVEHWGLDQPLLKHWEPEIPAPMSELTE"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EGRDSPEDFVYQFKGLCYFTNGTERVRGVTRHIYNREEYVRFDSDVGVYRAVTPQGRPVAEYWNSQKEVLEGARASVDRVCRHNYEVAYRGILQRRVEPTVTISPSRTEALNHHNLLICSVTDFYPSQIKVRWFRNDQEETAGVVSTPLIRNGDWTFQILVMLEMTPQRGDVYTCHVEHPSLQSPITVEWRAQSESAQSKVD"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "LVPRTQSVPARDY"
+        }
+      }
+    ],
+    "version": 1
+  },
+  {
+    "dialect": "alphafoldserver",
+    "modelSeeds": [
+      104759
+    ],
+    "name": "ebvms_hla2_control_hy1_dq1_ebv_iedb_0e2190f44775_s104759",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EDIVADHVASCGVNLYQFYGPSGQYTHEFDGDEQFYVDLERKETAWRWPEFSKFGGFDPQGALRNMAVAKHNLNIMIKRYNSTAATNEVPEVTVFSKSPVTLGQPNTLICLVDNIFPPVVNITWLSNGQSVTEGVSETSFLSKSDHSFFKISYLTFLPSADEIYDCKVEHWGLDQPLLKHWEPEIPAPMSELTE"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EGRDSPEDFVYQFKGLCYFTNGTERVRGVTRHIYNREEYVRFDSDVGVYRAVTPQGRPVAEYWNSQKEVLEGARASVDRVCRHNYEVAYRGILQRRVEPTVTISPSRTEALNHHNLLICSVTDFYPSQIKVRWFRNDQEETAGVVSTPLIRNGDWTFQILVMLEMTPQRGDVYTCHVEHPSLQSPITVEWRAQSESAQSKVD"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "LVPRTQSVPARDY"
+        }
+      }
+    ],
+    "version": 1
+  },
+  {
+    "dialect": "alphafoldserver",
+    "modelSeeds": [
+      104729
+    ],
+    "name": "ebvms_hla2_control_hy1_dq1_ebv_iedb_1bcd6d24071a_s104729",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EDIVADHVASCGVNLYQFYGPSGQYTHEFDGDEQFYVDLERKETAWRWPEFSKFGGFDPQGALRNMAVAKHNLNIMIKRYNSTAATNEVPEVTVFSKSPVTLGQPNTLICLVDNIFPPVVNITWLSNGQSVTEGVSETSFLSKSDHSFFKISYLTFLPSADEIYDCKVEHWGLDQPLLKHWEPEIPAPMSELTE"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EGRDSPEDFVYQFKGLCYFTNGTERVRGVTRHIYNREEYVRFDSDVGVYRAVTPQGRPVAEYWNSQKEVLEGARASVDRVCRHNYEVAYRGILQRRVEPTVTISPSRTEALNHHNLLICSVTDFYPSQIKVRWFRNDQEETAGVVSTPLIRNGDWTFQILVMLEMTPQRGDVYTCHVEHPSLQSPITVEWRAQSESAQSKVD"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "IMNILRIYYSPSIM"
+        }
+      }
+    ],
+    "version": 1
+  },
+  {
+    "dialect": "alphafoldserver",
+    "modelSeeds": [
+      104759
+    ],
+    "name": "ebvms_hla2_control_hy1_dq1_ebv_iedb_1bcd6d24071a_s104759",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EDIVADHVASCGVNLYQFYGPSGQYTHEFDGDEQFYVDLERKETAWRWPEFSKFGGFDPQGALRNMAVAKHNLNIMIKRYNSTAATNEVPEVTVFSKSPVTLGQPNTLICLVDNIFPPVVNITWLSNGQSVTEGVSETSFLSKSDHSFFKISYLTFLPSADEIYDCKVEHWGLDQPLLKHWEPEIPAPMSELTE"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EGRDSPEDFVYQFKGLCYFTNGTERVRGVTRHIYNREEYVRFDSDVGVYRAVTPQGRPVAEYWNSQKEVLEGARASVDRVCRHNYEVAYRGILQRRVEPTVTISPSRTEALNHHNLLICSVTDFYPSQIKVRWFRNDQEETAGVVSTPLIRNGDWTFQILVMLEMTPQRGDVYTCHVEHPSLQSPITVEWRAQSESAQSKVD"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "IMNILRIYYSPSIM"
+        }
+      }
+    ],
+    "version": 1
+  },
+  {
+    "dialect": "alphafoldserver",
+    "modelSeeds": [
+      104729
+    ],
+    "name": "ebvms_hla2_control_hy1_dq1_ebv_iedb_4720dbd64f7b_s104729",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EDIVADHVASCGVNLYQFYGPSGQYTHEFDGDEQFYVDLERKETAWRWPEFSKFGGFDPQGALRNMAVAKHNLNIMIKRYNSTAATNEVPEVTVFSKSPVTLGQPNTLICLVDNIFPPVVNITWLSNGQSVTEGVSETSFLSKSDHSFFKISYLTFLPSADEIYDCKVEHWGLDQPLLKHWEPEIPAPMSELTE"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EGRDSPEDFVYQFKGLCYFTNGTERVRGVTRHIYNREEYVRFDSDVGVYRAVTPQGRPVAEYWNSQKEVLEGARASVDRVCRHNYEVAYRGILQRRVEPTVTISPSRTEALNHHNLLICSVTDFYPSQIKVRWFRNDQEETAGVVSTPLIRNGDWTFQILVMLEMTPQRGDVYTCHVEHPSLQSPITVEWRAQSESAQSKVD"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EKQLFYYIGTMLPN"
+        }
+      }
+    ],
+    "version": 1
+  },
+  {
+    "dialect": "alphafoldserver",
+    "modelSeeds": [
+      104759
+    ],
+    "name": "ebvms_hla2_control_hy1_dq1_ebv_iedb_4720dbd64f7b_s104759",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EDIVADHVASCGVNLYQFYGPSGQYTHEFDGDEQFYVDLERKETAWRWPEFSKFGGFDPQGALRNMAVAKHNLNIMIKRYNSTAATNEVPEVTVFSKSPVTLGQPNTLICLVDNIFPPVVNITWLSNGQSVTEGVSETSFLSKSDHSFFKISYLTFLPSADEIYDCKVEHWGLDQPLLKHWEPEIPAPMSELTE"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EGRDSPEDFVYQFKGLCYFTNGTERVRGVTRHIYNREEYVRFDSDVGVYRAVTPQGRPVAEYWNSQKEVLEGARASVDRVCRHNYEVAYRGILQRRVEPTVTISPSRTEALNHHNLLICSVTDFYPSQIKVRWFRNDQEETAGVVSTPLIRNGDWTFQILVMLEMTPQRGDVYTCHVEHPSLQSPITVEWRAQSESAQSKVD"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EKQLFYYIGTMLPN"
+        }
+      }
+    ],
+    "version": 1
+  },
+  {
+    "dialect": "alphafoldserver",
+    "modelSeeds": [
+      104729
+    ],
+    "name": "ebvms_hla2_control_hy1_dq1_ebv_iedb_4fb29363e8e5_s104729",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EDIVADHVASCGVNLYQFYGPSGQYTHEFDGDEQFYVDLERKETAWRWPEFSKFGGFDPQGALRNMAVAKHNLNIMIKRYNSTAATNEVPEVTVFSKSPVTLGQPNTLICLVDNIFPPVVNITWLSNGQSVTEGVSETSFLSKSDHSFFKISYLTFLPSADEIYDCKVEHWGLDQPLLKHWEPEIPAPMSELTE"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EGRDSPEDFVYQFKGLCYFTNGTERVRGVTRHIYNREEYVRFDSDVGVYRAVTPQGRPVAEYWNSQKEVLEGARASVDRVCRHNYEVAYRGILQRRVEPTVTISPSRTEALNHHNLLICSVTDFYPSQIKVRWFRNDQEETAGVVSTPLIRNGDWTFQILVMLEMTPQRGDVYTCHVEHPSLQSPITVEWRAQSESAQSKVD"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "PPSIDPADLDESWD"
+        }
+      }
+    ],
+    "version": 1
+  },
+  {
+    "dialect": "alphafoldserver",
+    "modelSeeds": [
+      104759
+    ],
+    "name": "ebvms_hla2_control_hy1_dq1_ebv_iedb_4fb29363e8e5_s104759",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EDIVADHVASCGVNLYQFYGPSGQYTHEFDGDEQFYVDLERKETAWRWPEFSKFGGFDPQGALRNMAVAKHNLNIMIKRYNSTAATNEVPEVTVFSKSPVTLGQPNTLICLVDNIFPPVVNITWLSNGQSVTEGVSETSFLSKSDHSFFKISYLTFLPSADEIYDCKVEHWGLDQPLLKHWEPEIPAPMSELTE"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EGRDSPEDFVYQFKGLCYFTNGTERVRGVTRHIYNREEYVRFDSDVGVYRAVTPQGRPVAEYWNSQKEVLEGARASVDRVCRHNYEVAYRGILQRRVEPTVTISPSRTEALNHHNLLICSVTDFYPSQIKVRWFRNDQEETAGVVSTPLIRNGDWTFQILVMLEMTPQRGDVYTCHVEHPSLQSPITVEWRAQSESAQSKVD"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "PPSIDPADLDESWD"
+        }
+      }
+    ],
+    "version": 1
+  },
+  {
+    "dialect": "alphafoldserver",
+    "modelSeeds": [
+      104729
+    ],
+    "name": "ebvms_hla2_control_hy1_dq1_ebv_iedb_5e7561364e47_s104729",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EDIVADHVASCGVNLYQFYGPSGQYTHEFDGDEQFYVDLERKETAWRWPEFSKFGGFDPQGALRNMAVAKHNLNIMIKRYNSTAATNEVPEVTVFSKSPVTLGQPNTLICLVDNIFPPVVNITWLSNGQSVTEGVSETSFLSKSDHSFFKISYLTFLPSADEIYDCKVEHWGLDQPLLKHWEPEIPAPMSELTE"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EGRDSPEDFVYQFKGLCYFTNGTERVRGVTRHIYNREEYVRFDSDVGVYRAVTPQGRPVAEYWNSQKEVLEGARASVDRVCRHNYEVAYRGILQRRVEPTVTISPSRTEALNHHNLLICSVTDFYPSQIKVRWFRNDQEETAGVVSTPLIRNGDWTFQILVMLEMTPQRGDVYTCHVEHPSLQSPITVEWRAQSESAQSKVD"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "PYYVVDLSVRGM"
+        }
+      }
+    ],
+    "version": 1
+  },
+  {
+    "dialect": "alphafoldserver",
+    "modelSeeds": [
+      104759
+    ],
+    "name": "ebvms_hla2_control_hy1_dq1_ebv_iedb_5e7561364e47_s104759",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EDIVADHVASCGVNLYQFYGPSGQYTHEFDGDEQFYVDLERKETAWRWPEFSKFGGFDPQGALRNMAVAKHNLNIMIKRYNSTAATNEVPEVTVFSKSPVTLGQPNTLICLVDNIFPPVVNITWLSNGQSVTEGVSETSFLSKSDHSFFKISYLTFLPSADEIYDCKVEHWGLDQPLLKHWEPEIPAPMSELTE"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EGRDSPEDFVYQFKGLCYFTNGTERVRGVTRHIYNREEYVRFDSDVGVYRAVTPQGRPVAEYWNSQKEVLEGARASVDRVCRHNYEVAYRGILQRRVEPTVTISPSRTEALNHHNLLICSVTDFYPSQIKVRWFRNDQEETAGVVSTPLIRNGDWTFQILVMLEMTPQRGDVYTCHVEHPSLQSPITVEWRAQSESAQSKVD"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "PYYVVDLSVRGM"
+        }
+      }
+    ],
+    "version": 1
+  },
+  {
+    "dialect": "alphafoldserver",
+    "modelSeeds": [
+      104729
+    ],
+    "name": "ebvms_hla2_control_hy1_dq1_ebv_iedb_6fb6893091a7_s104729",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EDIVADHVASCGVNLYQFYGPSGQYTHEFDGDEQFYVDLERKETAWRWPEFSKFGGFDPQGALRNMAVAKHNLNIMIKRYNSTAATNEVPEVTVFSKSPVTLGQPNTLICLVDNIFPPVVNITWLSNGQSVTEGVSETSFLSKSDHSFFKISYLTFLPSADEIYDCKVEHWGLDQPLLKHWEPEIPAPMSELTE"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EGRDSPEDFVYQFKGLCYFTNGTERVRGVTRHIYNREEYVRFDSDVGVYRAVTPQGRPVAEYWNSQKEVLEGARASVDRVCRHNYEVAYRGILQRRVEPTVTISPSRTEALNHHNLLICSVTDFYPSQIKVRWFRNDQEETAGVVSTPLIRNGDWTFQILVMLEMTPQRGDVYTCHVEHPSLQSPITVEWRAQSESAQSKVD"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "TVFYNIPPMPL"
+        }
+      }
+    ],
+    "version": 1
+  },
+  {
+    "dialect": "alphafoldserver",
+    "modelSeeds": [
+      104759
+    ],
+    "name": "ebvms_hla2_control_hy1_dq1_ebv_iedb_6fb6893091a7_s104759",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EDIVADHVASCGVNLYQFYGPSGQYTHEFDGDEQFYVDLERKETAWRWPEFSKFGGFDPQGALRNMAVAKHNLNIMIKRYNSTAATNEVPEVTVFSKSPVTLGQPNTLICLVDNIFPPVVNITWLSNGQSVTEGVSETSFLSKSDHSFFKISYLTFLPSADEIYDCKVEHWGLDQPLLKHWEPEIPAPMSELTE"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EGRDSPEDFVYQFKGLCYFTNGTERVRGVTRHIYNREEYVRFDSDVGVYRAVTPQGRPVAEYWNSQKEVLEGARASVDRVCRHNYEVAYRGILQRRVEPTVTISPSRTEALNHHNLLICSVTDFYPSQIKVRWFRNDQEETAGVVSTPLIRNGDWTFQILVMLEMTPQRGDVYTCHVEHPSLQSPITVEWRAQSESAQSKVD"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "TVFYNIPPMPL"
+        }
+      }
+    ],
+    "version": 1
+  },
+  {
+    "dialect": "alphafoldserver",
+    "modelSeeds": [
+      104729
+    ],
+    "name": "ebvms_hla2_control_hy1_dq1_ebv_iedb_bce490b86fd9_s104729",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EDIVADHVASCGVNLYQFYGPSGQYTHEFDGDEQFYVDLERKETAWRWPEFSKFGGFDPQGALRNMAVAKHNLNIMIKRYNSTAATNEVPEVTVFSKSPVTLGQPNTLICLVDNIFPPVVNITWLSNGQSVTEGVSETSFLSKSDHSFFKISYLTFLPSADEIYDCKVEHWGLDQPLLKHWEPEIPAPMSELTE"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EGRDSPEDFVYQFKGLCYFTNGTERVRGVTRHIYNREEYVRFDSDVGVYRAVTPQGRPVAEYWNSQKEVLEGARASVDRVCRHNYEVAYRGILQRRVEPTVTISPSRTEALNHHNLLICSVTDFYPSQIKVRWFRNDQEETAGVVSTPLIRNGDWTFQILVMLEMTPQRGDVYTCHVEHPSLQSPITVEWRAQSESAQSKVD"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "VTNILIYNGWYADS"
+        }
+      }
+    ],
+    "version": 1
+  },
+  {
+    "dialect": "alphafoldserver",
+    "modelSeeds": [
+      104759
+    ],
+    "name": "ebvms_hla2_control_hy1_dq1_ebv_iedb_bce490b86fd9_s104759",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EDIVADHVASCGVNLYQFYGPSGQYTHEFDGDEQFYVDLERKETAWRWPEFSKFGGFDPQGALRNMAVAKHNLNIMIKRYNSTAATNEVPEVTVFSKSPVTLGQPNTLICLVDNIFPPVVNITWLSNGQSVTEGVSETSFLSKSDHSFFKISYLTFLPSADEIYDCKVEHWGLDQPLLKHWEPEIPAPMSELTE"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EGRDSPEDFVYQFKGLCYFTNGTERVRGVTRHIYNREEYVRFDSDVGVYRAVTPQGRPVAEYWNSQKEVLEGARASVDRVCRHNYEVAYRGILQRRVEPTVTISPSRTEALNHHNLLICSVTDFYPSQIKVRWFRNDQEETAGVVSTPLIRNGDWTFQILVMLEMTPQRGDVYTCHVEHPSLQSPITVEWRAQSESAQSKVD"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "VTNILIYNGWYADS"
+        }
+      }
+    ],
+    "version": 1
+  },
+  {
+    "dialect": "alphafoldserver",
+    "modelSeeds": [
+      104729
+    ],
+    "name": "ebvms_hla2_control_hy1_dq1_ebv_iedb_bef86355da5a_s104729",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EDIVADHVASCGVNLYQFYGPSGQYTHEFDGDEQFYVDLERKETAWRWPEFSKFGGFDPQGALRNMAVAKHNLNIMIKRYNSTAATNEVPEVTVFSKSPVTLGQPNTLICLVDNIFPPVVNITWLSNGQSVTEGVSETSFLSKSDHSFFKISYLTFLPSADEIYDCKVEHWGLDQPLLKHWEPEIPAPMSELTE"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EGRDSPEDFVYQFKGLCYFTNGTERVRGVTRHIYNREEYVRFDSDVGVYRAVTPQGRPVAEYWNSQKEVLEGARASVDRVCRHNYEVAYRGILQRRVEPTVTISPSRTEALNHHNLLICSVTDFYPSQIKVRWFRNDQEETAGVVSTPLIRNGDWTFQILVMLEMTPQRGDVYTCHVEHPSLQSPITVEWRAQSESAQSKVD"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "HPVGEADYFEY"
+        }
+      }
+    ],
+    "version": 1
+  },
+  {
+    "dialect": "alphafoldserver",
+    "modelSeeds": [
+      104759
+    ],
+    "name": "ebvms_hla2_control_hy1_dq1_ebv_iedb_bef86355da5a_s104759",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EDIVADHVASCGVNLYQFYGPSGQYTHEFDGDEQFYVDLERKETAWRWPEFSKFGGFDPQGALRNMAVAKHNLNIMIKRYNSTAATNEVPEVTVFSKSPVTLGQPNTLICLVDNIFPPVVNITWLSNGQSVTEGVSETSFLSKSDHSFFKISYLTFLPSADEIYDCKVEHWGLDQPLLKHWEPEIPAPMSELTE"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EGRDSPEDFVYQFKGLCYFTNGTERVRGVTRHIYNREEYVRFDSDVGVYRAVTPQGRPVAEYWNSQKEVLEGARASVDRVCRHNYEVAYRGILQRRVEPTVTISPSRTEALNHHNLLICSVTDFYPSQIKVRWFRNDQEETAGVVSTPLIRNGDWTFQILVMLEMTPQRGDVYTCHVEHPSLQSPITVEWRAQSESAQSKVD"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "HPVGEADYFEY"
+        }
+      }
+    ],
+    "version": 1
+  },
+  {
+    "dialect": "alphafoldserver",
+    "modelSeeds": [
+      104729
+    ],
+    "name": "ebvms_hla2_control_hy1_dq1_ebv_iedb_d63c3a4aff32_s104729",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EDIVADHVASCGVNLYQFYGPSGQYTHEFDGDEQFYVDLERKETAWRWPEFSKFGGFDPQGALRNMAVAKHNLNIMIKRYNSTAATNEVPEVTVFSKSPVTLGQPNTLICLVDNIFPPVVNITWLSNGQSVTEGVSETSFLSKSDHSFFKISYLTFLPSADEIYDCKVEHWGLDQPLLKHWEPEIPAPMSELTE"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EGRDSPEDFVYQFKGLCYFTNGTERVRGVTRHIYNREEYVRFDSDVGVYRAVTPQGRPVAEYWNSQKEVLEGARASVDRVCRHNYEVAYRGILQRRVEPTVTISPSRTEALNHHNLLICSVTDFYPSQIKVRWFRNDQEETAGVVSTPLIRNGDWTFQILVMLEMTPQRGDVYTCHVEHPSLQSPITVEWRAQSESAQSKVD"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "SDDELPYIDPNMEPV"
+        }
+      }
+    ],
+    "version": 1
+  },
+  {
+    "dialect": "alphafoldserver",
+    "modelSeeds": [
+      104759
+    ],
+    "name": "ebvms_hla2_control_hy1_dq1_ebv_iedb_d63c3a4aff32_s104759",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EDIVADHVASCGVNLYQFYGPSGQYTHEFDGDEQFYVDLERKETAWRWPEFSKFGGFDPQGALRNMAVAKHNLNIMIKRYNSTAATNEVPEVTVFSKSPVTLGQPNTLICLVDNIFPPVVNITWLSNGQSVTEGVSETSFLSKSDHSFFKISYLTFLPSADEIYDCKVEHWGLDQPLLKHWEPEIPAPMSELTE"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EGRDSPEDFVYQFKGLCYFTNGTERVRGVTRHIYNREEYVRFDSDVGVYRAVTPQGRPVAEYWNSQKEVLEGARASVDRVCRHNYEVAYRGILQRRVEPTVTISPSRTEALNHHNLLICSVTDFYPSQIKVRWFRNDQEETAGVVSTPLIRNGDWTFQILVMLEMTPQRGDVYTCHVEHPSLQSPITVEWRAQSESAQSKVD"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "SDDELPYIDPNMEPV"
+        }
+      }
+    ],
+    "version": 1
+  },
+  {
+    "dialect": "alphafoldserver",
+    "modelSeeds": [
+      104729
+    ],
+    "name": "ebvms_hla2_control_hy1_dq1_ebv_iedb_ffe96a37c427_s104729",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EDIVADHVASCGVNLYQFYGPSGQYTHEFDGDEQFYVDLERKETAWRWPEFSKFGGFDPQGALRNMAVAKHNLNIMIKRYNSTAATNEVPEVTVFSKSPVTLGQPNTLICLVDNIFPPVVNITWLSNGQSVTEGVSETSFLSKSDHSFFKISYLTFLPSADEIYDCKVEHWGLDQPLLKHWEPEIPAPMSELTE"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EGRDSPEDFVYQFKGLCYFTNGTERVRGVTRHIYNREEYVRFDSDVGVYRAVTPQGRPVAEYWNSQKEVLEGARASVDRVCRHNYEVAYRGILQRRVEPTVTISPSRTEALNHHNLLICSVTDFYPSQIKVRWFRNDQEETAGVVSTPLIRNGDWTFQILVMLEMTPQRGDVYTCHVEHPSLQSPITVEWRAQSESAQSKVD"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "VMSDWTGGALL"
+        }
+      }
+    ],
+    "version": 1
+  },
+  {
+    "dialect": "alphafoldserver",
+    "modelSeeds": [
+      104759
+    ],
+    "name": "ebvms_hla2_control_hy1_dq1_ebv_iedb_ffe96a37c427_s104759",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EDIVADHVASCGVNLYQFYGPSGQYTHEFDGDEQFYVDLERKETAWRWPEFSKFGGFDPQGALRNMAVAKHNLNIMIKRYNSTAATNEVPEVTVFSKSPVTLGQPNTLICLVDNIFPPVVNITWLSNGQSVTEGVSETSFLSKSDHSFFKISYLTFLPSADEIYDCKVEHWGLDQPLLKHWEPEIPAPMSELTE"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EGRDSPEDFVYQFKGLCYFTNGTERVRGVTRHIYNREEYVRFDSDVGVYRAVTPQGRPVAEYWNSQKEVLEGARASVDRVCRHNYEVAYRGILQRRVEPTVTISPSRTEALNHHNLLICSVTDFYPSQIKVRWFRNDQEETAGVVSTPLIRNGDWTFQILVMLEMTPQRGDVYTCHVEHPSLQSPITVEWRAQSESAQSKVD"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "VMSDWTGGALL"
+        }
+      }
+    ],
+    "version": 1
+  },
+  {
+    "dialect": "alphafoldserver",
+    "modelSeeds": [
+      104729
+    ],
+    "name": "ebvms_hla2_control_hy1_dq1_human_background_1618754_s104729",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EDIVADHVASCGVNLYQFYGPSGQYTHEFDGDEQFYVDLERKETAWRWPEFSKFGGFDPQGALRNMAVAKHNLNIMIKRYNSTAATNEVPEVTVFSKSPVTLGQPNTLICLVDNIFPPVVNITWLSNGQSVTEGVSETSFLSKSDHSFFKISYLTFLPSADEIYDCKVEHWGLDQPLLKHWEPEIPAPMSELTE"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EGRDSPEDFVYQFKGLCYFTNGTERVRGVTRHIYNREEYVRFDSDVGVYRAVTPQGRPVAEYWNSQKEVLEGARASVDRVCRHNYEVAYRGILQRRVEPTVTISPSRTEALNHHNLLICSVTDFYPSQIKVRWFRNDQEETAGVVSTPLIRNGDWTFQILVMLEMTPQRGDVYTCHVEHPSLQSPITVEWRAQSESAQSKVD"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "RVLGLVLLRGENLVS"
+        }
+      }
+    ],
+    "version": 1
+  },
+  {
+    "dialect": "alphafoldserver",
+    "modelSeeds": [
+      104759
+    ],
+    "name": "ebvms_hla2_control_hy1_dq1_human_background_1618754_s104759",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EDIVADHVASCGVNLYQFYGPSGQYTHEFDGDEQFYVDLERKETAWRWPEFSKFGGFDPQGALRNMAVAKHNLNIMIKRYNSTAATNEVPEVTVFSKSPVTLGQPNTLICLVDNIFPPVVNITWLSNGQSVTEGVSETSFLSKSDHSFFKISYLTFLPSADEIYDCKVEHWGLDQPLLKHWEPEIPAPMSELTE"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EGRDSPEDFVYQFKGLCYFTNGTERVRGVTRHIYNREEYVRFDSDVGVYRAVTPQGRPVAEYWNSQKEVLEGARASVDRVCRHNYEVAYRGILQRRVEPTVTISPSRTEALNHHNLLICSVTDFYPSQIKVRWFRNDQEETAGVVSTPLIRNGDWTFQILVMLEMTPQRGDVYTCHVEHPSLQSPITVEWRAQSESAQSKVD"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "RVLGLVLLRGENLVS"
+        }
+      }
+    ],
+    "version": 1
+  },
+  {
+    "dialect": "alphafoldserver",
+    "modelSeeds": [
+      104729
+    ],
+    "name": "ebvms_hla2_control_hy1_dq1_human_background_175453_s104729",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EDIVADHVASCGVNLYQFYGPSGQYTHEFDGDEQFYVDLERKETAWRWPEFSKFGGFDPQGALRNMAVAKHNLNIMIKRYNSTAATNEVPEVTVFSKSPVTLGQPNTLICLVDNIFPPVVNITWLSNGQSVTEGVSETSFLSKSDHSFFKISYLTFLPSADEIYDCKVEHWGLDQPLLKHWEPEIPAPMSELTE"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EGRDSPEDFVYQFKGLCYFTNGTERVRGVTRHIYNREEYVRFDSDVGVYRAVTPQGRPVAEYWNSQKEVLEGARASVDRVCRHNYEVAYRGILQRRVEPTVTISPSRTEALNHHNLLICSVTDFYPSQIKVRWFRNDQEETAGVVSTPLIRNGDWTFQILVMLEMTPQRGDVYTCHVEHPSLQSPITVEWRAQSESAQSKVD"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "DNIMVTFRNQASRPY"
+        }
+      }
+    ],
+    "version": 1
+  },
+  {
+    "dialect": "alphafoldserver",
+    "modelSeeds": [
+      104759
+    ],
+    "name": "ebvms_hla2_control_hy1_dq1_human_background_175453_s104759",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EDIVADHVASCGVNLYQFYGPSGQYTHEFDGDEQFYVDLERKETAWRWPEFSKFGGFDPQGALRNMAVAKHNLNIMIKRYNSTAATNEVPEVTVFSKSPVTLGQPNTLICLVDNIFPPVVNITWLSNGQSVTEGVSETSFLSKSDHSFFKISYLTFLPSADEIYDCKVEHWGLDQPLLKHWEPEIPAPMSELTE"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "EGRDSPEDFVYQFKGLCYFTNGTERVRGVTRHIYNREEYVRFDSDVGVYRAVTPQGRPVAEYWNSQKEVLEGARASVDRVCRHNYEVAYRGILQRRVEPTVTISPSRTEALNHHNLLICSVTDFYPSQIKVRWFRNDQEETAGVVSTPLIRNGDWTFQILVMLEMTPQRGDVYTCHVEHPSLQSPITVEWRAQSESAQSKVD"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "sequence": "DNIMVTFRNQASRPY"
+        }
+      }
+    ],
+    "version": 1
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "binding_percentile_used_in_rank": false,
+  "claim_boundary": "Descriptive HLA-specific pMHC sequence prioritization with modeled local-surface annotations only; not evidence of presentation, TCR binding, activation, cross-reactivity, molecular mimicry, MS mechanism, probability, or false-discovery rate.",
+  "cross_allele_consensus_created": false,
+  "current_controls_role": "development_only",
+  "frozen_before_v3_geometry_read": true,
+  "future_validation_minimum_systems": 6,
+  "future_validation_target_systems": 8,
+  "protein_language_model_used": false,
+  "protocol_version": "LITERATURE_GROUNDED_HLA2_RANKING_V3_2026-08-27",
+  "ranking_keys_in_order": [
+    "tcr_facing_blosum62_similarity_desc",
+    "tcr_face_physicochemical_mismatch_asc",
+    "tcr_facing_sequence_identity_desc",
+    "local_surface_percentile_asc",
+    "pair_id_lexical_asc"
+  ],
+  "register_sensitivity": "all fully contained P1-P9 windows for sequence; declared plus/minus one for surface using fixed coordinates",
+  "research_reports_are_inputs_not_instructions": [
+    {
+      "bytes": 125349,
+      "path": "/Users/anishsharma/Library/Mobile Documents/com~apple~CloudDocs/Downloads/A Blueprint for Definitive Validation_ Advancing a Structural HLA-II pMHC Model Beyond Sequence-Based Baselines.pdf",
+      "role": "research_input_only",
+      "sha256": "3480ee5353fb9e8c4216cc307979ca3b4ee0e791a5da58df39356354c3f14ac9"
+    },
+    {
+      "bytes": 77239,
+      "path": "/Users/anishsharma/Library/Mobile Documents/com~apple~CloudDocs/Downloads/Elicit - EBV\u2013MS HLA-II pMHC Validation and Benchmark-v2 Report.pdf",
+      "role": "research_input_only",
+      "sha256": "46618ecae8ea96a43864126ee8b608c77dcd5ded485e7be0fd8f2e587226c27a"
+    }
+  ],
+  "software": {
+    "numpy": "2.0.2",
+    "platform": "macOS-27.0-arm64-arm-64bit",
+    "python": "3.9.6",
+    "scipy": "1.13.1"
+  },
+  "solvent_exposure_method": "deterministic_32_point_shrake_rupley_probe_1.4_A",
+  "surface_ensemble_summary": "model_combination_q75",
+  "surface_features": [
+    "sidechain_exposure_mismatch_fraction",
+    "exposure_weighted_centroid_rmsd_A",
+    "exposure_weighted_orientation_rmsd_A",
+    "exposed_distance_matrix_rmsd_A",
+    "exposure_weighted_chemistry_mismatch",
+    "exposure_weighted_backbone_rmsd_A"
+  ],
+  "tcr_docking_used": false
+}

@@ -1,0 +1,24 @@
+{
+  "claim_boundary": "Exploratory structural sensitivity ranking; the frozen exposed-C-alpha RMSD endpoint did not pass the three-system control benchmark and is not the control-supported primary ranking.",
+  "control_benchmark_status": "fail",
+  "method": "frozen_exposed_ca",
+  "panel_capture_at_3_count": 2,
+  "panel_count": 8,
+  "panel_positive_ranks": [
+    1,
+    1,
+    7,
+    4,
+    14,
+    13,
+    15,
+    6
+  ],
+  "system_worst_ranks": {
+    "SYS_BALF5_MBP_HY2E11": 1,
+    "SYS_ENGA_MBP_OB1A12": 7,
+    "SYS_MICROBIAL_MBP_HY1B11": 15
+  },
+  "use_as_exploratory_sensitivity_ranking_allowed": true,
+  "use_as_primary_ranking_allowed": false
+}

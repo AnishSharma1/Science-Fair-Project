@@ -1,0 +1,2 @@
+bootstrap_95_percent_lower,bootstrap_95_percent_upper,bootstrap_draw_count,evaluation_status,independent_system_count,mean_reciprocal_rank_difference,resampling_unit,small_system_caveat
+-0.941176471,0.0,10000,complete,3,-0.31372549,biological_system,descriptive_not_universal_statistical_proof

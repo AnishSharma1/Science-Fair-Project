@@ -31,6 +31,16 @@ def empirical_le(observed: float, null_values: list[float]) -> float:
     return (1 + sum(value <= observed for value in null_values)) / (len(null_values) + 1)
 
 
+def format_validation_summary_line(row: dict[str, object]) -> str:
+    """Describe overlay counts without treating correlated records as positives."""
+    return (
+        f"- {row['test']}: {row['positive_pair_count']} annotated pair records in a "
+        f"{row['scored_pair_universe_n']}-pair universe; mean rank {row['observed_mean_rank']}; "
+        f"top-10 annotated records {row['observed_top10_positive_count']}; "
+        f"top-10 empirical p={float(row['empirical_p_top10_count_ge_observed']):.4f}\n"
+    )
+
+
 def main() -> None:
     OUT.mkdir(parents=True, exist_ok=True)
     random.seed(1501)
@@ -148,12 +158,11 @@ def main() -> None:
 
     with (OUT / "README.md").open("w", encoding="utf-8") as handle:
         handle.write("# External validation rank-recovery benchmark\n\n")
-        handle.write("This analysis overlays independently reported EBV/MS-positive candidates onto the predeclared pMHC shortlist.\n\n")
+        handle.write("This analysis overlays pre-annotated literature/context records onto the predeclared pMHC shortlist.\n\n")
+        handle.write("Counts are annotated pair records, not independent positive examples: the BALF5--MBP family contains overlapping records and the newer source annotations do not establish direct EBV--myelin cross-reactive pairs.\n\n")
         handle.write("It is a prioritization benchmark only. It does not test TCR binding, T-cell activation, affinity, or patient pathogenicity.\n\n")
         for row in summary_rows:
-            handle.write(f"- {row['test']}: {row['positive_pair_count']} positive pairs in a {row['scored_pair_universe_n']}-pair universe; ")
-            handle.write(f"mean rank {row['observed_mean_rank']}; top-10 positives {row['observed_top10_positive_count']}; ")
-            handle.write(f"top-10 empirical p={row['empirical_p_top10_count_ge_observed']:.4f}\n")
+            handle.write(format_validation_summary_line(row))
 
     print(f"Wrote {OUT}")
     for row in summary_rows:

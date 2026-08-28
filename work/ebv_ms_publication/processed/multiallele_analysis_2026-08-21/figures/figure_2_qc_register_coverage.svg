@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="450" viewBox="0 0 1100 450">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,sans-serif;fill:#1f2933}.title{font-size:20px;font-weight:bold}.label{font-size:12px}.small{font-size:10px}</style>
+<text x="550" y="34" text-anchor="middle" class="title">Figure 2. Technical and register eligibility coverage</text>
+<rect x="90" y="108" width="44" height="282" fill="#3977a8"/>
+<rect x="90" y="90" width="44" height="18" fill="#d7dce2"/>
+<text x="112" y="418" text-anchor="middle" class="small">DRB1*13:03</text>
+<text x="112" y="100" text-anchor="middle" class="small">47/50</text>
+<rect x="620" y="90" width="44" height="300" fill="#4d9c74"/>
+<rect x="620" y="90" width="44" height="0" fill="#e5b66b"/>
+<text x="642" y="418" text-anchor="middle" class="small">DRB1*13:03</text>
+<text x="642" y="82" text-anchor="middle" class="small">50/50</text>
+<rect x="240" y="108" width="44" height="282" fill="#3977a8"/>
+<rect x="240" y="90" width="44" height="18" fill="#d7dce2"/>
+<text x="262" y="418" text-anchor="middle" class="small">DRB1*03:01</text>
+<text x="262" y="100" text-anchor="middle" class="small">47/50</text>
+<rect x="770" y="96" width="44" height="294" fill="#4d9c74"/>
+<rect x="770" y="90" width="44" height="6" fill="#e5b66b"/>
+<text x="792" y="418" text-anchor="middle" class="small">DRB1*03:01</text>
+<text x="792" y="88" text-anchor="middle" class="small">49/50</text>
+<rect x="390" y="96" width="44" height="294" fill="#3977a8"/>
+<rect x="390" y="90" width="44" height="6" fill="#d7dce2"/>
+<text x="412" y="418" text-anchor="middle" class="small">DRB1*08:01</text>
+<text x="412" y="88" text-anchor="middle" class="small">49/50</text>
+<rect x="920" y="90" width="44" height="300" fill="#4d9c74"/>
+<rect x="920" y="90" width="44" height="0" fill="#e5b66b"/>
+<text x="942" y="418" text-anchor="middle" class="small">DRB1*08:01</text>
+<text x="942" y="82" text-anchor="middle" class="small">50/50</text>
+<text x="270" y="70" text-anchor="middle" class="label">AF3 canonical jobs</text>
+<text x="800" y="70" text-anchor="middle" class="label">Unique fully contained registers</text>
+</svg>

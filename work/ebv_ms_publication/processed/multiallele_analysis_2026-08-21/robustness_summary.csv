@@ -1,0 +1,4 @@
+allele,analysis_status,prepared_robustness_job_count,equal_control_weighting,leave_one_control_out,technical_bootstrap,empirical_tail_fraction,p_value,claim_boundary
+HLA-DRB1*13:03,awaiting_fixed_seed_alphafold_downloads,10,True,True,True,pending,,"Computational pMHC geometry only; not evidence of presentation, TCR binding, activation, cross-reactivity, molecular mimicry, or MS mechanism."
+HLA-DRB1*03:01,awaiting_fixed_seed_alphafold_downloads,10,True,True,True,pending,,"Computational pMHC geometry only; not evidence of presentation, TCR binding, activation, cross-reactivity, molecular mimicry, or MS mechanism."
+HLA-DRB1*08:01,awaiting_fixed_seed_alphafold_downloads,10,True,True,True,pending,,"Computational pMHC geometry only; not evidence of presentation, TCR binding, activation, cross-reactivity, molecular mimicry, or MS mechanism."

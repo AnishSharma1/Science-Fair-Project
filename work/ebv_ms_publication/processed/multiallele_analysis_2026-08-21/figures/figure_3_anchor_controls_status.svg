@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="950" height="480" viewBox="0 0 950 480">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,sans-serif;fill:#1f2933}.title{font-size:20px;font-weight:bold}.label{font-size:12px}.small{font-size:10px}</style>
+<text x="475" y="34" text-anchor="middle" class="title">Figure 3. Anchor geometry and frozen-control run status</text>
+<line x1="70" y1="390" x2="920" y2="390" stroke="#333"/><line x1="70" y1="70" x2="70" y2="390" stroke="#333"/>
+<text x="20" y="230" transform="rotate(-90 20 230)" class="label">Exposed-position Cα RMSD (Å)</text>
+<text x="210" y="418" text-anchor="middle" class="label">DRB1*13:03</text>
+<circle cx="165" cy="303.6" r="8" fill="#bd3f32"/>
+<text x="165" y="290.6" text-anchor="middle" class="small">0.86</text>
+<path d="M 205 380 l 10 10 M 215 380 l -10 10" stroke="#777" stroke-width="2"/>
+<path d="M 235 380 l 10 10 M 245 380 l -10 10" stroke="#777" stroke-width="2"/>
+<path d="M 265 380 l 10 10 M 275 380 l -10 10" stroke="#777" stroke-width="2"/>
+<text x="480" y="418" text-anchor="middle" class="label">DRB1*03:01</text>
+<circle cx="435" cy="272.4" r="8" fill="#bd3f32"/>
+<text x="435" y="259.4" text-anchor="middle" class="small">1.18</text>
+<path d="M 475 380 l 10 10 M 485 380 l -10 10" stroke="#777" stroke-width="2"/>
+<path d="M 505 380 l 10 10 M 515 380 l -10 10" stroke="#777" stroke-width="2"/>
+<path d="M 535 380 l 10 10 M 545 380 l -10 10" stroke="#777" stroke-width="2"/>
+<text x="750" y="418" text-anchor="middle" class="label">DRB1*08:01</text>
+<circle cx="705" cy="227.8" r="8" fill="#bd3f32"/>
+<text x="705" y="214.8" text-anchor="middle" class="small">1.62</text>
+<path d="M 745 380 l 10 10 M 755 380 l -10 10" stroke="#777" stroke-width="2"/>
+<path d="M 775 380 l 10 10 M 785 380 l -10 10" stroke="#777" stroke-width="2"/>
+<path d="M 805 380 l 10 10 M 815 380 l -10 10" stroke="#777" stroke-width="2"/>
+<text x="475" y="455" text-anchor="middle" class="small">Gray crosses: frozen controls awaiting fixed-seed AF3 geometry</text>
+</svg>

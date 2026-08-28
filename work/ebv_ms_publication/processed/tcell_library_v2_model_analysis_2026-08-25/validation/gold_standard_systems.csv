@@ -1,0 +1,2 @@
+biological_system_id,gold_standard_eligible,independent_system_weight,evidence_class,receptor_or_clone_id,viral_peptide,viral_hla,viral_structure,self_peptide,self_hla,self_structure,experimental_seven_position_core_ca_rmsd_A,primary_source,doi,predeclared_before_model_ranking,used_for_discovery_ranking,used_for_score_tuning
+SYS_BALF5_MBP_HY2E11,True,1,same_human_T_cell_clone_plus_two_experimental_pMHC_structures,Hy.2E11,TGGVYHFVKKHVHES,HLA-DRB5*01:01,1H15,ENPVVHFFKNIVTPR,HLA-DRB1*15:01,1BX2,0.838,PMID:12244309,10.1038/ni835,True,False,False

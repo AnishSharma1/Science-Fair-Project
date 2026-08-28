@@ -1,0 +1,21 @@
+{
+  "audit_version": "EBV_MS_GOLD_STANDARD_CAPTURE_V1",
+  "available_seed_count": 2,
+  "available_set_conclusion": "captured_rank_1_in_both_available_seed_sets",
+  "capture_at_1_available_seed_count": 2,
+  "capture_at_1_available_seed_fraction": 1.0,
+  "capture_at_3_available_seed_count": 2,
+  "capture_at_3_available_seed_fraction": 1.0,
+  "claim_boundary": "Recovery of an experimentally established positive control calibrates known-positive capture; it does not establish presentation, TCR binding, activation, cross-reactivity, molecular mimicry, or MS disease mechanism for discovery candidates.",
+  "denominator_rule": "Exact peptide identities and HLA arms, same human T-cell clone cross-recognition, and experimental pMHC structures for both arms",
+  "formal_evaluable_seed_count": 1,
+  "formal_evaluable_seed_pass_fraction": 1.0,
+  "formal_seed_pass_count": 1,
+  "gold_standard_independent_system_count": 1,
+  "gold_standard_system_ids": [
+    "SYS_BALF5_MBP_HY2E11"
+  ],
+  "interpretation": "The frozen method captured the one independent experimentally established system. Broad sensitivity and generalization cannot be estimated from one system.",
+  "model_or_score_changed_to_fit_positive": false,
+  "strict_two_seed_recovery_status": "not_evaluable_incomplete_calibration"
+}

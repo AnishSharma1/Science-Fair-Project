@@ -1,0 +1,7 @@
+{
+  "first_sha256s_file_sha256": "8f2d2c7c81634d645893f0d6e85c070a0c6909450c6ace96e4e77fbbd9814c0d",
+  "identical_rebuild": true,
+  "run_summary_json_identical": true,
+  "second_sha256s_file_sha256": "8f2d2c7c81634d645893f0d6e85c070a0c6909450c6ace96e4e77fbbd9814c0d",
+  "verification_scope": "Two complete analyses of the same frozen inputs and selected result roots in the same output path."
+}

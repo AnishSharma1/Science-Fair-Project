@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="620" viewBox="0 0 960 620" role="img" aria-labelledby="title desc">
+<title id="title">Rank 1 strict-primary robustness</title>
+<desc id="desc">Rank 1 target and three strict-control medians, leave-one-control-out range, exploratory empirical rank, and technical bootstrap interval.</desc>
+<style>
+text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #172B4D; }
+.title { font-size: 25px; font-weight: 700; } .subtitle { font-size: 15px; fill: #42526E; }
+.label { font-size: 13px; } .value { font-size: 13px; font-weight: 600; } .axis { font-size: 12px; fill: #5E6C84; }
+.guide { stroke: #C1C7D0; stroke-width: 1; } .grid { stroke: #DFE1E6; stroke-width: 1; }
+.callout { fill: #F4F5F7; stroke: #B3BAC5; } .callout-title { font-size: 14px; font-weight: 700; } .callout-text { font-size: 13px; }
+</style>
+<rect width="960" height="620" fill="#FFFFFF"/>
+<text x="48" y="50" class="title">Rank 1 strict-primary robustness</text>
+<text x="48" y="78" class="subtitle">Exposed-position RMSD after HLA-groove fitting; lower values are closer.</text>
+<line x1="250.0" y1="145" x2="250.0" y2="420" class="grid"/><text x="250.0" y="445" text-anchor="middle" class="axis">0.00</text><line x1="400.0" y1="145" x2="400.0" y2="420" class="grid"/><text x="400.0" y="445" text-anchor="middle" class="axis">3.88</text><line x1="550.0" y1="145" x2="550.0" y2="420" class="grid"/><text x="550.0" y="445" text-anchor="middle" class="axis">7.76</text><line x1="700.0" y1="145" x2="700.0" y2="420" class="grid"/><text x="700.0" y="445" text-anchor="middle" class="axis">11.64</text><line x1="850.0" y1="145" x2="850.0" y2="420" class="grid"/><text x="850.0" y="445" text-anchor="middle" class="axis">15.52</text>
+<text x="235" y="185" text-anchor="end" class="label">Target human</text><line x1="250" y1="180" x2="850" y2="180" class="guide"/><circle cx="274.9" cy="180" r="8" fill="#0072B2"/><text x="288.9" y="185" class="value">0.64 A</text><text x="235" y="239" text-anchor="end" class="label">HUMAN_BACKGROUND_115891</text><line x1="250" y1="234" x2="850" y2="234" class="guide"/><circle cx="398.6" cy="234" r="8" fill="#D55E00"/><text x="412.6" y="239" class="value">3.84 A</text><text x="235" y="293" text-anchor="end" class="label">HUMAN_BACKGROUND_118550</text><line x1="250" y1="288" x2="850" y2="288" class="guide"/><circle cx="557.9" cy="288" r="8" fill="#D55E00"/><text x="571.9" y="293" class="value">7.96 A</text><text x="235" y="347" text-anchor="end" class="label">HUMAN_BACKGROUND_119732</text><line x1="250" y1="342" x2="850" y2="342" class="guide"/><circle cx="771.7" cy="342" r="8" fill="#D55E00"/><text x="785.7" y="347" class="value">13.49 A</text><text x="235" y="401" text-anchor="end" class="label">Equal-weight background</text><line x1="250" y1="396" x2="850" y2="396" class="guide"/><circle cx="557.9" cy="396" r="8" fill="#009E73"/><text x="571.9" y="401" class="value">7.96 A</text>
+<text x="550" y="472" text-anchor="middle" class="axis">Exposed-position RMSD (A)</text>
+<rect x="48" y="500" width="270" height="88" rx="8" class="callout"/>
+<text x="64" y="524" class="callout-title">Exploratory empirical rank</text>
+<text x="64" y="550" class="callout-text">Target rank: 1 of 4</text>
+<text x="64" y="574" class="callout-text">Minimum tail fraction with 3 controls: 0.25</text>
+<rect x="334" y="500" width="290" height="88" rx="8" class="callout"/>
+<text x="350" y="524" class="callout-title">Leave-one-control-out delta range</text>
+<text x="350" y="553" class="callout-text">5.26 to 10.09 A</text>
+<rect x="640" y="500" width="272" height="88" rx="8" class="callout"/>
+<text x="656" y="524" class="callout-title">Technical-stability interval (not a p-value)</text>
+<text x="656" y="553" class="callout-text">1.62 to 12.76 A</text>
+</svg>

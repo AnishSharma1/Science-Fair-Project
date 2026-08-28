@@ -1,0 +1,2 @@
+allele,binding_rank_bin,candidate_id,core_start,eligible_for_p1_p9_geometry,interpretation,panel_version,percentile_rank,predicted_core,predicted_ic50_nM,prediction_method,prediction_status,raw_response_file,register_resolution,seq_num,sequence
+HLA-DRB1*15:01,intermediate,OB1A12_ENGA,5,True,binding/register prediction only; not experimental presentation evidence,EBV_MS_TCELL_V2_80_2026-08-22,5.0,VHFISALHG,79.07,IEDB recommended_binding,predicted,raw_responses/ob1a12_enga_dr15_iedb.tsv,resolved_unique_fully_contained,1,DFARVHFISALHGSG

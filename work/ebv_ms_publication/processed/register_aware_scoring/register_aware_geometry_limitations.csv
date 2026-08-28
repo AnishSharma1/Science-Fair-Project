@@ -1,0 +1,2 @@
+geometry_context_status,geometry_primary_score_eligible,current_limitation,required_coordinate_inputs,recovery_condition
+whole_original_local_alignment_only,False,Precomputed RMSD spans the original local alignment; no per-residue model coordinates are available to recompute a same-register-only RMSD.,Original pMHC PDB files for both members of every scored pair.,"Recover original pMHC PDBs, HLA-fit with the prior procedure, and recompute RMSD using only retained same-register residue pairs."

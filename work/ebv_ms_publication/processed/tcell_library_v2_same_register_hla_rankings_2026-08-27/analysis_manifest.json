@@ -1,0 +1,56 @@
+{
+  "all_top_10_pairs_marked_computational": true,
+  "analysis_version": "EBV_MS_TCELL_V2_SAME_REGISTER_HLA_RANKINGS_2026-08-27",
+  "binding_percentile_used_in_ranking": false,
+  "claim_boundary": "Descriptive same-register pMHC sequence prioritization only; not evidence of presentation, TCR binding, activation, cross-reactivity, molecular mimicry, MS mechanism, probability, or false-discovery rate.",
+  "control_support_status": "supportive_provisional",
+  "cross_allele_consensus_used": false,
+  "definitive_status": "blocked_registry_size",
+  "definitive_validation_complete": false,
+  "deterministic_tie_break": "lexical_pair_id",
+  "discovery_unlock_allowed": false,
+  "exact_top_10_row_count": 40,
+  "exploratory_hla_specific_ranking_emitted": true,
+  "geometry_used_in_ranking": false,
+  "input_sha256": {
+    "discovery_pair_summary": "4cce7d45855c3315e86cca566c08c26989ab89bffe37af5621e66c5389af5717",
+    "frozen_v2_peptide_panel": "265832ac651874d9fcd2184b41c1906615953e6e4f2b48a8bd4c1b2a373128f2",
+    "held_out_control_method_ranks": "861dd2aaf81d7f3bcdc83e12a6ae6f020b569c45625cbdc0ed1cad48f1dfc72b"
+  },
+  "legacy_geometry_status_counts": {
+    "complete": 6360,
+    "missing_or_qc_excluded_model": 40
+  },
+  "minimum_systems_for_definitive_validation": 6,
+  "primary_metric_direction": "higher_is_better",
+  "rank_1_pair_by_hla": {
+    "HLA-DRB1*03:01": "HLA-DRB1*03:01|EBV_IEDB_73663fe4c7bb|SELF_IEDB_842d700c6a24",
+    "HLA-DRB1*08:01": "HLA-DRB1*08:01|EBV_IEDB_ce143ad82ead|SELF_CANON_ANO2_0079_0093",
+    "HLA-DRB1*13:03": "HLA-DRB1*13:03|EBV_IEDB_2fbac9820d7d|SELF_IEDB_18eebcfe8ed0",
+    "HLA-DRB1*15:01": "HLA-DRB1*15:01|EBV_IEDB_ce143ad82ead|SELF_CANON_ANO2_0079_0093"
+  },
+  "ranked_pair_count": 6400,
+  "ranked_pairs_by_hla": {
+    "HLA-DRB1*03:01": 1600,
+    "HLA-DRB1*08:01": 1600,
+    "HLA-DRB1*13:03": 1600,
+    "HLA-DRB1*15:01": 1600
+  },
+  "register_comparison": "direct_P1_to_P9",
+  "selected_exact_epitope_pair_count_by_hla": 2,
+  "selected_method_all_control_panels_capture_at_3": true,
+  "selected_method_system_capture_at_3_count": 3,
+  "selected_method_system_weighted_mrr": 1.0,
+  "selected_method_worst_system_rank": 1,
+  "selected_primary_method": "tcr_facing_blosum62",
+  "selection_scope": "held_out_control_systems_only_before_discovery_read",
+  "strict_independent_system_count": 3,
+  "tcr_facing_positions": [
+    "P2",
+    "P3",
+    "P5",
+    "P7",
+    "P8"
+  ],
+  "weights_frozen": false
+}

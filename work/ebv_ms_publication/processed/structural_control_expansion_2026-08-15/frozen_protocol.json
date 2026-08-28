@@ -1,0 +1,28 @@
+{
+  "protocol_frozen_before_structure_review": true,
+  "source_export": "/Users/anishsharma/Library/Mobile Documents/com~apple~CloudDocs/ebv_ms_publication/raw/tcell_human_drb1501.json",
+  "source_export_sha256": "22da65fd10f3d54691a9b95225b4ba84d610bfbcfbe80e3b8b99664fcd1e731a",
+  "source_row_count_expected": 1139,
+  "allele": "HLA-DRB1*15:01",
+  "binding_predictor": "NetMHCIIpan 4.1 BA (IEDB recommended binding predictor-2023.09)",
+  "binding_prediction_endpoint": "https://api-nextgen-tools.iedb.org/api/v1/pipeline",
+  "target_strata_aa": [
+    21,
+    23,
+    25,
+    32
+  ],
+  "controls_per_stratum_target": 5,
+  "original_exclusion_rule": "exclude exact study peptides plus MBP, PLP, and MOG; other CNS proteins remain eligible",
+  "primary_rule": "target length +/-1 aa and weak predicted binding bin",
+  "binding_sensitivity_rule": "intermediate bin within target length +/-1; separate from primary",
+  "long_peptide_rule": "32-aa primary remains not assessable; 25-30 aa controls form separate +/-7 length sensitivity",
+  "tie_break_order": [
+    "absolute_length_distance",
+    "peptide_length",
+    "numeric_iedb_epitope_id"
+  ],
+  "post_hoc_relaxation": "forbidden",
+  "p_values": "not calculated",
+  "claim_boundary": "Computational pMHC structural context only; no TCR or mechanistic inference."
+}

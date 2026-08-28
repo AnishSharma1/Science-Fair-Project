@@ -1,0 +1,10 @@
+{
+  "admitted_n1_count": 0,
+  "admitted_n2_count": 0,
+  "admitted_negative_count": 0,
+  "claim_boundary": "Descriptive computational pMHC prioritization only; not evidence of presentation, TCR binding, activation, cross-reactivity, molecular mimicry, MS mechanism, probability, or false-discovery rate.",
+  "excluded_n3_count": 0,
+  "ranking_gate_independent": true,
+  "specificity_claim_allowed": false,
+  "specificity_status": "not_evaluable_no_verified_negatives"
+}

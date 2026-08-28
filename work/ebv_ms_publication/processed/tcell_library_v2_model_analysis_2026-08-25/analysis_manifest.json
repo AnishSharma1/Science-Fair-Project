@@ -1,0 +1,39 @@
+{
+  "analysis_version": "EBV_MS_TCELL_V2_MODEL_ANALYSIS_2026-08-25",
+  "calibration_comparison_rows": 72,
+  "calibration_comparisons_geometry_complete": 61,
+  "calibration_jobs_complete": 22,
+  "calibration_jobs_expected": 24,
+  "calibration_jobs_geometry_evaluable": 22,
+  "claim_boundary": "Computational pMHC geometry only; not evidence of presentation, TCR binding, activation, cross-reactivity, molecular mimicry, or MS disease mechanism.",
+  "cross_allele_rows": 1600,
+  "discovery_jobs_complete": 319,
+  "discovery_jobs_expected": 320,
+  "discovery_jobs_geometry_evaluable": 319,
+  "discovery_pair_rows": 6400,
+  "discovery_pairs_geometry_complete": 6360,
+  "divergent_unplanned_repeat_jobs": 18,
+  "divergent_unplanned_repeat_occurrences": 35,
+  "download_roots": [
+    "/Users/anishsharma/Downloads",
+    "/Users/anishsharma/Library/Mobile Documents/com~apple~CloudDocs/Downloads"
+  ],
+  "duplicate_calibration_pair_sensitivity_rows": 5,
+  "duplicate_discovery_pair_sensitivity_rows": 1359,
+  "generated_utc": "2026-08-25T23:41:19.430336+00:00",
+  "gold_standard_capture_at_1_available_seed_fraction": 1.0,
+  "gold_standard_formal_evaluable_seed_count": 1,
+  "gold_standard_formal_seed_pass_count": 1,
+  "gold_standard_independent_system_count": 1,
+  "input_manifest_sha256": {
+    "allele_register_predictions_320.csv": "b459eaf498bb6b89e2d0d8804542d1f2f80015abc9d772dedbf2feedc08dc1be",
+    "calibration_comparison_universe_72.csv": "f3ca7f23a599a656ef93eaaa4f0ebbdc6a9826d188e6f1f853d86189d0b32bb4",
+    "frozen_v2_80_peptide_panel.csv": "265832ac651874d9fcd2184b41c1906615953e6e4f2b48a8bd4c1b2a373128f2",
+    "model_inventory_320.csv": "db20bb26a831bf3a4083a2fcfe6403348641128ae3d90b67c34f9be5b31d6826",
+    "native_hla_calibration_manifest_24.csv": "00a177940982ef28832ff83bf13a1c851605cbb735cc6dabd1eeb72cf97f5dab",
+    "within_allele_pair_universe_6400.csv": "bd9495234e6d6885b55723b57b7a0271aa933d6d44a3b89171f26736a848dd77"
+  },
+  "model_sample_qc_rows": 1705,
+  "positive_recovery_status": "not_evaluable_incomplete_calibration",
+  "primary_endpoint": "median exposed-position P2/P3/P5/P7/P8 C-alpha RMSD after HLA-groove fit"
+}

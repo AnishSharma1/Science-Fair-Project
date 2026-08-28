@@ -1,0 +1,9 @@
+ablation_removes_improvement,credited_improvement,full_composite_rank,full_structural_weight,held_out_system_id,panel_seed,positive_pair_id,selected_nonstructural_baseline,selected_nonstructural_rank,structural_ablation_rank,system_id
+True,False,1,0.0,SYS_BALF5_MBP_HY2E11,271828,PAIR_HY2E11_BALF5_MBP,tcr_facing_blosum62,1,1,SYS_BALF5_MBP_HY2E11
+True,False,1,0.0,SYS_BALF5_MBP_HY2E11,314159,PAIR_HY2E11_BALF5_MBP,tcr_facing_blosum62,1,1,SYS_BALF5_MBP_HY2E11
+True,False,2,0.0,SYS_ENGA_MBP_OB1A12,271828,PAIR_OB1A12_ENGA_MBP,physicochemical_only,2,2,SYS_ENGA_MBP_OB1A12
+True,False,2,0.0,SYS_ENGA_MBP_OB1A12,314159,PAIR_OB1A12_ENGA_MBP,physicochemical_only,2,2,SYS_ENGA_MBP_OB1A12
+True,False,13,1.0,SYS_MICROBIAL_MBP_HY1B11,271828,PAIR_HY1B11_PMM_MBP,tcr_facing_blosum62,1,1,SYS_MICROBIAL_MBP_HY1B11
+True,False,13,1.0,SYS_MICROBIAL_MBP_HY1B11,314159,PAIR_HY1B11_PMM_MBP,tcr_facing_blosum62,1,1,SYS_MICROBIAL_MBP_HY1B11
+True,False,17,1.0,SYS_MICROBIAL_MBP_HY1B11,271828,PAIR_HY1B11_UL15_MBP,tcr_facing_blosum62,1,1,SYS_MICROBIAL_MBP_HY1B11
+True,False,6,1.0,SYS_MICROBIAL_MBP_HY1B11,314159,PAIR_HY1B11_UL15_MBP,tcr_facing_blosum62,1,1,SYS_MICROBIAL_MBP_HY1B11

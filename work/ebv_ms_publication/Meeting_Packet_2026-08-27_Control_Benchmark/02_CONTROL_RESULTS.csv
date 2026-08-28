@@ -1,0 +1,13 @@
+system,pair,layer,seed,evaluation_status,available_exposed_ca_rank,held_out_composite_rank,comparison_count,control_capture_at_3,blocker
+Hy.2E11,BALF5-MBP,PDB oracle,pdb,complete,3,1,8,true,
+Hy.2E11,BALF5-MBP,AlphaFold,104729,missing_required_comparisons,1,,17,,two frozen jobs remain missing
+Hy.2E11,BALF5-MBP,AlphaFold,104759,complete,1,1,26,true,
+Ob.1A12,EngA-MBP,PDB oracle,pdb,complete,1,2,6,true,
+Ob.1A12,EngA-MBP,AlphaFold,104729,missing_required_comparisons,2,,21,,one reused frozen self comparator is missing
+Ob.1A12,EngA-MBP,AlphaFold,104759,complete,4,2,26,true,
+Hy.1B11,PMM-MBP,PDB oracle,pdb,not_evaluable_insufficient_exact_hla_decoys,3,,3,,only two exact-HLA decoys
+Hy.1B11,PMM-MBP,AlphaFold,104729,complete,9,3,26,true,
+Hy.1B11,PMM-MBP,AlphaFold,104759,complete,8,3,26,true,
+Hy.1B11,UL15-MBP,PDB oracle,pdb,not_evaluable_insufficient_exact_hla_decoys,1,,3,,only two exact-HLA decoys
+Hy.1B11,UL15-MBP,AlphaFold,104729,complete,4,1,26,true,
+Hy.1B11,UL15-MBP,AlphaFold,104759,complete,8,1,26,true,

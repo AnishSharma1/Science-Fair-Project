@@ -1,0 +1,4 @@
+identifier,source_type,url,role
+PMID:12244309 / DOI:10.1038/ni835,primary_cross_reactivity_and_structure_paper,https://doi.org/10.1038/ni835,same human TCR recognizes DRB5-BALF5 and DRB1-MBP
+PDB:1H15,experimental_structure,https://www.rcsb.org/structure/1H15,DRB5*01:01-BALF5 positive-control arm
+PDB:1BX2,experimental_structure,https://www.rcsb.org/structure/1BX2,DRB1*15:01-MBP positive-control arm

@@ -1,0 +1,2 @@
+biological_system_id,claim_boundary,controls_frozen,full_decoy_combinations,recovery_status,required_rule,single_arm_sensitivity_combinations
+SYS_BALF5_MBP_HY2E11,"Computational pMHC geometry only; not evidence of presentation, TCR binding, activation, cross-reactivity, molecular mimicry, or MS disease mechanism.",True,25,not_evaluable_models_not_yet_run,top 3 of 26 on both seeds and below equal-weight control median,10

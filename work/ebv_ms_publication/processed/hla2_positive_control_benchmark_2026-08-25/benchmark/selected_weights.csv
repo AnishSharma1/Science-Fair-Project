@@ -1,0 +1,2 @@
+anchor_ca_rmsd_A,discovery_application_allowed,endpoint_role,exposed_ca_rmsd_A,exposed_sidechain_vector_rmsd_A,selection_status,tcr_face_physicochemical_mismatch
+0.0,False,frozen_baseline_only,1.0,0.0,not_frozen_trust_gate_not_evaluable,0.0

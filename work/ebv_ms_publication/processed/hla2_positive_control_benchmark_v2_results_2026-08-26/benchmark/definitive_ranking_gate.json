@@ -1,0 +1,15 @@
+{
+  "benchmark_version": "EBV_MS_HLA2_BENCHMARK_V2_DEFINITIVE",
+  "claim_boundary": "Descriptive computational pMHC prioritization only; not evidence of presentation, TCR binding, activation, cross-reactivity, molecular mimicry, MS mechanism, probability, or false-discovery rate.",
+  "cross_allele_consensus_allowed": false,
+  "definitive_status": "blocked_registry_size",
+  "discovery_unlock_allowed": false,
+  "hla_families": [
+    "DQ",
+    "DR"
+  ],
+  "minimum_independent_systems": 6,
+  "strict_independent_system_count": 3,
+  "target_independent_systems": 8,
+  "weights_frozen": false
+}

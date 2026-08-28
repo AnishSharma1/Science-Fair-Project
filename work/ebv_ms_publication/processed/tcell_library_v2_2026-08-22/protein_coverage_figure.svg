@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="834" viewBox="0 0 900 834">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,sans-serif;fill:#17233b}.title{font-size:22px;font-weight:700}.label{font-size:13px}.count{font-size:12px;fill:#4a5568}</style>
+<text x="30" y="34" class="title">Frozen V2 protein coverage (40 EBV + 40 self)</text>
+<text x="30" y="81" class="label">EBV: BALF2</text>
+<rect x="270" y="68" width="220" height="16" rx="3" fill="#5B5BD6"/>
+<text x="502" y="81" class="count">2</text>
+<text x="30" y="105" class="label">EBV: BALF4_gB</text>
+<rect x="270" y="92" width="330" height="16" rx="3" fill="#5B5BD6"/>
+<text x="612" y="105" class="count">3</text>
+<text x="30" y="129" class="label">EBV: BALF5</text>
+<rect x="270" y="116" width="110" height="16" rx="3" fill="#5B5BD6"/>
+<text x="392" y="129" class="count">1</text>
+<text x="30" y="153" class="label">EBV: BARF1</text>
+<rect x="270" y="140" width="330" height="16" rx="3" fill="#5B5BD6"/>
+<text x="612" y="153" class="count">3</text>
+<text x="30" y="177" class="label">EBV: BFRF1</text>
+<rect x="270" y="164" width="110" height="16" rx="3" fill="#5B5BD6"/>
+<text x="392" y="177" class="count">1</text>
+<text x="30" y="201" class="label">EBV: BFRF3</text>
+<rect x="270" y="188" width="110" height="16" rx="3" fill="#5B5BD6"/>
+<text x="392" y="201" class="count">1</text>
+<text x="30" y="225" class="label">EBV: BHRF1</text>
+<rect x="270" y="212" width="330" height="16" rx="3" fill="#5B5BD6"/>
+<text x="612" y="225" class="count">3</text>
+<text x="30" y="249" class="label">EBV: BLLF1_gp350</text>
+<rect x="270" y="236" width="110" height="16" rx="3" fill="#5B5BD6"/>
+<text x="392" y="249" class="count">1</text>
+<text x="30" y="273" class="label">EBV: BMRF1</text>
+<rect x="270" y="260" width="110" height="16" rx="3" fill="#5B5BD6"/>
+<text x="392" y="273" class="count">1</text>
+<text x="30" y="297" class="label">EBV: BNRF1</text>
+<rect x="270" y="284" width="330" height="16" rx="3" fill="#5B5BD6"/>
+<text x="612" y="297" class="count">3</text>
+<text x="30" y="321" class="label">EBV: BXLF2_gH</text>
+<rect x="270" y="308" width="220" height="16" rx="3" fill="#5B5BD6"/>
+<text x="502" y="321" class="count">2</text>
+<text x="30" y="345" class="label">EBV: BZLF1</text>
+<rect x="270" y="332" width="220" height="16" rx="3" fill="#5B5BD6"/>
+<text x="502" y="345" class="count">2</text>
+<text x="30" y="369" class="label">EBV: BaRF1</text>
+<rect x="270" y="356" width="110" height="16" rx="3" fill="#5B5BD6"/>
+<text x="392" y="369" class="count">1</text>
+<text x="30" y="393" class="label">EBV: EBNA-LP</text>
+<rect x="270" y="380" width="110" height="16" rx="3" fill="#5B5BD6"/>
+<text x="392" y="393" class="count">1</text>
+<text x="30" y="417" class="label">EBV: EBNA1</text>
+<rect x="270" y="404" width="330" height="16" rx="3" fill="#5B5BD6"/>
+<text x="612" y="417" class="count">3</text>
+<text x="30" y="441" class="label">EBV: EBNA2</text>
+<rect x="270" y="428" width="330" height="16" rx="3" fill="#5B5BD6"/>
+<text x="612" y="441" class="count">3</text>
+<text x="30" y="465" class="label">EBV: EBNA3B</text>
+<rect x="270" y="452" width="110" height="16" rx="3" fill="#5B5BD6"/>
+<text x="392" y="465" class="count">1</text>
+<text x="30" y="489" class="label">EBV: EBNA3C</text>
+<rect x="270" y="476" width="330" height="16" rx="3" fill="#5B5BD6"/>
+<text x="612" y="489" class="count">3</text>
+<text x="30" y="513" class="label">EBV: LMP1</text>
+<rect x="270" y="500" width="220" height="16" rx="3" fill="#5B5BD6"/>
+<text x="502" y="513" class="count">2</text>
+<text x="30" y="537" class="label">EBV: LMP2</text>
+<rect x="270" y="524" width="330" height="16" rx="3" fill="#5B5BD6"/>
+<text x="612" y="537" class="count">3</text>
+<text x="30" y="561" class="label">Self: ANO2</text>
+<rect x="270" y="548" width="440" height="16" rx="3" fill="#0F9D8A"/>
+<text x="722" y="561" class="count">4</text>
+<text x="30" y="585" class="label">Self: CLDN11</text>
+<rect x="270" y="572" width="440" height="16" rx="3" fill="#0F9D8A"/>
+<text x="722" y="585" class="count">4</text>
+<text x="30" y="609" class="label">Self: CNP</text>
+<rect x="270" y="596" width="440" height="16" rx="3" fill="#0F9D8A"/>
+<text x="722" y="609" class="count">4</text>
+<text x="30" y="633" class="label">Self: CNTN2</text>
+<rect x="270" y="620" width="330" height="16" rx="3" fill="#0F9D8A"/>
+<text x="612" y="633" class="count">3</text>
+<text x="30" y="657" class="label">Self: CRYAB</text>
+<rect x="270" y="644" width="440" height="16" rx="3" fill="#0F9D8A"/>
+<text x="722" y="657" class="count">4</text>
+<text x="30" y="681" class="label">Self: MAG</text>
+<rect x="270" y="668" width="440" height="16" rx="3" fill="#0F9D8A"/>
+<text x="722" y="681" class="count">4</text>
+<text x="30" y="705" class="label">Self: MBP</text>
+<rect x="270" y="692" width="440" height="16" rx="3" fill="#0F9D8A"/>
+<text x="722" y="705" class="count">4</text>
+<text x="30" y="729" class="label">Self: MOBP</text>
+<rect x="270" y="716" width="110" height="16" rx="3" fill="#0F9D8A"/>
+<text x="392" y="729" class="count">1</text>
+<text x="30" y="753" class="label">Self: MOG</text>
+<rect x="270" y="740" width="440" height="16" rx="3" fill="#0F9D8A"/>
+<text x="722" y="753" class="count">4</text>
+<text x="30" y="777" class="label">Self: PLP1</text>
+<rect x="270" y="764" width="440" height="16" rx="3" fill="#0F9D8A"/>
+<text x="722" y="777" class="count">4</text>
+<text x="30" y="801" class="label">Self: TALDO1</text>
+<rect x="270" y="788" width="440" height="16" rx="3" fill="#0F9D8A"/>
+<text x="722" y="801" class="count">4</text>
+</svg>

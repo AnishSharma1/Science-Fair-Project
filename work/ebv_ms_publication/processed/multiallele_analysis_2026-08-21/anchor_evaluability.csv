@@ -1,0 +1,4 @@
+allele,anchor_ebv_register_status,anchor_mbp_register_status,anchor_primary_endpoint_status,frozen_control_count,non_evaluable_reason,claim_boundary
+HLA-DRB1*13:03,resolved_unique_fully_contained,resolved_unique_fully_contained,evaluable,3,,"Computational pMHC geometry only; not evidence of presentation, TCR binding, activation, cross-reactivity, molecular mimicry, or MS mechanism."
+HLA-DRB1*03:01,resolved_unique_fully_contained,resolved_unique_fully_contained,evaluable,3,,"Computational pMHC geometry only; not evidence of presentation, TCR binding, activation, cross-reactivity, molecular mimicry, or MS mechanism."
+HLA-DRB1*08:01,resolved_unique_fully_contained,resolved_unique_fully_contained,evaluable,3,,"Computational pMHC geometry only; not evidence of presentation, TCR binding, activation, cross-reactivity, molecular mimicry, or MS mechanism."

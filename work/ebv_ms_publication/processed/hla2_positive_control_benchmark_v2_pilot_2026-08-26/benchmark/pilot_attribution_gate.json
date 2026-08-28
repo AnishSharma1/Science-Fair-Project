@@ -1,0 +1,14 @@
+{
+  "benchmark_version": "EBV_MS_HLA2_BENCHMARK_V2_PILOT",
+  "blocking_reason": "missing_or_incomplete_required_system",
+  "claim_boundary": "Descriptive computational pMHC prioritization only; not evidence of presentation, TCR binding, activation, cross-reactivity, molecular mimicry, MS mechanism, probability, or false-discovery rate.",
+  "cross_allele_consensus_allowed": false,
+  "discovery_unlock_allowed": false,
+  "pilot_attribution_status": "not_evaluable",
+  "required_system_ids": [
+    "SYS_BALF5_MBP_HY2E11",
+    "SYS_ENGA_MBP_OB1A12",
+    "SYS_MICROBIAL_MBP_HY1B11"
+  ],
+  "weights_frozen": false
+}

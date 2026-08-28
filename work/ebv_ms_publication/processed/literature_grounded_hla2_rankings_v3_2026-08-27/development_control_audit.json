@@ -1,0 +1,63 @@
+{
+  "benchmark_version": "literature_grounded_hla2_ranking_v3_development_audit",
+  "claim_boundary": "Descriptive HLA-specific pMHC sequence prioritization with modeled local-surface annotations only; not evidence of presentation, TCR binding, activation, cross-reactivity, molecular mimicry, MS mechanism, probability, or false-discovery rate.",
+  "development_panel_count": 8,
+  "development_system_count": 3,
+  "discovery_unlock_allowed": false,
+  "independent_system_count": 0,
+  "status": "development_controls_only_not_independent_validation",
+  "surface_proxy_limitation": "Existing control matrix lacks V3 solvent-accessibility fingerprints; the V3 primary sequence keys are exact, while the final tie-break uses the available exposed-CA and side-chain-vector q75 proxy.",
+  "v3_development_capture_at_3_count": 8,
+  "v3_development_panel_ranks": [
+    {
+      "panel_seed": "271828",
+      "positive_pair_id": "PAIR_HY2E11_BALF5_MBP",
+      "rank": 1,
+      "system_id": "SYS_BALF5_MBP_HY2E11"
+    },
+    {
+      "panel_seed": "314159",
+      "positive_pair_id": "PAIR_HY2E11_BALF5_MBP",
+      "rank": 1,
+      "system_id": "SYS_BALF5_MBP_HY2E11"
+    },
+    {
+      "panel_seed": "271828",
+      "positive_pair_id": "PAIR_OB1A12_ENGA_MBP",
+      "rank": 1,
+      "system_id": "SYS_ENGA_MBP_OB1A12"
+    },
+    {
+      "panel_seed": "314159",
+      "positive_pair_id": "PAIR_OB1A12_ENGA_MBP",
+      "rank": 1,
+      "system_id": "SYS_ENGA_MBP_OB1A12"
+    },
+    {
+      "panel_seed": "271828",
+      "positive_pair_id": "PAIR_HY1B11_PMM_MBP",
+      "rank": 1,
+      "system_id": "SYS_MICROBIAL_MBP_HY1B11"
+    },
+    {
+      "panel_seed": "314159",
+      "positive_pair_id": "PAIR_HY1B11_PMM_MBP",
+      "rank": 1,
+      "system_id": "SYS_MICROBIAL_MBP_HY1B11"
+    },
+    {
+      "panel_seed": "271828",
+      "positive_pair_id": "PAIR_HY1B11_UL15_MBP",
+      "rank": 1,
+      "system_id": "SYS_MICROBIAL_MBP_HY1B11"
+    },
+    {
+      "panel_seed": "314159",
+      "positive_pair_id": "PAIR_HY1B11_UL15_MBP",
+      "rank": 1,
+      "system_id": "SYS_MICROBIAL_MBP_HY1B11"
+    }
+  ],
+  "v3_development_rank_1_count": 8,
+  "weights_frozen": false
+}

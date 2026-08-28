@@ -1,0 +1,23 @@
+{
+  "calibration_jobs": 24,
+  "calibration_seeds": [
+    104729,
+    104759
+  ],
+  "claim_boundary": "Computational pMHC geometry only; not evidence of presentation, TCR binding, activation, cross-reactivity, molecular mimicry, or MS disease mechanism.",
+  "external_state": "AlphaFold jobs prepared but not submitted; recovery remains non-evaluable until downloads exist",
+  "library_version": "EBV_MS_TCELL_LIBRARY_2026-08-22",
+  "master_epitopes": 237,
+  "panel_ebv": 40,
+  "panel_ebv_proteins": 20,
+  "panel_self": 40,
+  "panel_self_proteins": 11,
+  "panel_version": "EBV_MS_TCELL_V2_80_2026-08-22",
+  "pending_sample_qc_rows": 1600,
+  "prediction_records": 320,
+  "prepared_model_jobs": 320,
+  "registry_systems": 7,
+  "search_frozen_through": "2026-08-22",
+  "strict_e1_systems": 1,
+  "within_allele_pairs": 6400
+}

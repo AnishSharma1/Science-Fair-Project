@@ -1,0 +1,16 @@
+{
+  "allele": "HLA-DRB1*15:01",
+  "binding_percentile_used": false,
+  "claim_boundary": "Descriptive same-register pMHC sequence prioritization only; not evidence of presentation, TCR binding, activation, cross-reactivity, molecular mimicry, MS mechanism, probability, or false-discovery rate.",
+  "combination_rule": "rescore_all_eligible_pairs_once_then_rank_one_deduplicated_universe",
+  "control_panel_capture": "8_of_8_rank_1",
+  "control_system_count": 3,
+  "geometry_used": false,
+  "method_selection": "held_out_positive_control_systems_only",
+  "metric_direction": "higher_is_better",
+  "original_rank_numbers_combined": false,
+  "primary_method": "tcr_facing_blosum62",
+  "primary_metric": "normalized BLOSUM62 similarity at P2/P3/P5/P7/P8",
+  "tie_rule": "shared_score_rank_and_lexical_pair_id_display_order",
+  "universe_limitation": "legacy_and_v2_candidate_selection_rules_differ;combined_percentiles_describe_this_expanded_frozen_library_not_a_uniform_biological_background"
+}

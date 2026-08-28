@@ -1,0 +1,21 @@
+{
+  "alphafold_batch_sizes": [
+    30,
+    18
+  ],
+  "alphafold_state": "prepared_not_submitted",
+  "benchmark_version": "EBV_MS_HLA2_HELD_OUT_CONTROLS_V1",
+  "claim_boundary": "Computational pMHC geometry prioritization only; not evidence of presentation, TCR binding, activation, cross-reactivity, molecular mimicry, or MS mechanism.",
+  "cross_allele_consensus_generated": false,
+  "discovery_rankings_modified": false,
+  "new_alphafold_job_count": 48,
+  "new_comparator_pair_count": 3,
+  "new_comparator_row_count": 30,
+  "new_unique_comparator_count": 20,
+  "overall_trust_status": "not_evaluable",
+  "pdb_oracle_evaluable_positive_pair_count": 2,
+  "pdb_oracle_structural_ligand_count": 10,
+  "strict_independent_system_count": 3,
+  "strict_positive_pair_count": 4,
+  "tcr3d_human_hla2_multiligand_group_count": 10
+}

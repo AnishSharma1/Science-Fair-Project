@@ -1,0 +1,118 @@
+{
+  "alphafold_job_validation": {
+    "batch_sizes": [
+      30,
+      18
+    ],
+    "chain_order": [
+      "mhc_alpha",
+      "mhc_beta",
+      "peptide"
+    ],
+    "job_count": 48,
+    "jobs_sha256": "c3c16cceb4e597600ad86b06a033d8f388eaa1bdb52f88fbd6e83a37c3330d93",
+    "manifest_row_count": 48,
+    "submission_state": "prepared_not_submitted",
+    "unique_job_name_count": 48
+  },
+  "claim_boundary": "Computational pMHC geometry prioritization only; not evidence of presentation, TCR binding, activation, cross-reactivity, molecular mimicry, or MS mechanism.",
+  "comparator_registry_validation": {
+    "comparator_row_count": 30,
+    "comparison_pair_count": 3,
+    "unique_comparator_count": 20
+  },
+  "control_registry_validation": {
+    "positive_pairs_by_system": {
+      "SYS_BALF5_MBP_HY2E11": 1,
+      "SYS_ENGA_MBP_OB1A12": 1,
+      "SYS_MICROBIAL_MBP_HY1B11": 2
+    },
+    "prospective_system_ids": [
+      "PROSPECTIVE_EBNA1_ANO2_2026"
+    ],
+    "strict_independent_system_count": 3,
+    "strict_positive_pair_count": 4,
+    "strict_system_ids": [
+      "SYS_BALF5_MBP_HY2E11",
+      "SYS_ENGA_MBP_OB1A12",
+      "SYS_MICROBIAL_MBP_HY1B11"
+    ]
+  },
+  "cross_allele_consensus_generated": false,
+  "discovery_ranking_inputs_used": [],
+  "discovery_rankings_modified": false,
+  "n3_used_for_specificity_claims": false,
+  "new_panel_comparison_counts": {
+    "PAIR_HY1B11_PMM_MBP|s104729": 26,
+    "PAIR_HY1B11_PMM_MBP|s104759": 26,
+    "PAIR_HY1B11_UL15_MBP|s104729": 26,
+    "PAIR_HY1B11_UL15_MBP|s104759": 26,
+    "PAIR_OB1A12_ENGA_MBP|s104729": 26,
+    "PAIR_OB1A12_ENGA_MBP|s104759": 26
+  },
+  "original_missing_hy2_jobs": [
+    "ebvms_native_ebv_iedb_f5efcef02cf6_s104729",
+    "ebvms_native_human_background_2258538_s104729"
+  ],
+  "original_missing_hy2_jobs_retried": false,
+  "package_integrity_status": "pass",
+  "pdb_oracle_pair_summaries": [
+    {
+      "anchor_ca_rmsd_A": 0.669426925,
+      "available_positive_rank": 3,
+      "capture_at_3": true,
+      "comparison_count": 8,
+      "decoy_count": 7,
+      "evaluation_status": "complete",
+      "exposed_ca_rmsd_A": 0.908291505,
+      "exposed_sidechain_vector_rmsd_A": 1.623921481,
+      "positive_pair_id": "PAIR_HY2E11_BALF5_MBP",
+      "positive_rank": 3,
+      "system_id": "SYS_BALF5_MBP_HY2E11",
+      "tcr_face_physicochemical_mismatch": 0.114222222
+    },
+    {
+      "anchor_ca_rmsd_A": 0.44613924,
+      "available_positive_rank": 1,
+      "capture_at_3": true,
+      "comparison_count": 6,
+      "decoy_count": 5,
+      "evaluation_status": "complete",
+      "exposed_ca_rmsd_A": 0.425713574,
+      "exposed_sidechain_vector_rmsd_A": 1.53374667,
+      "positive_pair_id": "PAIR_OB1A12_ENGA_MBP",
+      "positive_rank": 1,
+      "system_id": "SYS_ENGA_MBP_OB1A12",
+      "tcr_face_physicochemical_mismatch": 0.189777778
+    },
+    {
+      "anchor_ca_rmsd_A": 0.609953078,
+      "available_positive_rank": 1,
+      "capture_at_3": "",
+      "comparison_count": 3,
+      "decoy_count": 2,
+      "evaluation_status": "not_evaluable_insufficient_exact_hla_decoys",
+      "exposed_ca_rmsd_A": 0.312901378,
+      "exposed_sidechain_vector_rmsd_A": 0.967094886,
+      "positive_pair_id": "PAIR_HY1B11_UL15_MBP",
+      "positive_rank": "",
+      "system_id": "SYS_MICROBIAL_MBP_HY1B11",
+      "tcr_face_physicochemical_mismatch": 0.060888889
+    },
+    {
+      "anchor_ca_rmsd_A": 0.641510038,
+      "available_positive_rank": 3,
+      "capture_at_3": "",
+      "comparison_count": 3,
+      "decoy_count": 2,
+      "evaluation_status": "not_evaluable_insufficient_exact_hla_decoys",
+      "exposed_ca_rmsd_A": 0.429810765,
+      "exposed_sidechain_vector_rmsd_A": 0.405494374,
+      "positive_pair_id": "PAIR_HY1B11_PMM_MBP",
+      "positive_rank": "",
+      "system_id": "SYS_MICROBIAL_MBP_HY1B11",
+      "tcr_face_physicochemical_mismatch": 0.112444444
+    }
+  ],
+  "scientific_trust_gate_status": "not_evaluable"
+}

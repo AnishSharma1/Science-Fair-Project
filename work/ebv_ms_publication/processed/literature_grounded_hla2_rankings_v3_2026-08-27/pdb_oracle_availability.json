@@ -1,0 +1,7 @@
+{
+  "availability_is_not_a_pass": true,
+  "hy1b11_status": "not_evaluable_availability",
+  "pdb_5jn5_identity": "human phosphoglucomutase-1 D263Y",
+  "pdb_5jn6_identity": "RPA3313 solution NMR structure",
+  "reason": "Fewer than five frozen unique exact-HLA experimental structural decoys; proposed 5JN5 and 5JN6 are unrelated structures."
+}

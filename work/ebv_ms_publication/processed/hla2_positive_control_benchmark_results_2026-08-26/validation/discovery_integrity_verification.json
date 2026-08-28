@@ -1,0 +1,12 @@
+{
+  "all_frozen_discovery_checksums_match": true,
+  "checked_file_count": 4,
+  "checked_files": [
+    "discovery/cross_allele_consensus_1600.csv",
+    "discovery/pair_model_ensemble.csv",
+    "discovery/pair_summary_6400.csv",
+    "discovery/top_candidate_sets.csv"
+  ],
+  "discovery_files_modified": false,
+  "reference_checksum_manifest": "processed/tcell_library_v2_model_analysis_2026-08-25/SHA256SUMS.csv"
+}

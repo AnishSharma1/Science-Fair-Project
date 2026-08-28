@@ -1,0 +1,21 @@
+{
+  "claim_boundary": "Computational pMHC geometry prioritization only; not evidence of presentation, TCR binding, activation, cross-reactivity, molecular mimicry, or MS mechanism.",
+  "cross_allele_consensus_created": false,
+  "discovery_files_read": false,
+  "discovery_files_written": false,
+  "evaluation_row_count": 12,
+  "frozen_missing_job_count": 2,
+  "frozen_missing_jobs_preserved": [
+    "ebvms_native_ebv_iedb_f5efcef02cf6_s104729",
+    "ebvms_native_human_background_2258538_s104729"
+  ],
+  "new_all_five_model_bundles": true,
+  "new_all_request_names_seeds_sequences_exact": true,
+  "new_complete_exact_job_count": 48,
+  "new_duplicate_job_count": 0,
+  "new_expected_job_count": 48,
+  "new_unexpected_job_count": 0,
+  "overall_trust_status": "not_evaluable",
+  "required_positive_pair_count": 4,
+  "strict_biological_system_count": 3
+}

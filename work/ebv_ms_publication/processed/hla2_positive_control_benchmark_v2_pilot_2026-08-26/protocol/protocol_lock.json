@@ -1,0 +1,83 @@
+{
+  "anchor_positions": [
+    "P1",
+    "P4",
+    "P6",
+    "P9"
+  ],
+  "batch_job_limit": 30,
+  "benchmark_stage": "three_system_attribution_pilot",
+  "benchmark_version": "EBV_MS_HLA2_BENCHMARK_V2_PILOT",
+  "binding_percentile_enters_composite": false,
+  "claim_boundary": "Descriptive computational pMHC prioritization only; not evidence of presentation, TCR binding, activation, cross-reactivity, molecular mimicry, MS mechanism, probability, or false-discovery rate.",
+  "comparator_sha256": "49aec074cf22ece75730992afff9cc3f2a68bca3e4a04a38a05d69387b785e1b",
+  "comparators_per_arm": 5,
+  "definitive_gate_logic": "minimum_6_strict_systems;target_8;minimum_2_hla2_families;all_panels_complete_and_capture_at_3;majority_better;none_worse;strictly_better_system_weighted_mrr",
+  "diagnostic_only_features": [
+    "binding_percentile_similarity",
+    "peptide_length_register_agreement"
+  ],
+  "discovery_files_accessible_during_calibration": false,
+  "full_composite_features": [
+    "exposed_ca_rmsd_A",
+    "exposed_sidechain_vector_rmsd_A",
+    "tcr_face_physicochemical_mismatch",
+    "anchor_ca_rmsd_A"
+  ],
+  "independent_system_count": 3,
+  "missing_results_rule": "not_evaluable_never_pass",
+  "nonstructural_baselines": [
+    "tcr_face_physicochemical_mismatch",
+    "tcr_facing_sequence_identity",
+    "full_core_sequence_identity",
+    "tcr_facing_blosum62_similarity",
+    "full_core_blosum62_similarity"
+  ],
+  "one_vote_per_system": true,
+  "oracle_pairings_sha256": "c8fb2d685d38101bc987aa16e7eff521bf5bd46ccbd0a93bccbe2fc08794ba96",
+  "pair_decoys_per_panel": 25,
+  "panel_seeds": [
+    271828,
+    314159
+  ],
+  "pdb_oracle_rule": "mandatory_only_if_five_exact_hla_decoys_frozen_before_scoring",
+  "pilot_can_freeze_weights": false,
+  "pilot_can_unlock_discovery": false,
+  "pilot_gate_logic": "all_panels_complete_and_capture_at_3;majority_systems_better_than_training_selected_nonstructural_baseline;none_worse;credited_improvements_require_structural_weight_at_least_0.25_and_are_removed_by_structural_ablation",
+  "positive_pair_ids": [
+    "PAIR_HY1B11_PMM_MBP",
+    "PAIR_HY1B11_UL15_MBP",
+    "PAIR_HY2E11_BALF5_MBP",
+    "PAIR_OB1A12_ENGA_MBP"
+  ],
+  "protocol_sha256": "1de124eaacbfecb2efac3063bc6f1b084493a427227a6d8e64c67e6501845fd5",
+  "random_ranking_rule": "deterministic_sha256_panel_identity_permutation",
+  "registry_sha256": "38df97fb95c968f66b4eccabffac6372e77ab0dce9bcda69d8fd6f344f3db019",
+  "reuses_v1_jobs": false,
+  "software_versions": {
+    "alphafold_server_json_schema": "dialect_alphafoldserver_version_1",
+    "geometry_module_sha256": "282aa18e877a836398485cfa69f84cd8aa20f8baa96c56e361fbc7e596cc6b1d",
+    "numpy": "2.0.2",
+    "python": "3.9.6",
+    "v2_contract_module_sha256": "0b48b729cb115f53fcd9de7ea97dfc49803e0be97d6448a1edf38253a84be7ac"
+  },
+  "status": "prepared_not_submitted",
+  "strict_system_ids": [
+    "SYS_BALF5_MBP_HY2E11",
+    "SYS_ENGA_MBP_OB1A12",
+    "SYS_MICROBIAL_MBP_HY1B11"
+  ],
+  "structural_features": [
+    "exposed_ca_rmsd_A",
+    "exposed_sidechain_vector_rmsd_A",
+    "anchor_ca_rmsd_A"
+  ],
+  "tcr_facing_positions": [
+    "P2",
+    "P3",
+    "P5",
+    "P7",
+    "P8"
+  ],
+  "tie_break": "lexical_pair_id_after_fixed_numeric_tolerance"
+}

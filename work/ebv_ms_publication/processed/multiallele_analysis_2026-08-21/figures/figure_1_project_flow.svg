@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,sans-serif;fill:#1f2933}.title{font-size:20px;font-weight:bold}.label{font-size:12px}.small{font-size:10px}</style>
+<text x="600" y="36" text-anchor="middle" class="title">Figure 1. Fixed multi-allele transfer workflow</text>
+<rect x="24" y="92" width="164" height="66" rx="9" fill="#e8f1fb" stroke="#2c5f8a"/>
+<text x="106" y="130" text-anchor="middle" class="label">DRB1*15:01 pilot</text>
+<path d="M 188 125 L 216 125" stroke="#555" stroke-width="2"/><path d="M 216 125 l -8 -5 v 10 z" fill="#555"/>
+<rect x="220" y="92" width="164" height="66" rx="9" fill="#e8f1fb" stroke="#2c5f8a"/>
+<text x="302" y="130" text-anchor="middle" class="label">Fixed 50-peptide panel</text>
+<path d="M 384 125 L 412 125" stroke="#555" stroke-width="2"/><path d="M 412 125 l -8 -5 v 10 z" fill="#555"/>
+<rect x="416" y="92" width="164" height="66" rx="9" fill="#e8f1fb" stroke="#2c5f8a"/>
+<text x="498" y="130" text-anchor="middle" class="label">Three new alleles</text>
+<path d="M 580 125 L 608 125" stroke="#555" stroke-width="2"/><path d="M 608 125 l -8 -5 v 10 z" fill="#555"/>
+<rect x="612" y="92" width="164" height="66" rx="9" fill="#e8f1fb" stroke="#2c5f8a"/>
+<text x="694" y="130" text-anchor="middle" class="label">IEDB registers</text>
+<path d="M 776 125 L 804 125" stroke="#555" stroke-width="2"/><path d="M 804 125 l -8 -5 v 10 z" fill="#555"/>
+<rect x="808" y="92" width="164" height="66" rx="9" fill="#e8f1fb" stroke="#2c5f8a"/>
+<text x="890" y="130" text-anchor="middle" class="label">Anchor + controls</text>
+<path d="M 972 125 L 1000 125" stroke="#555" stroke-width="2"/><path d="M 1000 125 l -8 -5 v 10 z" fill="#555"/>
+<rect x="1004" y="92" width="164" height="66" rx="9" fill="#e8f1fb" stroke="#2c5f8a"/>
+<text x="1086" y="130" text-anchor="middle" class="label">Within-allele analysis</text>
+</svg>

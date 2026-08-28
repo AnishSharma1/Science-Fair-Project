@@ -1,0 +1,5 @@
+candidate_id,analysis_role,presenting_allele,core_peptide,core_start_1_based,register_source,eligible_use,primary_analysis_eligible,claim_boundary
+HUMAN_MYELIN_13572,primary_experimental_reference,HLA-DRB1*15:01,VHFFKNIVT,5,PDB 1BX2,same_allele_register_reference,True,Same-allele pMHC register reference only; no TCR-contact or cross-reactivity claim.
+EBV_TCELL_63843,calibration_only_nonprimary_allele,HLA-DRB5*01:01,YHFVKKHVH,5,PDB 1H15,cross_allotype_calibration_only,False,DR15-haplotype cross-allotype calibration only; cannot enter a DRB1*15:01 same-allele benchmark.
+EBV_TCELL_2268683,sensitivity_only_unresolved,HLA-DRB1*15:01,,,Exact-register evidence audit 2026-08-11,sensitivity_appendix_only,False,Sensitivity-only computational hypothesis; do not treat predictor output as a biological register.
+HUMAN_MYELIN_115641,sensitivity_only_unresolved,HLA-DRB1*15:01,,,Exact-register evidence audit 2026-08-11,sensitivity_appendix_only,False,Sensitivity-only computational hypothesis; do not treat predictor output as a biological register.

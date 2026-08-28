@@ -1,0 +1,8 @@
+{
+  "all_complex_row_count": 395,
+  "grouping_rule": "exact paired CDR3 alpha and beta sequence; at least two distinct epitope strings",
+  "human_class_ii_multiligand_tcr_group_count": 10,
+  "snapshot_date": "2026-08-26",
+  "source_sha256": "e8001873b36810b9a418ec8d349fe275f30acde31b3017c20dd83df0c87f5126",
+  "source_url": "https://tcr3d.ibbr.umd.edu/static/download/tcr_complexes_data.tsv"
+}

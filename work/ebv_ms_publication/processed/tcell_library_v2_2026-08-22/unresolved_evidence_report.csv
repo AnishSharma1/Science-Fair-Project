@@ -1,0 +1,7 @@
+biological_system_id,evidence_tier,status,unresolved_fields
+SYS_EBNA1_ANO2_2026,E2_human_tcell_protein_or_region,partially_mapped,"exact viral/self peptide pair, register, and native-HLA pair"
+SYS_EBNA1_MOG_2024,E2_human_tcell_protein_or_region,covered_but_not_pmhc_evaluable,"exact peptide pair, registers, and HLA"
+SYS_EBNA1_MYELIN_POOL_2008,E3_supportive_tcell,partially_mapped,one exact dual-reactive peptide pair and native pMHC registers
+SYS_EBNA1_CRYAB_2023,E3_supportive_tcell,partially_mapped,strict exact human TCR/pMHC system
+SYS_GB_GH_DRB1501_2024,context_only,context_only_not_a_pair,no demonstrated self cross-reactive partner
+SYS_EBNA1_GLIALCAM_ANTIBODY,context_only,excluded_antibody_only,direct T-cell cross-reactivity absent

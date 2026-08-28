@@ -1,0 +1,59 @@
+{
+  "benchmark_version": "EBV_MS_HLA2_HELD_OUT_CONTROLS_V1",
+  "blocking_evaluations": [
+    {
+      "evaluation_status": "missing_required_comparisons",
+      "layer": "af3",
+      "pair_id": "PAIR_HY2E11_BALF5_MBP",
+      "panel_seed": 104729,
+      "system_id": "SYS_BALF5_MBP_HY2E11"
+    },
+    {
+      "evaluation_status": "missing_required_comparisons",
+      "layer": "af3",
+      "pair_id": "PAIR_OB1A12_ENGA_MBP",
+      "panel_seed": 104729,
+      "system_id": "SYS_ENGA_MBP_OB1A12"
+    },
+    {
+      "evaluation_status": "not_evaluable_insufficient_exact_hla_decoys",
+      "layer": "pdb_oracle",
+      "pair_id": "PAIR_HY1B11_PMM_MBP",
+      "panel_seed": "pdb",
+      "system_id": "SYS_MICROBIAL_MBP_HY1B11"
+    },
+    {
+      "evaluation_status": "not_evaluable_insufficient_exact_hla_decoys",
+      "layer": "pdb_oracle",
+      "pair_id": "PAIR_HY1B11_UL15_MBP",
+      "panel_seed": "pdb",
+      "system_id": "SYS_MICROBIAL_MBP_HY1B11"
+    }
+  ],
+  "claim_boundary": "Computational pMHC geometry prioritization only; not evidence of presentation, TCR binding, activation, cross-reactivity, molecular mimicry, or MS mechanism.",
+  "cross_allele_consensus_created": false,
+  "discovery_rankings_changed": false,
+  "discovery_reranking_allowed": false,
+  "failed_system_count": 0,
+  "incomplete_results_block_formal_pass": true,
+  "not_evaluable_system_count": 3,
+  "overall_trust_status": "not_evaluable",
+  "passed_system_count": 0,
+  "required_system_count": 3,
+  "selected_endpoint": "candidate_composite",
+  "system_statuses": [
+    {
+      "system_id": "SYS_BALF5_MBP_HY2E11",
+      "trust_status": "not_evaluable"
+    },
+    {
+      "system_id": "SYS_ENGA_MBP_OB1A12",
+      "trust_status": "not_evaluable"
+    },
+    {
+      "system_id": "SYS_MICROBIAL_MBP_HY1B11",
+      "trust_status": "not_evaluable"
+    }
+  ],
+  "weights_frozen": false
+}

@@ -1,0 +1,3 @@
+biological_system_id,seed,available_primary_count,expected_primary_count,available_rank,capture_at_1_available_set,capture_at_3_available_set,positive_exposed_ca_rmsd_median_A,available_equal_weight_control_median_A,positive_below_available_control_median,formal_seed_evaluable,formal_seed_pass,audit_status,used_for_score_tuning
+SYS_BALF5_MBP_HY2E11,104729,17,26,1,True,True,0.490404,5.042155,True,False,False,available_set_capture_formal_incomplete,False
+SYS_BALF5_MBP_HY2E11,104759,26,26,1,True,True,0.495705,6.581933,True,True,True,formal_pass,False

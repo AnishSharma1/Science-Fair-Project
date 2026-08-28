@@ -1,0 +1,14 @@
+identifier,role,source_id,url
+PMID:12244309,Hy.2E11 function and structural mimicry,HY2_PRIMARY,https://doi.org/10.1038/ni835
+PMID:19303388,Ob.1A12 EngA cross-recognition and structure,OB1_PRIMARY,https://doi.org/10.1016/j.immuni.2009.01.009
+DOI:10.1038/ncomms3623,"Hy.1B11 MBP, UL15, and PMM function and structures",HY1_PRIMARY,https://www.nature.com/articles/ncomms3623
+PMID:41534529,prospective EBNA1-ANO2 evidence,ANO2_PRIMARY,https://pubmed.ncbi.nlm.nih.gov/41534529/
+TCR3d 2.0,systematic human TCR-pMHC structure discovery,TCR3D,https://pmc.ncbi.nlm.nih.gov/articles/PMC11701517/
+NetTCR-2.2,leave-one-epitope-out leakage control,NETTCR_LOEO,https://pmc.ncbi.nlm.nih.gov/articles/PMC10942633/
+PDB:1H15,experimental positive-control structure,PDB_1H15,https://www.rcsb.org/structure/1H15
+PDB:1BX2,experimental positive-control structure,PDB_1BX2,https://www.rcsb.org/structure/1BX2
+PDB:2WBJ,experimental positive-control structure,PDB_2WBJ,https://www.rcsb.org/structure/2WBJ
+PDB:1YMM,experimental positive-control structure,PDB_1YMM,https://www.rcsb.org/structure/1YMM
+PDB:3PL6,experimental positive-control structure,PDB_3PL6,https://www.rcsb.org/structure/3PL6
+PDB:4MAY,experimental positive-control structure,PDB_4MAY,https://www.rcsb.org/structure/4MAY
+PDB:4GRL,experimental positive-control structure,PDB_4GRL,https://www.rcsb.org/structure/4GRL

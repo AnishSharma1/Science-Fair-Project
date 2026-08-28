@@ -1,0 +1,38 @@
+{
+  "analysis_version": "EBV_MS_MULTIFEATURE_CONCORDANCE_2026-08-27",
+  "anchor_positions": [
+    "P1",
+    "P4",
+    "P6",
+    "P9"
+  ],
+  "binding_percentile_used": false,
+  "claim_boundary": "Descriptive same-register pMHC sequence-structure concordance prioritization only; not evidence of presentation, TCR binding, activation, cross-reactivity, molecular mimicry, MS mechanism, probability, or false-discovery rate.",
+  "control_audit_role": "retrospective_exploratory_only",
+  "cross_allele_consensus_used": false,
+  "discovery_unlock_allowed": false,
+  "feature_directions": {
+    "exposed_ca_rmsd_A_median": "lower_is_better",
+    "full_core_ca_rmsd_A_median": "lower_is_better",
+    "tcr_face_physicochemical_mismatch": "lower_is_better",
+    "tcr_facing_blosum62_similarity": "higher_is_better",
+    "tcr_facing_sequence_identity": "higher_is_better"
+  },
+  "feature_normalization": "average_tie_rank_percentile_within_evaluable_universe",
+  "full_core_rmsd_definition": "P1-P9_peptide_CA_RMSD_after_HLA_groove_alignment",
+  "missing_structure_imputed": false,
+  "primary_objective": "minimize_max_sequence_family_and_structure_family_percentile",
+  "rank_scope": "within_each_HLA_or_declared_DRB1501_universe_only",
+  "secondary_objective": "minimize_equal_mean_of_sequence_and_structure_family_percentiles",
+  "sequence_family": "equal_mean_of_blosum62_physicochemical_and_identity_percentiles",
+  "structure_family": "equal_mean_of_exposed_register_and_full_core_rmsd_percentiles",
+  "tcr_facing_positions": [
+    "P2",
+    "P3",
+    "P5",
+    "P7",
+    "P8"
+  ],
+  "weights_frozen": false,
+  "whole_source_protein_rmsd_available": false
+}

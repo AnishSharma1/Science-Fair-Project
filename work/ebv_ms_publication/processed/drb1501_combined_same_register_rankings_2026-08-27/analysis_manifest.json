@@ -1,0 +1,28 @@
+{
+  "allele": "HLA-DRB1*15:01",
+  "analysis_version": "EBV_MS_DRB1501_COMBINED_SAME_REGISTER_RANKING_2026-08-27",
+  "claim_boundary": "Descriptive same-register pMHC sequence prioritization only; not evidence of presentation, TCR binding, activation, cross-reactivity, molecular mimicry, MS mechanism, probability, or false-discovery rate.",
+  "combined_unique_ranked_pair_count": 2043,
+  "combined_universe_is_heterogeneous": true,
+  "definitive_validation_complete": false,
+  "exact_duplicate_pair_count": 16,
+  "input_sha256": {
+    "held_out_control_method_ranks": "861dd2aaf81d7f3bcdc83e12a6ae6f020b569c45625cbdc0ed1cad48f1dfc72b",
+    "legacy_protein_coordinate_annotations": "7a3d901371cdd275e7a965adc906fac1b4a01fa22fc135dc9cf2337f69259dfb",
+    "legacy_register_aware_pairs": "bf451e8e04012598734321683f4f836d8bd372bff992ee42ef1c9fbbaef4505b",
+    "v2_candidate_registry": "265832ac651874d9fcd2184b41c1906615953e6e4f2b48a8bd4c1b2a373128f2",
+    "v2_drb1501_ranked_pairs": "c2aa20de77b398f81fdfd3209601d335ebfb32985a8cfbda51ada59b5618647d"
+  },
+  "legacy_eligible_pair_count": 459,
+  "legacy_excluded_pair_count": 177,
+  "legacy_input_pair_count": 636,
+  "rank_1_pair_id": "HLA-DRB1*15:01|EBV_IEDB_ce143ad82ead|SELF_CANON_ANO2_0079_0093",
+  "ranking_status": "provisional_three_system_control_supported",
+  "selected_primary_method": "tcr_facing_blosum62",
+  "source_membership_counts": {
+    "legacy_only": 443,
+    "v2_and_legacy_exact_duplicate": 16,
+    "v2_only": 1584
+  },
+  "v2_input_pair_count": 1600
+}

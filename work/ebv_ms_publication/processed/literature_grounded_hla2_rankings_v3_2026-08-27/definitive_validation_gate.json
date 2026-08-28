@@ -1,0 +1,12 @@
+{
+  "claim_boundary": "Descriptive HLA-specific pMHC sequence prioritization with modeled local-surface annotations only; not evidence of presentation, TCR binding, activation, cross-reactivity, molecular mimicry, MS mechanism, probability, or false-discovery rate.",
+  "current_independent_v3_validation_system_count": 0,
+  "current_three_system_role": "development_controls_only",
+  "discovery_unlock_allowed": false,
+  "required_hla_family_count": 2,
+  "required_independent_system_count": 6,
+  "required_rule": "all panels capture_at_3; majority systems improve over BLOSUM62; none worsen; strictly better system-weighted reciprocal rank",
+  "status": "not_evaluable_insufficient_untouched_strict_systems",
+  "target_independent_system_count": 8,
+  "weights_frozen": false
+}

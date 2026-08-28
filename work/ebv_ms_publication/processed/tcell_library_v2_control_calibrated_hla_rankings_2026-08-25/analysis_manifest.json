@@ -1,0 +1,32 @@
+{
+  "analysis_version": "EBV_MS_TCELL_V2_CONTROL_CALIBRATED_HLA_RANKINGS_2026-08-25",
+  "claim_boundary": "Computational pMHC geometry prioritization only; control-reference metrics are not probabilities and do not establish presentation, TCR binding, activation, cross-reactivity, molecular mimicry, or MS disease mechanism.",
+  "cross_allele_consensus_used": false,
+  "evaluable_pairs_by_hla": {
+    "HLA-DRB1*03:01": 1600,
+    "HLA-DRB1*08:01": 1600,
+    "HLA-DRB1*13:03": 1600,
+    "HLA-DRB1*15:01": 1560
+  },
+  "formal_control_seed": 104759,
+  "formal_full_decoy_median_A": 6.581933,
+  "formal_gold_positive_median_A": 0.495705,
+  "generated_utc": "2026-08-26T04:05:20.939713+00:00",
+  "gold_standard_available_seed_capture_at_1_fraction": 1.0,
+  "gold_standard_independent_system_count": 1,
+  "input_sha256": {
+    "calibration/calibration_pair_summary_72.csv": "56942a0c3f8a78cc8f3eaae811726a25e6b4f0c1a35303750b6ea6a534e883ad",
+    "calibration/seed_recovery_summary.csv": "6230b8c58d66deac1e3ba0adbc4e80504072a1033ce861b3bc5a461b410d734e",
+    "discovery/pair_summary_6400.csv": "4cce7d45855c3315e86cca566c08c26989ab89bffe37af5621e66c5389af5717",
+    "validation/gold_standard_capture_summary.json": "1d24731c7757904ace4cc3557766432838a1ce2c5c35b5ab54ab2c6c086b1d78"
+  },
+  "missing_unranked_pair_count": 40,
+  "rank_1_pair_by_hla": {
+    "HLA-DRB1*03:01": "HLA-DRB1*03:01|EBV_IEDB_4fb29363e8e5|SELF_CANON_CLDN11_0193_0207",
+    "HLA-DRB1*08:01": "HLA-DRB1*08:01|EBV_IEDB_c617263cff31|SELF_CANON_MAG_0408_0422",
+    "HLA-DRB1*13:03": "HLA-DRB1*13:03|EBV_IEDB_537a6a60a0cc|SELF_IEDB_e8f1f840deb4",
+    "HLA-DRB1*15:01": "HLA-DRB1*15:01|EBV_IEDB_090bd09c6880|SELF_CANON_MAG_0612_0626"
+  },
+  "ranking_scope": "within_hla_only",
+  "source_analysis": "/Users/anishsharma/Library/Mobile Documents/com~apple~CloudDocs/ebv_ms_publication/processed/tcell_library_v2_model_analysis_2026-08-25"
+}

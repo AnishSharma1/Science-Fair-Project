@@ -2,8 +2,18 @@
 .manifest_build/
 __pycache__/
 node_modules/
+.Rhistory
+.~lock.*#
 
 # Local inspection and test artifacts
 outputs/**/.DS_Store
 outputs/**/test.xlsx
 outputs/**/test.xlsx.inspect.ndjson
+
+# Local AlphaFold/model downloads (multi-gigabyte, represented by manifests)
+work/ebv_ms_publication/Alphafold3_pMHC_Folds _v1/
+work/ebv_ms_publication/Alphafold3_pMHCs/
+work/ebv_ms_publication/New_alphafold/
+work/ebv_ms_publication/folds_2026_08_15_01_53/
+work/ebv_ms_publication/Model_Library/
+work/ebv_ms_publication/processed/.cache/

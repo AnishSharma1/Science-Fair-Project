@@ -1,0 +1,42 @@
+{
+  "analysis_version": "EBV_MS_RMSD_SENSITIVITY_RANKINGS_2026-08-27",
+  "claim_boundary": "Exploratory structural sensitivity ranking; the frozen exposed-C-alpha RMSD endpoint did not pass the three-system control benchmark and is not the control-supported primary ranking.",
+  "combined_drb1501_missing_rmsd_pair_count": 130,
+  "combined_drb1501_pair_count": 2043,
+  "combined_drb1501_rank_1_pair_id": "HLA-DRB1*15:01|EBV_IEDB_090bd09c6880|SELF_CANON_MAG_0612_0626",
+  "combined_drb1501_rmsd_ranked_pair_count": 1913,
+  "combined_rmsd_source_counts": {
+    "legacy_af3_all_canonical_job_sample_combinations": 353,
+    "v2_af3_full_5_by_5_model_ensemble": 1560
+  },
+  "control_benchmark_status": "fail",
+  "endpoint": "median P2/P3/P5/P7/P8 C-alpha RMSD after HLA-groove fit",
+  "endpoint_direction": "lower_is_better",
+  "input_sha256": {
+    "combined_sequence_rank": "9fea479c6165aad7f2dcbb32cc88af7d441e9c073a8e1a8ca1fee6a70fb481b8",
+    "held_out_control_method_ranks": "861dd2aaf81d7f3bcdc83e12a6ae6f020b569c45625cbdc0ed1cad48f1dfc72b",
+    "legacy_af3_sample_inventory": "2777cf7ab1653bfc094b1c9f8f66eceffa6824cc3c8d706463b9bb52f6a5ab31",
+    "legacy_pair_universe": "bf451e8e04012598734321683f4f836d8bd372bff992ee42ef1c9fbbaef4505b",
+    "v2_candidate_registry": "265832ac651874d9fcd2184b41c1906615953e6e4f2b48a8bd4c1b2a373128f2",
+    "v2_geometry": "4cce7d45855c3315e86cca566c08c26989ab89bffe37af5621e66c5389af5717",
+    "v2_sequence_ranks": "e9ef1562ee87b626ad235920bb12d747063042162d9a80988d77c9bd831410f1"
+  },
+  "legacy_eligible_pair_count": 459,
+  "legacy_rmsd_complete_pair_count": 369,
+  "legacy_rmsd_missing_pair_count": 90,
+  "rank_1_pair_by_hla": {
+    "HLA-DRB1*03:01": "HLA-DRB1*03:01|EBV_IEDB_4fb29363e8e5|SELF_CANON_CLDN11_0193_0207",
+    "HLA-DRB1*08:01": "HLA-DRB1*08:01|EBV_IEDB_c617263cff31|SELF_CANON_MAG_0408_0422",
+    "HLA-DRB1*13:03": "HLA-DRB1*13:03|EBV_IEDB_537a6a60a0cc|SELF_IEDB_e8f1f840deb4",
+    "HLA-DRB1*15:01": "HLA-DRB1*15:01|EBV_IEDB_090bd09c6880|SELF_CANON_MAG_0612_0626"
+  },
+  "ranking_role": "exploratory_structural_sensitivity_not_primary",
+  "v2_missing_pair_count": 40,
+  "v2_ranked_by_hla": {
+    "HLA-DRB1*03:01": 1600,
+    "HLA-DRB1*08:01": 1600,
+    "HLA-DRB1*13:03": 1600,
+    "HLA-DRB1*15:01": 1560
+  },
+  "v2_ranked_pair_count": 6360
+}

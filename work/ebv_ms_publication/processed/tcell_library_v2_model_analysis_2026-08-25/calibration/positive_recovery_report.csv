@@ -1,0 +1,2 @@
+available_calibration_jobs,available_comparisons,biological_system_id,claim_boundary,expected_calibration_jobs,expected_comparisons,missing_jobs,recovery_status,required_rule
+22,61,SYS_BALF5_MBP_HY2E11,"Computational pMHC geometry only; not evidence of presentation, TCR binding, activation, cross-reactivity, molecular mimicry, or MS disease mechanism.",24,72,ebvms_native_human_background_2258538_s104729;ebvms_native_ebv_iedb_f5efcef02cf6_s104729,not_evaluable_incomplete_calibration,top 3 of 26 on both seeds and below equal-weight control median

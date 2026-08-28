@@ -1,0 +1,24 @@
+{
+  "all_systems_capture_at_3": false,
+  "baseline_system_weighted_mrr": 0.8333333333333334,
+  "benchmark_version": "EBV_MS_HLA2_BENCHMARK_V2_PILOT",
+  "better_system_count": 0,
+  "claim_boundary": "Descriptive computational pMHC prioritization only; not evidence of presentation, TCR binding, activation, cross-reactivity, molecular mimicry, MS mechanism, probability, or false-discovery rate.",
+  "composite_system_weighted_mrr": 0.5196078431372549,
+  "cross_allele_consensus_allowed": false,
+  "discovery_unlock_allowed": false,
+  "equal_system_count": 2,
+  "majority_better": false,
+  "mandatory_pdb_oracle_count": 2,
+  "no_system_worse": false,
+  "pilot_attribution_status": "fail",
+  "required_system_ids": [
+    "SYS_BALF5_MBP_HY2E11",
+    "SYS_ENGA_MBP_OB1A12",
+    "SYS_MICROBIAL_MBP_HY1B11"
+  ],
+  "structural_support_on_every_improvement": false,
+  "unavailable_pdb_oracle_count": 2,
+  "weights_frozen": false,
+  "worse_system_count": 1
+}

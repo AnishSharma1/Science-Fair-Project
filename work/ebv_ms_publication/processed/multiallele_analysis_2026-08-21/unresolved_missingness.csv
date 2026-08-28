@@ -1,0 +1,8 @@
+global_job_number,batch,batch_job_number,job_name,candidate_id,arm_group,allele,allele_four_field_name,ipd_accession,peptide_sequence,peptide_length,model_seeds,canonical_request_name,download_status,primary_job_directory_path,server_seed,n_cif,n_confidence,n_full_data,n_request,duplicate_run_count
+61,batch_03,1,ebvms_drb1303_ebv_tcell_149795,EBV_TCELL_149795,EBV,HLA-DRB1*13:03,DRB1*13:03:01:01,HLA00799,LDLDFGQLTPHTKAVYQPRG,20,auto (one server seed),ebvms_drb1303_ebv_tcell_149795,missing,,,0,0,0,0,0
+62,batch_03,2,ebvms_drb0301_ebv_tcell_149795,EBV_TCELL_149795,EBV,HLA-DRB1*03:01,DRB1*03:01:01:01,HLA00671,LDLDFGQLTPHTKAVYQPRG,20,auto (one server seed),ebvms_drb0301_ebv_tcell_149795,missing,,,0,0,0,0,0
+63,batch_03,3,ebvms_drb0801_ebv_tcell_149795,EBV_TCELL_149795,EBV,HLA-DRB1*08:01,DRB1*08:01:01:01,HLA00723,LDLDFGQLTPHTKAVYQPRG,20,auto (one server seed),ebvms_drb0801_ebv_tcell_149795,missing,,,0,0,0,0,0
+64,batch_03,4,ebvms_drb1303_ebv_tcell_1392779,EBV_TCELL_1392779,EBV,HLA-DRB1*13:03,DRB1*13:03:01:01,HLA00799,FARQAVWLRE,10,auto (one server seed),ebvms_drb1303_ebv_tcell_1392779,missing,,,0,0,0,0,0
+65,batch_03,5,ebvms_drb0301_ebv_tcell_1392779,EBV_TCELL_1392779,EBV,HLA-DRB1*03:01,DRB1*03:01:01:01,HLA00671,FARQAVWLRE,10,auto (one server seed),ebvms_drb0301_ebv_tcell_1392779,missing,,,0,0,0,0,0
+68,batch_03,8,ebvms_drb0301_ebv_mhc_15168,EBV_MHC_15168,EBV,HLA-DRB1*03:01,DRB1*03:01:01:01,HLA00671,FAEVLKDAIKDLVMTKPAPTCNIR,24,auto (one server seed),ebvms_drb0301_ebv_mhc_15168,missing,,,0,0,0,0,0
+70,batch_03,10,ebvms_drb1303_ebv_mhc_38633,EBV_MHC_38633,EBV,HLA-DRB1*13:03,DRB1*13:03:01:01,HLA00799,LPPWFPPMVEGAAAEGDDG,19,auto (one server seed),ebvms_drb1303_ebv_mhc_38633,missing,,,0,0,0,0,0
