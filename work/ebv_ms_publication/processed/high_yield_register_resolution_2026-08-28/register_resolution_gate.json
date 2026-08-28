@@ -1,0 +1,15 @@
+{
+  "all_window_robust_count": 0,
+  "declared_window_only_count": 8,
+  "discovery_unlock_allowed": false,
+  "gate_name": "high_yield_register_resolution_sensitivity",
+  "independent_validation_claim_allowed": false,
+  "interpretation": "Window rescoring tests dependence on the assumed P1-P9 register using the frozen sequence ranking and N3 panel. Alternate windows were not structurally modeled or experimentally resolved. Results do not establish presentation, TCR recognition, specificity, cross-reactivity, molecular mimicry, or MS mechanism.",
+  "local_shift_robust_only_count": 0,
+  "rank_context_not_supportive_count": 0,
+  "specificity_claim_allowed": false,
+  "status": "declared_register_dependent",
+  "target_count": 8,
+  "upstream_n3_claim_boundary": "N3 panels provide descriptive, HLA-specific computational ranking context only; they are not evidence of presentation, TCR recognition, activation, specificity, cross-reactivity, molecular mimicry, MS mechanism, probability, or false-discovery rate.",
+  "weights_frozen": false
+}

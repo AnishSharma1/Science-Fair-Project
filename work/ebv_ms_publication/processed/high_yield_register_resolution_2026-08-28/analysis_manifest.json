@@ -1,0 +1,24 @@
+{
+  "all_window_row_count": 413,
+  "artifact_checksums": {
+    "EXPERIMENTAL_NEXT_STEP.md": "02f7e27045069a42ed85135d47279ed2285d8d015a247db4ff92bef7a20e5603",
+    "README.md": "9f69538d138dce8bbede7e1db17db61ca657cb2aa179909bb4bd62717932d157",
+    "RESULTS_SUMMARY.md": "1501ef05c2e344600c64cd23a127bfe22701449f0f3bf36205147a4062a9168a",
+    "all_window_panel_ranks.csv": "a4e61757d9b2ffc82c2c3289a0016430ae14ab8fba84786f61a813f3e2a7ab3f",
+    "experimental_peptide_panel.csv": "5b9d3a10c4b9912e849a7b10882bfb71dd325cdaabd63da6a11eb61012b17cae",
+    "experimental_register_priority.csv": "5b3a64c298d1a1131f60fae69c379482c21422adfe62bdc1aa18c2607468384c",
+    "frozen_sequence_target_registry.csv": "8a2ea4505dcddf91f34f1d0fee1be79f59e57053f802ae6c1bbc8a38780ffbb2",
+    "local_shift_panel_ranks.csv": "81fde2e29c2939e78a493b1fa4c1fa4c4f66ed0ac1fb525e5fa5968040c5c40d",
+    "protocol_lock.json": "2515b793bf58a813891dbe0d6c4822556176dac0c8047d189565d03ca7c40800",
+    "register_resolution_gate.json": "4ca893856d450351d0151bbfc7b30a7645c6dc2c2f77f5959212c940a464ecce",
+    "target_register_summary.csv": "93c90e5080a1b834becc272487b5b7619474cedde2e89d0d22eb6baf274797c9"
+  },
+  "deterministic_rebuild_required": true,
+  "experimental_peptide_row_count": 64,
+  "experimental_priority_row_count": 8,
+  "gate_status": "declared_register_dependent",
+  "local_window_row_count": 72,
+  "n3_pairs_per_target": 25,
+  "package_id": "high_yield_register_resolution_2026-08-28",
+  "target_count": 8
+}

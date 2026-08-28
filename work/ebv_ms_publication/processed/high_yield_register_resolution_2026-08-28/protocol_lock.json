@@ -1,0 +1,40 @@
+{
+  "alternate_registers_structurally_modeled": false,
+  "claim_boundary": "Window rescoring tests dependence on the assumed P1-P9 register using the frozen sequence ranking and N3 panel. Alternate windows were not structurally modeled or experimentally resolved. Results do not establish presentation, TCR recognition, specificity, cross-reactivity, molecular mimicry, or MS mechanism.",
+  "discovery_unlock_allowed": false,
+  "exhaustive_definition": "all fully contained P1-P9 windows on both exact source peptides",
+  "experimental_peptides_ordered": false,
+  "frozen_n3_pairs_per_target": 25,
+  "geometry_read_for_alternate_registers": false,
+  "input_checksums": {
+    "panel_feature_matrix.csv": "3330ffb92a1d6f391c7871414025b6b77893d3ad881300403c707e40c847224e",
+    "panel_rank_summary.csv": "e27caeffcda77095a7b67645b43fef794aa42dbff083f19a708d93fd5cf74587",
+    "register_sensitivity_allowed_windows_v2.csv": "a9edf35e904393a6f020bf8d6721e6e130dfb5f2167ef11f936ef6c279e26863",
+    "v3_all_hla_ranked_pairs.csv": "81edff48283ef2f82ab42cb47aa4ed298037040fd9520a11c198745e6577e616"
+  },
+  "local_shift_definition": "declared start plus or minus one independently on both arms",
+  "n3_specificity_role": "unknown_recognition_not_a_specificity_negative",
+  "package_id": "high_yield_register_resolution_2026-08-28",
+  "primary_rank_order": [
+    "tcr_facing_blosum62_similarity_desc",
+    "tcr_face_physicochemical_mismatch_asc",
+    "tcr_facing_sequence_identity_desc",
+    "structural_tie_break_abstained",
+    "pair_id_asc"
+  ],
+  "protocol_date": "2026-08-28",
+  "scope": "eight_sequence_supported_high_yield_pairs_only",
+  "specificity_claim_allowed": false,
+  "target_ids": [
+    "HY03_SEQ_01",
+    "HY03_SEQ_02",
+    "HY08_SEQ_01",
+    "HY08_SEQ_02",
+    "HY13_SEQ_01",
+    "HY13_SEQ_02",
+    "HY15_SEQ_01",
+    "HY15_SEQ_02"
+  ],
+  "weights_frozen": false,
+  "window_width": 9
+}
