@@ -1,0 +1,61 @@
+{
+  "claim_boundary": "This dossier prioritizes peptide-HLA binding and register experiments. It does not establish natural presentation, TCR recognition, specificity, cross-reactivity, molecular mimicry, probability, false-discovery rate, or an MS mechanism.",
+  "sources": [
+    {
+      "relative_path": "raw_responses/iedb_assay_records.csv",
+      "sha256": "2eeb771e7bf4c15ce7f32e2dd8c37ac28fe39964644b066dc0a291a6188b4e0c",
+      "source_id": "iedb_assays",
+      "source_url": "https://query-api.iedb.org",
+      "status": "cached"
+    },
+    {
+      "relative_path": "raw_responses/predictor_records.csv",
+      "sha256": "356e30ecc975d9a171b87a45cf3c2f6ef1ea13a0523de1465629c7335a9e6cd0",
+      "source_id": "netmhciipan_4_3",
+      "source_url": "https://tools-cluster-interface.iedb.org/tools_api/mhcii/",
+      "status": "cached"
+    },
+    {
+      "relative_path": "raw_responses/predictor_records.csv",
+      "sha256": "356e30ecc975d9a171b87a45cf3c2f6ef1ea13a0523de1465629c7335a9e6cd0",
+      "source_id": "mixmhc2pred_2_1",
+      "source_url": "local_version_pinned_binary",
+      "status": "cached"
+    },
+    {
+      "relative_path": "raw_responses/hla_ligand_atlas_hits.csv",
+      "sha256": "fd03d72bbc16ce3dc88fde76e4f3c1b22663114abb988ddc68cfd42e1cb93fd6",
+      "source_id": "hla_ligand_atlas_2020_12",
+      "source_url": "https://hla-ligand-atlas.org/rel/2020.12",
+      "status": "cached"
+    },
+    {
+      "relative_path": "raw_responses/pxd068488_published_hits.csv",
+      "sha256": "708f197899f02feeb1f708344be9f27f77941f008df67fa305509c72f0973571",
+      "source_id": "pxd068488_published_tables",
+      "source_url": "https://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD068488",
+      "status": "cached"
+    },
+    {
+      "relative_path": "raw_responses/human_reviewed_canonical.fasta",
+      "sha256": "29e2a2f54f18e7eac95c04ffa9593888c0482345c376668bfac4d820c08ffe1e",
+      "source_id": "human_reviewed_reference_proteome",
+      "source_url": "https://rest.uniprot.org/uniprotkb/stream?format=fasta&query=%28proteome%3AUP000005640%29+AND+%28reviewed%3Atrue%29",
+      "status": "cached"
+    },
+    {
+      "relative_path": "raw_responses/ebv_uniprot_sequences.fasta",
+      "sha256": "4fd06641500abfe2c395e173f84a2719aba56314a87954040b26b638e3154273",
+      "source_id": "ebv_sequence_collection",
+      "source_url": "https://rest.uniprot.org/uniprotkb/stream?format=fasta&query=%28organism_id%3A10376%29",
+      "status": "cached"
+    },
+    {
+      "relative_path": "raw_responses/human_common_variant_records.csv",
+      "sha256": "60a9848b502f041f63728d9b1c83aa00019e898920525b22766fd0fa2b7d3a23",
+      "source_id": "human_common_variants",
+      "source_url": "https://gnomad.broadinstitute.org/api",
+      "status": "cached"
+    }
+  ]
+}

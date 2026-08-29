@@ -1,0 +1,9 @@
+{
+  "failure_count": 0,
+  "failures": [],
+  "processed_hit_count": 0,
+  "published_result_scope": "eight submitter-provided HD EBV B-cell DR2a/DR2b peptide TSV tables",
+  "raw_reprocessing_performed": false,
+  "source": "https://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD068488",
+  "status": "processed_tables_searched"
+}

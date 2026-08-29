@@ -1,0 +1,54 @@
+{
+  "alleles": [
+    "HLA-DRB1*03:01",
+    "HLA-DRB1*08:01",
+    "HLA-DRB1*13:03",
+    "HLA-DRB1*15:01"
+  ],
+  "arm_count": 16,
+  "binding_consensus_rule": "NetMHCIIpan-4.3 EL percentile <=5 and MixMHC2pred-2.1 context percentile <=5",
+  "binding_support_rule": "at least one independent percentile <=5 or both independent percentiles <=20",
+  "claim_boundary": "This dossier prioritizes peptide-HLA binding and register experiments. It does not establish natural presentation, TCR recognition, specificity, cross-reactivity, molecular mimicry, probability, false-discovery rate, or an MS mechanism.",
+  "common_variant_rule": "canonical-transcript missense variant with maximum reported exome/genome allele frequency >=0.01 in gnomAD r4",
+  "cross_reactivity_claim_allowed": false,
+  "database_releases": {
+    "ebv_sequences": "UniProt organism taxonomy 10376 collection",
+    "gnomad": "gnomad_r4",
+    "hla_ligand_atlas": "2020.12",
+    "human_proteome": "UniProt reviewed reference proteome UP000005640",
+    "pxd068488": "PRIDE archive 2026-03 release"
+  },
+  "discovery_rankings_modified": false,
+  "discovery_unlock_allowed": false,
+  "frozen_candidate_registry_sha256": "15f25be68ee583586af9dc29ba87df33fc9fd355f28d4188d121b9da03c4aa61",
+  "immunopeptidome_absence_rule": "not_observed_is_missing_evidence_not_a_negative",
+  "molecular_mimicry_claim_allowed": false,
+  "presentation_conditioned_rarity_rule": "exact-HLA V3 library; 2043-pair combined library for DRB1*15:01 and 1600-pair V3 libraries otherwise; diagnostic only",
+  "protocol_id": "high_yield_candidate_evidence_2026-08-28",
+  "query_date": "2026-08-28",
+  "rarity_rule": "frozen V3 lexicographic sequence order; high-priority threshold <=1 empirical percentile",
+  "raw_pxd068488_reprocessing": false,
+  "register_consensus_rule": "NetMHCIIpan-4.3 EL and MixMHC2pred-2.1 context select the same P1-P9 core",
+  "single_composite_score_created": false,
+  "specificity_claim_allowed": false,
+  "status": "prepared_for_cache_backed_fetch_and_analysis",
+  "target_count": 8,
+  "tool_versions": {
+    "gnomad_dataset": "gnomad_r4",
+    "hla_ligand_atlas_release": "2020.12",
+    "iedb_query_api": "IQ-API snapshot queried 2026-08-28",
+    "mixmhc2pred": "v2.1.beta1.2",
+    "mixmhc2pred_archive_sha256": "fe86e0390c96ca7b4e7b8b68d563c717ce43f4091fe460fc283a33ccd716be74",
+    "netmhciipan_ba": "4.3",
+    "netmhciipan_el": "4.3"
+  },
+  "upstream_checksums": {
+    "processed/high_yield_control_validation_2026-08-28/frozen_target_registry.csv": "21035d88646afde58527ffc387f3f3f4f50920caa2fb9954d027b6b7043edae8",
+    "processed/high_yield_control_validation_2026-08-28/ranking_context_gate.json": "c3db7aeff0d84e69fdd6829ffe1e76391ef961bdf6a93944683997b1210f4193",
+    "processed/high_yield_register_resolution_2026-08-28/register_resolution_gate.json": "4ca893856d450351d0151bbfc7b30a7645c6dc2c2f77f5959212c940a464ecce",
+    "processed/literature_grounded_hla2_rankings_v3_2026-08-27/combined_drb1501_v3_ranked_pairs.csv": "f0625c91da5053220a972965c3d912abce2c33cf08dc170ff675de685e0ed0b2",
+    "processed/literature_grounded_hla2_rankings_v3_2026-08-27/protocol_lock.json": "adc7e1d7967633a8045ab4d33deafe6c7ae800ba3442d3eb2d4aaadd3448b65d",
+    "processed/literature_grounded_hla2_rankings_v3_2026-08-27/v3_all_hla_ranked_pairs.csv": "81edff48283ef2f82ab42cb47aa4ed298037040fd9520a11c198745e6577e616"
+  },
+  "weights_frozen": false
+}

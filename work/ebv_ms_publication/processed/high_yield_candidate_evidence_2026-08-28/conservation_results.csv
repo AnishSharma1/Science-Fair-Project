@@ -1,0 +1,17 @@
+arm_id,changed_register_positions,changed_tcr_facing_positions,common_variant_status,conservation_status,exact_core_count,exact_core_fraction,exact_peptide_count,exact_peptide_fraction,homologous_sequence_count,overlapping_common_missense_variant_count,overlapping_missense_variant_count,sequence_collection_scope,side,target_id
+HY03_SEQ_01__ebv,,,not_applicable_viral_arm,evaluable,7,1.0,7,1.0,7,0,0,full_cached_public_source,ebv,HY03_SEQ_01
+HY03_SEQ_01__self,,,evaluable,evaluable,1,1.0,1,1.0,1,0,12,full_cached_public_source,self,HY03_SEQ_01
+HY03_SEQ_02__ebv,,,not_applicable_viral_arm,evaluable,1,1.0,1,1.0,1,0,0,full_cached_public_source,ebv,HY03_SEQ_02
+HY03_SEQ_02__self,,,evaluable,evaluable,1,1.0,1,1.0,1,0,41,full_cached_public_source,self,HY03_SEQ_02
+HY08_SEQ_01__ebv,,,not_applicable_viral_arm,evaluable,53,0.208661417323,46,0.181102362205,254,0,0,full_cached_public_source,ebv,HY08_SEQ_01
+HY08_SEQ_01__self,,,evaluable,evaluable,1,1.0,1,1.0,1,0,28,full_cached_public_source,self,HY08_SEQ_01
+HY08_SEQ_02__ebv,,,not_applicable_viral_arm,evaluable,12,1.0,12,1.0,12,0,0,full_cached_public_source,ebv,HY08_SEQ_02
+HY08_SEQ_02__self,,,evaluable,evaluable,1,1.0,1,1.0,1,1,27,full_cached_public_source,self,HY08_SEQ_02
+HY13_SEQ_01__ebv,,,not_applicable_viral_arm,evaluable,8,1.0,8,1.0,8,0,0,full_cached_public_source,ebv,HY13_SEQ_01
+HY13_SEQ_01__self,,,evaluable,evaluable,1,1.0,1,1.0,1,0,14,full_cached_public_source,self,HY13_SEQ_01
+HY13_SEQ_02__ebv,,,not_applicable_viral_arm,evaluable,3,1.0,3,1.0,3,0,0,full_cached_public_source,ebv,HY13_SEQ_02
+HY13_SEQ_02__self,,,evaluable,evaluable,1,1.0,1,1.0,1,0,21,full_cached_public_source,self,HY13_SEQ_02
+HY15_SEQ_01__ebv,,,not_applicable_viral_arm,evaluable,4,1.0,4,1.0,4,0,0,full_cached_public_source,ebv,HY15_SEQ_01
+HY15_SEQ_01__self,,,evaluable,evaluable,1,1.0,1,1.0,1,0,41,full_cached_public_source,self,HY15_SEQ_01
+HY15_SEQ_02__ebv,,,not_applicable_viral_arm,evaluable,3,1.0,3,1.0,3,0,0,full_cached_public_source,ebv,HY15_SEQ_02
+HY15_SEQ_02__self,,,evaluable,evaluable,1,1.0,1,1.0,1,0,25,full_cached_public_source,self,HY15_SEQ_02

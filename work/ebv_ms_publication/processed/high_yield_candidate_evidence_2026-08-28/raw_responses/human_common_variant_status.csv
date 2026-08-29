@@ -1,0 +1,9 @@
+arm_id,gene,overlapping_common_missense_count,overlapping_missense_count,status
+HY03_SEQ_01__self,MOG,0,12,evaluable
+HY03_SEQ_02__self,CRYAB,0,41,evaluable
+HY08_SEQ_01__self,ANO2,0,28,evaluable
+HY08_SEQ_02__self,MOG,1,27,evaluable
+HY13_SEQ_01__self,MOG,0,14,evaluable
+HY13_SEQ_02__self,TALDO1,0,21,evaluable
+HY15_SEQ_01__self,CRYAB,0,41,evaluable
+HY15_SEQ_02__self,TALDO1,0,25,evaluable

@@ -1,0 +1,6 @@
+[2026-08-28 22:58:58] Runing MixMHC2pred (v2.1-beta1) for peptide file: /Users/anishsharma/Library/Mobile Documents/com~apple~CloudDocs/ebv_ms_publication/processed/high_yield_candidate_evidence_2026-08-28/prepared_inputs/mixmhc2pred_context.tsv
+[2026-08-28 22:58:59] Imported 16 peptides.
+[2026-08-28 22:58:59] Computing the PWM-based scores from each peptide.
+[2026-08-28 22:58:59] Computing now the full scores from each peptide.
+[2026-08-28 22:58:59] Saving the results in the output file.
+[2026-08-28 22:58:59] Finished the computations.

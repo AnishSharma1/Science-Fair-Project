@@ -1,0 +1,38 @@
+{
+  "ebv_sequence_collection": {
+    "sha256": "4fd06641500abfe2c395e173f84a2719aba56314a87954040b26b638e3154273",
+    "status": "cached"
+  },
+  "hla_ligand_atlas": {
+    "failures": [],
+    "hit_count": 46
+  },
+  "human_common_variants": {
+    "arm_count": 8,
+    "failure_count": 0,
+    "failures": [],
+    "status": "complete",
+    "variant_record_count": 209
+  },
+  "human_reviewed_reference_proteome": {
+    "sha256": "29e2a2f54f18e7eac95c04ffa9593888c0482345c376668bfac4d820c08ffe1e",
+    "status": "cached"
+  },
+  "iedb": {
+    "failure_count": 0,
+    "record_count": 725
+  },
+  "predictors": {
+    "failures": [],
+    "record_count": 64
+  },
+  "pxd068488": {
+    "failure_count": 0,
+    "failures": [],
+    "processed_hit_count": 0,
+    "published_result_scope": "eight submitter-provided HD EBV B-cell DR2a/DR2b peptide TSV tables",
+    "raw_reprocessing_performed": false,
+    "source": "https://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD068488",
+    "status": "processed_tables_searched"
+  }
+}

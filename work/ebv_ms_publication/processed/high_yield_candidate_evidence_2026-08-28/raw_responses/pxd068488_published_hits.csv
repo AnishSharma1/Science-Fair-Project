@@ -1,0 +1,1 @@
+arm_id,target_id,source,observed_sequence,sequence_relation,donor,tissue,hla_class,donor_hla_alleles,exact_hla_compatible,monoallelic,hit_class,absence_is_not_a_negative,raw_response,protein,protein_id,qvalue,spectral_count

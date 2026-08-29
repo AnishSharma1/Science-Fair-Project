@@ -1,0 +1,18 @@
+{
+  "candidate_count": 8,
+  "claim_boundary": "This dossier prioritizes peptide-HLA binding and register experiments. It does not establish natural presentation, TCR recognition, specificity, cross-reactivity, molecular mimicry, probability, false-discovery rate, or an MS mechanism.",
+  "cross_reactivity_claim_allowed": false,
+  "discovery_unlock_allowed": false,
+  "gate_name": "experimental_binding_and_register_before_tcell_assays",
+  "molecular_mimicry_claim_allowed": false,
+  "required_experimental_results_per_candidate": [
+    "ebv_exact_hla_binding",
+    "ebv_experimental_p1_p9_register",
+    "self_exact_hla_binding",
+    "self_experimental_p1_p9_register"
+  ],
+  "specificity_claim_allowed": false,
+  "status": "not_evaluable_pending_experimental_binding_and_register",
+  "tcell_assay_recommendation_allowed": false,
+  "weights_frozen": false
+}
