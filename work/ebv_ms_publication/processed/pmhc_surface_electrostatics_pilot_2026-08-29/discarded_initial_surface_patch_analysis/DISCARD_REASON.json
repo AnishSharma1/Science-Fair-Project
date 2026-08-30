@@ -1,0 +1,23 @@
+{
+  "moved_artifacts": [
+    "raw_calculations/apbs",
+    "sampled_potentials.csv",
+    "apbs_provenance.csv",
+    "calculation_status.json",
+    "model_combination_electrostatic_metrics.csv",
+    "panel_electrostatic_ranks.csv",
+    "target_electrostatic_summary.csv",
+    "electrostatic_context_gate.json",
+    "specificity_gate.json",
+    "development_control_calibration_gate.json",
+    "analysis_status.json",
+    "figure_status.json",
+    "figures",
+    "lead_dossiers",
+    "README.md"
+  ],
+  "reason": "the initial target-surface sampling points were not solvent-accessible across all comparator models",
+  "replacement_rule": "geometry-only common solvent-accessible positional field shell",
+  "score_used_to_define_correction": false,
+  "status": "invalid_discarded_before_final_interpretation"
+}

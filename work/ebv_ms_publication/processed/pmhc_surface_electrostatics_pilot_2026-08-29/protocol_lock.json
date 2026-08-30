@@ -1,0 +1,73 @@
+{
+  "apbs": {
+    "equation": "linearized_Poisson_Boltzmann",
+    "maximum_fine_grid_spacing_A": 0.5,
+    "monovalent_salt_M": 0.15,
+    "primary_solute_dielectric": 2.0,
+    "shared_grid_per_panel": true,
+    "solute_dielectrics": [
+      2.0,
+      4.0,
+      8.0
+    ],
+    "solvent_dielectric": 78.5,
+    "solvent_radius_A": 1.4,
+    "temperature_K": 298.15,
+    "version": "3.4.1"
+  },
+  "candidate_exposed_positions": [
+    2,
+    3,
+    5,
+    7,
+    8
+  ],
+  "chain_roles": {
+    "A": "mhc_alpha",
+    "B": "mhc_beta",
+    "C": "peptide"
+  },
+  "claim_boundary": "Descriptive, model-derived HLA-specific pMHC local-field resemblance only; not evidence of presentation, TCR recognition, activation, specificity, cross-reactivity, molecular mimicry, MS mechanism, probability, or false-discovery rate.",
+  "discovery_unlock_allowed": false,
+  "frozen_at": "2026-08-29",
+  "gate": "rank_1_to_3_and_register_QC_and_complete_model_calculation_QC",
+  "groove_alignment": "first 85 CA atoms from chains A and B; deterministic Kabsch fit",
+  "n3_recognition_status": "unknown_not_specificity_negative",
+  "panel_definition": "one frozen target plus 25 previously score-blind exact-HLA N3 pairs",
+  "patch_accessibility_requirement": "all_points_accessible_in_all_60_models_per_panel",
+  "patch_definition": "25 fixed position-matched field points: five local points for each of P2/P3/P5/P7/P8, each shifted along the HLA-to-peptide outward normal by the smallest 0.25 A increment that gives at least 0.25 A clearance beyond the 1.4 A probe surface in every panel model",
+  "patch_samples_per_atom": 48,
+  "pdb2pqr": {
+    "force_field": "PARSE",
+    "pH": 7.4,
+    "titration": "PROPKA_3.5.1",
+    "version": "3.7.1"
+  },
+  "primary_metric": "full_pmhc_hodgkin_similarity_q25_across_25_model_combinations",
+  "primary_rank_direction": "higher_Hodgkin_is_better",
+  "protocol_amendment": {
+    "date": "2026-08-29",
+    "initial_analysis_status": "discarded_invalid",
+    "reason": "initial target-surface points failed common solvent-accessibility QC",
+    "uses_electrostatic_scores": false
+  },
+  "protocol_version": "pmhc_surface_electrostatics_pilot_v1",
+  "secondary_metrics": [
+    "Carbo_similarity",
+    "sign_agreement",
+    "potential_RMSE_q75",
+    "HLA_subtracted_potential"
+  ],
+  "seed": 271828,
+  "specificity_claim_allowed": false,
+  "target_count": 2,
+  "target_ids": [
+    "HY13_SEQ_02",
+    "HY15_SEQ_02"
+  ],
+  "upstream": {
+    "n3_package_checksums_sha256": "9221503ac6a2b81fd03b11e917e3ea98d2f316ae5a39ef67966c7a89f51cd34e",
+    "v3_checksums_sha256": "e6de49a8a561dcf6fd244eddf0c4d0d1058c31336cb9cf7e7efb8d61b0d92bac"
+  },
+  "weights_frozen": false
+}

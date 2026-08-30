@@ -1,0 +1,14 @@
+{
+  "apbs_archive": "/Users/anishsharma/.cache/ebv_ms_tools/pmhc_electrostatics/APBS-3.4.1.Linux.zip",
+  "apbs_archive_sha256": "750f6a2df7b5a82b69be5c4cb192115c02fa261d0ff52cf1d9632ed1eda8b4f0",
+  "apbs_container_image": "ubuntu:22.04",
+  "apbs_container_image_digest": "ubuntu@sha256:2edbbc5dc405e9612ba3584ce95480277e3eb374407b5505fe26f17df77c7dbc",
+  "apbs_container_platform": "linux/amd64",
+  "apbs_install": "/Users/anishsharma/.cache/ebv_ms_tools/pmhc_electrostatics/apbs-3.4.1-linux/APBS-3.4.1.Linux",
+  "container_apbs_version_verified": true,
+  "matplotlib_version": "not_installed",
+  "native_macos_apbs_status": "unavailable_upstream_intel_python_and_FETK_ARPACK_link_incompatibility",
+  "pdb2pqr_executable": "/Users/anishsharma/.cache/ebv_ms_tools/pmhc_electrostatics/pdb2pqr-3.7.1-py313-venv/bin/pdb2pqr",
+  "pdb2pqr_python": "3.13",
+  "pdb2pqr_version": "pdb2pqr 3.7.1"
+}

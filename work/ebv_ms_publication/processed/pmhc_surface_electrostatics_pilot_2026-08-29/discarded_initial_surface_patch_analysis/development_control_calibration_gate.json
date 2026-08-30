@@ -1,0 +1,7 @@
+{
+  "control_role": "existing_three_system_controls_are_development_only",
+  "independent_validation_claim_allowed": false,
+  "prior_v2_pilot_status": "not_available",
+  "reason": "This bounded two-lead pilot does not constitute an untouched positive-control validation of electrostatics.",
+  "status": "not_evaluable_new_electrostatic_endpoint_not_run_on_controls"
+}

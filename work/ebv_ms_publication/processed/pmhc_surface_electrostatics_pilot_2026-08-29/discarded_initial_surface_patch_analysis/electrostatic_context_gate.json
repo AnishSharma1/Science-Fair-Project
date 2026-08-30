@@ -1,0 +1,39 @@
+{
+  "claim_boundary": "Descriptive, model-derived HLA-specific pMHC local-field resemblance only; not evidence of presentation, TCR recognition, activation, specificity, cross-reactivity, molecular mimicry, MS mechanism, probability, or false-discovery rate.",
+  "discovery_unlock_allowed": false,
+  "lead_results": [
+    {
+      "claim_boundary": "Descriptive, model-derived HLA-specific pMHC local-field resemblance only; not evidence of presentation, TCR recognition, activation, specificity, cross-reactivity, molecular mimicry, MS mechanism, probability, or false-discovery rate.",
+      "cross_reactivity_claim_allowed": false,
+      "discovery_unlock_allowed": false,
+      "model_and_calculation_qc_complete": true,
+      "molecular_mimicry_claim_allowed": false,
+      "primary_full_pmhc_hodgkin_rank": 19,
+      "rank_class_robust_across_solute_dielectrics_2_4_8": true,
+      "register_qc_complete": false,
+      "specificity_claim_allowed": false,
+      "status": "not_evaluable",
+      "target_id": "HY13_SEQ_02",
+      "weights_frozen": false
+    },
+    {
+      "claim_boundary": "Descriptive, model-derived HLA-specific pMHC local-field resemblance only; not evidence of presentation, TCR recognition, activation, specificity, cross-reactivity, molecular mimicry, MS mechanism, probability, or false-discovery rate.",
+      "cross_reactivity_claim_allowed": false,
+      "discovery_unlock_allowed": false,
+      "model_and_calculation_qc_complete": true,
+      "molecular_mimicry_claim_allowed": false,
+      "primary_full_pmhc_hodgkin_rank": 24,
+      "rank_class_robust_across_solute_dielectrics_2_4_8": true,
+      "register_qc_complete": false,
+      "specificity_claim_allowed": false,
+      "status": "not_evaluable",
+      "target_id": "HY15_SEQ_02",
+      "weights_frozen": false
+    }
+  ],
+  "n3_specificity_role": "unknown_recognition_comparators_only",
+  "panel_count": 2,
+  "specificity_claim_allowed": false,
+  "status": "not_evaluable",
+  "weights_frozen": false
+}

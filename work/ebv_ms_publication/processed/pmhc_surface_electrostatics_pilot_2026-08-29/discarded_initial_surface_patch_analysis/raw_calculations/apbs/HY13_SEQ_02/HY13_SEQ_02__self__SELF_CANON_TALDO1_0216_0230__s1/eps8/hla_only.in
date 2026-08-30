@@ -1,0 +1,28 @@
+read
+    mol pqr /work/raw_calculations/protonation/HY13_SEQ_02/HY13_SEQ_02__self__SELF_CANON_TALDO1_0216_0230__s1__hla_only.pqr
+end
+elec name pmhc_potential
+    mg-auto
+    dime 97 129 97
+    cglen 107.25981 82.309763 82.126649
+    fglen 33.997332 51.198625 40.243933
+    cgcent -2.8861622 2.1595168 0.80399232
+    fgcent 26.657084 2.5047708 1.9062113
+    mol 1
+    lpbe
+    bcfl sdh
+    pdie 8
+    sdie 78.5
+    srfm smol
+    chgm spl2
+    sdens 10.0
+    srad 1.4
+    swin 0.3
+    temp 298.15
+    ion charge 1 conc 0.15 radius 2
+    ion charge -1 conc 0.15 radius 1.8
+    calcenergy no
+    calcforce no
+    write pot dx /work/raw_calculations/apbs/HY13_SEQ_02/HY13_SEQ_02__self__SELF_CANON_TALDO1_0216_0230__s1/eps8/hla_only
+end
+quit

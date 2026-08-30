@@ -1,0 +1,6 @@
+{
+  "N3_rows_used_for_specificity": 0,
+  "claim_boundary": "Descriptive, model-derived HLA-specific pMHC local-field resemblance only; not evidence of presentation, TCR recognition, activation, specificity, cross-reactivity, molecular mimicry, MS mechanism, probability, or false-discovery rate.",
+  "specificity_claim_allowed": false,
+  "status": "not_evaluable_no_N1_or_N2_assay_negatives"
+}

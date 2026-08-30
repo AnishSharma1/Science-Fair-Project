@@ -1,0 +1,12 @@
+{
+  "apbs_run_count": 720,
+  "claim_boundary": "Descriptive, model-derived HLA-specific pMHC local-field resemblance only; not evidence of presentation, TCR recognition, activation, specificity, cross-reactivity, molecular mimicry, MS mechanism, probability, or false-discovery rate.",
+  "complete_sampled_vector_count": 360,
+  "expected_apbs_run_count": 720,
+  "expected_protonation_run_count": 240,
+  "expected_sampled_vector_count": 360,
+  "protonation_run_count": 240,
+  "raw_input_log_and_sample_linkage_retained": true,
+  "status": "complete",
+  "transient_dx_files_retained": false
+}
