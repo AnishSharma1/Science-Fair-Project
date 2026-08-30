@@ -1,9 +1,9 @@
-"""Prepare, calculate, and analyze the additive pMHC electrostatics pilot.
+"""Prepare, calculate, and analyze additive pMHC electrostatics panels.
 
-The workflow is deliberately limited to two frozen BALF5--TALDO1 leads and
-their already frozen, score-blind HLA-specific N3 panels. It never modifies
-V1--V3 rankings and never converts computational resemblance into a
-specificity, cross-reactivity, molecular-mimicry, or MS-mechanism claim.
+Each target set uses already frozen, score-blind HLA-specific N3 panels. The
+workflow never modifies V1--V3 rankings and never converts computational
+resemblance into a specificity, cross-reactivity, molecular-mimicry, or
+MS-mechanism claim.
 """
 
 from __future__ import annotations
@@ -56,6 +56,15 @@ N3_DIR = ROOT / "processed/high_yield_control_validation_2026-08-28"
 V2_RESULTS_DIR = ROOT / "processed/hla2_positive_control_benchmark_v2_results_2026-08-26"
 DEFAULT_OUT = ROOT / "processed/pmhc_surface_electrostatics_pilot_2026-08-29"
 TARGET_IDS = ("HY13_SEQ_02", "HY15_SEQ_02")
+REMAINING_SEQUENCE_TARGET_IDS = (
+    "HY03_SEQ_01",
+    "HY03_SEQ_02",
+    "HY08_SEQ_01",
+    "HY08_SEQ_02",
+    "HY13_SEQ_01",
+    "HY15_SEQ_01",
+)
+SEQUENCE_EXPANSION_OUT = ROOT / "processed/pmhc_surface_electrostatics_sequence_expansion_2026-08-30"
 SEED = 271828
 PDB2PQR = Path(
     "/Users/anishsharma/.cache/ebv_ms_tools/pmhc_electrostatics/"
@@ -76,6 +85,27 @@ CLAIM_BOUNDARY = (
     "not evidence of presentation, TCR recognition, activation, specificity, "
     "cross-reactivity, molecular mimicry, MS mechanism, probability, or false-discovery rate."
 )
+
+
+def resolve_target_set(name: str) -> dict[str, Any]:
+    configurations = {
+        "pilot": {
+            "target_ids": TARGET_IDS,
+            "protocol_version": "pmhc_surface_electrostatics_pilot_v1",
+            "frozen_at": "2026-08-29",
+            "output_dir": DEFAULT_OUT,
+        },
+        "remaining-sequence": {
+            "target_ids": REMAINING_SEQUENCE_TARGET_IDS,
+            "protocol_version": "pmhc_surface_electrostatics_sequence_expansion_v1",
+            "frozen_at": "2026-08-30",
+            "output_dir": SEQUENCE_EXPANSION_OUT,
+        },
+    }
+    try:
+        return configurations[name]
+    except KeyError as error:
+        raise ValueError(f"unknown target set: {name}") from error
 
 
 def read_csv(path: Path) -> list[dict[str, str]]:
@@ -197,12 +227,20 @@ def _tool_version(command: Sequence[str]) -> str:
     return (completed.stdout or completed.stderr).splitlines()[0].strip() if completed.returncode == 0 else "unavailable"
 
 
-def _panel_rows() -> dict[str, list[dict[str, str]]]:
+def _panel_rows(target_ids: Sequence[str] = TARGET_IDS) -> dict[str, list[dict[str, str]]]:
     rows = read_csv(N3_DIR / "panel_feature_matrix.csv")
-    panels = {target_id: [row for row in rows if row["target_id"] == target_id] for target_id in TARGET_IDS}
+    panels = {target_id: [row for row in rows if row["target_id"] == target_id] for target_id in target_ids}
     for target_id, panel in panels.items():
         validate_panel_rows(target_id, panel)
     return panels
+
+
+def _package_target_ids(output_dir: Path) -> tuple[str, ...]:
+    rows = read_csv(output_dir / "frozen_target_registry.csv")
+    target_ids = tuple(row["target_id"] for row in rows)
+    if not target_ids or len(target_ids) != len(set(target_ids)):
+        raise ValueError("frozen target registry must contain unique target IDs")
+    return target_ids
 
 
 def _arm_registry(panel_id: str, rows: Sequence[Mapping[str, str]]) -> list[dict[str, Any]]:
@@ -246,16 +284,23 @@ def _heavy_bounds(model: Mapping[str, Sequence[Mapping[str, Any]]]) -> tuple[np.
     return atoms.min(axis=0), atoms.max(axis=0)
 
 
-def prepare(output_dir: Path = DEFAULT_OUT) -> dict[str, Any]:
+def prepare(
+    output_dir: Path = DEFAULT_OUT,
+    target_ids: Sequence[str] = TARGET_IDS,
+    protocol_version: str = "pmhc_surface_electrostatics_pilot_v1",
+    frozen_at: str = "2026-08-29",
+) -> dict[str, Any]:
     if output_dir.exists() and any(output_dir.iterdir()):
         raise FileExistsError(f"refusing to overwrite existing package: {output_dir}")
     output_dir.mkdir(parents=True, exist_ok=True)
-    panels = _panel_rows()
-    frozen_targets = [row for row in read_csv(N3_DIR / "frozen_target_registry.csv") if row["target_id"] in TARGET_IDS]
-    if {row["target_id"] for row in frozen_targets} != set(TARGET_IDS):
-        raise ValueError("the two frozen lead records were not recovered exactly")
+    target_ids = tuple(target_ids)
+    panels = _panel_rows(target_ids)
+    target_index = {row["target_id"]: row for row in read_csv(N3_DIR / "frozen_target_registry.csv")}
+    frozen_targets = [target_index[target_id] for target_id in target_ids if target_id in target_index]
+    if tuple(row["target_id"] for row in frozen_targets) != target_ids:
+        raise ValueError("the requested frozen target records were not recovered exactly")
     write_csv(output_dir / "frozen_target_registry.csv", frozen_targets)
-    frozen_pairs = [row for target_id in TARGET_IDS for row in panels[target_id]]
+    frozen_pairs = [row for target_id in target_ids for row in panels[target_id]]
     write_csv(output_dir / "frozen_panel_pairs.csv", frozen_pairs)
 
     upstream = {
@@ -263,10 +308,10 @@ def prepare(output_dir: Path = DEFAULT_OUT) -> dict[str, Any]:
         "n3_package_checksums_sha256": sha256_file(N3_DIR / "SHA256SUMS.csv"),
     }
     protocol = {
-        "protocol_version": "pmhc_surface_electrostatics_pilot_v1",
-        "frozen_at": "2026-08-29",
-        "target_ids": list(TARGET_IDS),
-        "target_count": 2,
+        "protocol_version": protocol_version,
+        "frozen_at": frozen_at,
+        "target_ids": list(target_ids),
+        "target_count": len(target_ids),
         "panel_definition": "one frozen target plus 25 previously score-blind exact-HLA N3 pairs",
         "n3_recognition_status": "unknown_not_specificity_negative",
         "seed": SEED,
@@ -322,7 +367,7 @@ def prepare(output_dir: Path = DEFAULT_OUT) -> dict[str, Any]:
     model_rows: list[dict[str, Any]] = []
     arm_rows: list[dict[str, Any]] = []
     alignment_rows: list[dict[str, Any]] = []
-    for panel_id in TARGET_IDS:
+    for panel_id in target_ids:
         panel = panels[panel_id]
         target = next(row for row in panel if row["row_role"] == "target")
         arms = _arm_registry(panel_id, panel)
@@ -401,8 +446,8 @@ def prepare(output_dir: Path = DEFAULT_OUT) -> dict[str, Any]:
     write_csv(output_dir / "alignment_qc.csv", alignment_rows)
     status = {
         "status": "prepared",
-        "target_count": 2,
-        "panel_count": 2,
+        "target_count": len(target_ids),
+        "panel_count": len(target_ids),
         "pair_count": len(frozen_pairs),
         "arm_count": len(arm_rows),
         "model_count": len(model_rows),
@@ -511,14 +556,31 @@ def _archive_invalid_initial_analysis(output_dir: Path) -> Path:
     return archive
 
 
+def _patch_protocol_amendment(protocol: Mapping[str, Any]) -> dict[str, Any]:
+    if protocol.get("protocol_version") == "pmhc_surface_electrostatics_sequence_expansion_v1":
+        return {
+            "date": protocol.get("frozen_at", "2026-08-30"),
+            "reason": "common solvent-accessibility rule inherited from the corrected pilot before scoring",
+            "uses_electrostatic_scores": False,
+            "initial_analysis_status": "not_run",
+        }
+    return {
+        "date": "2026-08-29",
+        "reason": "initial target-surface points failed common solvent-accessibility QC",
+        "uses_electrostatic_scores": False,
+        "initial_analysis_status": "discarded_invalid",
+    }
+
+
 def _freeze_common_field_patches(output_dir: Path) -> dict[str, Any]:
     models = read_csv(output_dir / "model_registry.csv")
     targets = {row["target_id"]: row for row in read_csv(output_dir / "frozen_target_registry.csv")}
+    target_ids = _package_target_ids(output_dir)
     protonation_rows = read_csv(output_dir / "protonation_provenance.csv")
     protonation = {(row["model_key"], row["form"]): row for row in protonation_rows}
     qc_rows: list[dict[str, Any]] = []
     patch_status: dict[str, Any] = {}
-    for panel_id in TARGET_IDS:
+    for panel_id in target_ids:
         target = targets[panel_id]
         panel_models = [row for row in models if row["panel_id"] == panel_id]
         atomsets: list[tuple[np.ndarray, np.ndarray]] = []
@@ -594,7 +656,7 @@ def _freeze_common_field_patches(output_dir: Path) -> dict[str, Any]:
             "all_models_all_points_accessible": all(row["status"] == "pass" for row in qc_rows if row["panel_id"] == panel_id),
         }
     write_csv(output_dir / "patch_accessibility_qc.csv", qc_rows)
-    if len(qc_rows) != 120 or any(row["status"] != "pass" for row in qc_rows):
+    if len(qc_rows) != 60 * len(target_ids) or any(row["status"] != "pass" for row in qc_rows):
         raise ValueError("common field patch accessibility QC failed")
     protocol_path = output_dir / "protocol_lock.json"
     protocol = json.loads(protocol_path.read_text())
@@ -604,12 +666,7 @@ def _freeze_common_field_patches(output_dir: Path) -> dict[str, Any]:
         "that gives at least 0.25 A clearance beyond the 1.4 A probe surface in every panel model"
     )
     protocol["patch_accessibility_requirement"] = "all_points_accessible_in_all_60_models_per_panel"
-    protocol["protocol_amendment"] = {
-        "date": "2026-08-29",
-        "reason": "initial target-surface points failed common solvent-accessibility QC",
-        "uses_electrostatic_scores": False,
-        "initial_analysis_status": "discarded_invalid",
-    }
+    protocol["protocol_amendment"] = _patch_protocol_amendment(protocol)
     write_json(protocol_path, protocol)
     status = {
         "status": "complete",
@@ -627,6 +684,20 @@ def refreeze_common_field_patch(output_dir: Path = DEFAULT_OUT) -> dict[str, Any
     status = _freeze_common_field_patches(output_dir)
     _checksums(output_dir)
     return status
+
+
+def _apbs_command(output_dir: Path, input_host: Path, container_name: str | None = None) -> list[str]:
+    input_container = Path("/work") / input_host.relative_to(output_dir)
+    if container_name:
+        return [
+            "docker", "exec", "-e", "LD_LIBRARY_PATH=/apbs/lib",
+            container_name, "/apbs/bin/apbs", str(input_container),
+        ]
+    return [
+        "docker", "run", "--rm", "--platform", "linux/amd64",
+        "-v", f"{APBS_INSTALL}:/apbs:ro", "-v", f"{output_dir}:/work", "-w", "/work",
+        "-e", "LD_LIBRARY_PATH=/apbs/lib", APBS_IMAGE, "/apbs/bin/apbs", str(input_container),
+    ]
 
 
 def _apbs_model_dielectric(
@@ -655,12 +726,7 @@ def _apbs_model_dielectric(
         input_host.write_text(build_apbs_input(pqr_container, prefix_container, grid, params), encoding="ascii")
         stdout = directory / f"{form}.stdout.txt"
         stderr = directory / f"{form}.stderr.txt"
-        command = [
-            "docker", "run", "--rm", "--platform", "linux/amd64",
-            "-v", f"{APBS_INSTALL}:/apbs:ro", "-v", f"{output_dir}:/work", "-w", "/work",
-            "-e", "LD_LIBRARY_PATH=/apbs/lib", APBS_IMAGE, "/apbs/bin/apbs",
-            str(Path("/work") / input_host.relative_to(output_dir)),
-        ]
+        command = _apbs_command(output_dir, input_host, os.environ.get("PMHC_APBS_CONTAINER"))
         exit_code = _run_logged(command, stdout, stderr)
         dx = Path(str(prefix_host) + ".dx")
         status = "complete" if exit_code == 0 and dx.exists() else "failed"
@@ -714,6 +780,7 @@ def calculate(output_dir: Path = DEFAULT_OUT, workers: int = 4) -> dict[str, Any
     if not PDB2PQR.exists() or not (APBS_INSTALL / "bin/apbs").exists():
         raise FileNotFoundError("version-pinned PDB2PQR/APBS tools are unavailable")
     models = read_csv(output_dir / "model_registry.csv")
+    target_ids = _package_target_ids(output_dir)
     protonation_path = output_dir / "protonation_provenance.csv"
     protonation_reused = False
     if protonation_path.exists():
@@ -771,9 +838,9 @@ def calculate(output_dir: Path = DEFAULT_OUT, workers: int = 4) -> dict[str, Any
 
     grid_by_panel = {
         panel_id: GridSpec(**json.loads((output_dir / "grid_definitions" / f"{panel_id}__grid.json").read_text()))
-        for panel_id in TARGET_IDS
+        for panel_id in target_ids
     }
-    patch_by_panel = {panel_id: _load_patch(output_dir, panel_id) for panel_id in TARGET_IDS}
+    patch_by_panel = {panel_id: _load_patch(output_dir, panel_id) for panel_id in target_ids}
     sample_rows: list[dict[str, Any]] = []
     apbs_rows: list[dict[str, Any]] = []
     with ThreadPoolExecutor(max_workers=max(1, workers)) as pool:
@@ -806,6 +873,7 @@ def calculate(output_dir: Path = DEFAULT_OUT, workers: int = 4) -> dict[str, Any
     ) else "not_evaluable_incomplete_calculations"
     status = {
         "status": status_value,
+        "apbs_execution_mode": "persistent_container_exec" if os.environ.get("PMHC_APBS_CONTAINER") else "ephemeral_container_run",
         "protonation_run_count": len(protonation_rows),
         "expected_protonation_run_count": expected_pqr,
         "protonation_results_reused": protonation_reused,
@@ -818,6 +886,10 @@ def calculate(output_dir: Path = DEFAULT_OUT, workers: int = 4) -> dict[str, Any
         "claim_boundary": CLAIM_BOUNDARY,
     }
     write_json(output_dir / "calculation_status.json", status)
+    environment_path = output_dir / "environment_manifest.json"
+    environment = json.loads(environment_path.read_text())
+    environment["apbs_execution_mode"] = status["apbs_execution_mode"]
+    write_json(environment_path, environment)
     _checksums(output_dir)
     return status
 
@@ -867,6 +939,7 @@ def analyze(output_dir: Path = DEFAULT_OUT) -> dict[str, Any]:
     if calculation["status"] != "complete":
         raise RuntimeError("calculation stage is incomplete; analysis cannot manufacture missing values")
     pairs = read_csv(output_dir / "frozen_panel_pairs.csv")
+    target_ids = _package_target_ids(output_dir)
     samples = read_csv(output_dir / "sampled_potentials.csv")
     vectors = _vector_index(samples)
     combination_rows: list[dict[str, Any]] = []
@@ -916,7 +989,7 @@ def analyze(output_dir: Path = DEFAULT_OUT) -> dict[str, Any]:
                     }
                 )
     ranked_rows: list[dict[str, Any]] = []
-    for panel_id in TARGET_IDS:
+    for panel_id in target_ids:
         for dielectric in DIELECTRIC_VALUES:
             for mode in ("full", "hla_normalized"):
                 group = [
@@ -994,7 +1067,7 @@ def analyze(output_dir: Path = DEFAULT_OUT) -> dict[str, Any]:
     ranking_gate = {
         "status": gate_status,
         "lead_results": lead_gates,
-        "panel_count": 2,
+        "panel_count": len(target_ids),
         "n3_specificity_role": "unknown_recognition_comparators_only",
         "weights_frozen": False,
         "discovery_unlock_allowed": False,
@@ -1020,7 +1093,7 @@ def analyze(output_dir: Path = DEFAULT_OUT) -> dict[str, Any]:
             "control_role": "existing_three_system_controls_are_development_only",
             "prior_v2_pilot_status": prior_gate.get("status", "not_available"),
             "independent_validation_claim_allowed": False,
-            "reason": "This bounded two-lead pilot does not constitute an untouched positive-control validation of electrostatics.",
+            "reason": "This bounded candidate analysis does not constitute an untouched positive-control validation of electrostatics.",
         },
     )
     figure_status = _write_figures(output_dir, targets, ranked_rows)
@@ -1048,15 +1121,15 @@ The numerical rank describes resemblance within this frozen exact-HLA computatio
         dossier = output_dir / "lead_dossiers" / f"{target['target_id']}.md"
         dossier.parent.mkdir(parents=True, exist_ok=True)
         dossier.write_text(text, encoding="utf-8")
-    readme = f"""# pMHC Surface Electrostatics Pilot
+    readme = f"""# pMHC Surface Electrostatics Analysis
 
-This additive package evaluates two frozen BALF5--TALDO1 leads against their previously frozen 25-pair, exact-HLA N3 panels. It uses PDB2PQR 3.7.1 with PROPKA at pH 7.4 and PARSE parameters, followed by APBS 3.4.1 linearized Poisson--Boltzmann calculations under a shared panel grid.
+This additive package evaluates {len(target_ids)} frozen sequence-supported candidates against their previously frozen 25-pair, exact-HLA N3 panels. It uses PDB2PQR 3.7.1 with PROPKA at pH 7.4 and PARSE parameters, followed by APBS 3.4.1 linearized Poisson--Boltzmann calculations under a shared panel grid.
 
 ## Result
 
 Overall gate: `{gate_status}`.
 
-The target ranks are reported in `target_electrostatic_summary.csv`. Because the frozen V3 register-robustness flag is false for both leads, electrostatic ranks remain sensitivity evidence and the formal gate abstains. N3 pairs have unknown recognition status and were not treated as specificity negatives.
+The target ranks are reported in `target_electrostatic_summary.csv`. When the frozen V3 register-robustness flag is false, electrostatic ranks remain sensitivity evidence and the formal gate abstains. N3 pairs have unknown recognition status and were not treated as specificity negatives.
 
 ## Reproducibility
 
@@ -1068,21 +1141,23 @@ The target ranks are reported in `target_electrostatic_summary.csv`. Because the
 - No existing V1--V3 package or discovery ranking was modified.
 """
     (output_dir / "README.md").write_text(readme, encoding="utf-8")
-    by_target = {row["target_id"]: row for row in target_summaries}
-    dr13 = by_target["HY13_SEQ_02"]
-    dr15 = by_target["HY15_SEQ_02"]
+    result_lines = []
+    for row in target_summaries:
+        result_lines.append(
+            f"| {row['target_id']} | {row['allele']} | `{row['ebv_core']}` / `{row['self_core']}` | "
+            f"{row['primary_full_pmhc_rank']}/26 | {row['full_rank_eps4']}/26 / {row['full_rank_eps8']}/26 | "
+            f"{row['hla_normalized_rank_eps2']}/26 | `{row['rank_only_context']}` | `{row['final_status']}` |"
+        )
+    result_table = "\n".join(result_lines)
     results_summary = f"""# Results Summary
 
 ## Main finding
 
-The corrected common-field electrostatic analysis **does not support either BALF5--TALDO1 lead as unusually similar within its frozen exact-HLA N3 panel**.
+The corrected common-field electrostatic analysis evaluates each frozen candidate within its exact-HLA N3 panel. A primary full-pMHC rank from 1 to 3 is the locked rank-context support threshold; formal support also requires complete register QC.
 
-| HLA | Pair | Full-pMHC rank (eps-in 2) | eps-in 4 / 8 | HLA-subtracted rank | Rank-only context | Formal status |
-|---|---|---:|---:|---:|---|---|
-| DRB1*13:03 | `{dr13['ebv_core']}` / `{dr13['self_core']}` | {dr13['primary_full_pmhc_rank']}/26 | {dr13['full_rank_eps4']}/26 / {dr13['full_rank_eps8']}/26 | {dr13['hla_normalized_rank_eps2']}/26 | `{dr13['rank_only_context']}` | `{dr13['final_status']}` |
-| DRB1*15:01 | `{dr15['ebv_core']}` / `{dr15['self_core']}` | {dr15['primary_full_pmhc_rank']}/26 | {dr15['full_rank_eps4']}/26 / {dr15['full_rank_eps8']}/26 | {dr15['hla_normalized_rank_eps2']}/26 | `{dr15['rank_only_context']}` | `{dr15['final_status']}` |
-
-The unfavorable full-pMHC rank class is stable across solute dielectric values 2, 4, and 8 for both leads. DRB1*15:01 improves to rank {dr15['hla_normalized_rank_eps2']} after subtracting the modeled HLA field, but it still misses the frozen top-three support rule. DRB1*13:03 does not improve after subtraction.
+| Target | HLA | Pair | Full-pMHC rank (eps-in 2) | eps-in 4 / 8 | HLA-subtracted rank | Rank-only context | Formal status |
+|---|---|---|---:|---:|---:|---|---|
+{result_table}
 
 ## Interpretation
 
@@ -1097,9 +1172,9 @@ The unfavorable full-pMHC rank class is stable across solute dielectric values 2
 The initial target-surface point analysis was discarded after common-solvent-accessibility QC failed. The final analysis uses 25 position-matched P2/P3/P5/P7/P8 field points that pass in all 60 models per panel. The correction was geometry-only and did not use electrostatic scores.
 """
     (output_dir / "RESULTS_SUMMARY.md").write_text(results_summary, encoding="utf-8")
-    methods = """# Methods
+    methods = f"""# Methods
 
-Two frozen BALF5--TALDO1 targets were evaluated separately for HLA-DRB1*13:03 and HLA-DRB1*15:01. Each target was compared with its previously frozen 5-by-5 exact-HLA N3 panel (25 comparator pairs). N3 denotes unknown TCR recognition and is not a specificity-negative class.
+{len(target_ids)} frozen sequence-supported targets were evaluated separately within their HLA alleles. Each target was compared with its previously frozen 5-by-5 exact-HLA N3 panel (25 comparator pairs). N3 denotes unknown TCR recognition and is not a specificity-negative class.
 
 Five AlphaFold models per peptide arm were aligned to a panel reference using the first 85 C-alpha atoms of each HLA chain. PDB2PQR 3.7.1 assigned PARSE charges and radii after PROPKA titration at pH 7.4. APBS 3.4.1 solved the linearized Poisson--Boltzmann equation at 298.15 K, 0.15 M monovalent salt, solvent dielectric 78.5, solvent radius 1.4 A, and solute dielectric 2 (primary), 4, and 8 (sensitivity).
 
@@ -1110,8 +1185,8 @@ This is a descriptive modeled-pMHC comparison. It does not measure presentation,
     (output_dir / "METHODS.md").write_text(methods, encoding="utf-8")
     result = {
         "status": gate_status,
-        "target_count": 2,
-        "panel_pair_count": 52,
+        "target_count": len(target_ids),
+        "panel_pair_count": len(pairs),
         "model_combination_metric_rows": len(combination_rows),
         "weights_frozen": False,
         "discovery_unlock_allowed": False,
@@ -1123,8 +1198,14 @@ This is a descriptive modeled-pMHC comparison. It does not measure presentation,
     return result
 
 
-def run_all(output_dir: Path = DEFAULT_OUT, workers: int = 4) -> dict[str, Any]:
-    prepare(output_dir)
+def run_all(
+    output_dir: Path = DEFAULT_OUT,
+    workers: int = 4,
+    target_ids: Sequence[str] = TARGET_IDS,
+    protocol_version: str = "pmhc_surface_electrostatics_pilot_v1",
+    frozen_at: str = "2026-08-29",
+) -> dict[str, Any]:
+    prepare(output_dir, target_ids=target_ids, protocol_version=protocol_version, frozen_at=frozen_at)
     calculate(output_dir, workers=workers)
     return analyze(output_dir)
 
@@ -1132,19 +1213,33 @@ def run_all(output_dir: Path = DEFAULT_OUT, workers: int = 4) -> dict[str, Any]:
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("stage", choices=("prepare", "refreeze-patch", "calculate", "analyze", "all"))
-    parser.add_argument("--output-dir", type=Path, default=DEFAULT_OUT)
+    parser.add_argument("--target-set", choices=("pilot", "remaining-sequence"), default="pilot")
+    parser.add_argument("--output-dir", type=Path)
     parser.add_argument("--workers", type=int, default=4)
     args = parser.parse_args()
+    configuration = resolve_target_set(args.target_set)
+    output_dir = args.output_dir or configuration["output_dir"]
     if args.stage == "prepare":
-        result = prepare(args.output_dir)
+        result = prepare(
+            output_dir,
+            target_ids=configuration["target_ids"],
+            protocol_version=configuration["protocol_version"],
+            frozen_at=configuration["frozen_at"],
+        )
     elif args.stage == "refreeze-patch":
-        result = refreeze_common_field_patch(args.output_dir)
+        result = refreeze_common_field_patch(output_dir)
     elif args.stage == "calculate":
-        result = calculate(args.output_dir, workers=args.workers)
+        result = calculate(output_dir, workers=args.workers)
     elif args.stage == "analyze":
-        result = analyze(args.output_dir)
+        result = analyze(output_dir)
     else:
-        result = run_all(args.output_dir, workers=args.workers)
+        result = run_all(
+            output_dir,
+            workers=args.workers,
+            target_ids=configuration["target_ids"],
+            protocol_version=configuration["protocol_version"],
+            frozen_at=configuration["frozen_at"],
+        )
     print(json.dumps(result, indent=2, sort_keys=True))
 
 

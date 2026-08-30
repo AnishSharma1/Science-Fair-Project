@@ -1,0 +1,28 @@
+read
+    mol pqr /work/raw_calculations/protonation/HY03_SEQ_01/HY03_SEQ_01__ebv__EBV_IEDB_090bd09c6880__s1__hla_only.pqr
+end
+elec name pmhc_potential
+    mg-auto
+    dime 97 97 97
+    cglen 101.532 89.025 95.149
+    fglen 43.042935 33.931215 33.006073
+    cgcent -1.123 1.1665 -2.9325
+    fgcent 14.544613 -10.418985 24.493735
+    mol 1
+    lpbe
+    bcfl sdh
+    pdie 4
+    sdie 78.5
+    srfm smol
+    chgm spl2
+    sdens 10.0
+    srad 1.4
+    swin 0.3
+    temp 298.15
+    ion charge 1 conc 0.15 radius 2
+    ion charge -1 conc 0.15 radius 1.8
+    calcenergy no
+    calcforce no
+    write pot dx /work/raw_calculations/apbs/HY03_SEQ_01/HY03_SEQ_01__ebv__EBV_IEDB_090bd09c6880__s1/eps4/hla_only
+end
+quit

@@ -1,0 +1,28 @@
+read
+    mol pqr /work/raw_calculations/protonation/HY08_SEQ_01/HY08_SEQ_01__self__SELF_CANON_CNP_0272_0286__s0__full.pqr
+end
+elec name pmhc_potential
+    mg-auto
+    dime 97 97 97
+    cglen 83.231 93.166 111.636
+    fglen 32.588 39.464413 44.259713
+    cgcent -2.7715 2.005 -0.462
+    fgcent -0.92441268 23.982847 -25.748378
+    mol 1
+    lpbe
+    bcfl sdh
+    pdie 4
+    sdie 78.5
+    srfm smol
+    chgm spl2
+    sdens 10.0
+    srad 1.4
+    swin 0.3
+    temp 298.15
+    ion charge 1 conc 0.15 radius 2
+    ion charge -1 conc 0.15 radius 1.8
+    calcenergy no
+    calcforce no
+    write pot dx /work/raw_calculations/apbs/HY08_SEQ_01/HY08_SEQ_01__self__SELF_CANON_CNP_0272_0286__s0/eps4/full
+end
+quit

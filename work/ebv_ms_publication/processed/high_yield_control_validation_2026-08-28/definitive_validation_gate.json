@@ -1,0 +1,12 @@
+{
+  "claim_boundary": "N3 panels provide descriptive, HLA-specific computational ranking context only; they are not evidence of presentation, TCR recognition, activation, specificity, cross-reactivity, molecular mimicry, MS mechanism, probability, or false-discovery rate.",
+  "current_independent_v3_validation_system_count": 0,
+  "discovery_unlock_allowed": false,
+  "existing_three_system_role": "development_controls_only",
+  "new_strict_system_count": 0,
+  "required_hla_family_count": 2,
+  "required_independent_system_count": 6,
+  "status": "not_evaluable_insufficient_untouched_strict_systems",
+  "target_independent_system_count": 8,
+  "weights_frozen": false
+}

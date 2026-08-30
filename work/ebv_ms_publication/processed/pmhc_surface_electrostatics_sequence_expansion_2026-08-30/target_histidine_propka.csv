@@ -1,0 +1,11 @@
+panel_id,allele,model_key,sample_index,sequence_position_1_based,core_position,candidate_exposed_position,predicted_pka,protonated_at_pH_7_4_by_pka_rule
+HY08_SEQ_01,HLA-DRB1*08:01,HY08_SEQ_01__ebv__EBV_IEDB_ce143ad82ead__s0,0,12,9,False,2.4,False
+HY08_SEQ_01,HLA-DRB1*08:01,HY08_SEQ_01__ebv__EBV_IEDB_ce143ad82ead__s1,1,12,9,False,2.51,False
+HY08_SEQ_01,HLA-DRB1*08:01,HY08_SEQ_01__ebv__EBV_IEDB_ce143ad82ead__s2,2,12,9,False,2.53,False
+HY08_SEQ_01,HLA-DRB1*08:01,HY08_SEQ_01__ebv__EBV_IEDB_ce143ad82ead__s3,3,12,9,False,2.45,False
+HY08_SEQ_01,HLA-DRB1*08:01,HY08_SEQ_01__ebv__EBV_IEDB_ce143ad82ead__s4,4,12,9,False,2.4,False
+HY13_SEQ_01,HLA-DRB1*13:03,HY13_SEQ_01__ebv__EBV_IEDB_2fbac9820d7d__s0,0,11,8,True,5.93,False
+HY13_SEQ_01,HLA-DRB1*13:03,HY13_SEQ_01__ebv__EBV_IEDB_2fbac9820d7d__s1,1,11,8,True,2.94,False
+HY13_SEQ_01,HLA-DRB1*13:03,HY13_SEQ_01__ebv__EBV_IEDB_2fbac9820d7d__s2,2,11,8,True,4.54,False
+HY13_SEQ_01,HLA-DRB1*13:03,HY13_SEQ_01__ebv__EBV_IEDB_2fbac9820d7d__s3,3,11,8,True,5.92,False
+HY13_SEQ_01,HLA-DRB1*13:03,HY13_SEQ_01__ebv__EBV_IEDB_2fbac9820d7d__s4,4,11,8,True,11.83,True

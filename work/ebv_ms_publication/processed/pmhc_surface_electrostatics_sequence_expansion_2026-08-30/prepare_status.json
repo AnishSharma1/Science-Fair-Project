@@ -1,0 +1,11 @@
+{
+  "arm_count": 72,
+  "calculation_complete": false,
+  "claim_boundary": "Descriptive, model-derived HLA-specific pMHC local-field resemblance only; not evidence of presentation, TCR recognition, activation, specificity, cross-reactivity, molecular mimicry, MS mechanism, probability, or false-discovery rate.",
+  "geometry_selection_order": "comparators_frozen_upstream_before_this_geometry_stage",
+  "model_count": 360,
+  "pair_count": 156,
+  "panel_count": 6,
+  "status": "prepared",
+  "target_count": 6
+}

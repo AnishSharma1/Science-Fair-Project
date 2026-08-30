@@ -1,0 +1,50 @@
+{
+  "all_models_all_points_accessible": true,
+  "geometry_only_no_electrostatic_scores_used": true,
+  "model_qc_row_count": 360,
+  "panel_status": {
+    "HY03_SEQ_01": {
+      "all_models_all_points_accessible": true,
+      "height_max_A": 11.5,
+      "height_median_A": 8.75,
+      "height_min_A": 6.75,
+      "point_count": 25
+    },
+    "HY03_SEQ_02": {
+      "all_models_all_points_accessible": true,
+      "height_max_A": 11.0,
+      "height_median_A": 9.5,
+      "height_min_A": 6.25,
+      "point_count": 25
+    },
+    "HY08_SEQ_01": {
+      "all_models_all_points_accessible": true,
+      "height_max_A": 16.25,
+      "height_median_A": 9.75,
+      "height_min_A": 7.75,
+      "point_count": 25
+    },
+    "HY08_SEQ_02": {
+      "all_models_all_points_accessible": true,
+      "height_max_A": 12.5,
+      "height_median_A": 9.0,
+      "height_min_A": 6.75,
+      "point_count": 25
+    },
+    "HY13_SEQ_01": {
+      "all_models_all_points_accessible": true,
+      "height_max_A": 9.5,
+      "height_median_A": 8.5,
+      "height_min_A": 6.0,
+      "point_count": 25
+    },
+    "HY15_SEQ_01": {
+      "all_models_all_points_accessible": true,
+      "height_max_A": 13.25,
+      "height_median_A": 9.5,
+      "height_min_A": 7.25,
+      "point_count": 25
+    }
+  },
+  "status": "complete"
+}
