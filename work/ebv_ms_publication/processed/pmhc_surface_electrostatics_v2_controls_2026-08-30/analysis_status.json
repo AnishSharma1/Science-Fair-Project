@@ -1,0 +1,9 @@
+{
+  "candidate_evaluation_allowed": false,
+  "candidate_or_discovery_files_read": false,
+  "claim_boundary": "Development-control pMHC surface resemblance only; not evidence of presentation, TCR recognition, activation, specificity, cross-reactivity, molecular mimicry, MS mechanism, probability, or false-discovery rate.",
+  "control_gate_status": "fail",
+  "discovery_unlock_allowed": false,
+  "status": "complete",
+  "weights_frozen": false
+}

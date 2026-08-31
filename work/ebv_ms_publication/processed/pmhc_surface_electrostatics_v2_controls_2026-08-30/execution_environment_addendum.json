@@ -1,0 +1,9 @@
+{
+  "actual_apbs_version": "3.4.1",
+  "apbs_executable": "/Users/anishsharma/.cache/ebv_ms_tools/apbs-3.4.1-osx-arm64/bin/apbs",
+  "apbs_executable_sha256": "ead283af6713f761d7e49b6fa8b633c278cf47dcf9b5b4cc29a054fa6fb172cb",
+  "container_digest": null,
+  "execution_backend": "native_osx_arm64_conda_forge",
+  "physical_protocol_changed": false,
+  "reason": "Docker Desktop VM storage attachment failure"
+}

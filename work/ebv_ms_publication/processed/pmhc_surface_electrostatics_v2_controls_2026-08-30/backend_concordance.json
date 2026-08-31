@@ -1,0 +1,12 @@
+{
+  "all_array_keys_identical": true,
+  "docker_backend": "APBS 3.4.1 linux-amd64 container",
+  "docker_vector_sha256": "57e1a9aa95bc03babe9280c959114f912ba88e6236dc8a8305e1fa4d3ad00176",
+  "maximum_absolute_float_difference": 0.0,
+  "model_key": "pdb|HY2E11_BALF5",
+  "native_backend": "APBS 3.4.1 conda-forge osx-arm64 build py311hd26536d_1",
+  "native_vector_sha256": "57e1a9aa95bc03babe9280c959114f912ba88e6236dc8a8305e1fa4d3ad00176",
+  "scoring_use": "backend validation only; does not enter ranks or gate",
+  "status": "pass_bitwise_identical_sampled_vectors",
+  "variant": "npbe_eps4_grid0.50"
+}

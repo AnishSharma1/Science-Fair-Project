@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1890" height="760" viewBox="0 0 1890 760">
+<rect width="100%" height="100%" fill="white"/>
+<text x="90" y="34" font-family="Arial, sans-serif" font-size="22" font-weight="bold">Control-first surface electrostatics V2: primary ranks</text>
+<line x1="90" y1="430" x2="1860" y2="430" stroke="#222"/>
+<line x1="90" y1="70" x2="90" y2="430" stroke="#222"/>
+<line x1="85" y1="430.00" x2="1860" y2="430.00" stroke="#dddddd"/>
+<text x="78" y="435.00" text-anchor="end" font-family="Arial, sans-serif" font-size="13">0</text>
+<line x1="85" y1="388.46" x2="1860" y2="388.46" stroke="#dddddd"/>
+<text x="78" y="393.46" text-anchor="end" font-family="Arial, sans-serif" font-size="13">3</text>
+<line x1="85" y1="291.54" x2="1860" y2="291.54" stroke="#dddddd"/>
+<text x="78" y="296.54" text-anchor="end" font-family="Arial, sans-serif" font-size="13">10</text>
+<line x1="85" y1="153.08" x2="1860" y2="153.08" stroke="#dddddd"/>
+<text x="78" y="158.08" text-anchor="end" font-family="Arial, sans-serif" font-size="13">20</text>
+<line x1="85" y1="70.00" x2="1860" y2="70.00" stroke="#dddddd"/>
+<text x="78" y="75.00" text-anchor="end" font-family="Arial, sans-serif" font-size="13">26</text>
+<line x1="90" y1="388.46" x2="1860" y2="388.46" stroke="#111" stroke-width="2" stroke-dasharray="7 5"/>
+<rect x="112.89" y="263.85" width="52" height="166.15" fill="#b43c32"/>
+<text x="138.89" y="256.85" text-anchor="middle" font-family="Arial, sans-serif" font-size="13">12</text>
+<text transform="translate(138.89,445) rotate(60)" text-anchor="start" font-family="Arial, sans-serif" font-size="11">af_271828 | HY1B11_UL15_MBP | peptide</text>
+<rect x="210.67" y="291.54" width="52" height="138.46" fill="#b43c32"/>
+<text x="236.67" y="284.54" text-anchor="middle" font-family="Arial, sans-serif" font-size="13">10</text>
+<text transform="translate(236.67,445) rotate(60)" text-anchor="start" font-family="Arial, sans-serif" font-size="11">af_271828 | HY1B11_UL15_MBP | composite</text>
+<rect x="308.44" y="291.54" width="52" height="138.46" fill="#b43c32"/>
+<text x="334.44" y="284.54" text-anchor="middle" font-family="Arial, sans-serif" font-size="13">10</text>
+<text transform="translate(334.44,445) rotate(60)" text-anchor="start" font-family="Arial, sans-serif" font-size="11">af_271828 | HY1B11_UL15_MBP | shape</text>
+<rect x="406.22" y="388.46" width="52" height="41.54" fill="#2f7d4a"/>
+<text x="432.22" y="381.46" text-anchor="middle" font-family="Arial, sans-serif" font-size="13">3</text>
+<text transform="translate(432.22,445) rotate(60)" text-anchor="start" font-family="Arial, sans-serif" font-size="11">af_314159 | HY1B11_UL15_MBP | peptide</text>
+<rect x="504.00" y="402.31" width="52" height="27.69" fill="#2f7d4a"/>
+<text x="530.00" y="395.31" text-anchor="middle" font-family="Arial, sans-serif" font-size="13">2</text>
+<text transform="translate(530.00,445) rotate(60)" text-anchor="start" font-family="Arial, sans-serif" font-size="11">af_314159 | HY1B11_UL15_MBP | composite</text>
+<rect x="601.78" y="346.92" width="52" height="83.08" fill="#b43c32"/>
+<text x="627.78" y="339.92" text-anchor="middle" font-family="Arial, sans-serif" font-size="13">6</text>
+<text transform="translate(627.78,445) rotate(60)" text-anchor="start" font-family="Arial, sans-serif" font-size="11">af_314159 | HY1B11_UL15_MBP | shape</text>
+<rect x="699.56" y="180.77" width="52" height="249.23" fill="#b43c32"/>
+<text x="725.56" y="173.77" text-anchor="middle" font-family="Arial, sans-serif" font-size="13">18</text>
+<text transform="translate(725.56,445) rotate(60)" text-anchor="start" font-family="Arial, sans-serif" font-size="11">af_314159 | HY2E11_BALF5_MBP | peptide</text>
+<rect x="797.33" y="346.92" width="52" height="83.08" fill="#b43c32"/>
+<text x="823.33" y="339.92" text-anchor="middle" font-family="Arial, sans-serif" font-size="13">6</text>
+<text transform="translate(823.33,445) rotate(60)" text-anchor="start" font-family="Arial, sans-serif" font-size="11">af_314159 | HY2E11_BALF5_MBP | composite</text>
+<rect x="895.11" y="416.15" width="52" height="13.85" fill="#2f7d4a"/>
+<text x="921.11" y="409.15" text-anchor="middle" font-family="Arial, sans-serif" font-size="13">1</text>
+<text transform="translate(921.11,445) rotate(60)" text-anchor="start" font-family="Arial, sans-serif" font-size="11">af_314159 | HY2E11_BALF5_MBP | shape</text>
+<rect x="992.89" y="416.15" width="52" height="13.85" fill="#2f7d4a"/>
+<text x="1018.89" y="409.15" text-anchor="middle" font-family="Arial, sans-serif" font-size="13">1</text>
+<text transform="translate(1018.89,445) rotate(60)" text-anchor="start" font-family="Arial, sans-serif" font-size="11">af_314159 | OB1A12_ENGA_MBP | peptide</text>
+<rect x="1090.67" y="416.15" width="52" height="13.85" fill="#2f7d4a"/>
+<text x="1116.67" y="409.15" text-anchor="middle" font-family="Arial, sans-serif" font-size="13">1</text>
+<text transform="translate(1116.67,445) rotate(60)" text-anchor="start" font-family="Arial, sans-serif" font-size="11">af_314159 | OB1A12_ENGA_MBP | composite</text>
+<rect x="1188.44" y="291.54" width="52" height="138.46" fill="#b43c32"/>
+<text x="1214.44" y="284.54" text-anchor="middle" font-family="Arial, sans-serif" font-size="13">10</text>
+<text transform="translate(1214.44,445) rotate(60)" text-anchor="start" font-family="Arial, sans-serif" font-size="11">af_314159 | OB1A12_ENGA_MBP | shape</text>
+<rect x="1286.22" y="360.77" width="52" height="69.23" fill="#b43c32"/>
+<text x="1312.22" y="353.77" text-anchor="middle" font-family="Arial, sans-serif" font-size="13">5</text>
+<text transform="translate(1312.22,445) rotate(60)" text-anchor="start" font-family="Arial, sans-serif" font-size="11">pdb | HY2E11_BALF5_MBP | peptide</text>
+<rect x="1384.00" y="346.92" width="52" height="83.08" fill="#b43c32"/>
+<text x="1410.00" y="339.92" text-anchor="middle" font-family="Arial, sans-serif" font-size="13">6</text>
+<text transform="translate(1410.00,445) rotate(60)" text-anchor="start" font-family="Arial, sans-serif" font-size="11">pdb | HY2E11_BALF5_MBP | composite</text>
+<rect x="1481.78" y="374.62" width="52" height="55.38" fill="#b43c32"/>
+<text x="1507.78" y="367.62" text-anchor="middle" font-family="Arial, sans-serif" font-size="13">4</text>
+<text transform="translate(1507.78,445) rotate(60)" text-anchor="start" font-family="Arial, sans-serif" font-size="11">pdb | HY2E11_BALF5_MBP | shape</text>
+<rect x="1579.56" y="346.92" width="52" height="83.08" fill="#b43c32"/>
+<text x="1605.56" y="339.92" text-anchor="middle" font-family="Arial, sans-serif" font-size="13">6</text>
+<text transform="translate(1605.56,445) rotate(60)" text-anchor="start" font-family="Arial, sans-serif" font-size="11">pdb | OB1A12_ENGA_MBP | peptide</text>
+<rect x="1677.33" y="346.92" width="52" height="83.08" fill="#b43c32"/>
+<text x="1703.33" y="339.92" text-anchor="middle" font-family="Arial, sans-serif" font-size="13">6</text>
+<text transform="translate(1703.33,445) rotate(60)" text-anchor="start" font-family="Arial, sans-serif" font-size="11">pdb | OB1A12_ENGA_MBP | composite</text>
+<rect x="1775.11" y="360.77" width="52" height="69.23" fill="#b43c32"/>
+<text x="1801.11" y="353.77" text-anchor="middle" font-family="Arial, sans-serif" font-size="13">5</text>
+<text transform="translate(1801.11,445) rotate(60)" text-anchor="start" font-family="Arial, sans-serif" font-size="11">pdb | OB1A12_ENGA_MBP | shape</text>
+<rect x="90" y="700" width="16" height="16" fill="#2f7d4a"/><text x="114" y="713" font-family="Arial, sans-serif" font-size="13">raw rank within top 3</text>
+<rect x="310" y="700" width="16" height="16" fill="#b43c32"/><text x="334" y="713" font-family="Arial, sans-serif" font-size="13">raw rank above 3</text>
+<text x="90" y="742" font-family="Arial, sans-serif" font-size="12">Gate results also require complete panels, sensitivity robustness, and AlphaFold resampling stability.</text>
+</svg>

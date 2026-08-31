@@ -1,0 +1,111 @@
+{
+  "alignment": "sequence-equivalent HLA N/CA/C/O atoms within 12 A of reference P1-P9 core",
+  "alphafold_seeds": [
+    271828,
+    314159
+  ],
+  "alphafold_source_model_count": 360,
+  "candidate_evaluation_runs_in_this_package": false,
+  "candidate_files_permitted": false,
+  "canonical_frame": "P1-to-P9 longitudinal; groove-to-peptide outward; beta-ward transverse",
+  "claim_boundary": "Development-control pMHC surface resemblance only; not evidence of presentation, TCR recognition, activation, specificity, cross-reactivity, molecular mimicry, MS mechanism, probability, or false-discovery rate.",
+  "control_systems": [
+    "Hy.2E11",
+    "Ob.1A12",
+    "Hy.1B11"
+  ],
+  "electrostatic_metric": "Hodgkin similarity; higher is better",
+  "ensemble_rule": "lower of median left-arm marginal medians and median right-arm marginal medians",
+  "experimental_pdb_count": 10,
+  "frozen_at": "2026-08-30",
+  "gate": "all required PDB-evaluable and both-seed AF peptide/composite/shape ranks top3 across sensitivities",
+  "helix_pair_region_rule": "intersection of non-peptide-labelled coordinates in the two maps",
+  "input_snapshot_sha256": "8f3d64463fa625f4c90b126534d149216e41f09b49b0691e128522bb1096eebe",
+  "lateral_extent": {
+    "longitudinal": "P1-4A through P9+4A",
+    "transverse_A": [
+      -14.0,
+      14.0
+    ]
+  },
+  "map_density_spacing_A": {
+    "coarse": 0.5,
+    "fine": 0.2
+  },
+  "minimum_composite_points": 500,
+  "minimum_pairwise_coverage": 0.9,
+  "minimum_peptide_points": 100,
+  "peptide_pair_region_rule": "union of peptide-labelled coordinates in the two compared maps",
+  "physical_variants": [
+    {
+      "fixed_charge": false,
+      "linear_pb": false,
+      "maximum_grid_spacing_A": 0.5,
+      "solute_dielectric": 4.0,
+      "variant": "npbe_eps4_grid0.50"
+    },
+    {
+      "fixed_charge": false,
+      "linear_pb": false,
+      "maximum_grid_spacing_A": 0.5,
+      "solute_dielectric": 2.0,
+      "variant": "npbe_eps2_grid0.50"
+    },
+    {
+      "fixed_charge": false,
+      "linear_pb": false,
+      "maximum_grid_spacing_A": 0.5,
+      "solute_dielectric": 8.0,
+      "variant": "npbe_eps8_grid0.50"
+    },
+    {
+      "fixed_charge": false,
+      "linear_pb": true,
+      "maximum_grid_spacing_A": 0.5,
+      "solute_dielectric": 4.0,
+      "variant": "lpbe_eps4_grid0.50"
+    },
+    {
+      "fixed_charge": false,
+      "linear_pb": false,
+      "maximum_grid_spacing_A": 0.35,
+      "solute_dielectric": 4.0,
+      "variant": "npbe_eps4_grid0.35"
+    },
+    {
+      "fixed_charge": true,
+      "linear_pb": false,
+      "maximum_grid_spacing_A": 0.5,
+      "solute_dielectric": 4.0,
+      "variant": "npbe_eps4_grid0.50_fixed_charge"
+    }
+  ],
+  "positive_experimental_pdb_count": 7,
+  "primary_map_density": "fine",
+  "primary_surface_offset_A": 0.5,
+  "primary_variant": "npbe_eps4_grid0.50",
+  "protocol_version": "pmhc_surface_electrostatics_v2_controls",
+  "region_rule": "nearest heavy atom; peptide, hla_alpha, or hla_beta",
+  "required_positive_pairs": [
+    "PAIR_HY2E11_BALF5_MBP",
+    "PAIR_OB1A12_ENGA_MBP",
+    "PAIR_HY1B11_UL15_MBP",
+    "PAIR_HY1B11_PMM_MBP"
+  ],
+  "resampling": {
+    "draws": 1000,
+    "seed": 271828,
+    "threshold_top3_fraction": 0.8
+  },
+  "shape_metrics": [
+    "surface_height_RMSE_A",
+    "surface_normal_mean_dot"
+  ],
+  "surface_crossing": "last APBS smol 0.5 crossing along canonical outward axis",
+  "surface_offsets_A": [
+    0.0,
+    0.5,
+    1.0
+  ],
+  "weighted_composite_created": false
+}

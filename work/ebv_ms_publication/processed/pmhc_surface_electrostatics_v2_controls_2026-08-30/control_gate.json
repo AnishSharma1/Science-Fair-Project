@@ -1,0 +1,277 @@
+{
+  "benchmark_version": "PMHC_SURFACE_ELECTROSTATICS_V2_CONTROLS",
+  "candidate_evaluation_allowed": false,
+  "candidate_files_read": false,
+  "claim_boundary": "Development-control pMHC surface resemblance only; not evidence of presentation, TCR recognition, activation, specificity, cross-reactivity, molecular mimicry, MS mechanism, probability, or false-discovery rate.",
+  "discovery_unlock_allowed": false,
+  "electrostatics_retired_from_candidate_ranking": true,
+  "failed_result_count": 15,
+  "failures": [
+    {
+      "endpoint": "peptide",
+      "failure_reason": "rank_above_3",
+      "layer": "af_271828",
+      "pair_id": "PAIR_HY1B11_UL15_MBP",
+      "rank": 12,
+      "resampling_top3_fraction": 0.0,
+      "sensitivity_top3": false,
+      "status": "complete"
+    },
+    {
+      "endpoint": "composite",
+      "failure_reason": "rank_above_3",
+      "layer": "af_271828",
+      "pair_id": "PAIR_HY1B11_UL15_MBP",
+      "rank": 10,
+      "resampling_top3_fraction": 0.0,
+      "sensitivity_top3": false,
+      "status": "complete"
+    },
+    {
+      "endpoint": "shape",
+      "failure_reason": "rank_above_3",
+      "layer": "af_271828",
+      "pair_id": "PAIR_HY1B11_UL15_MBP",
+      "rank": 10,
+      "resampling_top3_fraction": 0.0,
+      "sensitivity_top3": false,
+      "status": "complete"
+    },
+    {
+      "endpoint": "peptide",
+      "failure_reason": "sensitivity_rank_class_not_robust",
+      "layer": "af_314159",
+      "pair_id": "PAIR_HY1B11_UL15_MBP",
+      "rank": 3,
+      "resampling_top3_fraction": 0.869,
+      "sensitivity_top3": false,
+      "status": "complete"
+    },
+    {
+      "endpoint": "composite",
+      "failure_reason": "sensitivity_rank_class_not_robust",
+      "layer": "af_314159",
+      "pair_id": "PAIR_HY1B11_UL15_MBP",
+      "rank": 2,
+      "resampling_top3_fraction": 0.922,
+      "sensitivity_top3": false,
+      "status": "complete"
+    },
+    {
+      "endpoint": "shape",
+      "failure_reason": "rank_above_3",
+      "layer": "af_314159",
+      "pair_id": "PAIR_HY1B11_UL15_MBP",
+      "rank": 6,
+      "resampling_top3_fraction": 0.0,
+      "sensitivity_top3": false,
+      "status": "complete"
+    },
+    {
+      "endpoint": "peptide",
+      "failure_reason": "rank_above_3",
+      "layer": "af_314159",
+      "pair_id": "PAIR_HY2E11_BALF5_MBP",
+      "rank": 18,
+      "resampling_top3_fraction": 0.0,
+      "sensitivity_top3": false,
+      "status": "complete"
+    },
+    {
+      "endpoint": "composite",
+      "failure_reason": "rank_above_3",
+      "layer": "af_314159",
+      "pair_id": "PAIR_HY2E11_BALF5_MBP",
+      "rank": 6,
+      "resampling_top3_fraction": 0.028,
+      "sensitivity_top3": false,
+      "status": "complete"
+    },
+    {
+      "endpoint": "shape",
+      "failure_reason": "rank_above_3",
+      "layer": "af_314159",
+      "pair_id": "PAIR_OB1A12_ENGA_MBP",
+      "rank": 10,
+      "resampling_top3_fraction": 0.186,
+      "sensitivity_top3": false,
+      "status": "complete"
+    },
+    {
+      "endpoint": "peptide",
+      "failure_reason": "rank_above_3",
+      "layer": "pdb",
+      "pair_id": "PAIR_HY2E11_BALF5_MBP",
+      "rank": 5,
+      "resampling_top3_fraction": 1.0,
+      "sensitivity_top3": false,
+      "status": "complete"
+    },
+    {
+      "endpoint": "composite",
+      "failure_reason": "rank_above_3",
+      "layer": "pdb",
+      "pair_id": "PAIR_HY2E11_BALF5_MBP",
+      "rank": 6,
+      "resampling_top3_fraction": 1.0,
+      "sensitivity_top3": false,
+      "status": "complete"
+    },
+    {
+      "endpoint": "shape",
+      "failure_reason": "rank_above_3",
+      "layer": "pdb",
+      "pair_id": "PAIR_HY2E11_BALF5_MBP",
+      "rank": 4,
+      "resampling_top3_fraction": 1.0,
+      "sensitivity_top3": false,
+      "status": "complete"
+    },
+    {
+      "endpoint": "peptide",
+      "failure_reason": "rank_above_3",
+      "layer": "pdb",
+      "pair_id": "PAIR_OB1A12_ENGA_MBP",
+      "rank": 6,
+      "resampling_top3_fraction": 1.0,
+      "sensitivity_top3": false,
+      "status": "complete"
+    },
+    {
+      "endpoint": "composite",
+      "failure_reason": "rank_above_3",
+      "layer": "pdb",
+      "pair_id": "PAIR_OB1A12_ENGA_MBP",
+      "rank": 6,
+      "resampling_top3_fraction": 1.0,
+      "sensitivity_top3": false,
+      "status": "complete"
+    },
+    {
+      "endpoint": "shape",
+      "failure_reason": "rank_above_3",
+      "layer": "pdb",
+      "pair_id": "PAIR_OB1A12_ENGA_MBP",
+      "rank": 5,
+      "resampling_top3_fraction": 1.0,
+      "sensitivity_top3": false,
+      "status": "complete"
+    }
+  ],
+  "hy1b11_pdb_oracle_status": "not_evaluable_availability",
+  "missing": [
+    {
+      "endpoint": "peptide",
+      "layer": "af_271828",
+      "pair_id": "PAIR_HY1B11_PMM_MBP",
+      "rank": null,
+      "resampling_top3_fraction": 0.0,
+      "sensitivity_top3": false,
+      "status": "missing"
+    },
+    {
+      "endpoint": "composite",
+      "layer": "af_271828",
+      "pair_id": "PAIR_HY1B11_PMM_MBP",
+      "rank": null,
+      "resampling_top3_fraction": 0.0,
+      "sensitivity_top3": false,
+      "status": "missing"
+    },
+    {
+      "endpoint": "shape",
+      "layer": "af_271828",
+      "pair_id": "PAIR_HY1B11_PMM_MBP",
+      "rank": null,
+      "resampling_top3_fraction": 0.0,
+      "sensitivity_top3": false,
+      "status": "missing"
+    },
+    {
+      "endpoint": "peptide",
+      "layer": "af_314159",
+      "pair_id": "PAIR_HY1B11_PMM_MBP",
+      "rank": null,
+      "resampling_top3_fraction": 0.0,
+      "sensitivity_top3": false,
+      "status": "missing"
+    },
+    {
+      "endpoint": "composite",
+      "layer": "af_314159",
+      "pair_id": "PAIR_HY1B11_PMM_MBP",
+      "rank": null,
+      "resampling_top3_fraction": 0.0,
+      "sensitivity_top3": false,
+      "status": "missing"
+    },
+    {
+      "endpoint": "shape",
+      "layer": "af_314159",
+      "pair_id": "PAIR_HY1B11_PMM_MBP",
+      "rank": null,
+      "resampling_top3_fraction": 0.0,
+      "sensitivity_top3": false,
+      "status": "missing"
+    },
+    {
+      "endpoint": "peptide",
+      "layer": "af_271828",
+      "pair_id": "PAIR_HY2E11_BALF5_MBP",
+      "rank": null,
+      "resampling_top3_fraction": 0.0,
+      "sensitivity_top3": false,
+      "status": "missing"
+    },
+    {
+      "endpoint": "composite",
+      "layer": "af_271828",
+      "pair_id": "PAIR_HY2E11_BALF5_MBP",
+      "rank": null,
+      "resampling_top3_fraction": 0.0,
+      "sensitivity_top3": false,
+      "status": "missing"
+    },
+    {
+      "endpoint": "shape",
+      "layer": "af_271828",
+      "pair_id": "PAIR_HY2E11_BALF5_MBP",
+      "rank": null,
+      "resampling_top3_fraction": 0.0,
+      "sensitivity_top3": false,
+      "status": "missing"
+    },
+    {
+      "endpoint": "peptide",
+      "layer": "af_271828",
+      "pair_id": "PAIR_OB1A12_ENGA_MBP",
+      "rank": null,
+      "resampling_top3_fraction": 0.0,
+      "sensitivity_top3": false,
+      "status": "missing"
+    },
+    {
+      "endpoint": "composite",
+      "layer": "af_271828",
+      "pair_id": "PAIR_OB1A12_ENGA_MBP",
+      "rank": null,
+      "resampling_top3_fraction": 0.0,
+      "sensitivity_top3": false,
+      "status": "missing"
+    },
+    {
+      "endpoint": "shape",
+      "layer": "af_271828",
+      "pair_id": "PAIR_OB1A12_ENGA_MBP",
+      "rank": null,
+      "resampling_top3_fraction": 0.0,
+      "sensitivity_top3": false,
+      "status": "missing"
+    }
+  ],
+  "missing_result_count": 12,
+  "required_result_count": 30,
+  "specificity_claim_allowed": false,
+  "status": "fail",
+  "weights_frozen": false
+}

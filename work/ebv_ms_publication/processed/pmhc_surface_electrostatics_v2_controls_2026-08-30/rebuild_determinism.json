@@ -1,0 +1,12 @@
+{
+  "all_files_identical": true,
+  "checked_file_count": 12982,
+  "checksum_inventory_sha256_first": "12d6032aac6bfb8bffd3cc3a7aa7aadec5b721219731da37b0579a502de29cfb",
+  "checksum_inventory_sha256_second": "12d6032aac6bfb8bffd3cc3a7aa7aadec5b721219731da37b0579a502de29cfb",
+  "excluded_transient_extension": ".dx",
+  "figure_rebuild_identical": true,
+  "figure_sha256_first": "a7e1f81e5ba30de1acab0e217e8eb1544590e292058205513f9cb67ef9065f1e",
+  "figure_sha256_second": "a7e1f81e5ba30de1acab0e217e8eb1544590e292058205513f9cb67ef9065f1e",
+  "method": "two complete analyze-stage rebuilds from the same cached control-only inputs; full SHA256SUMS.csv inventories compared byte-for-byte",
+  "status": "pass"
+}

@@ -1,0 +1,6 @@
+{
+  "claim_boundary": "Development-control pMHC surface resemblance only; not evidence of presentation, TCR recognition, activation, specificity, cross-reactivity, molecular mimicry, MS mechanism, probability, or false-discovery rate.",
+  "n3_counted_as_specificity_negative": false,
+  "specificity_claim_allowed": false,
+  "status": "not_evaluable_no_verified_n1_n2_negatives"
+}

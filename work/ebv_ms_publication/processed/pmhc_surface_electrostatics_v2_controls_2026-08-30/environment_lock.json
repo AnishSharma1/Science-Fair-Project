@@ -1,0 +1,10 @@
+{
+  "apbs": "/Users/anishsharma/.cache/ebv_ms_tools/pmhc_electrostatics/apbs-3.4.1-linux/APBS-3.4.1.Linux/bin/apbs",
+  "apbs_sha256": "6ebdacce26e31aa01cd221a534147218088de9d55ff111a1c8bbea56a60a32bd",
+  "container_digest": "ubuntu@sha256:2edbbc5dc405e9612ba3584ce95480277e3eb374407b5505fe26f17df77c7dbc",
+  "container_image": "ubuntu:22.04",
+  "numpy": "2.0.2",
+  "pdb2pqr": "/Users/anishsharma/.cache/ebv_ms_tools/pmhc_electrostatics/pdb2pqr-3.7.1-py313-venv/bin/pdb2pqr",
+  "pdb2pqr_sha256": "35b2c46124f7708887a18776ce7edc563b76e4f1110984d0a04fc63fbd4ccaf8",
+  "python": "Python 3.9.6"
+}

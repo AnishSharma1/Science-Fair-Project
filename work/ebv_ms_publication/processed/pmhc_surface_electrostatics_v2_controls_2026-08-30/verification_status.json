@@ -1,0 +1,24 @@
+{
+  "assertions": {
+    "alphafold_model_count_360": true,
+    "backend_concordance_pass": true,
+    "backend_protocol_unchanged": true,
+    "calculation_complete_2220_apbs_runs": true,
+    "calculation_complete_370_models": true,
+    "candidate_paths_absent": true,
+    "control_gate_present": true,
+    "deterministic_rebuild_pass": true,
+    "experimental_structure_count_10": true,
+    "gate_invariants_valid": true,
+    "input_snapshot_unchanged": true,
+    "matrix_archive_matches_manifest": true,
+    "model_count_370": true,
+    "no_finder_suffix_duplicates": true,
+    "package_checksums_valid": true,
+    "resampling_locked": true,
+    "specificity_gate_present": true,
+    "thirty_locked_gate_requirements": true
+  },
+  "claim_boundary": "Development-control pMHC surface resemblance only; not evidence of presentation, TCR recognition, activation, specificity, cross-reactivity, molecular mimicry, MS mechanism, probability, or false-discovery rate.",
+  "status": "pass"
+}

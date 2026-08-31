@@ -1,0 +1,5 @@
+positive_pair_id,status,unique_decoy_count
+PAIR_HY2E11_BALF5_MBP,evaluable_required,7
+PAIR_OB1A12_ENGA_MBP,evaluable_required,5
+PAIR_HY1B11_UL15_MBP,not_evaluable_availability,2
+PAIR_HY1B11_PMM_MBP,not_evaluable_availability,2

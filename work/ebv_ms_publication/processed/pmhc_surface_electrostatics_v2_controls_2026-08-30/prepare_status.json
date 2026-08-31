@@ -1,0 +1,10 @@
+{
+  "alphafold_job_count": 72,
+  "alphafold_source_model_count": 360,
+  "candidate_or_discovery_inputs_read": false,
+  "claim_boundary": "Development-control pMHC surface resemblance only; not evidence of presentation, TCR recognition, activation, specificity, cross-reactivity, molecular mimicry, MS mechanism, probability, or false-discovery rate.",
+  "experimental_positive_structure_count": 7,
+  "experimental_structure_count": 10,
+  "geometry_scores_read_during_freeze": false,
+  "status": "prepared"
+}
